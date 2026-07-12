@@ -1,0 +1,658 @@
+{
+  "name": "組織の権力・組織政治・従業員参加・発言権 研究の質と限界",
+  "version": "0.1",
+  "notice": "簡易評価であり正式なRoB評価ではない。",
+  "assessments": [
+    {
+      "study_id": "emerson-1962",
+      "design": "theory article",
+      "strength": "基礎理論・測定",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "古典的理論",
+        "組織介入の効果研究ではない"
+      ]
+    },
+    {
+      "study_id": "brass-1984",
+      "design": "organizational network study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "単一組織",
+        "観察研究",
+        "非公式関係の再特定に注意"
+      ]
+    },
+    {
+      "study_id": "fiske-1993",
+      "design": "integrative review",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "レビュー",
+        "後続研究で境界条件",
+        "権力者全員への人格断定不可"
+      ]
+    },
+    {
+      "study_id": "keltner-2003",
+      "design": "theory review",
+      "strength": "基礎理論・測定",
+      "directness": "統合研究",
+      "key_limits": [
+        "理論統合",
+        "状況・個人差",
+        "権力を性格にしない"
+      ]
+    },
+    {
+      "study_id": "galinsky-2006",
+      "design": "experiments",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "短期実験",
+        "権力操作",
+        "実職場への一般化"
+      ]
+    },
+    {
+      "study_id": "magee-galinsky-2008",
+      "design": "integrative review",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "ナラティブ統合",
+        "効果量メタ分析ではない"
+      ]
+    },
+    {
+      "study_id": "guinote-2017",
+      "design": "annual review",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "実験研究を多く含む",
+        "職場制度へ直結しない"
+      ]
+    },
+    {
+      "study_id": "fast-2012",
+      "design": "experiments",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "実験中心",
+        "効果は状況依存",
+        "役職者の一律診断不可"
+      ]
+    },
+    {
+      "study_id": "gruenfeld-2008",
+      "design": "experiments",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "実験中心",
+        "対象化の測定",
+        "実職場の制度要因"
+      ]
+    },
+    {
+      "study_id": "kacmar-ferris-1991",
+      "design": "measure development",
+      "strength": "基礎理論・測定",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "自己報告",
+        "知覚と客観的操作を区別",
+        "尺度権利"
+      ]
+    },
+    {
+      "study_id": "chang-2009",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "相関研究中心",
+        "共通方法差",
+        "政治知覚と違法行為を区別"
+      ]
+    },
+    {
+      "study_id": "miller-2008",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "相関研究中心",
+        "研究間異質性",
+        "因果方向"
+      ]
+    },
+    {
+      "study_id": "ferris-2005",
+      "design": "measure development",
+      "strength": "基礎理論・測定",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "自己報告",
+        "文化差",
+        "操作・迎合の訓練へ使わない"
+      ]
+    },
+    {
+      "study_id": "munyon-2015",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "相関研究中心",
+        "自己呈示・評価者効果",
+        "環境の不公正を個人適応へ転嫁しない"
+      ]
+    },
+    {
+      "study_id": "morrison-milliken-2000",
+      "design": "conceptual review",
+      "strength": "基礎理論・測定",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "概念論",
+        "実証効果量ではない"
+      ]
+    },
+    {
+      "study_id": "pinder-harlos-2001",
+      "design": "conceptual review",
+      "strength": "基礎理論・測定",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "概念章",
+        "測定・介入研究は別途"
+      ]
+    },
+    {
+      "study_id": "van-dyne-2003",
+      "design": "conceptual model",
+      "strength": "基礎理論・測定",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "概念論",
+        "動機推定に注意"
+      ]
+    },
+    {
+      "study_id": "milliken-2003",
+      "design": "qualitative field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "探索的標本",
+        "自己報告・回想",
+        "業界差"
+      ]
+    },
+    {
+      "study_id": "detert-burris-2007",
+      "design": "multilevel field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "観察研究",
+        "特定企業",
+        "発言後の結果を別途確認"
+      ]
+    },
+    {
+      "study_id": "burris-2012",
+      "design": "field and experimental studies",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "文化・組織差",
+        "発言品質・スタイルと権利を区別"
+      ]
+    },
+    {
+      "study_id": "liang-2012",
+      "design": "two-wave field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "観察研究",
+        "中国標本",
+        "発言結果を別途確認"
+      ]
+    },
+    {
+      "study_id": "chamberlin-2017",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "相関研究中心",
+        "尺度・文化差",
+        "発言の権利と有用性評価を分ける"
+      ]
+    },
+    {
+      "study_id": "morrison-2014",
+      "design": "annual review",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "ナラティブレビュー",
+        "介入効果の確実性は限定"
+      ]
+    },
+    {
+      "study_id": "frazier-2017",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "相関研究中心",
+        "正式な権利・通報保護を代替しない"
+      ]
+    },
+    {
+      "study_id": "near-miceli-1995",
+      "design": "conceptual review",
+      "strength": "基礎理論・測定",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "概念統合",
+        "制度・国差"
+      ]
+    },
+    {
+      "study_id": "rehg-2008",
+      "design": "field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "米国連邦職員",
+        "自己報告",
+        "ジェンダー二分法"
+      ]
+    },
+    {
+      "study_id": "mesmer-2005",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "研究数・測定差",
+        "意図と行動を区別",
+        "国制度差"
+      ]
+    },
+    {
+      "study_id": "cotton-1988",
+      "design": "integrative review",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "古典的レビュー",
+        "制度・国差",
+        "参加を一得点にしない"
+      ]
+    },
+    {
+      "study_id": "wagner-1994",
+      "design": "meta-analytic review",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "古い研究群",
+        "因果・実装差",
+        "参加の権利価値は別"
+      ]
+    },
+    {
+      "study_id": "cawley-1998",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "相関研究中心",
+        "人事評価文脈",
+        "決定権と発言機会を区別"
+      ]
+    },
+    {
+      "study_id": "spector-1986",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "古い研究群",
+        "相関研究",
+        "実際の決定権を別途確認"
+      ]
+    },
+    {
+      "study_id": "conger-kanungo-1988",
+      "design": "conceptual review",
+      "strength": "基礎理論・測定",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "概念論",
+        "構造的権限と心理状態を分ける"
+      ]
+    },
+    {
+      "study_id": "spreitzer-1995",
+      "design": "measure validation",
+      "strength": "基礎理論・測定",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "自己報告",
+        "心理状態と正式権限を区別",
+        "尺度権利"
+      ]
+    },
+    {
+      "study_id": "seibert-2011",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "相関研究中心",
+        "構造的権限を直接測らない研究を含む"
+      ]
+    },
+    {
+      "study_id": "maynard-2012",
+      "design": "multilevel review",
+      "strength": "基礎理論・測定",
+      "directness": "統合研究",
+      "key_limits": [
+        "ナラティブ統合",
+        "介入効果量ではない"
+      ]
+    },
+    {
+      "study_id": "lam-2002",
+      "design": "cross-cultural field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "観察研究",
+        "文化概念・国差",
+        "参加権の価値と効果を分ける"
+      ]
+    },
+    {
+      "study_id": "nielsen-randall-2013",
+      "design": "intervention evaluation model",
+      "strength": "基礎理論・測定",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "方法論",
+        "特定の参加施策効果ではない"
+      ]
+    },
+    {
+      "study_id": "budd-2010",
+      "design": "conceptual introduction",
+      "strength": "基礎理論・測定",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "概念導入",
+        "実証効果量ではない"
+      ]
+    },
+    {
+      "study_id": "dundon-2004",
+      "design": "conceptual and qualitative review",
+      "strength": "基礎理論・測定",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "概念・質的整理",
+        "国・制度差"
+      ]
+    },
+    {
+      "study_id": "kim-macduffie-2010",
+      "design": "field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "製造業",
+        "観察研究",
+        "制度・国差"
+      ]
+    },
+    {
+      "study_id": "wilkinson-2014",
+      "design": "integrative conceptual review",
+      "strength": "基礎理論・測定",
+      "directness": "統合研究",
+      "key_limits": [
+        "概念レビュー",
+        "効果量統合ではない"
+      ]
+    },
+    {
+      "study_id": "lind-1990",
+      "design": "experiments",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "実験課題",
+        "実質的影響と儀礼的発言を区別"
+      ]
+    },
+    {
+      "study_id": "colquitt-2001",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "相関研究中心",
+        "法的公正を代替しない"
+      ]
+    },
+    {
+      "study_id": "anderson-2006",
+      "design": "group studies",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "小集団・実験を含む",
+        "地位を人の価値にしない"
+      ]
+    },
+    {
+      "study_id": "bunderson-2003",
+      "design": "team field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "観察研究",
+        "特定組織",
+        "専門性測定"
+      ]
+    },
+    {
+      "study_id": "bendersky-hays-2012",
+      "design": "group studies",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "実験・短期チーム",
+        "文化・制度差"
+      ]
+    },
+    {
+      "study_id": "ibarra-1993",
+      "design": "conceptual review",
+      "strength": "基礎理論・測定",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "概念論",
+        "歴史的属性分類",
+        "交差性を更新"
+      ]
+    },
+    {
+      "study_id": "sparrowe-2001",
+      "design": "network field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "観察研究",
+        "業績評価との共通方法",
+        "ネットワーク監視に使わない"
+      ]
+    },
+    {
+      "study_id": "kellogg-2020",
+      "design": "integrative review",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "レビュー",
+        "産業・技術差",
+        "効果量統合ではない"
+      ]
+    },
+    {
+      "study_id": "parent-parker-2022",
+      "design": "integrative conceptual review",
+      "strength": "基礎理論・測定",
+      "directness": "統合研究",
+      "key_limits": [
+        "概念・統合研究",
+        "長期介入効果は未確立"
+      ]
+    },
+    {
+      "study_id": "kish-gephart-2010",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "意思決定研究中心",
+        "個人選別へ使わない"
+      ]
+    },
+    {
+      "study_id": "ilo-c87",
+      "design": "international labour convention",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "批准・国内実施を確認"
+      ]
+    },
+    {
+      "study_id": "ilo-c98",
+      "design": "international labour convention",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "批准・国内実施を確認"
+      ]
+    },
+    {
+      "study_id": "ilo-c135",
+      "design": "international labour convention",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "批准・代表制度を確認"
+      ]
+    },
+    {
+      "study_id": "ilo-c154",
+      "design": "international labour convention",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "批准・国内制度を確認"
+      ]
+    },
+    {
+      "study_id": "ilo-c190",
+      "design": "international labour convention",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "批准・国内実施を確認"
+      ]
+    },
+    {
+      "study_id": "ilo-data",
+      "design": "official code of practice",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "拘束的条約ではない",
+        "国内法を確認"
+      ]
+    },
+    {
+      "study_id": "japan-constitution",
+      "design": "constitutional law",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "具体的適用は法令・判例・専門家へ確認"
+      ]
+    },
+    {
+      "study_id": "japan-labor-union",
+      "design": "Japanese statute",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "個別事案・適用要件を確認"
+      ]
+    },
+    {
+      "study_id": "japan-whistleblower",
+      "design": "Japanese statute",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "対象・要件・現行指針を確認"
+      ]
+    },
+    {
+      "study_id": "mhlw-harassment",
+      "design": "official guidance portal",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "指針改正・個別該当性を確認"
+      ]
+    },
+    {
+      "study_id": "eu-info-consult",
+      "design": "official legal instrument",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "EU法令",
+        "日本へ直接適用されない",
+        "国内実装を確認"
+      ]
+    },
+    {
+      "study_id": "eu-platform-2024",
+      "design": "official legal instrument",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "EU法令",
+        "日本へ直接適用されない",
+        "適用範囲を確認"
+      ]
+    }
+  ]
+}

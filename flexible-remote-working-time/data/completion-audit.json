@@ -1,0 +1,72 @@
+{
+  "version": "0.1",
+  "release_decision": "完成条件を満たす（次分野へ移行可）",
+  "dimensions": [
+    {
+      "id": "remote-hybrid",
+      "status": "complete",
+      "evidence": "完全在宅、ハイブリッド、地理的柔軟性、選好、再選択"
+    },
+    {
+      "id": "performance-collaboration",
+      "status": "complete",
+      "evidence": "生産性、品質、協働ネットワーク、学習、孤立"
+    },
+    {
+      "id": "health-home",
+      "status": "complete",
+      "evidence": "精神・身体健康、人間工学、住環境、費用・安全"
+    },
+    {
+      "id": "time-flexibility",
+      "status": "complete",
+      "evidence": "フレックス、圧縮、短時間、4日制、ジョブシェア"
+    },
+    {
+      "id": "predictability",
+      "status": "complete",
+      "evidence": "シフト通知、変更、呼出し、本人・組織主導の柔軟性"
+    },
+    {
+      "id": "boundaries-recovery",
+      "status": "complete",
+      "evidence": "分断・統合、勤務時間外連絡、切断、休憩・休暇、回復"
+    },
+    {
+      "id": "working-hours",
+      "status": "complete",
+      "evidence": "実労働、長時間、時間当たり生産性、健康、時間記録"
+    },
+    {
+      "id": "shift-oncall",
+      "status": "complete",
+      "evidence": "夜勤、交代制、概日リズム、オンコール、待機"
+    },
+    {
+      "id": "equity-care",
+      "status": "complete",
+      "evidence": "ケア、障害、現場職、勤務帯、キャリア罰、費用・負担移転"
+    },
+    {
+      "id": "management-collaboration",
+      "status": "complete",
+      "evidence": "会議、非同期、時差、管理職規範、情報アクセス"
+    },
+    {
+      "id": "monitoring-data",
+      "status": "complete",
+      "evidence": "監視、活動量指標、目的限定、秘密推定、異議"
+    },
+    {
+      "id": "openness",
+      "status": "complete",
+      "evidence": "主張・研究・用語・採否・質・更新を公開"
+    }
+  ],
+  "remaining_non_blocking": [
+    "日本の労働時間・テレワーク・シフト予告に関する介入研究は追加可能",
+    "4日制・週労働時間短縮の長期比較研究は発展途上",
+    "現場職・低賃金・複数就業・障害・ケアを交差的に扱う研究は更新優先",
+    "生成AI・仮想空間・高度監視下の遠隔協働研究は発展途上"
+  ]
+}

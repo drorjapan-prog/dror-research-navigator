@@ -1,0 +1,70 @@
+{
+  "name": "柔軟勤務・リモートワーク・働く時間と境界管理 迅速エビデンスマップ・プロトコル",
+  "version": "0.1",
+  "review_type": "場所・時間・予測可能性・境界・休息・健康・公平・監視を分離した迅速エビデンスマップ",
+  "research_questions": [
+    {
+      "id": "RQ1",
+      "question": "在宅・遠隔・ハイブリッド勤務は業績、協働、健康、定着へどう関係し、何が条件となるか。"
+    },
+    {
+      "id": "RQ2",
+      "question": "フレックスタイム、短時間、圧縮勤務、4日制、予測不能なシフトをどう設計・評価するか。"
+    },
+    {
+      "id": "RQ3",
+      "question": "仕事と生活の境界、勤務時間外連絡、心理的離脱、休息・回復をどう扱うか。"
+    },
+    {
+      "id": "RQ4",
+      "question": "長時間労働、夜勤・交代制、オンコール、通勤、会議負荷の健康・安全をどう扱うか。"
+    },
+    {
+      "id": "RQ5",
+      "question": "柔軟勤務の利用・非利用、職種差、ケア、障害、キャリア罰、費用移転をどう監査するか。"
+    },
+    {
+      "id": "RQ6",
+      "question": "遠隔管理、活動量指標、監視、時間・健康データ、AI推定をどう統治するか。"
+    }
+  ],
+  "query_families": [
+    "telecommuting remote work hybrid meta-analysis field experiment",
+    "work from home productivity retention collaboration network",
+    "remote worker wellbeing isolation work design review",
+    "flexitime compressed workweek flexible work performance meta-analysis",
+    "flexibility stigma career penalty work intensification",
+    "work family boundary management smartphone telepressure",
+    "psychological detachment recovery meta-analysis",
+    "long working hours productivity depression cardiovascular WHO ILO",
+    "night shift work safety sleep health review",
+    "schedule instability predictability hourly workers health",
+    "right to disconnect after hours communication",
+    "meeting load asynchronous collaboration time zones",
+    "commuting wellbeing remote work",
+    "part-time job sharing equal treatment family responsibilities",
+    "employee monitoring remote work activity metrics privacy"
+  ],
+  "inclusion": [
+    "遠隔・ハイブリッド・柔軟勤務の主要メタ分析・体系的レビュー・フィールド実験",
+    "境界管理・回復・勤務時間外連絡の主要理論・測定・実証研究",
+    "長時間・夜勤・不安定シフト・会議・通勤の主要研究",
+    "労働時間・休息・家族責任・短時間・在宅・データの公式指針・制度"
+  ],
+  "exclusion": [
+    "出社・在宅の一律優位を宣伝する資料",
+    "活動量や在席時間だけを生産性とする事例",
+    "4日制という名称だけで効果を保証する資料",
+    "自己管理だけを切断・回復策とする資料",
+    "家庭内の秘密監視・感情健康推定",
+    "法的労働時間・休息を生産性効果だけで正当化する資料"
+  ],
+  "process_limitations": [
+    "単一レビュアーによる迅速整理",
+    "代表文献と書誌メタデータによる非網羅整理",
+    "効果量の独自再計算・正式なバイアス評価は未実施",
+    "パンデミック強制在宅と平時の選択的制度を区別",
+    "職場直接研究・健康隣接研究・概念研究・公式資料を直接性ラベルで分離",
+    "法的・医療的・税務・労務の個別助言ではない"
+  ]
+}

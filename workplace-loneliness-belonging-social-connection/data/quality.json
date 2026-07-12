@@ -1,0 +1,774 @@
+{
+  "name": "職場の孤独・所属感・社会的つながり 研究の質と限界",
+  "version": "0.1",
+  "notice": "簡易評価であり正式なRoB評価ではない。",
+  "assessments": [
+    {
+      "study_id": "baumeister-1995",
+      "design": "integrative review",
+      "strength": "統合研究",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "職場専用ではない",
+        "文化差・個人差"
+      ]
+    },
+    {
+      "study_id": "cacioppo-2009",
+      "design": "integrative review",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "職場直接性なし",
+        "因果経路は複雑"
+      ]
+    },
+    {
+      "study_id": "holt-2010",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "職場に限定しない",
+        "観察研究",
+        "指標の異質性"
+      ]
+    },
+    {
+      "study_id": "holt-2015",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "職場因果ではない",
+        "残余交絡"
+      ]
+    },
+    {
+      "study_id": "valtorta-2016",
+      "design": "systematic review and meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "職場直接性なし",
+        "観察研究"
+      ]
+    },
+    {
+      "study_id": "leigh-hunt-2017",
+      "design": "overview of systematic reviews",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "レビュー品質の差",
+        "職場専用でない"
+      ]
+    },
+    {
+      "study_id": "masi-2011",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "職場介入は限定",
+        "小規模・異質性",
+        "個人治療へ還元しない"
+      ]
+    },
+    {
+      "study_id": "williams-2007",
+      "design": "annual review",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "実験研究が多い",
+        "職場直接性は一部"
+      ]
+    },
+    {
+      "study_id": "russell-1996",
+      "design": "scale validation",
+      "strength": "基礎理論・測定",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "尺度項目は再配布しない",
+        "職場固有性なし"
+      ]
+    },
+    {
+      "study_id": "gierveld-2006",
+      "design": "scale validation",
+      "strength": "基礎理論・測定",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "高齢者研究中心",
+        "職場固有性なし"
+      ]
+    },
+    {
+      "study_id": "lubben-2006",
+      "design": "scale validation",
+      "strength": "基礎理論・測定",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "高齢者用",
+        "職場ネットワークとは別"
+      ]
+    },
+    {
+      "study_id": "malone-2012",
+      "design": "scale development",
+      "strength": "基礎理論・測定",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "職場固有性なし",
+        "尺度項目は再配布しない"
+      ]
+    },
+    {
+      "study_id": "ozcelik-2018",
+      "design": "multistudy field research",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "観察研究中心",
+        "自己報告孤独",
+        "文化・職種差"
+      ]
+    },
+    {
+      "study_id": "ferris-2008",
+      "design": "scale development and field studies",
+      "strength": "基礎理論・測定",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "自己報告",
+        "意図と影響を区別",
+        "尺度項目は再配布しない"
+      ]
+    },
+    {
+      "study_id": "robinson-2013",
+      "design": "integrative review",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "意図推定の困難",
+        "文化差",
+        "概念モデル"
+      ]
+    },
+    {
+      "study_id": "bedi-2021",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "自己報告・横断研究が多い",
+        "因果確定でない"
+      ]
+    },
+    {
+      "study_id": "oreilly-2015",
+      "design": "multistudy field and experimental research",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "短期実験を含む",
+        "重大なハラスメント一般化に注意"
+      ]
+    },
+    {
+      "study_id": "balliet-2013",
+      "design": "experimental research",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "職場模擬",
+        "短期反応",
+        "被排斥者を問題化しない"
+      ]
+    },
+    {
+      "study_id": "shore-2011",
+      "design": "integrative review",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "概念モデル",
+        "多様性分野と重複"
+      ]
+    },
+    {
+      "study_id": "jena-2018",
+      "design": "scale development",
+      "strength": "基礎理論・測定",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "単一文化圏中心",
+        "尺度項目は再配布しない"
+      ]
+    },
+    {
+      "study_id": "chiaburu-2008",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "相関研究中心",
+        "同僚関係の多様性"
+      ]
+    },
+    {
+      "study_id": "viswesvaran-1999",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "古い研究群",
+        "測定・発生源の異質性"
+      ]
+    },
+    {
+      "study_id": "rhoades-2002",
+      "design": "integrative review",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "組織との交換概念",
+        "実際の支援提供と区別"
+      ]
+    },
+    {
+      "study_id": "kurtessis-2017",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "知覚尺度中心",
+        "因果方向"
+      ]
+    },
+    {
+      "study_id": "heaphy-2008",
+      "design": "conceptual review",
+      "strength": "基礎理論・測定",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "概念モデル",
+        "直接介入効果ではない"
+      ]
+    },
+    {
+      "study_id": "grant-2007",
+      "design": "conceptual review",
+      "strength": "基礎理論・測定",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "概念論",
+        "接触強制や感情労働に注意"
+      ]
+    },
+    {
+      "study_id": "owens-2016",
+      "design": "multistudy field research",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "観察研究中心",
+        "人気度との混同に注意"
+      ]
+    },
+    {
+      "study_id": "morrison-1993",
+      "design": "longitudinal field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "新人中心",
+        "自己選択・組織差"
+      ]
+    },
+    {
+      "study_id": "major-1995",
+      "design": "longitudinal field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "新人期中心",
+        "時代・産業差"
+      ]
+    },
+    {
+      "study_id": "sparrowe-2001",
+      "design": "organizational network study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "単一組織",
+        "ネットワーク位置を個人価値にしない"
+      ]
+    },
+    {
+      "study_id": "brass-1985",
+      "design": "organizational network study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "古い単一組織",
+        "二分法的性別測定"
+      ]
+    },
+    {
+      "study_id": "burt-2004",
+      "design": "organizational network study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "特定企業",
+        "橋渡し負担・権力差を別評価"
+      ]
+    },
+    {
+      "study_id": "reagans-2003",
+      "design": "organizational network study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "観察研究",
+        "効率と包摂を別評価"
+      ]
+    },
+    {
+      "study_id": "brass-2004",
+      "design": "integrative review",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "レビュー",
+        "個人中心性の規範化に注意"
+      ]
+    },
+    {
+      "study_id": "kilduff-2010",
+      "design": "integrative review",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "ネットワーク測定の境界・欠測",
+        "倫理に注意"
+      ]
+    },
+    {
+      "study_id": "cooper-2002",
+      "design": "field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "古い技術環境",
+        "選択効果",
+        "職種差"
+      ]
+    },
+    {
+      "study_id": "golden-2008",
+      "design": "field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "観察研究",
+        "パンデミック前",
+        "技術変化"
+      ]
+    },
+    {
+      "study_id": "wang-2021",
+      "design": "mixed-method field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "パンデミック・中国",
+        "自己報告",
+        "平時への一般化"
+      ]
+    },
+    {
+      "study_id": "allen-2015",
+      "design": "integrative review",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "パンデミック前中心",
+        "孤独専用レビューでない"
+      ]
+    },
+    {
+      "study_id": "bloom-2024",
+      "design": "randomized field trial",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "単一企業・職種",
+        "完全在宅ではない",
+        "孤独効果の直接検証でない"
+      ]
+    },
+    {
+      "study_id": "yang-2022",
+      "design": "organizational digital-trace study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "単一企業・パンデミック",
+        "通信量は関係の質でない",
+        "監視利用禁止"
+      ]
+    },
+    {
+      "study_id": "edmondson-1999",
+      "design": "team field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "所属感・親密さとは別概念",
+        "観察研究"
+      ]
+    },
+    {
+      "study_id": "frazier-2017",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "所属感そのものではない",
+        "研究間異質性"
+      ]
+    },
+    {
+      "study_id": "mesmer-2009",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "相関を含む",
+        "発話量だけではない"
+      ]
+    },
+    {
+      "study_id": "eby-2008",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "選択効果",
+        "非公式・公式の混在",
+        "平均効果"
+      ]
+    },
+    {
+      "study_id": "underhill-2006",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "研究数・質の制約",
+        "マッチング失敗・害を測りにくい"
+      ]
+    },
+    {
+      "study_id": "mcewan-2017",
+      "design": "systematic review and meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "所属・孤独の直接介入でない",
+        "実装差"
+      ]
+    },
+    {
+      "study_id": "feeney-2015",
+      "design": "integrative review",
+      "strength": "統合研究",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "職場直接性なし",
+        "親密関係研究中心"
+      ]
+    },
+    {
+      "study_id": "cohen-1985",
+      "design": "integrative review",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "古い研究",
+        "職場専用でない",
+        "測定適合性が重要"
+      ]
+    },
+    {
+      "study_id": "cacioppo-2006",
+      "design": "longitudinal observational study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "職場直接性なし",
+        "自己報告",
+        "診断でない"
+      ]
+    },
+    {
+      "study_id": "steptoe-2013",
+      "design": "longitudinal observational study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "高齢者・職場外",
+        "残余交絡"
+      ]
+    },
+    {
+      "study_id": "shankar-2011",
+      "design": "observational study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "職場外",
+        "観察研究"
+      ]
+    },
+    {
+      "study_id": "hawkley-2010",
+      "design": "integrative review",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "職場専用でない",
+        "因果機序は継続検証"
+      ]
+    },
+    {
+      "study_id": "cortina-2001",
+      "design": "field survey",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "自己報告",
+        "排斥との概念重複",
+        "意図不明"
+      ]
+    },
+    {
+      "study_id": "nielsen-2012",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "排斥より高強度・反復概念",
+        "因果方向"
+      ]
+    },
+    {
+      "study_id": "nembhard-2006",
+      "design": "team field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "医療チーム",
+        "観察研究"
+      ]
+    },
+    {
+      "study_id": "carmeli-2009",
+      "design": "field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "観察研究",
+        "自己報告を含む"
+      ]
+    },
+    {
+      "study_id": "graen-1995",
+      "design": "integrative review",
+      "strength": "統合研究",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "内集団・外集団固定化へ注意",
+        "古い研究"
+      ]
+    },
+    {
+      "study_id": "dulebohn-2012",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "関係差別化の公正を別評価",
+        "因果方向"
+      ]
+    },
+    {
+      "study_id": "kahn-1990",
+      "design": "qualitative field study",
+      "strength": "基礎理論・測定",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "小規模・質的",
+        "所属感とは別概念"
+      ]
+    },
+    {
+      "study_id": "sluss-2007",
+      "design": "conceptual review",
+      "strength": "基礎理論・測定",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "概念論",
+        "依存・境界侵害と区別"
+      ]
+    },
+    {
+      "study_id": "ashforth-1989",
+      "design": "conceptual review",
+      "strength": "基礎理論・測定",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "所属感・服従と同一でない",
+        "古い概念論"
+      ]
+    },
+    {
+      "study_id": "riketta-2005",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "所属感と別概念",
+        "相関研究中心"
+      ]
+    },
+    {
+      "study_id": "japan-loneliness-law",
+      "design": "Japanese statute",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "2024-04-01施行",
+        "雇用主の個別義務を直接定める法律ではない"
+      ]
+    },
+    {
+      "study_id": "cao-survey",
+      "design": "official national survey portal",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "職場専用調査でない",
+        "自己報告・横断",
+        "年度更新を確認"
+      ]
+    },
+    {
+      "study_id": "cao-portal",
+      "design": "official support portal",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "緊急時は地域の緊急窓口へ",
+        "職場制度の代替でない"
+      ]
+    },
+    {
+      "study_id": "mhlw-kokoro",
+      "design": "official support portal",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "医療診断を代替しない",
+        "緊急時は適切な窓口へ"
+      ]
+    },
+    {
+      "study_id": "who-work-2022",
+      "design": "international guideline",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "孤独専用ガイドラインではない",
+        "地域実装を確認"
+      ]
+    },
+    {
+      "study_id": "who-ilo-2022",
+      "design": "international policy brief",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "政策概説",
+        "個人治療の代替でない"
+      ]
+    },
+    {
+      "study_id": "hhs-connection-2023",
+      "design": "official advisory",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "米国文脈",
+        "職場専用でない",
+        "日本制度と混同しない"
+      ]
+    },
+    {
+      "study_id": "hhs-workplace-2022",
+      "design": "official workplace framework",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "米国の非拘束的枠組み",
+        "効果保証ではない"
+      ]
+    },
+    {
+      "study_id": "hse-standards",
+      "design": "official safety guidance",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "英国制度",
+        "日本法上の義務と混同しない"
+      ]
+    },
+    {
+      "study_id": "iso-45003",
+      "design": "international standard overview",
+      "strength": "統合研究",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "規格本文はライセンス対象",
+        "認証だけで実効性を保証しない"
+      ]
+    },
+    {
+      "study_id": "japan-appi",
+      "design": "Japanese statute",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "個別運用は現行指針・専門家確認",
+        "目的外利用を避ける"
+      ]
+    },
+    {
+      "study_id": "japan-osh-act",
+      "design": "Japanese statute",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "孤独を単独の法的診断にしない",
+        "関連指針を確認"
+      ]
+    }
+  ]
+}

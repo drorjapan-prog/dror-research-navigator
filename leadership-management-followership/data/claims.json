@@ -1,0 +1,1112 @@
+{
+  "name": "リーダーシップ・管理職行動・フォロワーシップ 主張レジスター",
+  "version": "0.1",
+  "license": "CC BY 4.0",
+  "claims": [
+    {
+      "id": "LD-C01",
+      "claim": "リーダーシップは地位者の性格だけでなく、影響、関係、仕事、フォロワー、集団、制度、文脈から生じる過程である。",
+      "label": "A",
+      "directness": "リーダーシップ直接研究",
+      "relationship": "理論・統合",
+      "sources": [
+        "avolio-2009",
+        "dinh-2014",
+        "uhlbien-2014"
+      ],
+      "limits": [
+        "研究系統ごとに定義が異なる",
+        "管理職地位と区別"
+      ],
+      "scope": [
+        "定義"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "LD-C02",
+      "claim": "管理職であることとリーダーシップを発揮することは同義ではなく、公式権限には労務・安全・資源・救済の責任が伴う。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "制度・理論からの設計原則",
+      "sources": [
+        "dinh-2014",
+        "who-2022",
+        "ilo-c190"
+      ],
+      "limits": [
+        "責任を非公式リーダーへ転嫁しない"
+      ],
+      "scope": [
+        "管理職"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "LD-C03",
+      "claim": "組織成果を一人のリーダーへ過大帰属する「リーダーシップのロマンス」があり、制度・市場・資源・チームの寄与を分けて評価する。",
+      "label": "A",
+      "directness": "リーダーシップ直接研究",
+      "relationship": "理論・実験",
+      "sources": [
+        "meindl-1985"
+      ],
+      "limits": [
+        "リーダーの実際の影響を否定しない"
+      ],
+      "scope": [
+        "帰属"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "LD-C04",
+      "claim": "有効なリーダー行動は課題、構成員、環境、時間、権限に依存し、単一の最良スタイルを全職場へ適用しない。",
+      "label": "A",
+      "directness": "リーダーシップ直接研究",
+      "relationship": "条件適合理論・統合",
+      "sources": [
+        "house-1971",
+        "avolio-2009",
+        "dinh-2014"
+      ],
+      "limits": [
+        "古典理論を処方箋として直結しない"
+      ],
+      "scope": [
+        "文脈"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "LD-C05",
+      "claim": "変革型リーダーシップと条件付き報酬は複数の態度・業績結果と関連するが、相関研究と尺度の重複が多く、因果効果を断定できない。",
+      "label": "A",
+      "directness": "リーダーシップ直接研究",
+      "relationship": "メタ分析上の関連",
+      "sources": [
+        "judge-2004",
+        "wang-2011"
+      ],
+      "limits": [
+        "共通方法",
+        "評価者バイアス",
+        "カリスマ化を避ける"
+      ],
+      "scope": [
+        "変革型・取引型"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "LD-C06",
+      "claim": "ビジョンや高い期待は、実現資源、安全限界、反対可能性、成果配分を伴わなければ、過重労働や同調圧力になり得る。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "統合からの設計原則",
+      "sources": [
+        "judge-2004",
+        "harms-2017",
+        "who-2022"
+      ],
+      "limits": [
+        "情熱を労働時間・安全の代替にしない"
+      ],
+      "scope": [
+        "ビジョン"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "LD-C07",
+      "claim": "オーセンティック・リーダーシップと変革型リーダーシップには強い概念重複があり、新しい名称だけで独自効果を主張しない。",
+      "label": "A",
+      "directness": "リーダーシップ直接研究",
+      "relationship": "メタ分析・レビュー",
+      "sources": [
+        "banks-2016",
+        "gardner-2011"
+      ],
+      "limits": [
+        "測定・研究数",
+        "概念ブランド化に注意"
+      ],
+      "scope": [
+        "真正性"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "LD-C08",
+      "claim": "「真正さ」は私生活・感情・健康・アイデンティティの開示をリーダーや構成員へ強制することではない。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "権利・概念境界",
+      "sources": [
+        "gardner-2011",
+        "ilo-data"
+      ],
+      "limits": [
+        "必要最小限の自己開示",
+        "演技を不誠実と決めつけない"
+      ],
+      "scope": [
+        "真正性・プライバシー"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "LD-C09",
+      "claim": "サーバント・リーダーシップは他者志向と共同体への責任を強調するが、管理職の自己犠牲、無償ケア、境界なき奉仕を求めない。",
+      "label": "B",
+      "directness": "リーダーシップ直接研究",
+      "relationship": "システマティックレビュー",
+      "sources": [
+        "eva-2019"
+      ],
+      "limits": [
+        "概念・尺度の乱立",
+        "介入効果の確立ではない"
+      ],
+      "scope": [
+        "サーバント"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "LD-C10",
+      "claim": "倫理的リーダーシップは望ましい態度・行動と関連するが、人格評判だけでなく、意思決定、利益相反、通報、監査、是正、配分を評価する。",
+      "label": "A",
+      "directness": "混合",
+      "relationship": "メタ分析・制度原則",
+      "sources": [
+        "brown-2005",
+        "bedi-2016",
+        "ilo-c190"
+      ],
+      "limits": [
+        "相関研究中心",
+        "倫理的自己像と実際の制度を区別"
+      ],
+      "scope": [
+        "倫理"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "LD-C11",
+      "claim": "エンパワリング・リーダーシップは複数結果と関連するが、権限・情報・能力・時間・予算なしに責任だけを移すこととは異なる。",
+      "label": "A",
+      "directness": "リーダーシップ直接研究",
+      "relationship": "メタ分析・測定",
+      "sources": [
+        "amundsen-2014",
+        "lee-2018"
+      ],
+      "limits": [
+        "職務・文化・本人希望",
+        "放任と区別"
+      ],
+      "scope": [
+        "エンパワリング"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "LD-C12",
+      "claim": "権限付与は自己効力感を高め得る一方、負担と不確実性を増やし得るため、望む裁量・支援・安全網を確認する。",
+      "label": "B",
+      "directness": "リーダーシップ直接研究",
+      "relationship": "多時点実証",
+      "sources": [
+        "cheong-2016",
+        "lee-2018"
+      ],
+      "limits": [
+        "観察研究",
+        "個人差・仕事差"
+      ],
+      "scope": [
+        "エンパワリング"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "LD-C13",
+      "claim": "放任型リーダーシップは中立とは限らず、役割ストレスや破壊的結果と関連し得る。裁量付与と責任放棄を区別する。",
+      "label": "A",
+      "directness": "リーダーシップ直接研究",
+      "relationship": "メタ分析・実証",
+      "sources": [
+        "judge-2004",
+        "skogstad-2007"
+      ],
+      "limits": [
+        "観察研究",
+        "不介入が必要な場面を別途判断"
+      ],
+      "scope": [
+        "放任"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "LD-C14",
+      "claim": "LMXは態度・業績評価・役割等と関連するが、好意・類似性・非公式な忠誠で内集団と外集団を固定しない。",
+      "label": "A",
+      "directness": "リーダーシップ直接研究",
+      "relationship": "メタ分析上の関連",
+      "sources": [
+        "gerstner-1997",
+        "dulebohn-2012"
+      ],
+      "limits": [
+        "相関・評価バイアス",
+        "関係の質と公平な基準を両立"
+      ],
+      "scope": [
+        "LMX"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "LD-C15",
+      "claim": "リーダーとの関係の質が異なること自体より、情報、機会、支援、評価、報酬への不透明で不公平な差を監査する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "関係・公正の設計",
+      "sources": [
+        "graen-1995",
+        "dulebohn-2012"
+      ],
+      "limits": [
+        "職務上必要な個別化を残す"
+      ],
+      "scope": [
+        "LMX差異"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "LD-C16",
+      "claim": "LMXとの関連は文化文脈で異なり得るが、国籍や文化カテゴリから個人の服従・発言・関係志向を推定しない。",
+      "label": "A",
+      "directness": "混合",
+      "relationship": "文化メタ分析・権利原則",
+      "sources": [
+        "rockstuhl-2012",
+        "ilo-data"
+      ],
+      "limits": [
+        "国単位指標の粗さ",
+        "個人差・組織差"
+      ],
+      "scope": [
+        "文化"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "LD-C17",
+      "claim": "従業員の発言は促進的提案と危険・問題の抑制的指摘で異なり、発言量だけを主体性・忠誠心の指標にしない。",
+      "label": "A",
+      "directness": "リーダーシップ隣接研究",
+      "relationship": "レビュー・メタ分析",
+      "sources": [
+        "morrison-2014",
+        "chamberlin-2017"
+      ],
+      "limits": [
+        "相関研究中心",
+        "沈黙の理由を推定しない"
+      ],
+      "scope": [
+        "発言"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "LD-C18",
+      "claim": "「ドアは開いている」という宣言より、管理職の応答、実際の反映、理由説明、報復防止が発言可能性を左右する。",
+      "label": "B",
+      "directness": "リーダーシップ直接研究",
+      "relationship": "多情報源実証",
+      "sources": [
+        "detert-2007",
+        "morrison-2014"
+      ],
+      "limits": [
+        "観察研究",
+        "制度・上位管理を別途確認"
+      ],
+      "scope": [
+        "発言"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "LD-C19",
+      "claim": "謙虚さの表明は限界認識、他者の強みの評価、学習可能性を含み得るが、卑下、優柔不断、責任回避、部下への感情ケア要求とは異なる。",
+      "label": "B",
+      "directness": "リーダーシップ直接研究",
+      "relationship": "測定・実証",
+      "sources": [
+        "owens-2013"
+      ],
+      "limits": [
+        "評価研究",
+        "文化・地位・ジェンダー規範"
+      ],
+      "scope": [
+        "謙虚さ"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "LD-C20",
+      "claim": "包摂的リーダーシップは所属感と独自性尊重を両立する概念だが、採用・配置・情報・発言・評価・報酬の制度変更を伴わせる。",
+      "label": "B",
+      "directness": "リーダーシップ直接研究",
+      "relationship": "概念統合・実証",
+      "sources": [
+        "randel-2018",
+        "nembhard-2006"
+      ],
+      "limits": [
+        "概念研究中心",
+        "態度スローガン化を避ける"
+      ],
+      "scope": [
+        "包摂"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "LD-C21",
+      "claim": "専門職地位差があるチームでは、管理職の招待、傾聴、感謝、失敗認識等が心理的安全性・改善参加に関係し得る。",
+      "label": "B",
+      "directness": "リーダーシップ直接研究",
+      "relationship": "観察的関連",
+      "sources": [
+        "nembhard-2006"
+      ],
+      "limits": [
+        "医療チーム",
+        "他職種への一般化"
+      ],
+      "scope": [
+        "包摂・安全性"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "LD-C22",
+      "claim": "フォロワーは受動的な受け手ではなくリーダーシップ過程を共同生成するが、公式権限・報酬・評価・解雇権の非対称を消さない。",
+      "label": "A",
+      "directness": "リーダーシップ直接研究",
+      "relationship": "理論レビュー",
+      "sources": [
+        "uhlbien-2014",
+        "carsten-2010"
+      ],
+      "limits": [
+        "関係を完全に対称化しない"
+      ],
+      "scope": [
+        "フォロワーシップ"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "LD-C23",
+      "claim": "フォロワーを受動型・勇敢型等の固定類型で査定せず、仕事、権力、リスク、役割期待による行動変化を読む。",
+      "label": "B",
+      "directness": "リーダーシップ直接研究",
+      "relationship": "質的研究・レビュー",
+      "sources": [
+        "carsten-2010",
+        "uhlbien-2014"
+      ],
+      "limits": [
+        "質的・限定標本",
+        "性格診断化しない"
+      ],
+      "scope": [
+        "フォロワーシップ"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "LD-C24",
+      "claim": "カリスマ的関係では同一化と依存が強まり得るため、反対可能性、任期・権限、後継、情報源、意思決定手続きを分散する。",
+      "label": "B",
+      "directness": "リーダーシップ直接研究",
+      "relationship": "概念理論・帰属研究",
+      "sources": [
+        "howell-2005",
+        "meindl-1985"
+      ],
+      "limits": [
+        "概念研究",
+        "カリスマの効果を一律否定しない"
+      ],
+      "scope": [
+        "カリスマ"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "LD-C25",
+      "claim": "リーダーとして現れやすいことと、有効で倫理的に権限を使えることは別である。",
+      "label": "A",
+      "directness": "リーダーシップ直接研究",
+      "relationship": "メタ分析上の区別",
+      "sources": [
+        "grijalva-2015"
+      ],
+      "limits": [
+        "性格測定の限界",
+        "臨床診断ではない"
+      ],
+      "scope": [
+        "リーダー出現"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "LD-C26",
+      "claim": "ナルシシズム研究を個人の臨床診断や採否へ使わず、権限集中、追従圧力、情報遮断、報復、利益相反を制度として監査する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "メタ分析・予防原則",
+      "sources": [
+        "grijalva-2015",
+        "ilo-c190"
+      ],
+      "limits": [
+        "診断ラベルで問題を個人化しない"
+      ],
+      "scope": [
+        "権力"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "LD-C27",
+      "claim": "虐待的監督・破壊的リーダーシップは態度、健康、行動、業績等の不利な結果と関連する。",
+      "label": "A",
+      "directness": "リーダーシップ直接研究",
+      "relationship": "メタ分析上の関連",
+      "sources": [
+        "mackey-2017",
+        "schyns-2013",
+        "harms-2017"
+      ],
+      "limits": [
+        "相関・自己報告中心",
+        "正式な事実認定とは別"
+      ],
+      "scope": [
+        "破壊的リーダーシップ"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "LD-C28",
+      "claim": "虐待・ハラスメントを「厳しい指導」「高い基準」「相性」「双方のコミュニケーション」に言い換えない。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "権利・安全",
+      "sources": [
+        "tepper-2007",
+        "ilo-c190"
+      ],
+      "limits": [
+        "研究概念と法的判断を区別",
+        "安全確保を優先"
+      ],
+      "scope": [
+        "ハラスメント"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "LD-C29",
+      "claim": "被害申告には指揮命令系統から独立した相談・調査・是正経路、秘密保持、報復防止、暫定措置を設ける。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "救済設計",
+      "sources": [
+        "ilo-c190",
+        "who-2022"
+      ],
+      "limits": [
+        "緊急性・国内法・労使制度を確認"
+      ],
+      "scope": [
+        "救済"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "LD-C30",
+      "claim": "建設的リーダー行動は低いストレス・良い精神健康と関連するが、仕事量、人員、雇用、差別等の構造要因を管理職研修だけで解決しない。",
+      "label": "A",
+      "directness": "混合",
+      "relationship": "メタ分析・公式指針",
+      "sources": [
+        "harms-2017",
+        "montano-2017",
+        "who-2022"
+      ],
+      "limits": [
+        "相関研究中心",
+        "臨床診断ではない"
+      ],
+      "scope": [
+        "健康"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "LD-C31",
+      "claim": "管理職自身の過重労働・孤立・感情労働を放置し、部下支援を無限責任として課さない。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "健康・仕事設計",
+      "sources": [
+        "harms-2017",
+        "who-2022"
+      ],
+      "limits": [
+        "管理職の責任免除ではない",
+        "上位組織の支援を設計"
+      ],
+      "scope": [
+        "管理職の健康"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "LD-C32",
+      "claim": "安全リーダーシップは安全遵守・参加と関連するが、設備、要員、手順、停止権限、事故調査等の安全管理を代替しない。",
+      "label": "A",
+      "directness": "混合",
+      "relationship": "メタ分析・実務原則",
+      "sources": [
+        "clarke-2013"
+      ],
+      "limits": [
+        "相関研究を含む",
+        "安全工学上の個別判断ではない"
+      ],
+      "scope": [
+        "安全"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "LD-C33",
+      "claim": "リーダー育成は個人能力だけでなく、関係、ネットワーク、仕事経験、振り返り、権限制度を含む長期的発達として設計する。",
+      "label": "A",
+      "directness": "リーダーシップ直接研究",
+      "relationship": "レビュー",
+      "sources": [
+        "day-2000",
+        "day-2014"
+      ],
+      "limits": [
+        "長期追跡・移転の不足"
+      ],
+      "scope": [
+        "育成"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "LD-C34",
+      "claim": "リーダーシップ訓練は平均として学習・移転・成果に有益だが、研修参加・満足度を有効性とせず、行動・仕事・健康・公平を追う。",
+      "label": "A",
+      "directness": "リーダーシップ直接研究",
+      "relationship": "メタ分析",
+      "sources": [
+        "lacerenza-2017"
+      ],
+      "limits": [
+        "介入の異質性",
+        "選抜・脱落",
+        "制度問題の代替ではない"
+      ],
+      "scope": [
+        "訓練"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "LD-C35",
+      "claim": "360度評価や部下調査は、目的、匿名性、最小人数、閲覧者、保存、報復防止、開発利用と査定利用の区別を先に決める。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "データ統治",
+      "sources": [
+        "ilo-data",
+        "day-2014"
+      ],
+      "limits": [
+        "少人数の再特定",
+        "印象評定・人気投票化を避ける"
+      ],
+      "scope": [
+        "評価"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "LD-C36",
+      "claim": "リーダー評価では部下の業績だけでなく、品質、安全、健康、離職、発言、包摂、育成、資源配分、副作用を組み合わせる。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "評価設計",
+      "sources": [
+        "wang-2011",
+        "montano-2017",
+        "clarke-2013"
+      ],
+      "limits": [
+        "遠い成果ほど他要因が多い",
+        "指標ゲームを監査"
+      ],
+      "scope": [
+        "成果"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "LD-C37",
+      "claim": "女性と男性のリーダーシップスタイルや有効性には小さく文脈依存の平均差が報告されるが、個人の能力・適性を性別から推定しない。",
+      "label": "A",
+      "directness": "混合",
+      "relationship": "メタ分析・公平原則",
+      "sources": [
+        "eagly-2003",
+        "paustian-2014"
+      ],
+      "limits": [
+        "二分法カテゴリ",
+        "平均差を個人へ適用しない"
+      ],
+      "scope": [
+        "ジェンダー"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "LD-C38",
+      "claim": "リーダー役割とジェンダー役割の不一致が選抜・評価の偏見を生み得るため、同じ行動を誰がしたかで評価が変わらないか監査する。",
+      "label": "A",
+      "directness": "リーダーシップ隣接研究",
+      "relationship": "理論・メタ分析",
+      "sources": [
+        "eaglykarau-2002",
+        "paustian-2014"
+      ],
+      "limits": [
+        "時代・文化・交差性",
+        "性別二分法"
+      ],
+      "scope": [
+        "評価バイアス"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "LD-C39",
+      "claim": "遠隔リーダーシップは監視強化でなく、目的、可用時間、情報アクセス、同期・非同期、信頼、孤立、設備、境界を設計する。",
+      "label": "B",
+      "directness": "リーダーシップ直接研究",
+      "relationship": "統合レビュー",
+      "sources": [
+        "contreras-2020",
+        "ilo-data"
+      ],
+      "limits": [
+        "COVID-19期レビュー",
+        "技術更新",
+        "効果量統合ではない"
+      ],
+      "scope": [
+        "遠隔"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "LD-C40",
+      "claim": "オンライン可視性、返信速度、会議発言量、在席情報を、貢献・忠誠心・リーダー資質の代理にしない。",
+      "label": "不支持",
+      "directness": "予防原則に基づく推論",
+      "relationship": "プライバシー・測定",
+      "sources": [
+        "contreras-2020",
+        "ilo-data"
+      ],
+      "limits": [
+        "役割差・障害・勤務帯・非同期作業を欠落"
+      ],
+      "scope": [
+        "監視"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "LD-C41",
+      "claim": "アルゴリズム管理は管理職判断を補助・代替し、仕事配分・監視・評価・報酬を変えるため、誰が最終責任を持つかを明示する。",
+      "label": "A",
+      "directness": "リーダーシップ隣接研究",
+      "relationship": "統合レビュー",
+      "sources": [
+        "kellogg-2020",
+        "parent-parker-2022"
+      ],
+      "limits": [
+        "概念・統合研究",
+        "技術・産業差",
+        "長期効果は未確立"
+      ],
+      "scope": [
+        "アルゴリズム管理"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "LD-C42",
+      "claim": "AIによる助言・要約・評価を使う場合、入力データ、限界、検証、人の判断、訂正・異議申立て、停止、記録を設ける。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "データ・責任統治",
+      "sources": [
+        "kellogg-2020",
+        "ilo-data"
+      ],
+      "limits": [
+        "自動化バイアス",
+        "機密・個人データ",
+        "国内制度を確認"
+      ],
+      "scope": [
+        "AI"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "LD-C43",
+      "claim": "感情、信頼、忠誠心、離職意向、精神健康、リーダー潜在力を通信・音声・映像から本人に隠れて推定し、人事判断へ用いることを支持しない。",
+      "label": "不支持",
+      "directness": "予防原則に基づく推論",
+      "relationship": "尊厳・妥当性",
+      "sources": [
+        "ilo-data",
+        "who-2022"
+      ],
+      "limits": [
+        "推定誤差・文脈欠落・萎縮効果"
+      ],
+      "scope": [
+        "AI・監視"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "LD-C44",
+      "claim": "リーダー交代では後継者の選抜だけでなく、権限、未解決リスク、関係、知識、意思決定履歴、救済案件を安全に引き継ぐ。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "継承設計",
+      "sources": [
+        "day-2014",
+        "meindl-1985"
+      ],
+      "limits": [
+        "個人情報・秘密保持",
+        "前任者への過大帰属を避ける"
+      ],
+      "scope": [
+        "継承"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "LD-C45",
+      "claim": "リーダーシップ改善では、本人の行動、関係、仕事設計、上位方針、評価・報酬、データ、救済を同時に点検し、小さく試して修正・撤回する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "統合からの設計原則",
+      "sources": [
+        "dinh-2014",
+        "lacerenza-2017",
+        "who-2022"
+      ],
+      "limits": [
+        "実装度・副作用・属性差を追う"
+      ],
+      "scope": [
+        "改善"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "LD-C46",
+      "claim": "課題を構造化する行動と、人への配慮は二者択一ではなく、異なる結果と関連するため、目的・基準・役割の明確化と支援・尊重を組み合わせる。",
+      "label": "A",
+      "directness": "リーダーシップ直接研究",
+      "relationship": "メタ分析上の関連",
+      "sources": [
+        "judge-2004-behavior"
+      ],
+      "limits": [
+        "相関研究を含む",
+        "行動の質・文脈を確認"
+      ],
+      "scope": [
+        "課題・関係行動"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "LD-C47",
+      "claim": "共有リーダーシップはチーム有効性と関連し得るが、労務・安全・予算・最終判断・救済の公式責任を「全員の責任」にしない。",
+      "label": "A",
+      "directness": "リーダーシップ直接研究",
+      "relationship": "メタ分析上の関連",
+      "sources": [
+        "wang-shared-2014"
+      ],
+      "limits": [
+        "相関研究を含む",
+        "公式責任との接続を設計"
+      ],
+      "scope": [
+        "共有リーダーシップ"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "LD-C48",
+      "claim": "専門性、自己管理的な仕事、チーム規範、明確な制度は一部のリーダー機能を代替し得るため、不要な承認階層を増やさない。",
+      "label": "B",
+      "directness": "リーダーシップ直接研究",
+      "relationship": "古典理論・測定",
+      "sources": [
+        "kerr-1978"
+      ],
+      "limits": [
+        "古典理論",
+        "安全・労務・救済責任は残す"
+      ],
+      "scope": [
+        "代替要因"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "LD-C49",
+      "claim": "フィードバック介入は平均として業績を改善し得る一方、悪化させる場合もあるため、人格や自己価値でなく、具体的な仕事・過程・次の行動へ注意を向ける。",
+      "label": "A",
+      "directness": "リーダーシップ隣接研究",
+      "relationship": "メタ分析",
+      "sources": [
+        "kluger-1996"
+      ],
+      "limits": [
+        "課題・時代・介入の異質性",
+        "公開羞恥・常時評価を正当化しない"
+      ],
+      "scope": [
+        "フィードバック"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "LD-C50",
+      "claim": "管理職は合理的配慮や障壁除去を調整する責任を持ち得るが、必要以上の診断、健康、家庭、アイデンティティの開示を求めない。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "健康・包摂・プライバシー",
+      "sources": [
+        "who-2022",
+        "ilo-data"
+      ],
+      "limits": [
+        "国内法・役割分担を確認",
+        "本人が話す範囲を尊重"
+      ],
+      "scope": [
+        "合理的配慮"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "LD-C51",
+      "claim": "上位目標と安全・倫理・法令・健康が衝突するとき、管理職個人へ解決を丸投げせず、停止権限、記録、上位判断、専門相談、異議申立てを設ける。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "権限・エスカレーション",
+      "sources": [
+        "clarke-2013",
+        "who-2022",
+        "ilo-c190"
+      ],
+      "limits": [
+        "個別法的判断ではない",
+        "緊急性に応じて対応"
+      ],
+      "scope": [
+        "中間管理職"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "LD-C52",
+      "claim": "管理職との対話や心理的安全性は、労働者代表、団体的な協議、独立通報、正式な苦情・救済経路を代替しない。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "集団的権利・救済",
+      "sources": [
+        "ilo-c190",
+        "who-2022"
+      ],
+      "limits": [
+        "国内の労使制度を確認"
+      ],
+      "scope": [
+        "集団的発言"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "LD-C53",
+      "claim": "管理職の選抜・昇進では、職務関連の基準、複数評価者、構造化した証拠、合理的配慮、評価差の監査を用い、カリスマ性・類似性・オンライン可視性を適性の代理にしない。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "選抜・公平",
+      "sources": [
+        "eaglykarau-2002",
+        "paustian-2014",
+        "ilo-data"
+      ],
+      "limits": [
+        "選抜妥当性を個別確認",
+        "交差性と少数標本"
+      ],
+      "scope": [
+        "選抜・昇進"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    }
+  ]
+}

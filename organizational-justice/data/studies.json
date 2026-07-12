@@ -1,0 +1,652 @@
+{
+  "name": "組織的公正 研究メタデータ",
+  "version": "0.1",
+  "notice": "論文本文・尺度項目は含みません。各権利者の条件に従ってください。",
+  "studies": [
+    {
+      "id": "adams-1965",
+      "authors": "Adams, J. S.",
+      "year": 1965,
+      "title": "Inequity in Social Exchange",
+      "journal": "Advances in Experimental Social Psychology, 2, 267–299",
+      "doi": "10.1016/S0065-2601(08)60108-2",
+      "type": "foundational theory chapter",
+      "status": "scholarly chapter",
+      "population": "社会的交換と報酬配分",
+      "sample": "理論と先行実験研究の統合",
+      "method": "投入と結果の比率比較から不衡平反応を説明",
+      "finding": "分配的公正研究の基礎となる衡平理論を提示",
+      "limitations": [
+        "分配中心",
+        "現代の4次元モデルより狭い",
+        "規範的に何が正しいかを決定しない"
+      ],
+      "source_url": "https://doi.org/10.1016/S0065-2601(08)60108-2",
+      "last_human_verified": "2026-07-12"
+    },
+    {
+      "id": "leventhal-1980",
+      "authors": "Leventhal, G. S.",
+      "year": 1980,
+      "title": "What Should Be Done with Equity Theory?",
+      "journal": "Social Exchange, 27–55",
+      "doi": "10.1007/978-1-4613-3087-5_2",
+      "type": "foundational theory chapter",
+      "status": "scholarly chapter",
+      "population": "分配・手続きの公正判断",
+      "sample": "理論文献",
+      "method": "配分規則と手続き規則を整理",
+      "finding": "一貫性、偏り抑制、正確性、修正可能性、代表性、倫理性という手続き基準を提示",
+      "limitations": [
+        "実証メタ分析ではない",
+        "基準間の衝突を自動解決しない"
+      ],
+      "source_url": "https://doi.org/10.1007/978-1-4613-3087-5_2",
+      "last_human_verified": "2026-07-12"
+    },
+    {
+      "id": "greenberg-1987",
+      "authors": "Greenberg, J.",
+      "year": 1987,
+      "title": "A Taxonomy of Organizational Justice Theories",
+      "journal": "Academy of Management Review, 12(1), 9–22",
+      "doi": "10.2307/257990",
+      "type": "conceptual taxonomy",
+      "status": "peer-reviewed",
+      "population": "組織的公正理論",
+      "sample": "理論文献",
+      "method": "反応的/先行的、内容/過程の軸で分類",
+      "finding": "分散していた公正理論を体系化",
+      "limitations": [
+        "概念整理",
+        "後の対人・情報的公正の発展前"
+      ],
+      "source_url": "https://doi.org/10.2307/257990",
+      "last_human_verified": "2026-07-12"
+    },
+    {
+      "id": "greenberg-1990-review",
+      "authors": "Greenberg, J.",
+      "year": 1990,
+      "title": "Organizational Justice: Yesterday, Today, and Tomorrow",
+      "journal": "Journal of Management, 16(2), 399–432",
+      "doi": "10.1177/014920639001600208",
+      "type": "narrative review",
+      "status": "peer-reviewed",
+      "population": "組織的公正研究",
+      "sample": "主要研究の歴史的統合",
+      "method": "分配から手続き・相互作用への展開を整理",
+      "finding": "organizational justiceという研究領域を統合的に位置づけた",
+      "limitations": [
+        "系統的レビューではない",
+        "1990年までの研究"
+      ],
+      "source_url": "https://doi.org/10.1177/014920639001600208",
+      "last_human_verified": "2026-07-12"
+    },
+    {
+      "id": "greenberg-1990-theft",
+      "authors": "Greenberg, J.",
+      "year": 1990,
+      "title": "Employee Theft as a Reaction to Underpayment Inequity: The Hidden Cost of Pay Cuts",
+      "journal": "Journal of Applied Psychology, 75(5), 561–568",
+      "doi": "10.1037/0021-9010.75.5.561",
+      "type": "quasi-field experiment",
+      "status": "peer-reviewed",
+      "population": "製造工場の従業員",
+      "sample": "一時的賃金削減を経験した工場群。詳細は原文参照",
+      "method": "賃金削減と説明条件による窃盗率を比較",
+      "finding": "不十分な支払いと説明条件が窃盗反応に関係した",
+      "limitations": [
+        "特定の現場・時代",
+        "窃盗測定と一般化に注意",
+        "説明が不公正な結果を正当化するわけではない"
+      ],
+      "source_url": "https://doi.org/10.1037/0021-9010.75.5.561",
+      "last_human_verified": "2026-07-12"
+    },
+    {
+      "id": "moorman-1991",
+      "authors": "Moorman, R. H.",
+      "year": 1991,
+      "title": "Relationship Between Organizational Justice and Organizational Citizenship Behaviors",
+      "journal": "Journal of Applied Psychology, 76(6), 845–855",
+      "doi": "10.1037/0021-9010.76.6.845",
+      "type": "field study",
+      "status": "peer-reviewed",
+      "population": "病院職員",
+      "sample": "従業員と上司評価。詳細は原文参照",
+      "method": "公正認知と組織市民行動の関係を分析",
+      "finding": "手続き・相互作用的公正と市民行動の関連を報告",
+      "limitations": [
+        "観察研究",
+        "単一組織",
+        "尺度構成は後の4次元と異なる"
+      ],
+      "source_url": "https://doi.org/10.1037/0021-9010.76.6.845",
+      "last_human_verified": "2026-07-12"
+    },
+    {
+      "id": "greenberg-1993",
+      "authors": "Greenberg, J.",
+      "year": 1993,
+      "title": "Stealing in the Name of Justice: Informational and Interpersonal Moderators of Theft Reactions to Underpayment Inequity",
+      "journal": "Organizational Behavior and Human Decision Processes, 54(1), 81–103",
+      "doi": "10.1006/obhd.1993.1004",
+      "type": "field experiment",
+      "status": "peer-reviewed",
+      "population": "賃金削減を経験した従業員",
+      "sample": "複数工場条件。詳細は原文参照",
+      "method": "情報の十分さと対人的配慮を操作・比較",
+      "finding": "説明と対人的配慮が不公正反応を緩和し得ることを示した",
+      "limitations": [
+        "古典的特定状況",
+        "操作と現在の職場実装は異なる",
+        "悪い決定の免罪符ではない"
+      ],
+      "source_url": "https://doi.org/10.1006/obhd.1993.1004",
+      "last_human_verified": "2026-07-12"
+    },
+    {
+      "id": "skarlicki-latham-1996",
+      "authors": "Skarlicki, D. P., & Latham, G. P.",
+      "year": 1996,
+      "title": "Increasing Citizenship Behavior Within a Labor Union: A Test of Organizational Justice Theory",
+      "journal": "Journal of Applied Psychology, 81(2), 161–169",
+      "doi": "10.1037/0021-9010.81.2.161",
+      "type": "field experiment",
+      "status": "peer-reviewed",
+      "population": "労働組合の責任者と構成員",
+      "sample": "組合現場。詳細は原文参照",
+      "method": "公正原則に関するリーダー研修を比較",
+      "finding": "研修後の組織市民行動改善を報告",
+      "limitations": [
+        "小規模・特定組織",
+        "観察者評価",
+        "長期持続性に限界"
+      ],
+      "source_url": "https://doi.org/10.1037/0021-9010.81.2.161",
+      "last_human_verified": "2026-07-12"
+    },
+    {
+      "id": "skarlicki-latham-1997",
+      "authors": "Skarlicki, D. P., & Latham, G. P.",
+      "year": 1997,
+      "title": "Leadership Training in Organizational Justice to Increase Citizenship Behavior Within a Labor Union: A Replication",
+      "journal": "Personnel Psychology, 50(3), 617–633",
+      "doi": "10.1111/j.1744-6570.1997.tb00707.x",
+      "type": "field experiment replication",
+      "status": "peer-reviewed",
+      "population": "労働組合の責任者と構成員",
+      "sample": "組合リーダー25人、組合員177人",
+      "method": "公正なリーダー行動研修の効果を検討",
+      "finding": "公正認知と組織・同僚向け市民行動への改善を追試",
+      "limitations": [
+        "労働組合に限定",
+        "介入要素の切り分けに限界",
+        "大規模組織変更ではない"
+      ],
+      "source_url": "https://doi.org/10.1111/j.1744-6570.1997.tb00707.x",
+      "last_human_verified": "2026-07-12"
+    },
+    {
+      "id": "skarlicki-folger-1997",
+      "authors": "Skarlicki, D. P., & Folger, R.",
+      "year": 1997,
+      "title": "Retaliation in the Workplace: The Roles of Distributive, Procedural, and Interactional Justice",
+      "journal": "Journal of Applied Psychology, 82(3), 434–443",
+      "doi": "10.1037/0021-9010.82.3.434",
+      "type": "field study",
+      "status": "peer-reviewed",
+      "population": "職場の従業員",
+      "sample": "観察研究。詳細は原文参照",
+      "method": "三次元の組合せと報復行動を分析",
+      "finding": "複数次元の不公正が組み合わさると報復行動と強く関係する可能性",
+      "limitations": [
+        "横断的関連",
+        "報復の自己・他者報告",
+        "因果確定ではない"
+      ],
+      "source_url": "https://doi.org/10.1037/0021-9010.82.3.434",
+      "last_human_verified": "2026-07-12"
+    },
+    {
+      "id": "colquitt-2001-scale",
+      "authors": "Colquitt, J. A.",
+      "year": 2001,
+      "title": "On the Dimensionality of Organizational Justice: A Construct Validation of a Measure",
+      "journal": "Journal of Applied Psychology, 86(3), 386–400",
+      "doi": "10.1037/0021-9010.86.3.386",
+      "type": "measure development and validation",
+      "status": "peer-reviewed",
+      "population": "大学・職場文脈の参加者",
+      "sample": "複数標本。詳細は原文参照",
+      "method": "分配・手続き・対人・情報の4因子尺度を検証",
+      "finding": "4次元の弁別と関連概念・結果との妥当性を支持",
+      "limitations": [
+        "英語圏中心",
+        "自己報告",
+        "項目利用・翻訳条件を確認"
+      ],
+      "source_url": "https://doi.org/10.1037/0021-9010.86.3.386",
+      "last_human_verified": "2026-07-12"
+    },
+    {
+      "id": "colquitt-2001-meta",
+      "authors": "Colquitt, J. A., Conlon, D. E., Wesson, M. J., Porter, C. O. L. H., & Ng, K. Y.",
+      "year": 2001,
+      "title": "Justice at the Millennium: A Meta-Analytic Review of 25 Years of Organizational Justice Research",
+      "journal": "Journal of Applied Psychology, 86(3), 425–445",
+      "doi": "10.1037/0021-9010.86.3.425",
+      "type": "meta-analysis",
+      "status": "peer-reviewed",
+      "population": "組織的公正研究",
+      "sample": "183研究",
+      "method": "4次元と態度・行動結果を統合",
+      "finding": "次元は相関するが、複数の結果へ独自の説明力を持つ",
+      "limitations": [
+        "観察研究が中心",
+        "共通方法バイアス",
+        "2000年以前の研究"
+      ],
+      "source_url": "https://doi.org/10.1037/0021-9010.86.3.425",
+      "last_human_verified": "2026-07-12"
+    },
+    {
+      "id": "cohen-charash-2001",
+      "authors": "Cohen-Charash, Y., & Spector, P. E.",
+      "year": 2001,
+      "title": "The Role of Justice in Organizations: A Meta-Analysis",
+      "journal": "Organizational Behavior and Human Decision Processes, 86(2), 278–321",
+      "doi": "10.1006/obhd.2001.2958",
+      "type": "meta-analysis",
+      "status": "peer-reviewed",
+      "population": "組織的公正研究",
+      "sample": "統合研究群。詳細は原文参照",
+      "method": "先行要因と結果、測定・文化等の調整要因を統合",
+      "finding": "公正次元が満足、コミットメント、信頼、業績、離脱等と関連",
+      "limitations": [
+        "横断研究中心",
+        "尺度と結果の異質性",
+        "因果確定ではない",
+        "2002年の出版社訂正記事も参照"
+      ],
+      "source_url": "https://doi.org/10.1006/obhd.2001.2958",
+      "last_human_verified": "2026-07-12"
+    },
+    {
+      "id": "cohen-charash-erratum-2002",
+      "authors": "Cohen-Charash, Y., & Spector, P. E.",
+      "year": 2002,
+      "title": "Erratum to “The Role of Justice in Organizations: A Meta-Analysis”",
+      "journal": "Organizational Behavior and Human Decision Processes, 89(2), 1215",
+      "doi": "10.1016/S0749-5978(02)00040-7",
+      "type": "published erratum",
+      "status": "publisher correction",
+      "population": "Cohen-Charash & Spector（2001）の訂正",
+      "sample": "該当なし",
+      "method": "出版社による訂正記事",
+      "finding": "原論文の利用時に訂正記事も確認する必要がある",
+      "limitations": [
+        "訂正本文と原論文を合わせて参照する"
+      ],
+      "source_url": "https://doi.org/10.1016/S0749-5978(02)00040-7",
+      "last_human_verified": "2026-07-12"
+    },
+    {
+      "id": "colquitt-noe-2002",
+      "authors": "Colquitt, J. A., Noe, R. A., & Jackson, C. L.",
+      "year": 2002,
+      "title": "Justice in Teams: Antecedents and Consequences of Procedural Justice Climate",
+      "journal": "Personnel Psychology, 55(1), 83–109",
+      "doi": "10.1111/j.1744-6570.2002.tb00104.x",
+      "type": "team-level field study",
+      "status": "peer-reviewed",
+      "population": "製造業の作業チーム",
+      "sample": "チーム標本。詳細は原文参照",
+      "method": "手続き的公正の平均と合意度、業績・欠勤を分析",
+      "finding": "公正風土の水準と強さがチーム結果に関係",
+      "limitations": [
+        "単一企業文脈",
+        "集約条件が必要",
+        "個人得点を単純平均できない"
+      ],
+      "source_url": "https://doi.org/10.1111/j.1744-6570.2002.tb00104.x",
+      "last_human_verified": "2026-07-12"
+    },
+    {
+      "id": "tyler-blader-2003",
+      "authors": "Tyler, T. R., & Blader, S. L.",
+      "year": 2003,
+      "title": "The Group Engagement Model: Procedural Justice, Social Identity, and Cooperative Behavior",
+      "journal": "Personality and Social Psychology Review, 7(4), 349–361",
+      "doi": "10.1207/S15327957PSPR0704_07",
+      "type": "integrative theory review",
+      "status": "peer-reviewed",
+      "population": "集団・組織での協力行動",
+      "sample": "理論・実証研究の統合",
+      "method": "手続き、アイデンティティ、協力のモデル化",
+      "finding": "公正な手続きが尊重・所属を通じ協力へ関係する枠組みを提示",
+      "limitations": [
+        "因果効果量の統合ではない",
+        "所属の強調が異論抑制にならない注意"
+      ],
+      "source_url": "https://doi.org/10.1207/S15327957PSPR0704_07",
+      "last_human_verified": "2026-07-12"
+    },
+    {
+      "id": "kivimaki-2005",
+      "authors": "Kivimäki, M., Ferrie, J. E., Brunner, E., et al.",
+      "year": 2005,
+      "title": "Justice at Work and Reduced Risk of Coronary Heart Disease Among Employees: The Whitehall II Study",
+      "journal": "Archives of Internal Medicine, 165(19), 2245–2251",
+      "doi": "10.1001/archinte.165.19.2245",
+      "type": "prospective cohort",
+      "status": "peer-reviewed",
+      "population": "英国男性公務員",
+      "sample": "6,442人、平均8.7年追跡",
+      "method": "公正認知と冠動脈疾患発症を前向きに分析",
+      "finding": "高い公正認知と低い冠動脈疾患リスクの関連を報告",
+      "limitations": [
+        "男性公務員に限定",
+        "観察研究",
+        "残余交絡",
+        "単一研究で因果確定できない"
+      ],
+      "source_url": "https://doi.org/10.1001/archinte.165.19.2245",
+      "last_human_verified": "2026-07-12"
+    },
+    {
+      "id": "ambrose-schminke-2009",
+      "authors": "Ambrose, M. L., & Schminke, M.",
+      "year": 2009,
+      "title": "The Role of Overall Justice Judgments in Organizational Justice Research: A Test of Mediation",
+      "journal": "Journal of Applied Psychology, 94(2), 491–500",
+      "doi": "10.1037/a0013203",
+      "type": "two-study field research",
+      "status": "peer-reviewed",
+      "population": "従業員と上司",
+      "sample": "2研究",
+      "method": "個別次元から全体的公正判断、態度・行動への媒介を検討",
+      "finding": "全体的公正判断が個別次元と結果の関係を媒介する可能性",
+      "limitations": [
+        "観察研究",
+        "全体判断は具体的改善箇所を隠し得る"
+      ],
+      "source_url": "https://doi.org/10.1037/a0013203",
+      "last_human_verified": "2026-07-12"
+    },
+    {
+      "id": "inoue-2009-scale",
+      "authors": "Inoue, A., Kawakami, N., Tsutsumi, A., et al.",
+      "year": 2009,
+      "title": "Reliability and Validity of the Japanese Version of the Organizational Justice Questionnaire",
+      "journal": "Journal of Occupational Health, 51(1), 74–83",
+      "doi": "10.1539/joh.L8042",
+      "type": "Japanese scale validation",
+      "status": "peer-reviewed",
+      "population": "日本の製造業労働者",
+      "sample": "男性185人、女性58人（計243人）",
+      "method": "Moorman修正版OJQの翻訳、内的一貫性、因子・構成概念妥当性を検討",
+      "finding": "手続き・相互作用的公正について概ね許容可能な信頼性・妥当性",
+      "limitations": [
+        "単一工場・小規模",
+        "女性標本で因子構造差",
+        "4次元尺度ではない"
+      ],
+      "source_url": "https://doi.org/10.1539/joh.L8042",
+      "last_human_verified": "2026-07-12"
+    },
+    {
+      "id": "inoue-2010-cross",
+      "authors": "Inoue, A., Kawakami, N., Ishizaki, M., et al.",
+      "year": 2010,
+      "title": "Organizational Justice, Psychological Distress, and Work Engagement in Japanese Workers",
+      "journal": "International Archives of Occupational and Environmental Health, 83(1), 29–38",
+      "doi": "10.1007/s00420-009-0485-7",
+      "type": "Japanese cross-sectional study",
+      "status": "peer-reviewed",
+      "population": "日本の製造業労働者",
+      "sample": "243人",
+      "method": "手続き・相互作用的公正、K6、UWES、仕事ストレス要因の媒介分析",
+      "finding": "公正は心理的不調と負、エンゲージメントと正に関連",
+      "limitations": [
+        "横断研究",
+        "単一工場",
+        "因果・媒介方向を確定しない"
+      ],
+      "source_url": "https://doi.org/10.1007/s00420-009-0485-7",
+      "last_human_verified": "2026-07-12"
+    },
+    {
+      "id": "ndjaboue-2012",
+      "authors": "Ndjaboué, R., Brisson, C., & Vézina, M.",
+      "year": 2012,
+      "title": "Organisational Justice and Mental Health: A Systematic Review of Prospective Studies",
+      "journal": "Occupational and Environmental Medicine, 69(10), 694–700",
+      "doi": "10.1136/oemed-2011-100595",
+      "type": "systematic review of prospective studies",
+      "status": "peer-reviewed",
+      "population": "工業化国の労働者",
+      "sample": "11前向き研究",
+      "method": "1990–2010年の公正と精神健康の前向き研究をレビュー",
+      "finding": "低い組織的公正と不良な精神健康の時間的関連を支持",
+      "limitations": [
+        "研究数が少ない",
+        "尺度・調整変数の異質性",
+        "DCS/ERIからの独立性は研究により異なる"
+      ],
+      "source_url": "https://doi.org/10.1136/oemed-2011-100595",
+      "last_human_verified": "2026-07-12"
+    },
+    {
+      "id": "robbins-2012",
+      "authors": "Robbins, J. M., Ford, M. T., & Tetrick, L. E.",
+      "year": 2012,
+      "title": "Perceived Unfairness and Employee Health: A Meta-Analytic Integration",
+      "journal": "Journal of Applied Psychology, 97(2), 235–272",
+      "doi": "10.1037/a0025408",
+      "type": "meta-analysis",
+      "status": "peer-reviewed",
+      "population": "労働者の不公正・心理的契約研究",
+      "sample": "統合研究群。詳細は原文参照",
+      "method": "公正の種類、健康指標、方法特性を統合",
+      "finding": "不公正認知は身体・精神健康指標と関連",
+      "limitations": [
+        "自己報告と横断研究が多い",
+        "健康指標が異質",
+        "因果確定ではない"
+      ],
+      "source_url": "https://doi.org/10.1037/a0025408",
+      "last_human_verified": "2026-07-12"
+    },
+    {
+      "id": "inoue-2013-prospective",
+      "authors": "Inoue, A., Kawakami, N., Tsuno, K., Tomioka, K., & Nakanishi, M.",
+      "year": 2013,
+      "title": "Organizational Justice and Psychological Distress Among Permanent and Non-permanent Employees in Japan: A Prospective Cohort Study",
+      "journal": "International Journal of Behavioral Medicine, 20(2), 265–276",
+      "doi": "10.1007/s12529-012-9224-7",
+      "type": "Japanese prospective cohort",
+      "status": "peer-reviewed",
+      "population": "日本の製造企業5事業所の労働者",
+      "sample": "男性373人、女性644人、1年追跡",
+      "method": "雇用契約・性別ごとに公正と後のK6心理的不調を分析",
+      "finding": "低い手続き的公正が非正規女性の後の心理的不調を予測",
+      "limitations": [
+        "一企業",
+        "下位群で検出力不足",
+        "全雇用群に一様な結果ではない"
+      ],
+      "source_url": "https://doi.org/10.1007/s12529-012-9224-7",
+      "last_human_verified": "2026-07-12"
+    },
+    {
+      "id": "colquitt-2013",
+      "authors": "Colquitt, J. A., Scott, B. A., Rodell, J. B., et al.",
+      "year": 2013,
+      "title": "Justice at the Millennium, a Decade Later: A Meta-Analytic Test of Social Exchange and Affect-Based Perspectives",
+      "journal": "Journal of Applied Psychology, 98(2), 199–236",
+      "doi": "10.1037/a0031757",
+      "type": "meta-analysis",
+      "status": "peer-reviewed",
+      "population": "組織的公正研究",
+      "sample": "493独立標本",
+      "method": "社会的交換と感情による公正—行動関係の媒介・調整を統合",
+      "finding": "信頼・コミットメント・支援・LMXや感情が一部の関係を媒介",
+      "limitations": [
+        "観察研究が多い",
+        "媒介メタ分析は因果の証明ではない",
+        "研究間異質性"
+      ],
+      "source_url": "https://doi.org/10.1037/a0031757",
+      "last_human_verified": "2026-07-12"
+    },
+    {
+      "id": "rupp-2014",
+      "authors": "Rupp, D. E., Shao, R., Jones, K. S., & Liao, H.",
+      "year": 2014,
+      "title": "The Utility of a Multifoci Approach to the Study of Organizational Justice",
+      "journal": "Organizational Behavior and Human Decision Processes, 123(2), 159–185",
+      "doi": "10.1016/j.obhdp.2013.10.011",
+      "type": "meta-analysis",
+      "status": "peer-reviewed",
+      "population": "多焦点の公正研究",
+      "sample": "統合研究群。詳細は原文参照",
+      "method": "組織・上司等の公正の主体と結果の対象を統合",
+      "finding": "誰が公正・不公正だったかという焦点を合わせる価値を支持",
+      "limitations": [
+        "一次研究の焦点ラベルが異質",
+        "因果確定ではない"
+      ],
+      "source_url": "https://doi.org/10.1016/j.obhdp.2013.10.011",
+      "last_human_verified": "2026-07-12"
+    },
+    {
+      "id": "nakagawa-2015",
+      "authors": "Nakagawa, Y., Inoue, A., Kawakami, N., et al.",
+      "year": 2015,
+      "title": "Change in Organizational Justice and Job Performance in Japanese Employees: A Prospective Cohort Study",
+      "journal": "Journal of Occupational Health, 57(4), 388–393",
+      "doi": "10.1539/joh.14-0212-BR",
+      "type": "Japanese prospective cohort",
+      "status": "peer-reviewed",
+      "population": "日本の製造業労働者",
+      "sample": "男性425人、女性683人、1年追跡",
+      "method": "公正の変化群と後の自己報告業績を分析",
+      "finding": "手続き的公正が安定して高い群は安定して低い群より後の業績が高かった",
+      "limitations": [
+        "一企業",
+        "自己報告業績",
+        "変化の二分法",
+        "相互作用的公正では有意差なし"
+      ],
+      "source_url": "https://doi.org/10.1539/joh.14-0212-BR",
+      "last_human_verified": "2026-07-12"
+    },
+    {
+      "id": "hayashi-2017",
+      "authors": "Hayashi, T., Odagiri, Y., Takamiya, T., Ohya, Y., & Inoue, S.",
+      "year": 2017,
+      "title": "Organizational Justice and Insomnia: A Prospective Cohort Study Examining Insomnia Onset and Persistence",
+      "journal": "International Archives of Occupational and Environmental Health, 90(1), 133–140",
+      "doi": "10.1007/s00420-016-1183-x",
+      "type": "Japanese prospective cohort",
+      "status": "peer-reviewed",
+      "population": "日本の民間企業労働者",
+      "sample": "1,588人、1年追跡",
+      "method": "4次元公正と不眠の発症・持続を分析",
+      "finding": "低い全体的公正と一部次元が不眠発症・持続に関連",
+      "limitations": [
+        "自己報告",
+        "調整後に一部関連が非有意",
+        "観察研究"
+      ],
+      "source_url": "https://doi.org/10.1007/s00420-016-1183-x",
+      "last_human_verified": "2026-07-12"
+    },
+    {
+      "id": "inoue-2019-care",
+      "authors": "Inoue, A., Tsutsumi, A., Eguchi, H., & Kawakami, N.",
+      "year": 2019,
+      "title": "Organizational Justice and Refraining from Seeking Medical Care Among Japanese Employees: A 1-Year Prospective Cohort Study",
+      "journal": "International Journal of Behavioral Medicine, 26(1), 76–84",
+      "doi": "10.1007/s12529-018-9756-6",
+      "type": "Japanese prospective cohort",
+      "status": "peer-reviewed",
+      "population": "日本の製造工場労働者",
+      "sample": "2,695人、1年追跡",
+      "method": "手続き・相互作用的公正と受診控えを性別に分析",
+      "finding": "低い公正と後の受診控えの高いオッズが関連",
+      "limitations": [
+        "二工場",
+        "受診控えは単一項目",
+        "医療アクセス等の残余交絡"
+      ],
+      "source_url": "https://doi.org/10.1007/s12529-018-9756-6",
+      "last_human_verified": "2026-07-12"
+    },
+    {
+      "id": "scalabrin-2022",
+      "authors": "Scalabrin, A., Silva, A. T. C., & Menezes, P. R.",
+      "year": 2022,
+      "title": "Organizational Justice and Cardiometabolic Disease: A Systematic Review",
+      "journal": "Ciência & Saúde Coletiva, 27(9), 3517–3530",
+      "doi": "10.1590/1413-81232022279.23482021en",
+      "type": "systematic review",
+      "status": "peer-reviewed",
+      "population": "成人労働者",
+      "sample": "1,959件から8研究を採用",
+      "method": "公正と心血管・代謝疾患の研究を系統的にレビューし品質評価",
+      "finding": "高い公正認知と低い心血管・代謝疾患リスクの関連を報告",
+      "limitations": [
+        "採用研究8件",
+        "観察研究",
+        "アウトカム・尺度の異質性",
+        "因果確定ではない"
+      ],
+      "source_url": "https://doi.org/10.1590/1413-81232022279.23482021en",
+      "last_human_verified": "2026-07-12"
+    },
+    {
+      "id": "ilo-c111",
+      "authors": "International Labour Organization",
+      "year": 1958,
+      "title": "Discrimination (Employment and Occupation) Convention, 1958 (No. 111)",
+      "journal": "International Labour Organization NORMLEX",
+      "url": "https://normlex.ilo.org/dyn/nrmlx_en/f?p=NORMLEXPUB:12100:0::NO::P12100_ILO_CODE:C111",
+      "type": "international labour standard",
+      "status": "official legal standard",
+      "population": "雇用・職業における差別",
+      "sample": "該当なし",
+      "method": "ILO条約として差別の定義と加盟国の政策原則を規定",
+      "finding": "雇用・職業上の差別は、公正認知とは別に権利・制度として検討する必要がある",
+      "limitations": [
+        "各国の批准状況・国内法を別途確認",
+        "個別案件の法的助言ではない"
+      ],
+      "source_url": "https://normlex.ilo.org/dyn/nrmlx_en/f?p=NORMLEXPUB:12100:0::NO::P12100_ILO_CODE:C111",
+      "last_human_verified": "2026-07-12"
+    },
+    {
+      "id": "who-2022",
+      "authors": "World Health Organization",
+      "year": 2022,
+      "title": "WHO Guidelines on Mental Health at Work",
+      "journal": "World Health Organization, ISBN 9789240053052",
+      "url": "https://www.who.int/publications/i/item/9789240053052",
+      "type": "official evidence-based guideline",
+      "status": "official guideline",
+      "population": "働く人と職場",
+      "sample": "組織介入、管理職・労働者研修、個人介入、復職等のエビデンス",
+      "method": "ガイドライン開発手続に基づく推奨",
+      "finding": "心理社会的リスクへ対処する組織介入等を推奨",
+      "limitations": [
+        "組織的公正専用ガイドラインではない",
+        "各国制度への適用が必要"
+      ],
+      "source_url": "https://www.who.int/publications/i/item/9789240053052",
+      "last_human_verified": "2026-07-12"
+    }
+  ]
+}

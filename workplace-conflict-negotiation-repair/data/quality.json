@@ -1,0 +1,656 @@
+{
+  "name": "職場の対立・コンフリクト・交渉・関係修復 研究の質と限界",
+  "version": "0.1",
+  "notice": "簡易評価であり正式なRoB評価ではない。",
+  "assessments": [
+    {
+      "study_id": "jehn-1995",
+      "design": "multimethod field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "観察研究",
+        "古典的分類",
+        "課題対立を常に有益としない"
+      ]
+    },
+    {
+      "study_id": "jehn-1997",
+      "design": "qualitative field study",
+      "strength": "基礎理論・測定",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "特定組織",
+        "分類境界は重なる",
+        "文化・仕事依存"
+      ]
+    },
+    {
+      "study_id": "simons-peterson-2000",
+      "design": "team field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "経営チーム中心",
+        "観察研究",
+        "因果確定ではない"
+      ]
+    },
+    {
+      "study_id": "de-dreu-weingart-2003",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "古い研究中心",
+        "異質性",
+        "課題対立の条件付き便益を否定し切らない"
+      ]
+    },
+    {
+      "study_id": "de-wit-2012",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "観察研究中心",
+        "出版・測定差",
+        "因果方向の制約"
+      ]
+    },
+    {
+      "study_id": "bradley-2012",
+      "design": "team field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "観察研究",
+        "単一調整モデル",
+        "対立を意図的に増やす根拠ではない"
+      ]
+    },
+    {
+      "study_id": "greer-2008",
+      "design": "multilevel field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "観察研究",
+        "集約と個人認知を分ける"
+      ]
+    },
+    {
+      "study_id": "behfar-2008",
+      "design": "multimethod team study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "観察・事例研究",
+        "成功チームの後方視的説明"
+      ]
+    },
+    {
+      "study_id": "tjosvold-2008",
+      "design": "integrative review",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "ナラティブレビュー",
+        "規範的主張を含む",
+        "権力濫用には直接適用しない"
+      ]
+    },
+    {
+      "study_id": "rahim-1983",
+      "design": "measure development",
+      "strength": "基礎理論・測定",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "自己報告",
+        "固定人格分類にしない",
+        "尺度権利を確認"
+      ]
+    },
+    {
+      "study_id": "huffmeier-2014",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "分配交渉中心",
+        "実験研究が多い",
+        "実職場・権力差への一般化"
+      ]
+    },
+    {
+      "study_id": "mazei-2015",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "二元的性別分類中心",
+        "構造・交差性を十分扱わない",
+        "個人能力差としない"
+      ]
+    },
+    {
+      "study_id": "bowles-2007",
+      "design": "experimental studies",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "実験・米国文脈",
+        "二元的性別",
+        "交渉しない個人を責めない"
+      ]
+    },
+    {
+      "study_id": "galinsky-2001",
+      "design": "laboratory experiments",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "実験中心",
+        "倫理・関係・情報差を別途考慮"
+      ]
+    },
+    {
+      "study_id": "van-kleef-2004",
+      "design": "laboratory experiments",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "実験中心",
+        "怒りを戦術として推奨しない",
+        "威圧・差別・文化差"
+      ]
+    },
+    {
+      "study_id": "thompson-1991",
+      "design": "laboratory experiments",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "実験課題",
+        "秘密情報・安全・権力差を別途考慮"
+      ]
+    },
+    {
+      "study_id": "weingart-1990",
+      "design": "negotiation process study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "実験・符号化",
+        "組織継続関係への一般化"
+      ]
+    },
+    {
+      "study_id": "curhan-2006",
+      "design": "measure development",
+      "strength": "基礎理論・測定",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "自己報告",
+        "尺度権利",
+        "文化差"
+      ]
+    },
+    {
+      "study_id": "elfenbein-2008",
+      "design": "individual differences study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "実験・学生を含む",
+        "能力の固定ラベルにしない"
+      ]
+    },
+    {
+      "study_id": "wall-2001",
+      "design": "integrative review",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "分野横断で職場直接研究に限定されない",
+        "研究設計の異質性"
+      ]
+    },
+    {
+      "study_id": "pruitt-1993",
+      "design": "longitudinal mediation study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "法・地域紛争中心",
+        "職場への直接性限定"
+      ]
+    },
+    {
+      "study_id": "bingham-1997",
+      "design": "program evaluation",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "単一大規模公的組織",
+        "自己選択・自己報告",
+        "法制度依存"
+      ]
+    },
+    {
+      "study_id": "latreille-2012",
+      "design": "survey study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "英国中小企業",
+        "観察調査",
+        "利用と効果を区別"
+      ]
+    },
+    {
+      "study_id": "saundry-2013",
+      "design": "official workplace study",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "英国制度",
+        "事例研究",
+        "非公式解決を強制しない"
+      ]
+    },
+    {
+      "study_id": "andersson-pearson-1999",
+      "design": "conceptual model",
+      "strength": "基礎理論・測定",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "概念論",
+        "incivility概念で差別・暴力を薄めない"
+      ]
+    },
+    {
+      "study_id": "cortina-2001",
+      "design": "field survey",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "横断自己報告",
+        "単一組織群",
+        "意図を確定しない"
+      ]
+    },
+    {
+      "study_id": "porath-erez-2007",
+      "design": "laboratory experiments",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "実験中心",
+        "短期課題",
+        "実職場の権力・反復性"
+      ]
+    },
+    {
+      "study_id": "hershcovis-2007",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "自己報告・横断研究が多い",
+        "被害者非難に使わない"
+      ]
+    },
+    {
+      "study_id": "hershcovis-barling-2010",
+      "design": "meta-analytic comparison",
+      "strength": "基礎理論・測定",
+      "directness": "統合研究",
+      "key_limits": [
+        "研究の異質性",
+        "相関研究中心"
+      ]
+    },
+    {
+      "study_id": "nielsen-einarsen-2012",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "自己報告・観察研究中心",
+        "診断ではない"
+      ]
+    },
+    {
+      "study_id": "verkuil-2015",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "自己報告",
+        "因果方向が複雑",
+        "医療診断ではない"
+      ]
+    },
+    {
+      "study_id": "willness-2007",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "自己報告・観察研究中心",
+        "法的定義・属性の多様性を別途確認"
+      ]
+    },
+    {
+      "study_id": "escartin-2016",
+      "design": "narrative review",
+      "strength": "基礎理論・測定",
+      "directness": "統合研究",
+      "key_limits": [
+        "ナラティブレビュー",
+        "介入比較試験が限定"
+      ]
+    },
+    {
+      "study_id": "morrison-2014",
+      "design": "annual review",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "ナラティブレビュー",
+        "発言を常に安全・有益としない"
+      ]
+    },
+    {
+      "study_id": "detert-edmondson-2011",
+      "design": "multimethod field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "自己報告・米国中心",
+        "暗黙理論を個人欠陥にしない"
+      ]
+    },
+    {
+      "study_id": "burris-2012",
+      "design": "field studies",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "観察研究",
+        "発言内容・関係・文化依存"
+      ]
+    },
+    {
+      "study_id": "kish-gephart-2009",
+      "design": "integrative review",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "ナラティブレビュー",
+        "恐れの測定・文化差"
+      ]
+    },
+    {
+      "study_id": "miceli-2008",
+      "design": "research monograph",
+      "strength": "基礎理論・測定",
+      "directness": "統合研究",
+      "key_limits": [
+        "書籍",
+        "法制度は更新確認",
+        "事案・証拠保全を重視"
+      ]
+    },
+    {
+      "study_id": "kim-2004",
+      "design": "laboratory experiments",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "実験シナリオ",
+        "実際の被害・法的責任へ単純適用しない"
+      ]
+    },
+    {
+      "study_id": "dirks-2009",
+      "design": "integrative framework",
+      "strength": "基礎理論・測定",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "概念統合",
+        "介入効果は手段ごとに異なる"
+      ]
+    },
+    {
+      "study_id": "tomlinson-mayer-2009",
+      "design": "conceptual model",
+      "strength": "基礎理論・測定",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "概念モデル",
+        "被害者に信頼回復義務を課さない"
+      ]
+    },
+    {
+      "study_id": "lewicki-brinsfield-2017",
+      "design": "annual review",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "実験研究が多い",
+        "赦し・和解・再契約を区別"
+      ]
+    },
+    {
+      "study_id": "fehr-2010",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "職場直接研究に限定されない",
+        "自己報告・相関研究",
+        "赦しを強制しない"
+      ]
+    },
+    {
+      "study_id": "wenzel-2008",
+      "design": "theoretical and experimental review",
+      "strength": "基礎理論・測定",
+      "directness": "統合研究",
+      "key_limits": [
+        "法・社会心理中心",
+        "職場制度へ直接移植しない"
+      ]
+    },
+    {
+      "study_id": "okimoto-wenzel-2009",
+      "design": "experimental studies",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "実験中心",
+        "職場の具体的安全・法的義務は別途"
+      ]
+    },
+    {
+      "study_id": "shnabel-nadler-2008",
+      "design": "experimental studies",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "集団間実験",
+        "職場直接性限定",
+        "二者役割の固定化に注意"
+      ]
+    },
+    {
+      "study_id": "colquitt-scale-2001",
+      "design": "measure validation",
+      "strength": "基礎理論・測定",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "尺度項目は再配布しない",
+        "法的適法性と同一でない"
+      ]
+    },
+    {
+      "study_id": "colquitt-meta-2001",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "相関研究中心",
+        "紛争解決施策の直接効果ではない"
+      ]
+    },
+    {
+      "study_id": "greenberg-1993",
+      "design": "field quasi-experiment",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "古典的準実験",
+        "単一企業",
+        "説明で賃金削減の正当性は決まらない"
+      ]
+    },
+    {
+      "study_id": "tyler-blader-2003",
+      "design": "integrative theory",
+      "strength": "基礎理論・測定",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "理論統合",
+        "協力を忠誠義務にしない"
+      ]
+    },
+    {
+      "study_id": "rupp-2014",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "相関研究中心",
+        "紛争対応施策の直接効果ではない"
+      ]
+    },
+    {
+      "study_id": "ilo-c190",
+      "design": "international labour convention",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "批准・国内実施を確認",
+        "個別法的助言ではない"
+      ]
+    },
+    {
+      "study_id": "ilo-r206",
+      "design": "international recommendation",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "勧告であり条約・国内法と地位が異なる"
+      ]
+    },
+    {
+      "study_id": "ilo-c154",
+      "design": "international labour convention",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "批准・国内制度を確認",
+        "個人交渉へ還元しない"
+      ]
+    },
+    {
+      "study_id": "ilo-c98",
+      "design": "international labour convention",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "批准・適用除外・国内制度を確認"
+      ]
+    },
+    {
+      "study_id": "ilo-c135",
+      "design": "international labour convention",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "批准・国内実施を確認"
+      ]
+    },
+    {
+      "study_id": "japan-individual-disputes",
+      "design": "Japanese statute",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "適用除外・手続・時効等を確認",
+        "個別法的助言ではない"
+      ]
+    },
+    {
+      "study_id": "japan-labor-adjustment",
+      "design": "Japanese statute",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "個別紛争制度と区別",
+        "現行手続を確認"
+      ]
+    },
+    {
+      "study_id": "japan-labor-policy",
+      "design": "Japanese statute",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "指針・判例・個別事実を確認",
+        "単なる厳しい指導との線引きを一般化しない"
+      ]
+    },
+    {
+      "study_id": "japan-equal-opportunity",
+      "design": "Japanese statute",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "現行指針・適用・救済を確認"
+      ]
+    },
+    {
+      "study_id": "japan-whistleblower",
+      "design": "Japanese statute",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "対象事実・通報先・要件・改正を確認"
+      ]
+    },
+    {
+      "study_id": "mhlw-harassment-guidance",
+      "design": "official guidance portal",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "ページ更新・指針改正を確認",
+        "個別該当性は専門窓口へ"
+      ]
+    },
+    {
+      "study_id": "acas-code-2015",
+      "design": "official code of practice",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "英国法・制度",
+        "日本へ直接適用しない",
+        "最新版を確認"
+      ]
+    }
+  ]
+}

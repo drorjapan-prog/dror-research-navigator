@@ -1,0 +1,66 @@
+{
+  "version": "0.1",
+  "release_decision": "完成条件を満たす（次分野へ移行可）",
+  "dimensions": [
+    {
+      "id": "definition-dynamics",
+      "status": "complete",
+      "evidence": "チーム・相互依存・IMOI・時間局面"
+    },
+    {
+      "id": "processes",
+      "status": "complete",
+      "evidence": "移行・行動・対人過程、調整、バックアップ"
+    },
+    {
+      "id": "cognition-information",
+      "status": "complete",
+      "evidence": "共有認知、TMS、独自情報、情報精緻化"
+    },
+    {
+      "id": "emergent-states",
+      "status": "complete",
+      "evidence": "信頼、結束、集合的効力感、心理的安全性"
+    },
+    {
+      "id": "conflict",
+      "status": "complete",
+      "evidence": "タスク・関係・プロセス対立、管理、修復"
+    },
+    {
+      "id": "diversity-power",
+      "status": "complete",
+      "evidence": "多様性、フォルトライン、少数意見、包摂、権力"
+    },
+    {
+      "id": "virtual-hybrid",
+      "status": "complete",
+      "evidence": "仮想性、信頼、文書化、サイロ、アクセシビリティ"
+    },
+    {
+      "id": "boundary-adaptation",
+      "status": "complete",
+      "evidence": "境界連携、外部依存、チーム適応、社会的手抜き"
+    },
+    {
+      "id": "interventions",
+      "status": "complete",
+      "evidence": "訓練、クロストレーニング、デブリーフ、評価"
+    },
+    {
+      "id": "rights-data",
+      "status": "complete",
+      "evidence": "ハラスメント、報復、救済、チーム分析、個人データ"
+    },
+    {
+      "id": "openness",
+      "status": "complete",
+      "evidence": "主張・研究・用語・採否・質・更新を公開"
+    }
+  ],
+  "remaining_non_blocking": [
+    "日本の職場・非正規雇用・交代勤務チームの介入研究は追加可能",
+    "生成AIをメンバーに含むチーム研究は急速に更新中",
+    "多チームシステムの詳細は今後の優先更新領域"
+  ]
+}

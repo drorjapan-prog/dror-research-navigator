@@ -1,0 +1,292 @@
+{
+  "name": "チームワーク・協働・対立 用語集",
+  "version": "0.1",
+  "license": "CC BY 4.0",
+  "terms": [
+    {
+      "id": "team",
+      "term": "チーム",
+      "definition": "共通成果のため仕事・情報・資源が相互依存する複数人の作業単位。"
+    },
+    {
+      "id": "work-group",
+      "term": "作業グループ",
+      "definition": "同じ所属でも成果が主に個人単位で生まれる集団。"
+    },
+    {
+      "id": "team-effectiveness",
+      "term": "チーム有効性",
+      "definition": "成果、構成員の経験、将来の協働能力を含む多面的な有効性。"
+    },
+    {
+      "id": "interdependence",
+      "term": "相互依存",
+      "definition": "メンバーの入力・行動・成果が互いに依存する程度。"
+    },
+    {
+      "id": "task-interdependence",
+      "term": "課題相互依存",
+      "definition": "仕事の遂行に他メンバーの入力や連携が必要な程度。"
+    },
+    {
+      "id": "outcome-interdependence",
+      "term": "成果相互依存",
+      "definition": "評価・報酬・結果が共同成果に結びつく程度。"
+    },
+    {
+      "id": "team-process",
+      "term": "チーム過程",
+      "definition": "目標達成へ向けメンバーが行う相互依存的な行動。"
+    },
+    {
+      "id": "transition-process",
+      "term": "移行過程",
+      "definition": "目標、計画、戦略を確認・形成する局面。"
+    },
+    {
+      "id": "action-process",
+      "term": "行動過程",
+      "definition": "進捗監視、調整、バックアップ等の遂行局面。"
+    },
+    {
+      "id": "interpersonal-process",
+      "term": "対人過程",
+      "definition": "葛藤、動機、感情、信頼等を扱う過程。"
+    },
+    {
+      "id": "emergent-state",
+      "term": "創発状態",
+      "definition": "信頼、結束、効力感等、相互作用から生じ次の過程へ影響する状態。"
+    },
+    {
+      "id": "coordination",
+      "term": "調整",
+      "definition": "行動、時間、資源、依存関係を整合させること。"
+    },
+    {
+      "id": "implicit-coordination",
+      "term": "暗黙的調整",
+      "definition": "明示的なやり取りを減らし予測と共有知識で動きを合わせる過程。"
+    },
+    {
+      "id": "backup-behavior",
+      "term": "バックアップ行動",
+      "definition": "必要時に他メンバーの仕事を支援・代替する行動。"
+    },
+    {
+      "id": "team-monitoring",
+      "term": "相互遂行監視",
+      "definition": "チーム目標のため進捗や状況を相互に把握すること。"
+    },
+    {
+      "id": "shared-mental-model",
+      "term": "共有メンタルモデル",
+      "definition": "課題、役割、状況、相互作用に関する重なり合う理解。"
+    },
+    {
+      "id": "team-cognition",
+      "term": "チーム認知",
+      "definition": "チームで分散・共有される知識、理解、処理。"
+    },
+    {
+      "id": "transactive-memory",
+      "term": "トランザクティブ・メモリー",
+      "definition": "誰が何を知るかに関する分化、信頼、調整の仕組み。"
+    },
+    {
+      "id": "information-sharing",
+      "term": "情報共有",
+      "definition": "情報を提示し、理解・統合・利用可能にする過程。"
+    },
+    {
+      "id": "information-elaboration",
+      "term": "情報精緻化",
+      "definition": "異なる情報や視点を交換し検討・統合すること。"
+    },
+    {
+      "id": "collective-efficacy",
+      "term": "集合的効力感",
+      "definition": "チームが課題を遂行できるという共有された見込み。"
+    },
+    {
+      "id": "team-potency",
+      "term": "チーム・ポテンシー",
+      "definition": "幅広い課題でチームが有効に機能できるという信念。"
+    },
+    {
+      "id": "cohesion",
+      "term": "結束",
+      "definition": "メンバーをチームへ結びつける課題的・社会的な力。"
+    },
+    {
+      "id": "team-identification",
+      "term": "チーム同一視",
+      "definition": "自分をチームの一員として捉える程度。"
+    },
+    {
+      "id": "trust",
+      "term": "信頼",
+      "definition": "他者が重要な場面で受容可能に行動すると期待し脆弱性を引き受ける状態。"
+    },
+    {
+      "id": "psychological-safety",
+      "term": "心理的安全性",
+      "definition": "対人リスクを取っても罰・拒絶・屈辱を受けにくいという共有認識。"
+    },
+    {
+      "id": "task-conflict",
+      "term": "タスク対立",
+      "definition": "仕事の内容、判断、考え方をめぐる不一致。"
+    },
+    {
+      "id": "relationship-conflict",
+      "term": "関係対立",
+      "definition": "個人的緊張、反感、摩擦を伴う不一致。"
+    },
+    {
+      "id": "process-conflict",
+      "term": "プロセス対立",
+      "definition": "役割、方法、資源配分、担当をめぐる不一致。"
+    },
+    {
+      "id": "conflict-management",
+      "term": "対立管理",
+      "definition": "対立の予防、表明、検討、決定、修復を扱う仕組み。"
+    },
+    {
+      "id": "constructive-controversy",
+      "term": "建設的論争",
+      "definition": "異なる立場を協同目標の下で開いて検討すること。"
+    },
+    {
+      "id": "minority-dissent",
+      "term": "少数意見",
+      "definition": "チーム内の多数見解と異なる意見や情報。"
+    },
+    {
+      "id": "diversity",
+      "term": "多様性",
+      "definition": "メンバー間の属性、経験、知識、価値、地位等の差異。"
+    },
+    {
+      "id": "faultline",
+      "term": "フォルトライン",
+      "definition": "複数属性の重なりによりチームが下位集団へ分かれやすい仮想的境界。"
+    },
+    {
+      "id": "social-categorization",
+      "term": "社会的カテゴリー化",
+      "definition": "人を集団カテゴリで分類し内集団・外集団を形成する過程。"
+    },
+    {
+      "id": "inclusion",
+      "term": "包摂",
+      "definition": "所属感と独自性を保ちながら実質参加・影響できる状態。"
+    },
+    {
+      "id": "shared-leadership",
+      "term": "共有リーダーシップ",
+      "definition": "影響・主導の役割が複数メンバーへ分散する状態。"
+    },
+    {
+      "id": "formal-leadership",
+      "term": "公式リーダーシップ",
+      "definition": "制度上任命され責任・権限を持つリーダーシップ。"
+    },
+    {
+      "id": "virtuality",
+      "term": "仮想性",
+      "definition": "地理的分散、電子依存、時間差、構成変動等の組合せ。"
+    },
+    {
+      "id": "virtual-team",
+      "term": "仮想チーム",
+      "definition": "主にデジタル手段を介して分散協働するチーム。"
+    },
+    {
+      "id": "hybrid-team",
+      "term": "ハイブリッドチーム",
+      "definition": "対面と遠隔、同時と非同期を組み合わせるチーム。"
+    },
+    {
+      "id": "boundary-spanning",
+      "term": "境界連携",
+      "definition": "チーム外の人・情報・資源・制度と接続し調整する活動。"
+    },
+    {
+      "id": "team-innovation",
+      "term": "チーム革新",
+      "definition": "チームが新しい有用な案・方法を生み実装すること。"
+    },
+    {
+      "id": "team-learning",
+      "term": "チーム学習",
+      "definition": "質問、探索、実験、振り返り等で知識・行動を共同更新する過程。"
+    },
+    {
+      "id": "team-reflexivity",
+      "term": "チーム省察",
+      "definition": "目標、戦略、過程、結果を共同で振り返り調整すること。"
+    },
+    {
+      "id": "debrief",
+      "term": "デブリーフ",
+      "definition": "出来事後に事実、期待との差、原因、次の行動を構造化して検討すること。"
+    },
+    {
+      "id": "cross-training",
+      "term": "クロストレーニング",
+      "definition": "他メンバーの役割・課題を学び相互理解を高める訓練。"
+    },
+    {
+      "id": "team-adaptation",
+      "term": "チーム適応",
+      "definition": "変化や予想外の状況に応じて認知・行動・役割を調整すること。"
+    },
+    {
+      "id": "team-analytics",
+      "term": "チーム分析",
+      "definition": "協働データからチームの状態・過程を記述・推定する分析。"
+    },
+    {
+      "id": "harassment",
+      "term": "ハラスメント",
+      "definition": "尊厳を侵害し身体・心理・性的・経済的害を生じ得る容認できない行為・慣行。"
+    },
+    {
+      "id": "retaliation",
+      "term": "報復",
+      "definition": "問題提起、申告、協力、権利行使に対する不利益な扱い。"
+    },
+    {
+      "id": "boundary-management",
+      "term": "境界管理",
+      "definition": "チーム内外の情報・資源・期待・依存関係を接続し調整すること。"
+    },
+    {
+      "id": "social-loafing",
+      "term": "社会的手抜き",
+      "definition": "共同作業で条件により個人の努力が単独時より低下する現象。"
+    },
+    {
+      "id": "contribution-visibility",
+      "term": "貢献の可視性",
+      "definition": "役割に応じた成果・支援・調整労働が適切に認識できる程度。"
+    },
+    {
+      "id": "team-composition",
+      "term": "チーム構成",
+      "definition": "メンバーの能力、経験、専門、属性等の組合せ。"
+    },
+    {
+      "id": "team-size",
+      "term": "チーム規模",
+      "definition": "チームに含まれるメンバー数。"
+    },
+    {
+      "id": "human-ai-team",
+      "term": "人間―AIチーム",
+      "definition": "人間とAIシステムが相互依存する役割を担う協働構成。"
+    }
+  ]
+}

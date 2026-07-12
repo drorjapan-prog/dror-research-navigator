@@ -1,0 +1,65 @@
+{
+  "name": "目標設定・人事評価・フィードバック・報酬 迅速エビデンスマップ・プロトコル",
+  "version": "0.1",
+  "review_type": "目標・測定・評定・対話・報酬・昇進・AI評価と権利を分離した迅速エビデンスマップ",
+  "research_questions": [
+    {
+      "id": "RQ1",
+      "question": "目標の難度・具体性・学習性・複数性は成果と副作用へどう関係するか。"
+    },
+    {
+      "id": "RQ2",
+      "question": "業績指標・人事評定をどう測り、誤差・ゲーム化・公平を扱うか。"
+    },
+    {
+      "id": "RQ3",
+      "question": "フィードバック・多面評価・探索をどう設計するか。"
+    },
+    {
+      "id": "RQ4",
+      "question": "金銭・非金銭、個人・チーム報酬は動機・品質・協働へどう関係するか。"
+    },
+    {
+      "id": "RQ5",
+      "question": "賃金透明性、格差、同一価値労働、昇進をどう統治するか。"
+    },
+    {
+      "id": "RQ6",
+      "question": "デジタル監視・AI評価・評価データ・異議申立てをどう統治するか。"
+    }
+  ],
+  "query_families": [
+    "goal setting meta-analysis difficult specific learning goals",
+    "goals gone wild unethical behavior target gaming",
+    "performance measurement systems review appraisal rating reliability",
+    "performance appraisal reactions social context review",
+    "feedback intervention meta-analysis feedback seeking environment",
+    "multisource feedback forced distribution review",
+    "financial incentives performance meta-analysis intrinsic motivation",
+    "team incentives pay dispersion pay secrecy",
+    "pay transparency equal remuneration performance reward gender",
+    "promotion Peter principle performance potential",
+    "algorithmic evaluation worker data human review",
+    "WHO mental health NIST AI RMF EU pay transparency"
+  ],
+  "inclusion": [
+    "目標設定・評定・報酬の主要理論・実証研究",
+    "メタ分析・主要統合レビュー",
+    "業績管理・フィードバック・報酬の介入・フィールド研究",
+    "賃金・データ・AI評価・健康の公式指針・制度"
+  ],
+  "exclusion": [
+    "OKR等の商業宣伝のみ",
+    "単一KPI・強制順位の無条件推奨",
+    "感情・忠誠心・健康の秘密AI推定",
+    "通信量・在席時間だけによる個人順位",
+    "透明性・救済なしの自動評価"
+  ],
+  "process_limitations": [
+    "単一レビュアーによる迅速整理",
+    "代表文献と書誌メタデータによる非網羅整理",
+    "効果量の独自再計算・正式なバイアス評価は未実施",
+    "実験・観察・統合・公式資料を直接性ラベルで分離",
+    "法的・税務・医療的個別助言ではない"
+  ]
+}

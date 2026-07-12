@@ -1,0 +1,543 @@
+{
+  "name": "バーンアウト 研究メタデータ",
+  "version": "0.1",
+  "notice": "論文本文・尺度項目は含みません。各権利者の条件に従ってください。",
+  "studies": [
+    {
+      "id": "freudenberger-1974",
+      "authors": "Freudenberger, H. J.",
+      "year": 1974,
+      "title": "Staff Burn-Out",
+      "journal": "Journal of Social Issues, 30(1), 159–165",
+      "doi": "10.1111/j.1540-4560.1974.tb00706.x",
+      "type": "clinical-observational concept paper",
+      "status": "peer-reviewed",
+      "population": "無料診療所のスタッフを中心とする対人援助職",
+      "sample": "臨床観察にもとづく初期報告",
+      "method": "スタッフの消耗状態を記述した概念形成論文",
+      "finding": "職務上の消耗をburn-outとして初期に記述",
+      "limitations": [
+        "現代の操作的定義以前",
+        "体系的標本・比較群がない"
+      ],
+      "source_url": "https://doi.org/10.1111/j.1540-4560.1974.tb00706.x",
+      "last_human_verified": "2026-07-11"
+    },
+    {
+      "id": "maslach-jackson-1981",
+      "authors": "Maslach, C., & Jackson, S. E.",
+      "year": 1981,
+      "title": "The Measurement of Experienced Burnout",
+      "journal": "Journal of Occupational Behaviour, 2(2), 99–113",
+      "doi": "10.1002/job.4030020205",
+      "type": "scale development",
+      "status": "peer-reviewed",
+      "population": "主に対人援助職",
+      "sample": "複数の職業標本。詳細は原文参照",
+      "method": "Maslach Burnout Inventoryの項目開発と因子検討",
+      "finding": "情緒的消耗、脱人格化、個人的達成感の低下という多次元測定を提示",
+      "limitations": [
+        "初期標本は対人援助職中心",
+        "尺度項目は第三者著作物",
+        "三下位尺度を単純合算すべきでない"
+      ],
+      "source_url": "https://doi.org/10.1002/job.4030020205",
+      "last_human_verified": "2026-07-11"
+    },
+    {
+      "id": "lee-ashforth-1996",
+      "authors": "Lee, R. T., & Ashforth, B. E.",
+      "year": 1996,
+      "title": "A Meta-Analytic Examination of the Correlates of the Three Dimensions of Job Burnout",
+      "journal": "Journal of Applied Psychology, 81(2), 123–133",
+      "doi": "10.1037/0021-9010.81.2.123",
+      "type": "meta-analysis",
+      "status": "peer-reviewed",
+      "population": "複数職種のバーンアウト研究",
+      "sample": "61研究",
+      "method": "三次元それぞれの相関要因をメタ分析",
+      "finding": "要求・資源・態度との関連は次元によって異なる",
+      "limitations": [
+        "主に横断研究",
+        "初期文献とMBI研究に依存"
+      ],
+      "source_url": "https://doi.org/10.1037/0021-9010.81.2.123",
+      "last_human_verified": "2026-07-11"
+    },
+    {
+      "id": "demerouti-2001",
+      "authors": "Demerouti, E., Bakker, A. B., Nachreiner, F., & Schaufeli, W. B.",
+      "year": 2001,
+      "title": "The Job Demands–Resources Model of Burnout",
+      "journal": "Journal of Applied Psychology, 86(3), 499–512",
+      "doi": "10.1037/0021-9010.86.3.499",
+      "type": "multisample field study",
+      "status": "peer-reviewed",
+      "population": "異なる職種の従業員",
+      "sample": "3つの職業標本",
+      "method": "仕事の要求度・資源と消耗・離脱の関係を検証",
+      "finding": "高い要求は消耗、資源不足は離脱と関連するというJD-Rモデルを支持",
+      "limitations": [
+        "観察研究",
+        "職務ごとに要求・資源の内容が異なる"
+      ],
+      "source_url": "https://doi.org/10.1037/0021-9010.86.3.499",
+      "last_human_verified": "2026-07-11"
+    },
+    {
+      "id": "kitaoka-2004",
+      "authors": "Kitaoka-Higashiguchi, K., Ogino, K., & Masuda, S.",
+      "year": 2004,
+      "title": "Validation of Japanese Research Version of Maslach Burnout Inventory–General Survey",
+      "journal": "The Japanese Journal of Psychology, 75(5), 415–419",
+      "doi": "10.4992/jjpsy.75.415",
+      "type": "Japanese scale validation",
+      "status": "peer-reviewed",
+      "population": "日本の労働者",
+      "sample": "職域標本。解析人数は原文参照",
+      "method": "MBI-GS日本語研究版の因子構造・信頼性・妥当性を検討",
+      "finding": "日本語での研究利用に測定根拠を提示",
+      "limitations": [
+        "研究版",
+        "利用条件の確認が必要",
+        "全国基準値ではない"
+      ],
+      "source_url": "https://doi.org/10.4992/jjpsy.75.415",
+      "last_human_verified": "2026-07-11"
+    },
+    {
+      "id": "maslach-leiter-2008",
+      "authors": "Maslach, C., & Leiter, M. P.",
+      "year": 2008,
+      "title": "Early Predictors of Job Burnout and Engagement",
+      "journal": "Journal of Applied Psychology, 93(3), 498–512",
+      "doi": "10.1037/0021-9010.93.3.498",
+      "type": "longitudinal field study",
+      "status": "peer-reviewed",
+      "population": "職場従業員",
+      "sample": "縦断職域標本。詳細は原文参照",
+      "method": "仕事生活領域と後続のバーンアウト・エンゲージメントを分析",
+      "finding": "仕事と個人の不適合領域が将来の状態と関連",
+      "limitations": [
+        "自己報告",
+        "特定組織文脈",
+        "因果の完全な確定ではない"
+      ],
+      "source_url": "https://doi.org/10.1037/0021-9010.93.3.498",
+      "last_human_verified": "2026-07-11"
+    },
+    {
+      "id": "awa-2010",
+      "authors": "Awa, W. L., Plaumann, M., & Walter, U.",
+      "year": 2010,
+      "title": "Burnout Prevention: A Review of Intervention Programs",
+      "journal": "Patient Education and Counseling, 78(2), 184–190",
+      "doi": "10.1016/j.pec.2009.04.008",
+      "type": "systematic-style intervention review",
+      "status": "peer-reviewed",
+      "population": "職場のバーンアウト介入",
+      "sample": "25介入研究",
+      "method": "個人・組織・複合介入をレビュー",
+      "finding": "多くで短期改善が報告されたが持続性と研究品質に課題",
+      "limitations": [
+        "研究間の異質性",
+        "古い研究群",
+        "無作為化が少ない"
+      ],
+      "source_url": "https://doi.org/10.1016/j.pec.2009.04.008",
+      "last_human_verified": "2026-07-11"
+    },
+    {
+      "id": "alarcon-2011",
+      "authors": "Alarcon, G. M.",
+      "year": 2011,
+      "title": "A Meta-Analysis of Burnout with Job Demands, Resources, and Attitudes",
+      "journal": "Journal of Vocational Behavior, 79(2), 549–562",
+      "doi": "10.1016/j.jvb.2011.03.007",
+      "type": "meta-analysis",
+      "status": "peer-reviewed",
+      "population": "複数職種・産業",
+      "sample": "メタ分析採用研究群",
+      "method": "要求、資源、職務態度とバーンアウト次元の関連を統合",
+      "finding": "要求の高さと資源の不足がバーンアウトと関連",
+      "limitations": [
+        "横断研究が多い",
+        "構成概念と尺度の異質性"
+      ],
+      "source_url": "https://doi.org/10.1016/j.jvb.2011.03.007",
+      "last_human_verified": "2026-07-11"
+    },
+    {
+      "id": "bakker-2014",
+      "authors": "Bakker, A. B., Demerouti, E., & Sanz-Vergel, A. I.",
+      "year": 2014,
+      "title": "Burnout and Work Engagement: The JD–R Approach",
+      "journal": "Annual Review of Organizational Psychology and Organizational Behavior, 1, 389–411",
+      "doi": "10.1146/annurev-orgpsych-031413-091235",
+      "type": "integrative review",
+      "status": "peer-reviewed",
+      "population": "職場のバーンアウト・エンゲージメント研究",
+      "sample": "主要理論・実証研究の統合",
+      "method": "JD-R理論から消耗過程と動機づけ過程を整理",
+      "finding": "要求と資源を別々に測り、個人だけでなく仕事設計を見る枠組みを提示",
+      "limitations": [
+        "ナラティブ統合",
+        "個別介入の効果量統合ではない"
+      ],
+      "source_url": "https://doi.org/10.1146/annurev-orgpsych-031413-091235",
+      "last_human_verified": "2026-07-11"
+    },
+    {
+      "id": "kubo-2014",
+      "authors": "Kubo, M.",
+      "year": 2014,
+      "title": "The Factorial and Construct Validity of the Japanese Burnout Scale among Service Workers",
+      "journal": "The Japanese Journal of Psychology, 85(4), 364–372",
+      "doi": "10.4992/jjpsy.85.13214",
+      "type": "Japanese scale validation",
+      "status": "peer-reviewed",
+      "population": "日本のサービス職",
+      "sample": "複数のサービス職標本",
+      "method": "日本版バーンアウト尺度の因子・構成概念妥当性を検討",
+      "finding": "日本の対人サービス職で三因子構造の測定根拠を検討",
+      "limitations": [
+        "サービス職中心",
+        "他尺度との得点互換性はない"
+      ],
+      "source_url": "https://doi.org/10.4992/jjpsy.85.13214",
+      "last_human_verified": "2026-07-11"
+    },
+    {
+      "id": "maslach-leiter-2016",
+      "authors": "Maslach, C., & Leiter, M. P.",
+      "year": 2016,
+      "title": "Understanding the Burnout Experience: Recent Research and Its Implications for Psychiatry",
+      "journal": "World Psychiatry, 15(2), 103–111",
+      "doi": "10.1002/wps.20311",
+      "type": "state-of-the-field review",
+      "status": "peer-reviewed",
+      "population": "職場バーンアウト研究",
+      "sample": "概念・測定・原因・介入研究の統合",
+      "method": "領域レビュー",
+      "finding": "個人と仕事の不適合、三次元、組織的対処を整理",
+      "limitations": [
+        "系統的レビューではない",
+        "臨床診断基準を確立する論文ではない"
+      ],
+      "source_url": "https://doi.org/10.1002/wps.20311",
+      "last_human_verified": "2026-07-11"
+    },
+    {
+      "id": "west-2016",
+      "authors": "West, C. P., Dyrbye, L. N., Erwin, P. J., & Shanafelt, T. D.",
+      "year": 2016,
+      "title": "Interventions to Prevent and Reduce Physician Burnout: A Systematic Review and Meta-Analysis",
+      "journal": "The Lancet, 388(10057), 2272–2281",
+      "doi": "10.1016/S0140-6736(16)31279-X",
+      "type": "systematic review and meta-analysis",
+      "status": "peer-reviewed",
+      "population": "医師",
+      "sample": "15ランダム化試験と37コホート研究",
+      "method": "個人・組織介入の統合",
+      "finding": "全体として小さい改善。組織介入も有効性を示す",
+      "limitations": [
+        "医師中心",
+        "介入・尺度の異質性",
+        "出版バイアスの可能性"
+      ],
+      "source_url": "https://doi.org/10.1016/S0140-6736(16)31279-X",
+      "last_human_verified": "2026-07-11"
+    },
+    {
+      "id": "aronsson-2017",
+      "authors": "Aronsson, G., Theorell, T., Grape, T., et al.",
+      "year": 2017,
+      "title": "A Systematic Review Including Meta-Analysis of Work Environment and Burnout Symptoms",
+      "journal": "BMC Public Health, 17, 264",
+      "doi": "10.1186/s12889-017-4153-7",
+      "type": "systematic review and meta-analysis",
+      "status": "peer-reviewed",
+      "population": "労働者の縦断研究",
+      "sample": "25研究",
+      "method": "心理社会的労働環境と後続の消耗症状を統合",
+      "finding": "高要求、低裁量、低支援、報酬不足等が消耗と関連",
+      "limitations": [
+        "主に自己報告",
+        "曝露定義の異質性",
+        "因果推論に残余交絡"
+      ],
+      "source_url": "https://doi.org/10.1186/s12889-017-4153-7",
+      "last_human_verified": "2026-07-11"
+    },
+    {
+      "id": "salvagioni-2017",
+      "authors": "Salvagioni, D. A. J., Melanda, F. N., Mesas, A. E., et al.",
+      "year": 2017,
+      "title": "Physical, Psychological and Occupational Consequences of Job Burnout: A Systematic Review of Prospective Studies",
+      "journal": "PLOS ONE, 12(10), e0185781",
+      "doi": "10.1371/journal.pone.0185781",
+      "type": "systematic review of prospective studies",
+      "status": "peer-reviewed",
+      "population": "複数職種の労働者",
+      "sample": "61研究を採用、主要品質基準を満たす36研究を分析",
+      "method": "バーンアウト後の身体・心理・職業上の結果を前向き研究で整理",
+      "finding": "複数の健康・欠勤・職務結果を予測した研究がある一方、結果の不一致もある",
+      "limitations": [
+        "メタ分析ではない",
+        "尺度とアウトカムが多様",
+        "欧州・北欧研究が多い"
+      ],
+      "source_url": "https://doi.org/10.1371/journal.pone.0185781",
+      "last_human_verified": "2026-07-11"
+    },
+    {
+      "id": "perski-2017",
+      "authors": "Perski, O., Grossi, G., Perski, A., & Niemi, M.",
+      "year": 2017,
+      "title": "A Systematic Review and Meta-Analysis of Tertiary Interventions in Clinical Burnout",
+      "journal": "Scandinavian Journal of Psychology, 58(6), 551–561",
+      "doi": "10.1111/sjop.12398",
+      "type": "systematic review and meta-analysis",
+      "status": "peer-reviewed",
+      "population": "臨床的バーンアウトで休職・治療中の成人",
+      "sample": "介入研究群。件数は原文参照",
+      "method": "すでに重い症状をもつ人への介入を統合",
+      "finding": "症状改善の可能性はあるが復職等の根拠は限定的",
+      "limitations": [
+        "定義と治療が異質",
+        "研究数・質が限定",
+        "予防介入とは別"
+      ],
+      "source_url": "https://doi.org/10.1111/sjop.12398",
+      "last_human_verified": "2026-07-11"
+    },
+    {
+      "id": "rotenstein-2018",
+      "authors": "Rotenstein, L. S., Torre, M., Ramos, M. A., et al.",
+      "year": 2018,
+      "title": "Prevalence of Physician Burnout: A Systematic Review",
+      "journal": "JAMA, 320(11), 1131–1150",
+      "doi": "10.1001/jama.2018.12777",
+      "type": "systematic review",
+      "status": "peer-reviewed",
+      "population": "医師",
+      "sample": "182研究、109,628人",
+      "method": "有病率研究の定義・尺度・カットオフを比較",
+      "finding": "バーンアウト定義が少なくとも142通りあり、有病率の単純比較が困難",
+      "limitations": [
+        "医師に限定",
+        "研究間異質性が非常に高い",
+        "有病率の単一値を出せない"
+      ],
+      "source_url": "https://doi.org/10.1001/jama.2018.12777",
+      "last_human_verified": "2026-07-11"
+    },
+    {
+      "id": "koutsimani-2019",
+      "authors": "Koutsimani, P., Montgomery, A., & Georganta, K.",
+      "year": 2019,
+      "title": "The Relationship Between Burnout, Depression, and Anxiety: A Systematic Review and Meta-Analysis",
+      "journal": "Frontiers in Psychology, 10, 284",
+      "doi": "10.3389/fpsyg.2019.00284",
+      "type": "systematic review and meta-analysis",
+      "status": "peer-reviewed",
+      "population": "複数職種・標本",
+      "sample": "67研究",
+      "method": "バーンアウト、抑うつ、不安の相関を統合",
+      "finding": "強い関連があるが、統計上は区別される構成概念として扱えると報告",
+      "limitations": [
+        "横断研究中心",
+        "共通方法バイアス",
+        "尺度の重複"
+      ],
+      "source_url": "https://doi.org/10.3389/fpsyg.2019.00284",
+      "last_human_verified": "2026-07-11"
+    },
+    {
+      "id": "de-simone-2019",
+      "authors": "De Simone, S., Vargas, M., & Servillo, G.",
+      "year": 2019,
+      "title": "Organizational Strategies to Reduce Physician Burnout: A Systematic Review and Meta-Analysis",
+      "journal": "Aging Clinical and Experimental Research, 33, 883–894",
+      "doi": "10.1007/s40520-019-01368-3",
+      "type": "systematic review and meta-analysis",
+      "status": "peer-reviewed",
+      "population": "医師",
+      "sample": "組織介入研究群",
+      "method": "勤務・業務プロセス等の組織戦略を統合",
+      "finding": "組織レベル介入による改善を支持するが効果と実装は不均一",
+      "limitations": [
+        "医療中心",
+        "研究数とデザインの制約",
+        "組織介入の定義が広い"
+      ],
+      "source_url": "https://doi.org/10.1007/s40520-019-01368-3",
+      "last_human_verified": "2026-07-11"
+    },
+    {
+      "id": "who-2019",
+      "authors": "World Health Organization",
+      "year": 2019,
+      "title": "Burn-out an Occupational Phenomenon: International Classification of Diseases",
+      "journal": "World Health Organization departmental update",
+      "url": "https://www.who.int/news/item/28-05-2019-burn-out-an-occupational-phenomenon-international-classification-of-diseases",
+      "type": "official classification explanation",
+      "status": "official-source",
+      "population": "ICD-11における職業上の現象",
+      "sample": "国際疾病分類の公式説明",
+      "method": "ICD-11の位置づけと定義を公開",
+      "finding": "バーンアウトを疾患ではなく職業上の現象とし、三側面と仕事領域への限定を明示",
+      "limitations": [
+        "実証研究ではない",
+        "各国の診断・補償制度を統一するものではない"
+      ],
+      "source_url": "https://www.who.int/news/item/28-05-2019-burn-out-an-occupational-phenomenon-international-classification-of-diseases",
+      "last_human_verified": "2026-07-11"
+    },
+    {
+      "id": "schaufeli-2020",
+      "authors": "Schaufeli, W. B., Desart, S., & De Witte, H.",
+      "year": 2020,
+      "title": "Burnout Assessment Tool (BAT)—Development, Validity, and Reliability",
+      "journal": "International Journal of Environmental Research and Public Health, 17(24), 9495",
+      "doi": "10.3390/ijerph17249495",
+      "type": "measure development and validation",
+      "status": "peer-reviewed",
+      "population": "フランドル地方の一般労働者とバーンアウト実務家",
+      "sample": "実務家49人への質的調査、代表的労働者標本1,500人",
+      "method": "質的概念形成と因子構造・信頼性・妥当性の検証",
+      "finding": "消耗、精神的距離、情緒・認知機能低下を中核とするBATを提示",
+      "limitations": [
+        "MBIと異なる概念モデル",
+        "一地域の代表標本",
+        "国別閾値は別途検証が必要"
+      ],
+      "source_url": "https://doi.org/10.3390/ijerph17249495",
+      "last_human_verified": "2026-07-11"
+    },
+    {
+      "id": "sakakibara-2020",
+      "authors": "Sakakibara, K., Shimazu, A., Toyama, H., & Schaufeli, W. B.",
+      "year": 2020,
+      "title": "Validation of the Japanese Version of the Burnout Assessment Tool",
+      "journal": "Frontiers in Psychology, 11, 1819",
+      "doi": "10.3389/fpsyg.2020.01819",
+      "type": "Japanese scale validation",
+      "status": "peer-reviewed",
+      "population": "日本の労働者",
+      "sample": "第1波1,032人、適格解析982人、1か月再検査485人",
+      "method": "BAT日本語版の構造、内的一貫性、再検査信頼性、収束・弁別妥当性を検討",
+      "finding": "日本語版BATの測定根拠を提示",
+      "limitations": [
+        "オンライン標本",
+        "主要妥当性分析は観察的",
+        "診断尺度・臨床カットオフの確立とは別"
+      ],
+      "source_url": "https://doi.org/10.3389/fpsyg.2020.01819",
+      "last_human_verified": "2026-07-11"
+    },
+    {
+      "id": "chen-meier-2021",
+      "authors": "Chen, C., & Meier, S. T.",
+      "year": 2021,
+      "title": "Burnout and Depression in Nurses: A Systematic Review and Meta-Analysis",
+      "journal": "International Journal of Nursing Studies, 124, 104099",
+      "doi": "10.1016/j.ijnurstu.2021.104099",
+      "type": "systematic review and meta-analysis",
+      "status": "peer-reviewed",
+      "population": "看護師",
+      "sample": "37研究",
+      "method": "バーンアウトと抑うつの関連・弁別を統合",
+      "finding": "高い相関があり併存評価が重要",
+      "limitations": [
+        "看護師中心",
+        "横断研究が多い",
+        "測定項目の重複"
+      ],
+      "source_url": "https://doi.org/10.1016/j.ijnurstu.2021.104099",
+      "last_human_verified": "2026-07-11"
+    },
+    {
+      "id": "who-2022",
+      "authors": "World Health Organization",
+      "year": 2022,
+      "title": "WHO Guidelines on Mental Health at Work",
+      "journal": "World Health Organization",
+      "url": "https://www.who.int/publications/i/item/9789240053052",
+      "type": "evidence-based guideline",
+      "status": "official-guideline",
+      "population": "働く人全般",
+      "sample": "複数のシステマティックレビューにもとづく勧告",
+      "method": "GRADE等にもとづく職場メンタルヘルス介入指針",
+      "finding": "心理社会的リスクを減らす組織介入、管理職研修、労働者支援等を勧告",
+      "limitations": [
+        "バーンアウト専用ガイドラインではない",
+        "地域・資源に応じた実装が必要"
+      ],
+      "source_url": "https://www.who.int/publications/i/item/9789240053052",
+      "last_human_verified": "2026-07-11"
+    },
+    {
+      "id": "lee-cha-2023",
+      "authors": "Lee, M., & Cha, C.",
+      "year": 2023,
+      "title": "Interventions to Reduce Burnout among Clinical Nurses: Systematic Review and Meta-Analysis",
+      "journal": "Scientific Reports, 13, 10971",
+      "doi": "10.1038/s41598-023-38169-8",
+      "type": "systematic review and meta-analysis",
+      "status": "peer-reviewed",
+      "population": "臨床看護師",
+      "sample": "30研究",
+      "method": "個人・組織介入を統合",
+      "finding": "複数介入で改善を報告するが、介入と効果の異質性が大きい",
+      "limitations": [
+        "看護師中心",
+        "追跡が短い研究を含む",
+        "盲検化困難"
+      ],
+      "source_url": "https://doi.org/10.1038/s41598-023-38169-8",
+      "last_human_verified": "2026-07-11"
+    },
+    {
+      "id": "debeer-2024",
+      "authors": "De Beer, L. T., van der Vaart, L., Escaffi-Schwarz, M., De Witte, H., & Schaufeli, W. B.",
+      "year": 2024,
+      "title": "Maslach Burnout Inventory–General Survey: A Systematic Review and Meta-Analysis of Measurement Properties",
+      "journal": "European Journal of Psychological Assessment",
+      "doi": "10.1027/1015-5759/a000797",
+      "type": "measurement systematic review and meta-analysis",
+      "status": "peer-reviewed",
+      "population": "MBI-GSを使った労働者研究",
+      "sample": "多国・多職種の測定研究",
+      "method": "因子構造、信頼性、測定不変性等を統合",
+      "finding": "広範な利用実績と同時にモデル・文化間比較の課題を整理",
+      "limitations": [
+        "一次研究の報告品質に依存",
+        "尺度利用条件は別途確認"
+      ],
+      "source_url": "https://doi.org/10.1027/1015-5759/a000797",
+      "last_human_verified": "2026-07-11"
+    },
+    {
+      "id": "haslam-2024",
+      "authors": "Haslam, A., Tuia, J., Miller, S. L., & Prasad, V.",
+      "year": 2024,
+      "title": "Systematic Review and Meta-Analysis of Randomized Trials Testing Interventions to Reduce Physician Burnout",
+      "journal": "The American Journal of Medicine, 137(3), 228–234",
+      "doi": "10.1016/j.amjmed.2023.10.003",
+      "type": "systematic review and meta-analysis of RCTs",
+      "status": "peer-reviewed",
+      "population": "医師",
+      "sample": "無作為化試験群",
+      "method": "個人・組織介入RCTに限定して統合",
+      "finding": "効果は小さく不確実性が残るため、誇大な介入主張に注意が必要",
+      "limitations": [
+        "医師中心",
+        "介入・測定の異質性",
+        "長期効果が不足"
+      ],
+      "source_url": "https://doi.org/10.1016/j.amjmed.2023.10.003",
+      "last_human_verified": "2026-07-11"
+    }
+  ]
+}

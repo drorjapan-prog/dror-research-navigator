@@ -1,0 +1,352 @@
+{
+  "name": "目標設定・人事評価・フィードバック・報酬 用語集",
+  "version": "0.1",
+  "license": "CC BY 4.0",
+  "terms": [
+    {
+      "id": "performance-management",
+      "term": "業績管理",
+      "definition": "目的、目標、資源、測定、対話、評価、報酬、育成、更新を結ぶ制度。"
+    },
+    {
+      "id": "performance-appraisal",
+      "term": "人事評価",
+      "definition": "一定期間の仕事・行動・成果を評定し判断へ用いる過程。"
+    },
+    {
+      "id": "goal-setting",
+      "term": "目標設定",
+      "definition": "達成すべき結果・状態・学習を定めること。"
+    },
+    {
+      "id": "goal-difficulty",
+      "term": "目標難度",
+      "definition": "目標達成に必要な努力・能力の高さ。"
+    },
+    {
+      "id": "goal-specificity",
+      "term": "目標具体性",
+      "definition": "求める結果・期限・基準が明確な程度。"
+    },
+    {
+      "id": "goal-commitment",
+      "term": "目標コミットメント",
+      "definition": "目標を達成しようとする決意と持続。"
+    },
+    {
+      "id": "performance-goal",
+      "term": "業績目標",
+      "definition": "達成すべき結果・水準を中心とする目標。"
+    },
+    {
+      "id": "learning-goal",
+      "term": "学習目標",
+      "definition": "知識・技能・方略の獲得を中心とする目標。"
+    },
+    {
+      "id": "multiple-goals",
+      "term": "複数目標",
+      "definition": "品質、量、安全、学習等を同時に追う目標構成。"
+    },
+    {
+      "id": "goal-conflict",
+      "term": "目標葛藤",
+      "definition": "複数目標の同時達成が互いに妨げ合う状態。"
+    },
+    {
+      "id": "goal-displacement",
+      "term": "目標置換",
+      "definition": "本来目的より指標達成自体が目的になること。"
+    },
+    {
+      "id": "gaming",
+      "term": "ゲーム化",
+      "definition": "制度の意図より指標・ルール上の得点を最適化する行動。"
+    },
+    {
+      "id": "kpi",
+      "term": "KPI",
+      "definition": "重要業績評価指標。目的達成の状態・進捗を表す代理指標。"
+    },
+    {
+      "id": "mbo",
+      "term": "目標による管理",
+      "definition": "目標設定とレビューを通じて管理する制度群。"
+    },
+    {
+      "id": "okr",
+      "term": "OKR",
+      "definition": "Objectives and Key Results。目的と主要結果を結ぶ目標運用方式。"
+    },
+    {
+      "id": "metric-fixation",
+      "term": "指標固執",
+      "definition": "測定可能な指標へ過度に注意・資源を集中すること。"
+    },
+    {
+      "id": "performance-measure",
+      "term": "業績指標",
+      "definition": "仕事の量、質、時間、結果等を表す測定値。"
+    },
+    {
+      "id": "opportunity-to-perform",
+      "term": "遂行機会",
+      "definition": "期待される仕事を実際に行い、成果を示せる機会。"
+    },
+    {
+      "id": "rating",
+      "term": "評定",
+      "definition": "尺度やカテゴリを用いて業績・行動等を評価すること。"
+    },
+    {
+      "id": "rater",
+      "term": "評定者",
+      "definition": "評価を行う上司、同僚、部下、顧客等。"
+    },
+    {
+      "id": "ratee",
+      "term": "被評定者",
+      "definition": "評価を受ける人。"
+    },
+    {
+      "id": "rating-reliability",
+      "term": "評定信頼性",
+      "definition": "繰り返し・評定者間で評定が一貫する程度。"
+    },
+    {
+      "id": "rating-validity",
+      "term": "評定妥当性",
+      "definition": "評定が意図する業績を適切に捉える程度。"
+    },
+    {
+      "id": "rater-effect",
+      "term": "評定者効果",
+      "definition": "評定者固有の基準・傾向・関係が評定へ与える影響。"
+    },
+    {
+      "id": "halo",
+      "term": "ハロー効果",
+      "definition": "一つの全体印象が複数評価次元へ広がること。"
+    },
+    {
+      "id": "leniency",
+      "term": "寛大化",
+      "definition": "全般に高い評定を付ける傾向。"
+    },
+    {
+      "id": "central-tendency",
+      "term": "中心化傾向",
+      "definition": "極端な評定を避け中間へ集める傾向。"
+    },
+    {
+      "id": "appraisal-reaction",
+      "term": "評価反応",
+      "definition": "被評価者の公正、有用性、満足、正確性等の認識。"
+    },
+    {
+      "id": "feedback",
+      "term": "フィードバック",
+      "definition": "過去・現在の遂行情報を示し次の注意・行動へ影響させる情報。"
+    },
+    {
+      "id": "feedback-intervention",
+      "term": "フィードバック介入",
+      "definition": "遂行情報を意図的に提示して行動・学習を変える介入。"
+    },
+    {
+      "id": "feedback-seeking",
+      "term": "フィードバック探索",
+      "definition": "自ら観察・質問して評価情報を得る行動。"
+    },
+    {
+      "id": "feedback-environment",
+      "term": "フィードバック環境",
+      "definition": "情報源、質、頻度、利用可能性、支援等の職場条件。"
+    },
+    {
+      "id": "multisource-feedback",
+      "term": "多面フィードバック",
+      "definition": "上司、同僚、部下、自己等の複数情報源による評価。"
+    },
+    {
+      "id": "forced-distribution",
+      "term": "強制分布",
+      "definition": "一定割合を各評価区分へ割り当てる制度。"
+    },
+    {
+      "id": "stack-ranking",
+      "term": "スタックランキング",
+      "definition": "構成員を相対順位で並べる評価方式。"
+    },
+    {
+      "id": "base-pay",
+      "term": "基本給",
+      "definition": "業績変動に直接連動しない基礎的な金銭報酬。"
+    },
+    {
+      "id": "variable-pay",
+      "term": "変動給",
+      "definition": "業績、利益、個人・集団成果等により変動する報酬。"
+    },
+    {
+      "id": "financial-incentive",
+      "term": "金銭インセンティブ",
+      "definition": "業績・行動等に条件づけられた金銭的誘因。"
+    },
+    {
+      "id": "pay-for-performance",
+      "term": "成果給",
+      "definition": "測定された成果・業績に報酬を連動させる制度。"
+    },
+    {
+      "id": "piece-rate",
+      "term": "出来高給",
+      "definition": "生産・処理単位数に応じて支払う報酬。"
+    },
+    {
+      "id": "team-incentive",
+      "term": "チーム報酬",
+      "definition": "チーム成果に連動して構成員へ支払う報酬。"
+    },
+    {
+      "id": "tournament",
+      "term": "トーナメント報酬",
+      "definition": "絶対成果でなく相対順位に基づく報酬。"
+    },
+    {
+      "id": "intrinsic-motivation",
+      "term": "内発的動機",
+      "definition": "活動自体の興味・楽しさ・意味から生じる動機。"
+    },
+    {
+      "id": "extrinsic-incentive",
+      "term": "外発的誘因",
+      "definition": "報酬・制裁等の外部結果から生じる誘因。"
+    },
+    {
+      "id": "crowding-out",
+      "term": "クラウディングアウト",
+      "definition": "外的統制・報酬が内発的動機を弱めること。"
+    },
+    {
+      "id": "recognition",
+      "term": "承認",
+      "definition": "貢献・成果・努力を認め伝えること。"
+    },
+    {
+      "id": "pay-dispersion",
+      "term": "賃金分散",
+      "definition": "組織・集団内の賃金差の大きさ。"
+    },
+    {
+      "id": "pay-secrecy",
+      "term": "賃金秘密",
+      "definition": "賃金情報の共有・討議を制限する慣行。"
+    },
+    {
+      "id": "pay-transparency",
+      "term": "賃金透明性",
+      "definition": "賃金範囲、基準、格差、決定過程等への情報アクセス。"
+    },
+    {
+      "id": "equal-pay",
+      "term": "同一報酬",
+      "definition": "同一労働または同一価値労働に対する平等な報酬原則。"
+    },
+    {
+      "id": "work-of-equal-value",
+      "term": "同一価値労働",
+      "definition": "異なる職務でも技能、努力、責任、条件等から同等価値と評価される仕事。"
+    },
+    {
+      "id": "meritocracy",
+      "term": "能力主義",
+      "definition": "能力・努力・成果に基づき機会・報酬を配分するという原則。"
+    },
+    {
+      "id": "performance-reward-gap",
+      "term": "業績―報酬格差",
+      "definition": "同程度の業績でも報酬が異なる状態。"
+    },
+    {
+      "id": "promotion",
+      "term": "昇進",
+      "definition": "より大きな責任・権限・地位を持つ役割への移動。"
+    },
+    {
+      "id": "peter-principle",
+      "term": "ピーターの法則",
+      "definition": "現在職の成績で昇進し次職能力と不一致が生じる問題。"
+    },
+    {
+      "id": "potential",
+      "term": "潜在能力",
+      "definition": "将来の特定役割・課題で成果を出す可能性に関する予測。"
+    },
+    {
+      "id": "organizational-justice",
+      "term": "組織的公正",
+      "definition": "分配、手続、対人、情報の公正に関する概念。"
+    },
+    {
+      "id": "distributive-justice",
+      "term": "分配的公正",
+      "definition": "成果・報酬・負担の配分の公正。"
+    },
+    {
+      "id": "procedural-justice",
+      "term": "手続的公正",
+      "definition": "決定手続の一貫性、偏り抑制、訂正可能性等の公正。"
+    },
+    {
+      "id": "interpersonal-justice",
+      "term": "対人的公正",
+      "definition": "尊重・尊厳をもって扱われること。"
+    },
+    {
+      "id": "informational-justice",
+      "term": "情報的公正",
+      "definition": "十分で誠実・適時な説明を受けること。"
+    },
+    {
+      "id": "adverse-impact",
+      "term": "不利益な影響",
+      "definition": "表面的に中立な制度が特定集団へ不均衡な不利益を与える状態。"
+    },
+    {
+      "id": "algorithmic-evaluation",
+      "term": "アルゴリズム評価",
+      "definition": "アルゴリズムで業績・行動・能力等を測定・推定する評価。"
+    },
+    {
+      "id": "automated-monitoring",
+      "term": "自動監視",
+      "definition": "電子的手段で行動・業績・通信等を継続収集・分析する仕組み。"
+    },
+    {
+      "id": "human-review",
+      "term": "人による再審査",
+      "definition": "自動・一次判断を人が独立に理解・検討・訂正する手続。"
+    },
+    {
+      "id": "contestability",
+      "term": "異議申立て可能性",
+      "definition": "評価理由を知り、争い、訂正・再審査・救済を求められる性質。"
+    },
+    {
+      "id": "reasonable-accommodation",
+      "term": "合理的配慮",
+      "definition": "障壁を除き平等な就労機会を確保するための必要・適切な変更。"
+    },
+    {
+      "id": "secondary-use",
+      "term": "二次利用",
+      "definition": "当初目的と異なる目的でデータを利用すること。"
+    },
+    {
+      "id": "metric-audit",
+      "term": "指標監査",
+      "definition": "指標の妥当性、ゲーム化、分配影響、更新必要性を点検すること。"
+    }
+  ]
+}

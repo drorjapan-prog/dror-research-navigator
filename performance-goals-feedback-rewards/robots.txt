@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://research.dror.co.jp/performance-goals-feedback-rewards/sitemap.xml

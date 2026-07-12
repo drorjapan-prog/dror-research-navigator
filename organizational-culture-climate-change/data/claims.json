@@ -1,0 +1,1692 @@
+{
+  "name": "組織文化・組織風土・規範・文化変革 主張レジスター",
+  "version": "0.1",
+  "license": "CC BY 4.0",
+  "claims": [
+    {
+      "id": "OC-C01",
+      "claim": "組織文化は、共有された意味・前提・価値・規範・実践を含み、スローガンだけではない。",
+      "label": "A",
+      "directness": "文化直接研究",
+      "relationship": "概念定義",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "smircich-1983",
+        "schein-1990",
+        "hofstede-1990",
+        "schneider-2013"
+      ],
+      "limits": [
+        "学派により定義が異なる"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OC-C02",
+      "claim": "組織風土は、何が方針・実践として期待され、支援され、報われるかについての共有認知を中心に扱う。",
+      "label": "A",
+      "directness": "風土直接研究",
+      "relationship": "概念定義",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "schneider-reichers-1983",
+        "james-2008",
+        "schneider-2013"
+      ],
+      "limits": [
+        "個人の心理的風土と集団風土を区別"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OC-C03",
+      "claim": "文化と風土は関連するが同義ではなく、測定対象と分析レベルを明示する必要がある。",
+      "label": "A",
+      "directness": "混合",
+      "relationship": "概念境界",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "schneider-2013",
+        "james-2008"
+      ],
+      "limits": [
+        "研究伝統間で境界は完全に固定しない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OC-C04",
+      "claim": "人工物、掲示、服装、儀式だけから基本的前提を断定できない。",
+      "label": "A",
+      "directness": "文化直接研究",
+      "relationship": "解釈境界",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "schein-1990",
+        "hatch-1993"
+      ],
+      "limits": [
+        "当事者の意味づけと実践を調べる"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OC-C05",
+      "claim": "宣言された価値と、実際に報酬・昇進・処分される行動を分けて評価する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "価値‐実践ギャップ",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "schein-1990",
+        "kaptein-2008",
+        "doj-compliance-2024"
+      ],
+      "limits": [
+        "非公式報酬・例外処理も確認"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OC-C06",
+      "claim": "一つの組織に単一で完全に共有された文化があると仮定しない。",
+      "label": "A",
+      "directness": "文化直接研究",
+      "relationship": "統合・分化・曖昧性",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "meyerson-martin-1987",
+        "howard-grenville-2006"
+      ],
+      "limits": [
+        "下位文化間の共通点と差を併記"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OC-C07",
+      "claim": "下位文化は問題ではなく、職種・拠点・歴史・専門性に応じた知識源になり得る。",
+      "label": "A",
+      "directness": "文化直接研究",
+      "relationship": "下位文化",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "howard-grenville-2006",
+        "golden-1992",
+        "meyerson-martin-1987"
+      ],
+      "limits": [
+        "分断・格差・安全への影響は別評価"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OC-C08",
+      "claim": "強い文化は成員間合意が高いことを意味し得るが、内容が安全・公正であることを保証しない。",
+      "label": "A",
+      "directness": "混合",
+      "relationship": "強度・内容",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "chatman-oreilly-2016",
+        "schneider-strength-2002",
+        "gelfand-2011"
+      ],
+      "limits": [
+        "抑圧・集団思考・逸脱抑制を監査"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OC-C09",
+      "claim": "同じ平均的風土得点でも、成員間の合意が高い集団と意見が分かれる集団は異なる。",
+      "label": "A",
+      "directness": "風土直接研究",
+      "relationship": "風土強度",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "chan-1998",
+        "schneider-strength-2002"
+      ],
+      "limits": [
+        "十分な人数・集約統計が必要"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OC-C10",
+      "claim": "個人アンケートの平均を組織文化と呼ぶには、参照対象、合意、集約モデルを示す必要がある。",
+      "label": "A",
+      "directness": "風土直接研究",
+      "relationship": "多層測定",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "chan-1998",
+        "james-2008"
+      ],
+      "limits": [
+        "小集団・欠測・分散を確認"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OC-C11",
+      "claim": "文化類型に普遍的な最良型はなく、成果との関連は指標・業界・戦略で異なる。",
+      "label": "A",
+      "directness": "文化直接研究",
+      "relationship": "メタ分析",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "hartnell-2011",
+        "denison-mishra-1995"
+      ],
+      "limits": [
+        "類型は組織の全体像ではない",
+        "因果確定ではない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OC-C12",
+      "claim": "文化得点と財務成果の関連を、文化変革の因果効果として扱わない。",
+      "label": "不支持",
+      "directness": "文化直接研究",
+      "relationship": "因果境界",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "hartnell-2011",
+        "denison-mishra-1995"
+      ],
+      "limits": [
+        "逆因果・共通原因・選択を考慮"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OC-C13",
+      "claim": "文化診断を組織の性格診断やランキングとして表示しない。",
+      "label": "不支持",
+      "directness": "混合",
+      "relationship": "測定倫理",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "chatman-oreilly-2016",
+        "patterson-2005"
+      ],
+      "limits": [
+        "尺度目的・比較可能性・誤差を明示"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OC-C14",
+      "claim": "安全文化は「安全第一」という標語ではなく、優先順位、資源、報告、学習、停止権限等の実践で評価する。",
+      "label": "A",
+      "directness": "混合",
+      "relationship": "安全風土",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "zohar-1980",
+        "clarke-2006",
+        "ilo-c187"
+      ],
+      "limits": [
+        "事故件数だけで判断しない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OC-C15",
+      "claim": "安全風土は安全行動・傷害等と関連するが、事故後に風土認知が変わる逆方向もあり得る。",
+      "label": "A",
+      "directness": "風土直接研究",
+      "relationship": "メタ分析",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "clarke-2006",
+        "beus-2010"
+      ],
+      "limits": [
+        "観察研究・事故過少報告"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OC-C16",
+      "claim": "安全結果を個人の注意力・性格だけへ還元せず、風土、知識、動機、仕事設計を併せて扱う。",
+      "label": "A",
+      "directness": "混合",
+      "relationship": "多層安全",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "christian-2009",
+        "ilo-c155"
+      ],
+      "limits": [
+        "個人選別へ使わない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OC-C17",
+      "claim": "心理社会的安全を、ウェルビーイング施策や相談窓口だけでなく、仕事量・裁量・役割・暴力・雇用不安等のリスク管理として扱う。",
+      "label": "A",
+      "directness": "公式指針・制度",
+      "relationship": "心理社会的リスク",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "who-2022",
+        "iso-45003"
+      ],
+      "limits": [
+        "規格・指針の適用範囲を確認"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OC-C18",
+      "claim": "認証や方針文書の存在だけで、心理的に安全・健康な文化を証明できない。",
+      "label": "不支持",
+      "directness": "公式指針・制度",
+      "relationship": "実効性境界",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "iso-45003",
+        "who-2022",
+        "doj-compliance-2024"
+      ],
+      "limits": [
+        "実装・結果・当事者経験を確認"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OC-C19",
+      "claim": "サービス風土は顧客評価・業績等と関連するが、顧客第一を従業員の尊厳・安全より上位に置かない。",
+      "label": "A",
+      "directness": "風土直接研究",
+      "relationship": "サービス風土",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "schneider-service-1998",
+        "hong-2013"
+      ],
+      "limits": [
+        "観察研究中心",
+        "カスタマーハラスメントを容認しない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OC-C20",
+      "claim": "包摂風土は、多様性と葛藤・満足・離職等の関係を変え得る。",
+      "label": "A",
+      "directness": "風土直接研究",
+      "relationship": "包摂風土",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "nishii-2013",
+        "mckay-2007"
+      ],
+      "limits": [
+        "特定属性・国・業界",
+        "差別監査を代替しない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OC-C21",
+      "claim": "多様性を掲げても、意思決定・情報・昇進・発言へのアクセスが偏れば包摂文化とは言えない。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "実質的包摂",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "nishii-2013",
+        "mckay-2007"
+      ],
+      "limits": [
+        "平均認知と客観格差を併記"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OC-C22",
+      "claim": "革新風土はビジョン、参加安全、支援、資源、課題志向等を含み、アイデア数だけではない。",
+      "label": "A",
+      "directness": "風土直接研究",
+      "relationship": "革新風土",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "anderson-west-1998",
+        "hunter-2007"
+      ],
+      "limits": [
+        "尺度・創造性成果を区別"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OC-C23",
+      "claim": "挑戦やスピードを称賛する文化でも、過重労働・短納期・失敗への処罰が創造性を損ない得る。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "革新の副作用",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "hunter-2007",
+        "who-2022"
+      ],
+      "limits": [
+        "高要求を革新文化として正当化しない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OC-C24",
+      "claim": "倫理風土・倫理文化は、何が正しいと判断され、相談でき、実行可能で、違反がどう扱われるかを含む。",
+      "label": "A",
+      "directness": "文化直接研究",
+      "relationship": "倫理風土・文化",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "victor-cullen-1988",
+        "kaptein-2008"
+      ],
+      "limits": [
+        "類型と倫理の高低を混同しない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OC-C25",
+      "claim": "非倫理的判断は個人だけでなく、問題状況、インセンティブ、倫理風土・文化等と関連する。",
+      "label": "A",
+      "directness": "文化直接研究",
+      "relationship": "メタ分析",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "kish-gephart-2010",
+        "martin-cullen-2006"
+      ],
+      "limits": [
+        "個人責任を消すのではなく構造も扱う"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OC-C26",
+      "claim": "「悪い人を排除した」だけでは、非倫理行動を生む目標・報酬・権限・沈黙・例外を修正できない。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "システム是正",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "kish-gephart-2010",
+        "doj-compliance-2024"
+      ],
+      "limits": [
+        "個人と制度双方の責任を扱う"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OC-C27",
+      "claim": "経営者が価値を語ることより、違反時に高業績者へ同じ基準を適用することが文化の証拠になる。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "模範・制裁",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "kaptein-2008",
+        "doj-compliance-2024"
+      ],
+      "limits": [
+        "一貫性と適正手続を両立"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OC-C28",
+      "claim": "発言風土は、意見募集の数ではなく、発言が期待・支持され、報復されない共有経験で評価する。",
+      "label": "A",
+      "directness": "風土直接研究",
+      "relationship": "発言風土",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "morrison-2011",
+        "frazier-2017"
+      ],
+      "limits": [
+        "発言内容・主体・結果を区別"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OC-C29",
+      "claim": "沈黙を「日本文化」「会社文化」として自然化せず、権力、評価、過去の処遇、会議設計を調べる。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "沈黙の非文化化",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "morrison-2011",
+        "frazier-2017"
+      ],
+      "limits": [
+        "国民文化のステレオタイプを避ける"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OC-C30",
+      "claim": "心理的安全性は組織文化全体の同義語ではなく、対人リスクを取る安全性に関する構成概念である。",
+      "label": "A",
+      "directness": "混合",
+      "relationship": "概念境界",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "frazier-2017",
+        "schneider-2013"
+      ],
+      "limits": [
+        "安全性だけで公正・健康・倫理を判断しない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OC-C31",
+      "claim": "リーダーの価値・行動は文化と関連するが、CEO一人が文化を作るという単純因果ではない。",
+      "label": "A",
+      "directness": "文化直接研究",
+      "relationship": "リーダー・文化",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "giberson-2009",
+        "berson-2008"
+      ],
+      "limits": [
+        "観察研究",
+        "制度・歴史・同僚・顧客も影響"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OC-C32",
+      "claim": "創業期の人材モデル・制度は後の組織へ長く影響し得る。",
+      "label": "A",
+      "directness": "文化隣接研究",
+      "relationship": "創業者刻印",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "baron-2001"
+      ],
+      "limits": [
+        "特定業界・地域",
+        "不変ではない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OC-C33",
+      "claim": "創業者の逸話を、現在の権利侵害や非効率を正当化する聖典にしない。",
+      "label": "不支持",
+      "directness": "予防原則に基づく推論",
+      "relationship": "創業神話",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "baron-2001",
+        "hatch-1993"
+      ],
+      "limits": [
+        "歴史の意味と現行制度を分ける"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OC-C34",
+      "claim": "組織同一視は所属・協力に関係し得るが、忠誠、沈黙、自己犠牲を要求する根拠ではない。",
+      "label": "A",
+      "directness": "文化隣接研究",
+      "relationship": "同一視",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "ashforth-mael-1989",
+        "pratt-2000"
+      ],
+      "limits": [
+        "強い同一視の両義性",
+        "退出の自由を守る"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OC-C35",
+      "claim": "社員へ企業価値観の内面化を強制し、私生活・人格まで評価することを支持しない。",
+      "label": "不支持",
+      "directness": "予防原則に基づく推論",
+      "relationship": "思想・人格境界",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "pratt-2000",
+        "smircich-1983"
+      ],
+      "limits": [
+        "仕事上必要な行動基準と内面を分ける"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OC-C36",
+      "claim": "カルチャーフィットは、価値適合、需要‐能力、供給‐価値、人物類似など異なる概念を含む。",
+      "label": "A",
+      "directness": "適合直接研究",
+      "relationship": "概念整理",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "oreilly-1991",
+        "kristof-1996",
+        "van-vianen-2018"
+      ],
+      "limits": [
+        "何との何の適合かを明示"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OC-C37",
+      "claim": "知覚された個人‐組織適合は満足・コミットメント・離職意向等と関連する。",
+      "label": "A",
+      "directness": "適合直接研究",
+      "relationship": "メタ分析",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "verquer-2003",
+        "oh-2014"
+      ],
+      "limits": [
+        "自己報告同時測定・因果方向",
+        "実離職と区別"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OC-C38",
+      "claim": "適合を採用判断へ加えても増分妥当性は測定方法依存で、主観的な「一緒に働きたい」を科学化しない。",
+      "label": "A",
+      "directness": "適合直接研究",
+      "relationship": "採用妥当性",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "arthur-2006",
+        "cable-judge-1997"
+      ],
+      "limits": [
+        "法的・公平性監査が必要"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OC-C39",
+      "claim": "趣味、出身、話し方、経歴の類似をカルチャーフィットとして採用することは、同質性・格差を再生産し得る。",
+      "label": "A",
+      "directness": "適合直接研究",
+      "relationship": "文化的マッチング",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "rivera-2012",
+        "cable-judge-1997"
+      ],
+      "limits": [
+        "特定業界の質的研究",
+        "構造化選考で検証"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OC-C40",
+      "claim": "カルチャーフィットより、仕事上必要な価値・行動と、多様な視点を加えるカルチャーアドを構造化して評価する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "採用設計",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "arthur-2006",
+        "rivera-2012"
+      ],
+      "limits": [
+        "カルチャーアドも曖昧な主観語にしない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OC-C41",
+      "claim": "適合は固定ではなく、人と環境の相互作用・社会化・仕事変化で変わり得る。",
+      "label": "A",
+      "directness": "適合直接研究",
+      "relationship": "動的適合",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "van-vianen-2018"
+      ],
+      "limits": [
+        "不適合を個人欠陥にしない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OC-C42",
+      "claim": "文化不適合を解雇・低評価の曖昧な理由にせず、具体的行動、期待、支援、権利を示す。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "評価公正",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "kristof-1996",
+        "cable-judge-1997"
+      ],
+      "limits": [
+        "差別・報復・障害配慮を確認"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OC-C43",
+      "claim": "国民文化の平均値を個人・部署・企業の性格として当てはめない。",
+      "label": "A",
+      "directness": "文化隣接研究",
+      "relationship": "生態学的誤謬",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "taras-2010",
+        "gelfand-2011"
+      ],
+      "limits": [
+        "国内差・世代差・状況差を考慮"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OC-C44",
+      "claim": "「日本人は曖昧」「海外は率直」などの文化ステレオタイプを研修・配置・評価へ使わない。",
+      "label": "不支持",
+      "directness": "文化隣接研究",
+      "relationship": "ステレオタイプ防止",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "taras-2010"
+      ],
+      "limits": [
+        "行動・言語・権力・制度を個別に確認"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OC-C45",
+      "claim": "規範が強い文化は秩序を生み得る一方、逸脱・少数意見・革新を抑える可能性もある。",
+      "label": "A",
+      "directness": "文化隣接研究",
+      "relationship": "タイトネス",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "gelfand-2011"
+      ],
+      "limits": [
+        "国レベル研究を組織へ直輸入しない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OC-C46",
+      "claim": "文化変革は、価値観研修やコピー変更だけでなく、仕事・制度・権限・報酬・人材・象徴の連動を要する。",
+      "label": "A",
+      "directness": "混合",
+      "relationship": "文化変革",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "schein-1990",
+        "hatch-1993",
+        "stouten-2018"
+      ],
+      "limits": [
+        "万能手順ではない",
+        "歴史・下位文化を考慮"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OC-C47",
+      "claim": "文化変革の表面的順応と、日常実践・前提の変化を区別する。",
+      "label": "A",
+      "directness": "文化直接研究",
+      "relationship": "順応・変化",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "ogbonna-harris-1998",
+        "harris-ogbonna-2002"
+      ],
+      "limits": [
+        "事例研究中心"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OC-C48",
+      "claim": "文化施策は皮肉、儀礼的参加、隠語、抵抗、過剰同調など意図せざる結果を生み得る。",
+      "label": "A",
+      "directness": "文化直接研究",
+      "relationship": "副作用",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "harris-ogbonna-2002",
+        "meyerson-martin-1987"
+      ],
+      "limits": [
+        "反対を抵抗性の欠陥にしない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OC-C49",
+      "claim": "文化変革への疑問・反対を「価値観が合わない人」と排除することを支持しない。",
+      "label": "不支持",
+      "directness": "混合",
+      "relationship": "異議・排除",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "ogbonna-harris-1998",
+        "morrison-2011"
+      ],
+      "limits": [
+        "代替案・権利・負担を検討"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OC-C50",
+      "claim": "変革準備性は必要性、適切性、実行能力、経営支援、本人への影響等を分けて測る。",
+      "label": "A",
+      "directness": "文化隣接研究",
+      "relationship": "変革準備性",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "rafferty-2013"
+      ],
+      "limits": [
+        "服従性・楽観性の尺度にしない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OC-C51",
+      "claim": "一度のキックオフで文化が変わったとせず、エピソード的変化と継続的変化を分ける。",
+      "label": "A",
+      "directness": "文化隣接研究",
+      "relationship": "時間過程",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "weick-quinn-1999",
+        "stouten-2018"
+      ],
+      "limits": [
+        "長期追跡が必要"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OC-C52",
+      "claim": "変革前に、解く問題、現在の機能、守るべき下位文化、負担を受ける人を診断する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "事前診断",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "stouten-2018",
+        "howard-grenville-2006"
+      ],
+      "limits": [
+        "理想文化の押し付けを避ける"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OC-C53",
+      "claim": "現在文化を「古い・悪い」、新文化を「正しい」と道徳化せず、機能と害を具体化する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "非道徳化",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "meyerson-martin-1987",
+        "hatch-1993"
+      ],
+      "limits": [
+        "権利侵害・暴力は文化相対主義で容認しない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OC-C54",
+      "claim": "文化変革の設計に、現場、非正規、夜勤、地方拠点、少数者、顧客接点を含める。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "代表性",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "nishii-2013",
+        "stouten-2018"
+      ],
+      "limits": [
+        "参加を形式化しない",
+        "少人数保護"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OC-C55",
+      "claim": "価値観ワークショップの参加率・満足度だけで文化変革の成功を判定しない。",
+      "label": "不支持",
+      "directness": "混合",
+      "relationship": "成果境界",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "ogbonna-harris-1998",
+        "stouten-2018"
+      ],
+      "limits": [
+        "実践・制度・群別結果を追う"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OC-C56",
+      "claim": "文化変革は、採用・オンボーディングだけでなく、評価、昇進、報酬、会議、予算、懲戒、退出まで整合させる。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "制度整合",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "schein-1990",
+        "kaptein-2008",
+        "doj-compliance-2024"
+      ],
+      "limits": [
+        "同質化・思想統制を防ぐ"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OC-C57",
+      "claim": "文化アンバサダーを無償の感情労働・相互監視・忠誠評価へしない。",
+      "label": "不支持",
+      "directness": "予防原則に基づく推論",
+      "relationship": "役割倫理",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "pratt-2000",
+        "ogbonna-harris-1998"
+      ],
+      "limits": [
+        "時間・権限・支援・離脱を保障"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OC-C58",
+      "claim": "文化に反する行動を報告する仕組みは、公益通報・ハラスメント相談・通常改善提案を分ける。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "経路分離",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "japan-whistleblower",
+        "mhlw-harassment"
+      ],
+      "limits": [
+        "秘密・保護・調査権限が異なる"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OC-C59",
+      "claim": "「オープンな文化」を理由に、個人の健康・家庭・感情・政治信条の開示を求めない。",
+      "label": "不支持",
+      "directness": "予防原則に基づく推論",
+      "relationship": "プライバシー",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "who-2022",
+        "smircich-1983"
+      ],
+      "limits": [
+        "仕事上必要な情報と内面を分ける"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OC-C60",
+      "claim": "透明性は全情報の公開ではなく、意思決定基準・責任・変更履歴を開きつつ個人・機密を守ることを含む。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "透明性境界",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "doj-compliance-2024",
+        "kaptein-2008"
+      ],
+      "limits": [
+        "目的限定・アクセス管理"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OC-C61",
+      "claim": "文化サーベイは改善目的、禁止用途、匿名性、少人数保護、回答しない権利、結果返却を明示する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "調査倫理",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "james-2008",
+        "chan-1998"
+      ],
+      "limits": [
+        "個人・管理職ランキングに使わない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OC-C62",
+      "claim": "文化サーベイの低回答率を無関心と断定せず、恐れ、疲労、言語、アクセス、過去の無対応を調べる。",
+      "label": "実務原則",
+      "directness": "予防原則に基づく推論",
+      "relationship": "無回答",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "morrison-2011",
+        "ogbonna-harris-1998"
+      ],
+      "limits": [
+        "欠測機序を記録"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OC-C63",
+      "claim": "平均値だけでなく分布、合意度、下位文化、少数者、自由記述の主題、客観指標を組み合わせる。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "三角測量",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "chan-1998",
+        "meyerson-martin-1987",
+        "james-2008"
+      ],
+      "limits": [
+        "自由記述の再特定を防ぐ"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OC-C64",
+      "claim": "文化スコアを、感情分析・チャット・メールから秘密に推定して人事判断へ使うことを支持しない。",
+      "label": "不支持",
+      "directness": "予防原則に基づく推論",
+      "relationship": "AI文化推定",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "chatman-oreilly-2016"
+      ],
+      "limits": [
+        "妥当性・プライバシー・差別・自己成就リスク"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OC-C65",
+      "claim": "生成AIによる自由記述要約は、少数意見の消失、誤分類、幻覚、機密漏洩を人が監査する。",
+      "label": "実務原則",
+      "directness": "予防原則に基づく推論",
+      "relationship": "AI調査支援",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "doj-compliance-2024"
+      ],
+      "limits": [
+        "原文アクセスを限定",
+        "AIへ最終判断を委ねない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OC-C66",
+      "claim": "文化の実効性は、方針が設計され、資源・権限を持って誠実に適用され、実務で機能するかで評価する。",
+      "label": "A",
+      "directness": "公式指針・制度",
+      "relationship": "コンプライアンス実効性",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "doj-compliance-2024"
+      ],
+      "limits": [
+        "米国刑事執行文脈からの限定的応用"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OC-C67",
+      "claim": "高業績者・幹部・創業者への例外処理を文化監査の中心に置く。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "例外監査",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "kaptein-2008",
+        "doj-compliance-2024"
+      ],
+      "limits": [
+        "適正手続・個人情報を守る"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OC-C68",
+      "claim": "不正・事故・ハラスメント後は、個人処分だけでなく、目標・報酬・予算・監督・報告経路の寄与を調べる。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "事後学習",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "kish-gephart-2010",
+        "ilo-c155",
+        "ilo-c190"
+      ],
+      "limits": [
+        "責任の希薄化に使わない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OC-C69",
+      "claim": "事故・通報・苦情件数の減少を、報告抑制や退出がないか確認せず良い文化の証拠にしない。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "指標解釈",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "beus-2010",
+        "japan-whistleblower",
+        "mhlw-harassment"
+      ],
+      "limits": [
+        "報告率・重大性・再発・到達を併記"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OC-C70",
+      "claim": "文化の成果は、健康、安全、公正、包摂、品質、顧客、革新、倫理、離職を多面的に評価する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "多次元成果",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "hartnell-2011",
+        "clarke-2006",
+        "hong-2013",
+        "nishii-2013"
+      ],
+      "limits": [
+        "一指標最適化の副作用を確認"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OC-C71",
+      "claim": "文化変革の平均効果だけでなく、誰に何がどの拠点・職種・勤務帯で変わったかを追う。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "分配評価",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "stouten-2018",
+        "meyerson-martin-1987"
+      ],
+      "limits": [
+        "少人数再特定を防ぐ"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OC-C72",
+      "claim": "文化の変化を、人工物、方針・実践の風土、行動、結果、意味づけの複数層で追跡する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "多層評価",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "schein-1990",
+        "hatch-1993",
+        "schneider-2013"
+      ],
+      "limits": [
+        "層間の不一致を消さない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OC-C73",
+      "claim": "短期のスローガン認知より、中長期の制度利用・例外・報復・退出・成果を追跡する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "長期評価",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "stouten-2018",
+        "ogbonna-harris-1998"
+      ],
+      "limits": [
+        "追跡が監視にならないよう設計"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OC-C74",
+      "claim": "文化変革の終了日を設定しても、更新・訂正・学習の仕組みを残す。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "継続改善",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "weick-quinn-1999",
+        "iso-45003"
+      ],
+      "limits": [
+        "規格の認証更新だけにしない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OC-C75",
+      "claim": "文化を競争優位の資産として扱う場合も、働く人の尊厳・安全・退出の自由を手段化しない。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "権利境界",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "smircich-1983",
+        "who-2022",
+        "ilo-c190"
+      ],
+      "limits": [
+        "成果と権利を別々に評価"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OC-C76",
+      "claim": "「家族のような会社」という比喩を、無償奉仕、私生活介入、異議抑制、退職への罪悪感に使わない。",
+      "label": "不支持",
+      "directness": "予防原則に基づく推論",
+      "relationship": "家族比喩",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "ashforth-mael-1989",
+        "pratt-2000"
+      ],
+      "limits": [
+        "親密さと雇用契約・権利を分ける"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OC-C77",
+      "claim": "文化施策の担当者に、権限、予算、時間、データ、独立性、相談経路を与える。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "実装能力",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "stouten-2018",
+        "doj-compliance-2024"
+      ],
+      "limits": [
+        "大使役だけに責任転嫁しない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OC-C78",
+      "claim": "文化に関する外部発信は、社内の群別経験・未解決課題・訂正経路と乖離させない。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "対外説明",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "kaptein-2008",
+        "doj-compliance-2024"
+      ],
+      "limits": [
+        "マーケティングで当事者の発言を抑えない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OC-C79",
+      "claim": "公開する文化データには、定義、尺度、対象、分母、合意度、欠測、改訂、少人数保護、禁止用途を付す。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "オープンデータ統治",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "chan-1998",
+        "james-2008"
+      ],
+      "limits": [
+        "尺度著作権と個人情報を守る"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OC-C80",
+      "claim": "良い組織文化とは単一の価値観への同化ではなく、権利を守り、多様な下位文化と異議を扱い、実践を更新できる能力として評価する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "完成原則",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "meyerson-martin-1987",
+        "nishii-2013",
+        "stouten-2018",
+        "ilo-c190"
+      ],
+      "limits": [
+        "普遍的な一文化モデルにしない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OC-C81",
+      "claim": "「有害な文化」は単一の診断名ではないため、ハラスメント、不公正、過重労働、危険、沈黙、差別、雇用不安等の具体的条件へ分解する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "有害文化の分解",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "kish-gephart-2010",
+        "who-2022",
+        "ilo-c190"
+      ],
+      "limits": [
+        "組織や個人への烙印に使わない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OC-C82",
+      "claim": "「文化は戦略より強い」等の格言を、文化と成果の因果証拠として扱わない。",
+      "label": "不支持",
+      "directness": "文化直接研究",
+      "relationship": "格言・因果",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "denison-mishra-1995",
+        "hartnell-2011"
+      ],
+      "limits": [
+        "観察研究、逆因果、状況差を明示"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OC-C83",
+      "claim": "リモート・ハイブリッド・複数拠点では、全社平均だけでなく、情報アクセス、可視性、勤務場所、雇用形態による下位文化と風土差を調べる。",
+      "label": "実務原則",
+      "directness": "文化隣接研究",
+      "relationship": "分散した職場",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "howard-grenville-2006",
+        "chan-1998"
+      ],
+      "limits": [
+        "既存研究からの設計推論",
+        "監視データを用いない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    }
+  ]
+}

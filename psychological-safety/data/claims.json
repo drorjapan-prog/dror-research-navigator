@@ -1,0 +1,373 @@
+{
+  "name": "心理的安全性 主張レジスター",
+  "version": "0.4",
+  "license": "CC BY 4.0",
+  "claims": [
+    {
+      "id": "ps-learning",
+      "claim": "心理的安全性は学習行動と正に関連する",
+      "label": "A",
+      "relationship": "association",
+      "scope": [
+        "individual",
+        "team"
+      ],
+      "sources": [
+        "frazier-2017",
+        "edmondson-1999"
+      ],
+      "limits": [
+        "因果関係の確定ではない",
+        "自己報告研究を含む"
+      ],
+      "last_searched": "2026-07-11",
+      "last_human_verified": "2026-07-11",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "ps-information-sharing",
+      "claim": "心理的安全性は情報共有と正に関連する",
+      "label": "A",
+      "relationship": "association",
+      "scope": [
+        "individual",
+        "team"
+      ],
+      "sources": [
+        "frazier-2017"
+      ],
+      "limits": [
+        "情報の質や正確性は別に評価する必要がある"
+      ],
+      "last_searched": "2026-07-11",
+      "last_human_verified": "2026-07-11",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "ps-voice",
+      "claim": "心理的安全性は発言行動と正に関連する",
+      "label": "A",
+      "relationship": "association",
+      "scope": [
+        "individual"
+      ],
+      "sources": [
+        "frazier-2017",
+        "newman-2017"
+      ],
+      "limits": [
+        "発言の採用や成果を保証しない"
+      ],
+      "last_searched": "2026-07-11",
+      "last_human_verified": "2026-07-11",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "ps-performance",
+      "claim": "心理的安全性はタスク成果と平均的に正の関連を示す",
+      "label": "A/B",
+      "relationship": "association",
+      "scope": [
+        "individual",
+        "team"
+      ],
+      "sources": [
+        "frazier-2017"
+      ],
+      "limits": [
+        "主観的成果指標で関連が強い傾向",
+        "仕事内容による境界条件"
+      ],
+      "last_searched": "2026-07-11",
+      "last_human_verified": "2026-07-11",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "leader-relations",
+      "claim": "良好なリーダー関係は心理的安全性と正に関連する",
+      "label": "A",
+      "relationship": "association",
+      "scope": [
+        "individual",
+        "team"
+      ],
+      "sources": [
+        "frazier-2017",
+        "nembhard-edmondson-2006"
+      ],
+      "limits": [
+        "リーダー行動の因果効果とは限らない"
+      ],
+      "last_searched": "2026-07-11",
+      "last_human_verified": "2026-07-11",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "training-intervention",
+      "claim": "短期の集団研修で心理的安全性が改善する場合がある",
+      "label": "B/C",
+      "relationship": "intervention",
+      "scope": [
+        "team"
+      ],
+      "sources": [
+        "odonovan-interventions-2020",
+        "kobayashi-2025"
+      ],
+      "limits": [
+        "レビューでは介入結果が混在",
+        "日本のRCTは単一企業・自己報告・短期追跡",
+        "どの要素が効いたか分離できない"
+      ],
+      "last_searched": "2026-07-11",
+      "last_human_verified": "2026-07-11",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "more-is-always-better",
+      "claim": "心理的安全性は高いほど常によい",
+      "label": "D",
+      "relationship": "boundary-condition",
+      "scope": [
+        "individual",
+        "team",
+        "organization"
+      ],
+      "sources": [
+        "eldor-2023"
+      ],
+      "limits": [
+        "定型業務で非線形関係が報告",
+        "他文脈での再検証が必要"
+      ],
+      "last_searched": "2026-07-11",
+      "last_human_verified": "2026-07-11",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "japanese-measurement",
+      "claim": "日本の労働者を対象に心理的安全性を測定できる日本語尺度がある",
+      "label": "B",
+      "relationship": "measurement",
+      "scope": [
+        "individual"
+      ],
+      "sources": [
+        "ochiai-otsuka-2022",
+        "matsuo-2024",
+        "sasaki-2022"
+      ],
+      "limits": [
+        "全国共通の基準値を意味しない",
+        "業界横断の一般化に注意",
+        "尺度によって概念範囲が異なる"
+      ],
+      "last_searched": "2026-07-11",
+      "last_human_verified": "2026-07-11",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "one-on-one-rct",
+      "claim": "管理職の1on1内容を変える介入が心理的安全性へ影響し得る",
+      "label": "C",
+      "relationship": "causal-emerging",
+      "scope": [
+        "team"
+      ],
+      "sources": [
+        "castro-2025"
+      ],
+      "limits": [
+        "ディスカッションペーパー",
+        "単一企業文脈"
+      ],
+      "last_searched": "2026-07-11",
+      "last_human_verified": "2026-07-11",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "diagnosis",
+      "claim": "心理的安全性尺度で個人の精神疾患を診断できる",
+      "label": "不支持",
+      "relationship": "not-applicable",
+      "scope": [
+        "individual"
+      ],
+      "sources": [
+        "edmondson-1999"
+      ],
+      "limits": [
+        "組織行動上の構成概念であり臨床診断尺度ではない"
+      ],
+      "last_searched": "2026-07-11",
+      "last_human_verified": "2026-07-11",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "relational-enablers",
+      "claim": "リーダー行動、チーム力学、信頼・対話などは心理的安全性の関係的な促進要因として繰り返し報告される",
+      "label": "A/B",
+      "relationship": "association-synthesis",
+      "scope": [
+        "individual",
+        "team"
+      ],
+      "sources": [
+        "gonzalez-2026",
+        "odonovan-enablers-2020"
+      ],
+      "limits": [
+        "一次研究の多くは観察研究",
+        "医療領域の比重が大きい",
+        "促進要因という表現は因果の保証ではない"
+      ],
+      "last_searched": "2026-07-11",
+      "last_human_verified": "2026-07-11",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "identity-gap",
+      "claim": "人種・民族・文化などによる心理的安全性の違いは十分に研究されている",
+      "label": "不支持",
+      "relationship": "evidence-gap",
+      "scope": [
+        "individual",
+        "team"
+      ],
+      "sources": [
+        "gonzalez-2026"
+      ],
+      "limits": [
+        "多くのレビューが文化的限界を認める一方、人種・民族を明示的に扱うレビューは少数"
+      ],
+      "last_searched": "2026-07-11",
+      "last_human_verified": "2026-07-11",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "construct-voice",
+      "claim": "心理的安全性と発言行動は同じ概念ではない",
+      "label": "A",
+      "relationship": "construct-boundary",
+      "scope": [
+        "individual",
+        "team"
+      ],
+      "sources": [
+        "edmondson-lei-2014",
+        "detert-burris-2007"
+      ],
+      "limits": [
+        "心理的安全性が高くても動機・機会・効力感がなければ発言しない場合がある"
+      ],
+      "last_searched": "2026-07-11",
+      "last_human_verified": "2026-07-11",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "construct-psc",
+      "claim": "心理的安全性と心理社会的安全風土は同じ概念ではない",
+      "label": "A/B",
+      "relationship": "construct-boundary",
+      "scope": [
+        "team",
+        "organization"
+      ],
+      "sources": [
+        "edmondson-lei-2014",
+        "dollard-bakker-2010",
+        "dong-2024"
+      ],
+      "limits": [
+        "名称が近く混同されやすい",
+        "後者は心理的健康を守る経営方針・制度を主に扱う"
+      ],
+      "last_searched": "2026-07-11",
+      "last_human_verified": "2026-07-11",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "construct-trust",
+      "claim": "心理的安全性と信頼は重なるが同一ではない",
+      "label": "B",
+      "relationship": "construct-boundary",
+      "scope": [
+        "individual",
+        "team"
+      ],
+      "sources": [
+        "edmondson-lei-2014",
+        "newman-2017"
+      ],
+      "limits": [
+        "尺度と研究レベルにより弁別の程度が異なる",
+        "信頼は二者関係を扱う場合が多い"
+      ],
+      "last_searched": "2026-07-11",
+      "last_human_verified": "2026-07-11",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "not-inherently-ethical",
+      "claim": "心理的安全性が高ければ、チーム行動は自動的に倫理的になる",
+      "label": "不支持",
+      "relationship": "boundary-condition",
+      "scope": [
+        "team"
+      ],
+      "sources": [
+        "pearsall-ellis-2011",
+        "eldor-2023"
+      ],
+      "limits": [
+        "安全性は発言や相互作用の条件であり倫理基準そのものではない",
+        "研究文脈の再検証が必要"
+      ],
+      "last_searched": "2026-07-11",
+      "last_human_verified": "2026-07-11",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "organizational-responsibility",
+      "claim": "発言できない問題は、従業員の勇気だけで解決すべきである",
+      "label": "不支持",
+      "relationship": "practice-guardrail",
+      "scope": [
+        "team",
+        "organization"
+      ],
+      "sources": [
+        "nembhard-edmondson-2006",
+        "gonzalez-2026"
+      ],
+      "limits": [
+        "権限・地位・報復リスク・制度運用を同時に扱う必要がある"
+      ],
+      "last_searched": "2026-07-11",
+      "last_human_verified": "2026-07-11",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "score-ranking",
+      "claim": "心理的安全性の点数を個人査定や管理職ランキングへ直結してよい",
+      "label": "不支持",
+      "relationship": "ethical-guardrail",
+      "scope": [
+        "individual",
+        "team",
+        "organization"
+      ],
+      "sources": [
+        "newman-2017",
+        "liu-measures-2024"
+      ],
+      "limits": [
+        "回答抑制と報復懸念を生み、測定対象そのものを損なう",
+        "全国共通の診断的閾値はない"
+      ],
+      "last_searched": "2026-07-11",
+      "last_human_verified": "2026-07-11",
+      "license": "CC BY 4.0"
+    }
+  ]
+}

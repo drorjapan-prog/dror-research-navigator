@@ -1,0 +1,232 @@
+{
+  "name": "組織学習・知識共有 用語集",
+  "version": "0.1",
+  "license": "CC BY 4.0",
+  "terms": [
+    {
+      "id": "organizational-learning",
+      "term": "組織学習",
+      "definition": "経験や情報が共有理解、手順、判断、能力、記憶の変化へ結びつく過程。"
+    },
+    {
+      "id": "learning-organization",
+      "term": "学習する組織",
+      "definition": "継続的な学習と適応を重視する規範的な組織像。組織学習という観察対象とは区別する。"
+    },
+    {
+      "id": "knowledge-management",
+      "term": "ナレッジマネジメント",
+      "definition": "知識の作成、整理、共有、利用、保護、更新を支える管理実践。"
+    },
+    {
+      "id": "individual-learning",
+      "term": "個人学習",
+      "definition": "個人の知識・技能・理解が変化すること。"
+    },
+    {
+      "id": "team-learning",
+      "term": "チーム学習",
+      "definition": "チームが問い、共有し、検討し、試し、振り返る相互作用過程。"
+    },
+    {
+      "id": "learning-behavior",
+      "term": "学習行動",
+      "definition": "質問、情報共有、実験、フィードバック探索、振り返り等。"
+    },
+    {
+      "id": "knowledge-creation",
+      "term": "知識創造",
+      "definition": "新しい理解・方法・概念を生み出す過程。"
+    },
+    {
+      "id": "knowledge-sharing",
+      "term": "知識共有",
+      "definition": "知識を他者が利用可能な形で提供・交換する行動。"
+    },
+    {
+      "id": "knowledge-transfer",
+      "term": "知識移転",
+      "definition": "一つの単位の経験が別単位の知識・行動・成果へ影響すること。"
+    },
+    {
+      "id": "knowledge-retention",
+      "term": "知識保持",
+      "definition": "時間や人員変化を越えて必要な知識を利用可能に保つこと。"
+    },
+    {
+      "id": "tacit-knowledge",
+      "term": "暗黙知",
+      "definition": "言語化しにくく経験・身体・文脈に埋め込まれた知識。"
+    },
+    {
+      "id": "explicit-knowledge",
+      "term": "形式知",
+      "definition": "文書、図、コード、手順等として表現された知識。"
+    },
+    {
+      "id": "absorptive-capacity",
+      "term": "吸収能力",
+      "definition": "外部知識の価値を認識し、理解・変換・活用する能力。"
+    },
+    {
+      "id": "exploration",
+      "term": "探索",
+      "definition": "新しい可能性、実験、変異、発見を追うこと。"
+    },
+    {
+      "id": "exploitation",
+      "term": "活用",
+      "definition": "既存能力の改良、効率化、実装、再利用を進めること。"
+    },
+    {
+      "id": "ambidexterity",
+      "term": "組織の両利き性",
+      "definition": "探索と活用を同時または時間的に調整する能力。"
+    },
+    {
+      "id": "single-loop",
+      "term": "シングルループ学習",
+      "definition": "既存の目標・基準を保ったまま行動を修正する学習。"
+    },
+    {
+      "id": "double-loop",
+      "term": "ダブルループ学習",
+      "definition": "目標・基準・前提・権限そのものを問い直す学習。"
+    },
+    {
+      "id": "routine",
+      "term": "組織ルーティン",
+      "definition": "反復され認識可能な相互依存行動のパターン。"
+    },
+    {
+      "id": "organizational-memory",
+      "term": "組織記憶",
+      "definition": "人、文書、道具、手順、関係等に保持された経験・知識。"
+    },
+    {
+      "id": "transactive-memory",
+      "term": "トランザクティブ・メモリー",
+      "definition": "誰が何を知るかについてチームが持つ共有システム。"
+    },
+    {
+      "id": "causal-ambiguity",
+      "term": "因果曖昧性",
+      "definition": "成果がなぜ生じたか、何を移せば再現できるかが不明な状態。"
+    },
+    {
+      "id": "internal-stickiness",
+      "term": "内部粘着性",
+      "definition": "組織内でも知識移転が難しく進まない性質。"
+    },
+    {
+      "id": "repository",
+      "term": "リポジトリ",
+      "definition": "文書・データ・コード等を保存し検索・再利用する基盤。"
+    },
+    {
+      "id": "community-of-practice",
+      "term": "実践共同体",
+      "definition": "共通の実践を継続的に学び合う人々の共同体。"
+    },
+    {
+      "id": "after-action-review",
+      "term": "AAR",
+      "definition": "期待、実際、差、理由、次の行動を振り返る構造化レビュー。"
+    },
+    {
+      "id": "debrief",
+      "term": "デブリーフ",
+      "definition": "活動後に過程・結果・感情・学び・改善を整理する対話。"
+    },
+    {
+      "id": "error-prevention",
+      "term": "エラー予防",
+      "definition": "エラー発生の可能性を下げる設計・訓練・標準化。"
+    },
+    {
+      "id": "error-management",
+      "term": "エラー管理",
+      "definition": "発生後の検知、損害制御、共有、回復、学習。"
+    },
+    {
+      "id": "near-miss",
+      "term": "ニアミス",
+      "definition": "損害には至らなかったが事故につながり得た事象。"
+    },
+    {
+      "id": "incident-reporting",
+      "term": "インシデント報告",
+      "definition": "安全・品質上の事象を収集し分析可能にする仕組み。"
+    },
+    {
+      "id": "psychological-safety",
+      "term": "心理的安全性",
+      "definition": "対人リスクを取っても安全だという共有認知。"
+    },
+    {
+      "id": "voice",
+      "term": "従業員の声",
+      "definition": "改善案、懸念、異論を任意に表明する行動。"
+    },
+    {
+      "id": "knowledge-hiding",
+      "term": "知識隠匿",
+      "definition": "要請された知識を意図的に隠す行動。"
+    },
+    {
+      "id": "evasive-hiding",
+      "term": "回避的隠匿",
+      "definition": "不完全・誤方向の情報で知識要請をかわすこと。"
+    },
+    {
+      "id": "playing-dumb",
+      "term": "知らないふり",
+      "definition": "知識があるのにないように装うこと。"
+    },
+    {
+      "id": "rationalized-hiding",
+      "term": "合理的隠匿",
+      "definition": "守秘や第三者利益等を理由に提供しないこと。"
+    },
+    {
+      "id": "knowledge-hoarding",
+      "term": "知識囲い込み",
+      "definition": "要請の有無にかかわらず知識を蓄え提供しないこと。"
+    },
+    {
+      "id": "unlearning",
+      "term": "アンラーニング",
+      "definition": "有効でなくなった信念・手順・習慣の影響を意図的に弱めること。"
+    },
+    {
+      "id": "provenance",
+      "term": "来歴",
+      "definition": "知識の出所、作成者、変換、根拠、更新履歴。"
+    },
+    {
+      "id": "versioning",
+      "term": "版管理",
+      "definition": "変更前後と理由を追跡できるよう複数版を管理すること。"
+    },
+    {
+      "id": "expiry",
+      "term": "失効条件",
+      "definition": "再確認・更新・非表示・廃止が必要になる条件。"
+    },
+    {
+      "id": "stewardship",
+      "term": "スチュワードシップ",
+      "definition": "知識資源を権利・品質・持続性に配慮して管理する責任。"
+    },
+    {
+      "id": "access-control",
+      "term": "アクセス制御",
+      "definition": "役割・目的等に応じて閲覧・編集・共有を制限する仕組み。"
+    },
+    {
+      "id": "knowledge-sovereignty",
+      "term": "知識主権",
+      "definition": "知識保持者・共同体が収集、利用、共有、利益配分を統治する権利。"
+    }
+  ]
+}

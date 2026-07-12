@@ -1,0 +1,1974 @@
+{
+  "name": "仕事の意味・意義・天職観・職業アイデンティティ 主張レジスター",
+  "version": "0.1",
+  "license": "CC BY 4.0",
+  "claims": [
+    {
+      "id": "C01",
+      "claim": "仕事の意味は、本人が仕事をどう理解・解釈するかという広い概念で、意味ある仕事は本人にとって重要で価値ある仕事経験を指す。",
+      "label": "A",
+      "directness": "意味ある仕事直接研究",
+      "relationship": "概念境界",
+      "scope": [
+        "仕事の意味・意義・天職観・職業アイデンティティ"
+      ],
+      "sources": [
+        "rosso-2010",
+        "steger-2012",
+        "martela-2018"
+      ],
+      "limits": [
+        "定義・尺度が複数",
+        "文化・人生段階差"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C02",
+      "claim": "仕事の意義、自己実現、より広い目的への貢献を分け、一つの総合得点だけで説明しない。",
+      "label": "A",
+      "directness": "意味ある仕事直接研究",
+      "relationship": "構成次元",
+      "scope": [
+        "仕事の意味・意義・天職観・職業アイデンティティ"
+      ],
+      "sources": [
+        "steger-2012",
+        "lips-wiersma-2012",
+        "martela-2018"
+      ],
+      "limits": [
+        "尺度構造の差",
+        "項目は再配布しない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C03",
+      "claim": "仕事そのものの意味と、職場・組織への所属による意味、人生全体の意味を区別する。",
+      "label": "A",
+      "directness": "意味ある仕事直接研究",
+      "relationship": "水準境界",
+      "scope": [
+        "仕事の意味・意義・天職観・職業アイデンティティ"
+      ],
+      "sources": [
+        "rosso-2010",
+        "ward-2017"
+      ],
+      "limits": [
+        "相互に影響するが同一でない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C04",
+      "claim": "意味ある仕事を仕事満足、エンゲージメント、組織コミットメント、ウェルビーイングと同一視しない。",
+      "label": "A",
+      "directness": "意味ある仕事直接研究",
+      "relationship": "近接概念",
+      "scope": [
+        "仕事の意味・意義・天職観・職業アイデンティティ"
+      ],
+      "sources": [
+        "allan-2019",
+        "may-2004",
+        "kahn-1990",
+        "bailey-2019"
+      ],
+      "limits": [
+        "関連は因果・同一性を意味しない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C05",
+      "claim": "天職は意味ある仕事の一形態・仕事志向であり、すべての人が持つべき到達点ではない。",
+      "label": "A",
+      "directness": "天職直接研究",
+      "relationship": "天職の境界",
+      "scope": [
+        "仕事の意味・意義・天職観・職業アイデンティティ"
+      ],
+      "sources": [
+        "wrzesniewski-1997",
+        "dik-2009",
+        "duffy-2013-review",
+        "schabram-2023"
+      ],
+      "limits": [
+        "定義・宗教性・文化差"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C06",
+      "claim": "「仕事」「キャリア」「天職」を固定人格タイプにせず、同時に持つ、時間と状況で変わる可能性を認める。",
+      "label": "A",
+      "directness": "天職直接研究",
+      "relationship": "仕事志向の動態",
+      "scope": [
+        "仕事の意味・意義・天職観・職業アイデンティティ"
+      ],
+      "sources": [
+        "wrzesniewski-1997",
+        "schabram-2023"
+      ],
+      "limits": [
+        "自己報告分類",
+        "生活段階・職務変化"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C07",
+      "claim": "天職を知覚することと、実際に天職を生きられることを分け、機会・所得・健康・ケア・差別等の制約を扱う。",
+      "label": "A",
+      "directness": "天職直接研究",
+      "relationship": "知覚と実践",
+      "scope": [
+        "仕事の意味・意義・天職観・職業アイデンティティ"
+      ],
+      "sources": [
+        "duffy-2013-life",
+        "duffy-2014",
+        "duffy-2012"
+      ],
+      "limits": [
+        "観察・自己報告",
+        "機会の選択効果"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C08",
+      "claim": "職業アイデンティティは職業・専門役割と結び付く自己理解であり、職務記述や資格そのものではない。",
+      "label": "A",
+      "directness": "アイデンティティ直接研究",
+      "relationship": "職業アイデンティティ",
+      "scope": [
+        "仕事の意味・意義・天職観・職業アイデンティティ"
+      ],
+      "sources": [
+        "pratt-2006",
+        "brown-2015"
+      ],
+      "limits": [
+        "学派・定義の多様性"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C09",
+      "claim": "専門職アイデンティティ、組織同一化、役割アイデンティティ、個人の自己全体を分ける。",
+      "label": "A",
+      "directness": "アイデンティティ直接研究",
+      "relationship": "アイデンティティ水準",
+      "scope": [
+        "仕事の意味・意義・天職観・職業アイデンティティ"
+      ],
+      "sources": [
+        "kreiner-2006",
+        "brown-2015",
+        "caza-2018"
+      ],
+      "limits": [
+        "複数同時存在",
+        "境界の流動性"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C10",
+      "claim": "仕事の意味を「社会的に立派な職業」かどうかで決めず、本人の経験、仕事条件、他者への影響、倫理を確認する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "価値判断の境界",
+      "scope": [
+        "仕事の意味・意義・天職観・職業アイデンティティ"
+      ],
+      "sources": [
+        "michaelson-2014",
+        "yeoman-2014",
+        "ashforth-1999"
+      ],
+      "limits": [
+        "社会的評価と本人の意味を分ける"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C11",
+      "claim": "意味ある仕事の平均的関連を、意味研修が健康・業績を必ず改善する因果保証に変換しない。",
+      "label": "A",
+      "directness": "意味ある仕事直接研究",
+      "relationship": "因果の限界",
+      "scope": [
+        "仕事の意味・意義・天職観・職業アイデンティティ"
+      ],
+      "sources": [
+        "allan-2019",
+        "bailey-2019"
+      ],
+      "limits": [
+        "相関・自己報告中心",
+        "介入研究が限定"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C12",
+      "claim": "意味を感じないことを病気、怠惰、低適性、低忠誠と診断しない。",
+      "label": "不支持",
+      "directness": "予防原則に基づく推論",
+      "relationship": "病理化の禁止",
+      "scope": [
+        "仕事の意味・意義・天職観・職業アイデンティティ"
+      ],
+      "sources": [
+        "rosso-2010",
+        "ward-2017"
+      ],
+      "limits": [
+        "仕事外の意味源・一時的状態",
+        "個人差"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C13",
+      "claim": "本人の価値観・天職・使命を採用・昇進・配置・退職勧奨の秘密スコアにしない。",
+      "label": "不支持",
+      "directness": "公式指針・制度",
+      "relationship": "人事悪用の禁止",
+      "scope": [
+        "仕事の意味・意義・天職観・職業アイデンティティ"
+      ],
+      "sources": [
+        "japan-appi",
+        "japan-labor-contract"
+      ],
+      "limits": [
+        "目的・同意・差別・適法性",
+        "価値観の変化"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C14",
+      "claim": "「使命への共感」を最低賃金、残業代、安全、休息、合理的配慮、発言・通報の権利より優先しない。",
+      "label": "不支持",
+      "directness": "公式指針・制度",
+      "relationship": "権利の優先",
+      "scope": [
+        "仕事の意味・意義・天職観・職業アイデンティティ"
+      ],
+      "sources": [
+        "ilo-fundamental-rights",
+        "japan-labor-standards",
+        "japan-osh-act",
+        "japan-whistleblower"
+      ],
+      "limits": [
+        "個別法的適用を確認"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C15",
+      "claim": "意味ある仕事はディーセント・ワークの代替ではなく、公正な条件・権利・社会保護・対話と両立させる。",
+      "label": "A",
+      "directness": "公式指針・制度",
+      "relationship": "ディーセント・ワーク",
+      "scope": [
+        "仕事の意味・意義・天職観・職業アイデンティティ"
+      ],
+      "sources": [
+        "ilo-decent-work",
+        "un-sdg8",
+        "michaelson-2014",
+        "ferraro-2018"
+      ],
+      "limits": [
+        "国際規範と実証尺度を分ける",
+        "個別法を確認"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C16",
+      "claim": "自律性、有能感、関係性の欲求充足は動機・健康等と関連するが、意味そのものと同一ではない。",
+      "label": "A",
+      "directness": "動機づけ隣接研究",
+      "relationship": "自己決定理論との境界",
+      "scope": [
+        "仕事の意味・意義・天職観・職業アイデンティティ"
+      ],
+      "sources": [
+        "deci-2017",
+        "vandenbroeck-2016"
+      ],
+      "limits": [
+        "意味専用研究でない",
+        "自己報告・横断を含む"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C17",
+      "claim": "自律的に価値を内在化することと、罪悪感・承認・圧力で使命へ従わせることを区別する。",
+      "label": "A",
+      "directness": "動機づけ隣接研究",
+      "relationship": "内在化と統制",
+      "scope": [
+        "仕事の意味・意義・天職観・職業アイデンティティ"
+      ],
+      "sources": [
+        "gagne-2005",
+        "deci-2017"
+      ],
+      "limits": [
+        "動機は連続的・変化可能"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C18",
+      "claim": "意味ある仕事は、技能多様性、仕事の完結性・重要性、自律性、フィードバック等の仕事設計と関係し得る。",
+      "label": "A",
+      "directness": "仕事設計隣接研究",
+      "relationship": "職務特性",
+      "scope": [
+        "仕事の意味・意義・天職観・職業アイデンティティ"
+      ],
+      "sources": [
+        "hackman-1976",
+        "fried-1987",
+        "humphrey-2007"
+      ],
+      "limits": [
+        "古い研究・相関を含む",
+        "全経路の支持は一様でない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C19",
+      "claim": "仕事の重要性を「この仕事がなければ顧客が困る」という圧力だけで伝えず、権限・資源・回復を同時に設計する。",
+      "label": "実務原則",
+      "directness": "仕事設計隣接研究",
+      "relationship": "タスク重要性",
+      "scope": [
+        "仕事の意味・意義・天職観・職業アイデンティティ"
+      ],
+      "sources": [
+        "grant-2008",
+        "grant-2007"
+      ],
+      "limits": [
+        "特定職務・短期研究",
+        "使命感の搾取に注意"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C20",
+      "claim": "受益者との接触は持続や業績へ影響し得るが、接触量を一律に増やさず、第三者暴力・感情労働・守秘を評価する。",
+      "label": "A",
+      "directness": "仕事設計隣接研究",
+      "relationship": "受益者接触",
+      "scope": [
+        "仕事の意味・意義・天職観・職業アイデンティティ"
+      ],
+      "sources": [
+        "grant-2007-impact",
+        "grant-2008"
+      ],
+      "limits": [
+        "特定職務",
+        "健康・危害を直接検証しない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C21",
+      "claim": "組織目的と日々の仕事のつながりを具体化することは意味づけを助け得るが、英雄物語やスローガンだけで再現できるとは限らない。",
+      "label": "A",
+      "directness": "意味管理直接研究",
+      "relationship": "目的接続",
+      "scope": [
+        "仕事の意味・意義・天職観・職業アイデンティティ"
+      ],
+      "sources": [
+        "carton-2018"
+      ],
+      "limits": [
+        "歴史的単一事例",
+        "後知恵・文脈依存"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C22",
+      "claim": "組織が意味を語ることと、働く人が意味を経験することを区別し、理念理解度を意味ある仕事の代理指標にしない。",
+      "label": "A",
+      "directness": "意味管理直接研究",
+      "relationship": "意味管理",
+      "scope": [
+        "仕事の意味・意義・天職観・職業アイデンティティ"
+      ],
+      "sources": [
+        "lips-morris-2009",
+        "bailey-2017"
+      ],
+      "limits": [
+        "質的・概念研究",
+        "解釈差"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C23",
+      "claim": "意味を組織が独占的に定義すると、本人の葛藤・空虚さを隠す実存的労働が生じ得る。",
+      "label": "A",
+      "directness": "意味管理直接研究",
+      "relationship": "実存的労働",
+      "scope": [
+        "仕事の意味・意義・天職観・職業アイデンティティ"
+      ],
+      "sources": [
+        "bailey-2017",
+        "lips-morris-2009"
+      ],
+      "limits": [
+        "概念・質的研究",
+        "発生率推定でない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C24",
+      "claim": "「理念に共感できないなら辞めるべき」という二択にせず、不同意、複数の価値、役割境界、異動・退出の権利を守る。",
+      "label": "不支持",
+      "directness": "予防原則に基づく推論",
+      "relationship": "理念同調の強制",
+      "scope": [
+        "仕事の意味・意義・天職観・職業アイデンティティ"
+      ],
+      "sources": [
+        "michaelson-2014",
+        "japan-labor-contract"
+      ],
+      "limits": [
+        "重大な倫理違反は別途扱う"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C25",
+      "claim": "仕事外の家族、地域、学習、創作、余暇等も意味源であり、仕事を人生の唯一の意味源にしない。",
+      "label": "A",
+      "directness": "基礎・隣接研究",
+      "relationship": "複数の意味源",
+      "scope": [
+        "仕事の意味・意義・天職観・職業アイデンティティ"
+      ],
+      "sources": [
+        "ward-2017",
+        "berg-2010"
+      ],
+      "limits": [
+        "生活・文化差",
+        "資源格差"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C26",
+      "claim": "仕事の意味が低い時期を直ちに介入対象とせず、一時的な移行、疲労、悲嘆、生活優先、本人の選択を確認する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "時間変動",
+      "scope": [
+        "仕事の意味・意義・天職観・職業アイデンティティ"
+      ],
+      "sources": [
+        "ward-2017",
+        "schabram-2023"
+      ],
+      "limits": [
+        "縦断研究が限定"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C27",
+      "claim": "天職を生きることと満足・ウェルビーイング・主観的キャリア成功の関連は、天職を持てない人の欠陥や不幸を意味しない。",
+      "label": "A",
+      "directness": "天職直接研究",
+      "relationship": "天職結果の限界",
+      "scope": [
+        "仕事の意味・意義・天職観・職業アイデンティティ"
+      ],
+      "sources": [
+        "duffy-2013-life",
+        "duffy-2014",
+        "xie-2016"
+      ],
+      "limits": [
+        "観察研究",
+        "機会・所得等の交絡"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C28",
+      "claim": "天職は目的・情熱を支え得る一方、低賃金、長時間、自己犠牲、組織への搾取受容と結び付く場合がある。",
+      "label": "A",
+      "directness": "天職直接研究",
+      "relationship": "天職の両刃性",
+      "scope": [
+        "仕事の意味・意義・天職観・職業アイデンティティ"
+      ],
+      "sources": [
+        "bunderson-2009"
+      ],
+      "limits": [
+        "単一職業・質的",
+        "一般化制約"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C29",
+      "claim": "ケア、教育、医療、芸術、研究、NPO等の仕事を「好きだから」「使命だから」と無償化・低賃金化しない。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "使命感の搾取",
+      "scope": [
+        "仕事の意味・意義・天職観・職業アイデンティティ"
+      ],
+      "sources": [
+        "bunderson-2009",
+        "ilo-decent-work",
+        "japan-labor-standards"
+      ],
+      "limits": [
+        "職種・契約・法域差"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C30",
+      "claim": "天職を持つ人の追加努力や組織市民行動を自発性だけで説明せず、評価、雇用不安、顧客・患者、仲間への責任圧力を調べる。",
+      "label": "実務原則",
+      "directness": "天職直接研究",
+      "relationship": "圧力と自発性",
+      "scope": [
+        "仕事の意味・意義・天職観・職業アイデンティティ"
+      ],
+      "sources": [
+        "bunderson-2009",
+        "gagne-2005",
+        "xie-2017"
+      ],
+      "limits": [
+        "質的・観察・理論研究を含む"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C31",
+      "claim": "天職が現在の仕事で満たされないとき、仕事内外のクラフティング、学習、複業、余暇、転職等の複数経路を検討する。",
+      "label": "A",
+      "directness": "天職直接研究",
+      "relationship": "未回答の天職",
+      "scope": [
+        "仕事の意味・意義・天職観・職業アイデンティティ"
+      ],
+      "sources": [
+        "berg-2010"
+      ],
+      "limits": [
+        "質的・自己選択",
+        "時間・所得・家族資源差"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C32",
+      "claim": "未回答の天職を副業・余暇で追うことを推奨する際、過重労働、競業、知財、ケア、回復時間を点検する。",
+      "label": "実務原則",
+      "directness": "天職直接研究",
+      "relationship": "複業と回復",
+      "scope": [
+        "仕事の意味・意義・天職観・職業アイデンティティ"
+      ],
+      "sources": [
+        "berg-2010",
+        "japan-labor-contract"
+      ],
+      "limits": [
+        "個別契約・法務確認",
+        "持続性"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C33",
+      "claim": "天職尺度の得点から特定職業への適性、離職すべき時期、採用価値を判定しない。",
+      "label": "不支持",
+      "directness": "天職直接研究",
+      "relationship": "尺度の禁止用途",
+      "scope": [
+        "仕事の意味・意義・天職観・職業アイデンティティ"
+      ],
+      "sources": [
+        "dobrow-2011",
+        "dik-2009"
+      ],
+      "limits": [
+        "定義差",
+        "自己報告",
+        "予測妥当性不足"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C34",
+      "claim": "天職の宗教的・超越的意味を尊重しつつ、宗教・非宗教いずれかの語りを職場で強制しない。",
+      "label": "実務原則",
+      "directness": "天職直接研究",
+      "relationship": "宗教と文化",
+      "scope": [
+        "仕事の意味・意義・天職観・職業アイデンティティ"
+      ],
+      "sources": [
+        "dik-2009",
+        "elangovan-2010"
+      ],
+      "limits": [
+        "信教・文化・開示の自由"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C35",
+      "claim": "ジョブ・クラフティングは課題、関係、認知、要求度、資源の変更を含み、単なるポジティブ思考ではない。",
+      "label": "A",
+      "directness": "クラフティング直接研究",
+      "relationship": "定義",
+      "scope": [
+        "仕事の意味・意義・天職観・職業アイデンティティ"
+      ],
+      "sources": [
+        "wrzesniewski-2001",
+        "tims-2010"
+      ],
+      "limits": [
+        "理論系統・尺度差"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C36",
+      "claim": "ジョブ・クラフティングの平均的関連は方向により異なり、要求を減らす行動を一律に回避・悪としない。",
+      "label": "A",
+      "directness": "クラフティング直接研究",
+      "relationship": "接近・予防",
+      "scope": [
+        "仕事の意味・意義・天職観・職業アイデンティティ"
+      ],
+      "sources": [
+        "rudolph-2017",
+        "lichtenthaler-2019"
+      ],
+      "limits": [
+        "相関研究中心",
+        "安全・健康上必要な低減もある"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C37",
+      "claim": "クラフティング介入は一部結果を改善し得るが、研究数・追跡が限定され、組織的な仕事再設計の代替ではない。",
+      "label": "A",
+      "directness": "クラフティング直接研究",
+      "relationship": "介入効果",
+      "scope": [
+        "仕事の意味・意義・天職観・職業アイデンティティ"
+      ],
+      "sources": [
+        "oprea-2019"
+      ],
+      "limits": [
+        "小規模研究基盤",
+        "個人介入中心"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C38",
+      "claim": "本人の意味づけ変更で過大要求、低賃金、危険、差別、無権限を受け入れさせない。",
+      "label": "不支持",
+      "directness": "公式指針・制度",
+      "relationship": "認知的クラフティングの限界",
+      "scope": [
+        "仕事の意味・意義・天職観・職業アイデンティティ"
+      ],
+      "sources": [
+        "wrzesniewski-2001",
+        "ilo-fundamental-rights",
+        "who-ilo-2022"
+      ],
+      "limits": [
+        "権利・危険を先に改善"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C39",
+      "claim": "仕事を変える裁量がある人だけを対象にせず、現場・短時間・派遣・委託・障害のある人へ共同設計経路を用意する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "クラフティング機会の公平性",
+      "scope": [
+        "仕事の意味・意義・天職観・職業アイデンティティ"
+      ],
+      "sources": [
+        "lysova-2019",
+        "ilo-decent-work"
+      ],
+      "limits": [
+        "契約・権限差",
+        "参加負担"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C40",
+      "claim": "個人のクラフティングが同僚への負担移転、品質低下、安全リスク、見えない仕事を生まないか確認する。",
+      "label": "実務原則",
+      "directness": "クラフティング直接研究",
+      "relationship": "相互依存と外部性",
+      "scope": [
+        "仕事の意味・意義・天職観・職業アイデンティティ"
+      ],
+      "sources": [
+        "tims-2010",
+        "rudolph-2017"
+      ],
+      "limits": [
+        "直接的なチーム介入研究は限定"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C41",
+      "claim": "専門職アイデンティティは実務・他者・フィードバックを通じて形成され、研修で一度決まるものではない。",
+      "label": "A",
+      "directness": "アイデンティティ直接研究",
+      "relationship": "専門職形成",
+      "scope": [
+        "仕事の意味・意義・天職観・職業アイデンティティ"
+      ],
+      "sources": [
+        "ibarra-1999",
+        "pratt-2006"
+      ],
+      "limits": [
+        "特定専門職・質的研究"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C42",
+      "claim": "移行期には複数の仮の自己を安全に試せる観察、実践、フィードバック、ロールモデルを用意する。",
+      "label": "A",
+      "directness": "アイデンティティ直接研究",
+      "relationship": "仮の自己",
+      "scope": [
+        "仕事の意味・意義・天職観・職業アイデンティティ"
+      ],
+      "sources": [
+        "ibarra-1999"
+      ],
+      "limits": [
+        "特定専門職",
+        "模倣と自己決定を区別"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C43",
+      "claim": "職業アイデンティティの強さを専門性や倫理性の証明にせず、実際の能力・行動・説明責任を別に評価する。",
+      "label": "実務原則",
+      "directness": "アイデンティティ直接研究",
+      "relationship": "同一化と能力",
+      "scope": [
+        "仕事の意味・意義・天職観・職業アイデンティティ"
+      ],
+      "sources": [
+        "brown-2015",
+        "pratt-2006"
+      ],
+      "limits": [
+        "自己概念と実務能力は別"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C44",
+      "claim": "個人と職業の境界の望ましい位置は一様でなく、統合・分離・妥協等の本人の戦術を尊重する。",
+      "label": "A",
+      "directness": "アイデンティティ直接研究",
+      "relationship": "境界調整",
+      "scope": [
+        "仕事の意味・意義・天職観・職業アイデンティティ"
+      ],
+      "sources": [
+        "kreiner-2006"
+      ],
+      "limits": [
+        "質的・職業差",
+        "生活段階で変化"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C45",
+      "claim": "組織が「プロなら私生活を犠牲にする」といった職業アイデンティティ規範を利用しない。",
+      "label": "不支持",
+      "directness": "予防原則に基づく推論",
+      "relationship": "専門職規範の搾取",
+      "scope": [
+        "仕事の意味・意義・天職観・職業アイデンティティ"
+      ],
+      "sources": [
+        "kreiner-2006",
+        "japan-labor-standards"
+      ],
+      "limits": [
+        "専門倫理と自己犠牲を分ける"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C46",
+      "claim": "肯定的な職業・役割アイデンティティを一つの理想像に固定せず、複数性、調和、切替、境界管理を支援する。",
+      "label": "A",
+      "directness": "アイデンティティ直接研究",
+      "relationship": "複数・肯定的アイデンティティ",
+      "scope": [
+        "仕事の意味・意義・天職観・職業アイデンティティ"
+      ],
+      "sources": [
+        "caza-2018",
+        "dutton-2010"
+      ],
+      "limits": [
+        "質的・概念研究",
+        "複業制度差",
+        "肯定性の強制を避ける"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C47",
+      "claim": "職業移行時の自己物語は適応を助け得るが、分かりやすい成長物語を本人へ強制しない。",
+      "label": "A",
+      "directness": "アイデンティティ直接研究",
+      "relationship": "物語的アイデンティティ",
+      "scope": [
+        "仕事の意味・意義・天職観・職業アイデンティティ"
+      ],
+      "sources": [
+        "ibarra-2010"
+      ],
+      "limits": [
+        "概念論",
+        "語りの能力・文化差"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C48",
+      "claim": "履歴書・面接・社内発表での一貫したキャリア物語を、人の価値・真実性の唯一の証拠にしない。",
+      "label": "不支持",
+      "directness": "予防原則に基づく推論",
+      "relationship": "物語の評価悪用",
+      "scope": [
+        "仕事の意味・意義・天職観・職業アイデンティティ"
+      ],
+      "sources": [
+        "ibarra-2010",
+        "japan-appi"
+      ],
+      "limits": [
+        "非線形キャリア・障害・ケア・失職"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C49",
+      "claim": "失職、異動、降格、引退、資格喪失、病気、AI導入等で仕事関連アイデンティティが失われる可能性を移行支援に含める。",
+      "label": "A",
+      "directness": "アイデンティティ直接研究",
+      "relationship": "アイデンティティ喪失",
+      "scope": [
+        "仕事の意味・意義・天職観・職業アイデンティティ"
+      ],
+      "sources": [
+        "conroy-2014"
+      ],
+      "limits": [
+        "概念論",
+        "出来事・本人差"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C50",
+      "claim": "アイデンティティ喪失を直ちに成長機会と呼ばず、悲嘆、怒り、経済損失、時間、支援、本人の意味づけを扱う。",
+      "label": "実務原則",
+      "directness": "アイデンティティ直接研究",
+      "relationship": "喪失と回復",
+      "scope": [
+        "仕事の意味・意義・天職観・職業アイデンティティ"
+      ],
+      "sources": [
+        "conroy-2014"
+      ],
+      "limits": [
+        "回復軌道の個人差",
+        "医療診断でない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C51",
+      "claim": "アイデンティティ脅威への防御反応を性格欠陥とせず、脅威の発生源、権力、実害、回復資源を調べる。",
+      "label": "A",
+      "directness": "アイデンティティ直接研究",
+      "relationship": "アイデンティティ脅威",
+      "scope": [
+        "仕事の意味・意義・天職観・職業アイデンティティ"
+      ],
+      "sources": [
+        "petriglieri-2011"
+      ],
+      "limits": [
+        "概念論",
+        "認知と制度的危害を分ける"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C52",
+      "claim": "職種名・資格・部署変更を発表する前に、役割、社会的地位、関係、将来像への影響を説明・協議する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "変更時の手続",
+      "scope": [
+        "仕事の意味・意義・天職観・職業アイデンティティ"
+      ],
+      "sources": [
+        "conroy-2014",
+        "japan-labor-contract"
+      ],
+      "limits": [
+        "個別の配置・労務法を確認"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C53",
+      "claim": "独立専門職・ギグ労働者の意味とアイデンティティを自己管理能力だけにせず、ルーティン、人、場所、目的、経済・制度保障を扱う。",
+      "label": "A",
+      "directness": "アイデンティティ直接研究",
+      "relationship": "保持環境",
+      "scope": [
+        "仕事の意味・意義・天職観・職業アイデンティティ"
+      ],
+      "sources": [
+        "petriglieri-2019"
+      ],
+      "limits": [
+        "高技能独立職中心",
+        "低所得ギグへの一般化制約"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C54",
+      "claim": "コワーキングやコミュニティ参加をギグ労働の不安定所得・権利不足の代替にしない。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "ギグ支援の境界",
+      "scope": [
+        "仕事の意味・意義・天職観・職業アイデンティティ"
+      ],
+      "sources": [
+        "petriglieri-2019",
+        "ilo-decent-work"
+      ],
+      "limits": [
+        "労働者性・法域差",
+        "参加費・時間"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C55",
+      "claim": "汚れ仕事は身体的・社会的・道徳的汚名の異なる源を持ち、職業そのものや従事者を「汚い人」とラベル付けしない。",
+      "label": "A",
+      "directness": "アイデンティティ直接研究",
+      "relationship": "汚れ仕事",
+      "scope": [
+        "仕事の意味・意義・天職観・職業アイデンティティ"
+      ],
+      "sources": [
+        "ashforth-1999"
+      ],
+      "limits": [
+        "概念類型",
+        "文化・職業差"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C56",
+      "claim": "汚名に対抗する誇りや再解釈は従事者を支え得るが、危険、低賃金、差別、第三者被害を正常化しない。",
+      "label": "A",
+      "directness": "アイデンティティ直接研究",
+      "relationship": "汚名正常化の限界",
+      "scope": [
+        "仕事の意味・意義・天職観・職業アイデンティティ"
+      ],
+      "sources": [
+        "ashforth-2007",
+        "ilo-fundamental-rights"
+      ],
+      "limits": [
+        "質的研究",
+        "保護と美化を分ける"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C57",
+      "claim": "「社会に不可欠な仕事」という称賛を、要員・賃金・安全・休息・発言の改善と切り離さない。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "称賛と条件",
+      "scope": [
+        "仕事の意味・意義・天職観・職業アイデンティティ"
+      ],
+      "sources": [
+        "ilo-decent-work",
+        "who-ilo-2022",
+        "japan-osh-act"
+      ],
+      "limits": [
+        "称賛自体の効果研究は限定"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C58",
+      "claim": "本人が自分の仕事を無用・無意味と感じる経験を、俗語の職業ランキングや外部者の断定に変えない。",
+      "label": "A",
+      "directness": "意味喪失直接研究",
+      "relationship": "無意味感",
+      "scope": [
+        "仕事の意味・意義・天職観・職業アイデンティティ"
+      ],
+      "sources": [
+        "soffia-2022"
+      ],
+      "limits": [
+        "自己報告・欧州",
+        "職務全体と一部タスクを分ける"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C59",
+      "claim": "「ブルシット・ジョブ」という語は学術的に確定した診断名ではなく、無用感、疎外、裁量、支援、タスク構成へ分解する。",
+      "label": "A",
+      "directness": "意味喪失直接研究",
+      "relationship": "俗語の境界",
+      "scope": [
+        "仕事の意味・意義・天職観・職業アイデンティティ"
+      ],
+      "sources": [
+        "soffia-2022",
+        "morgeson-2006"
+      ],
+      "limits": [
+        "操作化・因果の限界",
+        "侮蔑語の使用に注意"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C60",
+      "claim": "自動化・AIで不要になるタスクと、顧客・社会・同僚への価値、職業アイデンティティ、再配置を別々に検討する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "AIと意味",
+      "scope": [
+        "仕事の意味・意義・天職観・職業アイデンティティ"
+      ],
+      "sources": [
+        "conroy-2014",
+        "mhlw-jobtag"
+      ],
+      "limits": [
+        "技術変化が速い",
+        "失職確率を推定しない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C61",
+      "claim": "AIが職務記述・価値観回答から「あなたの天職」を確定したり、人事へ適合度を通知したりしない。",
+      "label": "不支持",
+      "directness": "公式指針・制度",
+      "relationship": "AI天職診断の禁止",
+      "scope": [
+        "仕事の意味・意義・天職観・職業アイデンティティ"
+      ],
+      "sources": [
+        "mhlw-jobtag",
+        "japan-appi"
+      ],
+      "limits": [
+        "妥当性・説明・差別・目的外利用"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C62",
+      "claim": "職業情報サイトは探索材料であり、統計的類似や適性結果を本人の可能性・価値の上限にしない。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "職業情報の境界",
+      "scope": [
+        "仕事の意味・意義・天職観・職業アイデンティティ"
+      ],
+      "sources": [
+        "mhlw-jobtag"
+      ],
+      "limits": [
+        "職業分類・統計・更新の限界"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C63",
+      "claim": "ジョブ・カード等の振り返りは本人の自己理解を支えるために用い、評価者へ私的価値・葛藤の開示を強制しない。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "キャリア記録の守秘",
+      "scope": [
+        "仕事の意味・意義・天職観・職業アイデンティティ"
+      ],
+      "sources": [
+        "mhlw-jobcard",
+        "japan-appi"
+      ],
+      "limits": [
+        "利用目的・アクセス・保存期間"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C64",
+      "claim": "キャリアコンサルティングは本人の自己決定を支援し、組織都合の異動・退職へ誘導する面談と区別する。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "キャリア支援の独立性",
+      "scope": [
+        "仕事の意味・意義・天職観・職業アイデンティティ"
+      ],
+      "sources": [
+        "mhlw-career-consulting",
+        "japan-vocational-act"
+      ],
+      "limits": [
+        "守秘・利益相反・資格範囲"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C65",
+      "claim": "職場内キャリア相談では相談内容、人事への共有範囲、例外、記録、撤回・訂正を事前に説明する。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "相談ガバナンス",
+      "scope": [
+        "仕事の意味・意義・天職観・職業アイデンティティ"
+      ],
+      "sources": [
+        "mhlw-career-consulting",
+        "japan-appi"
+      ],
+      "limits": [
+        "法的・安全上の例外を説明"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C66",
+      "claim": "道徳的苦痛は正しい行為が分かっていても制度・権力・資源で実行できない苦痛等を指し、一般的ストレスと分ける。",
+      "label": "A",
+      "directness": "道徳的葛藤隣接研究",
+      "relationship": "道徳的苦痛",
+      "scope": [
+        "仕事の意味・意義・天職観・職業アイデンティティ"
+      ],
+      "sources": [
+        "epstein-2009",
+        "riedel-2022"
+      ],
+      "limits": [
+        "医療中心",
+        "定義・測定の異質性"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C67",
+      "claim": "道徳的負傷は軍事・臨床由来の発展途上概念であり、職場の不満や燃え尽きを一律に診断しない。",
+      "label": "A",
+      "directness": "道徳的葛藤隣接研究",
+      "relationship": "道徳的負傷の境界",
+      "scope": [
+        "仕事の意味・意義・天職観・職業アイデンティティ"
+      ],
+      "sources": [
+        "litz-2009",
+        "riedel-2022"
+      ],
+      "limits": [
+        "職場直接性限定",
+        "正式診断名でない",
+        "トラウマ概念の拡張注意"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C68",
+      "claim": "反復する道徳的妥協が残余・増幅を生み得るため、個人の回復力研修だけでなく決定権・要員・倫理相談・異議経路を変える。",
+      "label": "A",
+      "directness": "道徳的葛藤隣接研究",
+      "relationship": "制度的予防",
+      "scope": [
+        "仕事の意味・意義・天職観・職業アイデンティティ"
+      ],
+      "sources": [
+        "epstein-2009",
+        "who-work-2022"
+      ],
+      "limits": [
+        "医療・概念研究中心",
+        "介入証拠限定"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C69",
+      "claim": "公益通報や倫理的異議を「組織の使命に共感していない」と扱わず、保護・独立調査・報復防止へ接続する。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "倫理的発言",
+      "scope": [
+        "仕事の意味・意義・天職観・職業アイデンティティ"
+      ],
+      "sources": [
+        "japan-whistleblower",
+        "michaelson-2014"
+      ],
+      "limits": [
+        "法の適用要件・通報先を確認"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C70",
+      "claim": "仕事の社会的影響を語る際、受益者だけでなく被害を受ける人、環境、将来世代、外部化された負担も確認する。",
+      "label": "実務原則",
+      "directness": "倫理隣接研究",
+      "relationship": "影響の両面",
+      "scope": [
+        "仕事の意味・意義・天職観・職業アイデンティティ"
+      ],
+      "sources": [
+        "michaelson-2014",
+        "un-sdg8"
+      ],
+      "limits": [
+        "影響評価の範囲・不確実性"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C71",
+      "claim": "本人が有害・違法・欺瞞的と考える仕事へ「意味を見出す」ことを求めず、拒否・相談・配置・通報・退出を検討する。",
+      "label": "不支持",
+      "directness": "公式指針・制度",
+      "relationship": "倫理的拒否",
+      "scope": [
+        "仕事の意味・意義・天職観・職業アイデンティティ"
+      ],
+      "sources": [
+        "japan-whistleblower",
+        "japan-labor-contract",
+        "ilo-fundamental-rights"
+      ],
+      "limits": [
+        "個別法的助言は専門確認"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C72",
+      "claim": "組織理念の社会貢献表現と実際の事業・製品・顧客結果を分け、意味のウォッシングを監査する。",
+      "label": "実務原則",
+      "directness": "意味管理直接研究",
+      "relationship": "意味ウォッシング",
+      "scope": [
+        "仕事の意味・意義・天職観・職業アイデンティティ"
+      ],
+      "sources": [
+        "lips-morris-2009",
+        "michaelson-2014"
+      ],
+      "limits": [
+        "評価基準・データの不確実性"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C73",
+      "claim": "意味ある仕事の測定では、肯定的意味だけでなく無意味感、矛盾、喪失、搾取、道徳的葛藤を別に尋ねる。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "両面測定",
+      "scope": [
+        "仕事の意味・意義・天職観・職業アイデンティティ"
+      ],
+      "sources": [
+        "bailey-2017",
+        "soffia-2022",
+        "bunderson-2009"
+      ],
+      "limits": [
+        "否定項目を診断にしない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C74",
+      "claim": "平均得点だけでなく職種、階層、雇用形態、勤務帯、拠点、障害、ケア責任等による意味・権利・機会の分布を点検する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "分布と公平性",
+      "scope": [
+        "仕事の意味・意義・天職観・職業アイデンティティ"
+      ],
+      "sources": [
+        "lysova-2019",
+        "ilo-decent-work",
+        "japan-appi"
+      ],
+      "limits": [
+        "属性収集の必要性・小セル保護"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C75",
+      "claim": "自由記述や面談は意味の多義性を捉えるが、宗教、政治、健康、家族、葛藤等の私的情報を評価へ流用しない。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "質的データ保護",
+      "scope": [
+        "仕事の意味・意義・天職観・職業アイデンティティ"
+      ],
+      "sources": [
+        "japan-appi",
+        "lips-morris-2009"
+      ],
+      "limits": [
+        "再特定・守秘・アクセス管理"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C76",
+      "claim": "意味ある仕事尺度の項目・翻訳・得点基準は権利と妥当性を確認し、独自に改変した尺度を同じ名称で使わない。",
+      "label": "実務原則",
+      "directness": "意味ある仕事直接研究",
+      "relationship": "尺度ガバナンス",
+      "scope": [
+        "仕事の意味・意義・天職観・職業アイデンティティ"
+      ],
+      "sources": [
+        "steger-2012",
+        "lips-wiersma-2012"
+      ],
+      "limits": [
+        "尺度権利・測定等値性"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C77",
+      "claim": "職業アイデンティティの測定を「会社の顔らしさ」「プロらしさ」という曖昧な評価項目にしない。",
+      "label": "不支持",
+      "directness": "アイデンティティ直接研究",
+      "relationship": "評価基準の禁止",
+      "scope": [
+        "仕事の意味・意義・天職観・職業アイデンティティ"
+      ],
+      "sources": [
+        "brown-2015",
+        "kreiner-2006"
+      ],
+      "limits": [
+        "同質化・属性バイアス"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C78",
+      "claim": "組織目的、職務特性、他者への影響、本人の価値、権利・条件を同じ設計図で可視化する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "統合設計",
+      "scope": [
+        "仕事の意味・意義・天職観・職業アイデンティティ"
+      ],
+      "sources": [
+        "lysova-2019",
+        "humphrey-2007",
+        "michaelson-2014"
+      ],
+      "limits": [
+        "各層の因果証拠は異なる"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C79",
+      "claim": "仕事の受益者と負の影響、成果までの経路、本人が変えられる範囲をチームで確認する。",
+      "label": "実務原則",
+      "directness": "仕事設計隣接研究",
+      "relationship": "インパクト地図",
+      "scope": [
+        "仕事の意味・意義・天職観・職業アイデンティティ"
+      ],
+      "sources": [
+        "grant-2007",
+        "grant-2008"
+      ],
+      "limits": [
+        "遠い成果の帰属に注意"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C80",
+      "claim": "無意味に見える作業は廃止、簡素化、自動化、統合、ローテーション、結果の可視化を検討し、物語だけで正当化しない。",
+      "label": "実務原則",
+      "directness": "仕事設計隣接研究",
+      "relationship": "タスク再設計",
+      "scope": [
+        "仕事の意味・意義・天職観・職業アイデンティティ"
+      ],
+      "sources": [
+        "morgeson-2006",
+        "soffia-2022"
+      ],
+      "limits": [
+        "自動化の雇用・品質影響"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C81",
+      "claim": "重要だが見えない保守、清掃、管理、調整、ケアの仕事を可視化し、称賛だけでなく要員・評価・報酬へ反映する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "不可視労働",
+      "scope": [
+        "仕事の意味・意義・天職観・職業アイデンティティ"
+      ],
+      "sources": [
+        "ashforth-1999",
+        "ilo-decent-work"
+      ],
+      "limits": [
+        "職種間比較・ジェンダー化に注意"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C82",
+      "claim": "理念対話は正解を教える研修でなく、仕事の実態、矛盾、被害、異論、改善案を安全に扱う場にする。",
+      "label": "実務原則",
+      "directness": "意味管理直接研究",
+      "relationship": "理念対話",
+      "scope": [
+        "仕事の意味・意義・天職観・職業アイデンティティ"
+      ],
+      "sources": [
+        "lips-morris-2009",
+        "bailey-2017"
+      ],
+      "limits": [
+        "発言安全・報復防止が前提"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C83",
+      "claim": "管理職は部下へ意味を注入するのではなく、仕事の目的・影響・裁量・資源・葛藤を一緒に確認する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "管理職の役割",
+      "scope": [
+        "仕事の意味・意義・天職観・職業アイデンティティ"
+      ],
+      "sources": [
+        "carton-2018",
+        "gagne-2005",
+        "who-work-2022"
+      ],
+      "limits": [
+        "単一事例・理論を含む"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C84",
+      "claim": "個人の仕事の意味を1on1の必須質問にせず、回答しない・今は分からない・仕事外を優先する選択を認める。",
+      "label": "実務原則",
+      "directness": "予防原則に基づく推論",
+      "relationship": "開示の任意性",
+      "scope": [
+        "仕事の意味・意義・天職観・職業アイデンティティ"
+      ],
+      "sources": [
+        "japan-appi",
+        "ward-2017"
+      ],
+      "limits": [
+        "権力差・記録利用"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C85",
+      "claim": "仕事の意味が急に低下した場合、業務変更、関係、倫理葛藤、疲労、差別、健康、生活出来事を非診断的に確認する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "変化の把握",
+      "scope": [
+        "仕事の意味・意義・天職観・職業アイデンティティ"
+      ],
+      "sources": [
+        "bailey-2019",
+        "conroy-2014",
+        "who-work-2022"
+      ],
+      "limits": [
+        "医療診断でない",
+        "本人の守秘"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C86",
+      "claim": "介入は事前に対象、理論、実装、成果、望まない効果、中止条件を定め、意味得点だけで成功判定しない。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "介入評価",
+      "scope": [
+        "仕事の意味・意義・天職観・職業アイデンティティ"
+      ],
+      "sources": [
+        "oprea-2019",
+        "bailey-2019"
+      ],
+      "limits": [
+        "比較介入研究が限定"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C87",
+      "claim": "成果は意味、無意味感、天職、アイデンティティ、権利、賃金、時間、安全、健康、発言、離職、品質を多次元で追う。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "多次元成果",
+      "scope": [
+        "仕事の意味・意義・天職観・職業アイデンティティ"
+      ],
+      "sources": [
+        "allan-2019",
+        "ilo-decent-work",
+        "who-ilo-2022"
+      ],
+      "limits": [
+        "遠い成果ほど他要因が多い"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C88",
+      "claim": "短期の感動・理念共感ではなく、3・6・12か月後の仕事条件、行動、健康、葛藤、持続性を追う。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "持続性",
+      "scope": [
+        "仕事の意味・意義・天職観・職業アイデンティティ"
+      ],
+      "sources": [
+        "duffy-2014",
+        "oprea-2019"
+      ],
+      "limits": [
+        "長期介入研究が限定",
+        "追跡脱落"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C89",
+      "claim": "施策が効かなければ従業員の価値観不足とせず、仕事、権利、実装、対象、理論、経営行動を見直す。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "失敗からの学習",
+      "scope": [
+        "仕事の意味・意義・天職観・職業アイデンティティ"
+      ],
+      "sources": [
+        "bailey-2017",
+        "lysova-2019"
+      ],
+      "limits": [
+        "複数要因",
+        "否定的結果も公開"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C90",
+      "claim": "公開するのは定義、方法、保護済み集計、限界、訂正履歴であり、個人の価値観・天職・宗教・葛藤・相談記録ではない。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "公共性と保護",
+      "scope": [
+        "仕事の意味・意義・天職観・職業アイデンティティ"
+      ],
+      "sources": [
+        "japan-appi",
+        "mhlw-jobcard"
+      ],
+      "limits": [
+        "再特定・スティグマ・目的外利用"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C91",
+      "claim": "意味ある仕事は常に高い安定状態とは限らず、特定の出来事・関係・成果で一時的に強く経験される可能性を残す。",
+      "label": "A",
+      "directness": "意味ある仕事直接研究",
+      "relationship": "時間と出来事",
+      "scope": [
+        "仕事の意味・意義・天職観・職業アイデンティティ"
+      ],
+      "sources": [
+        "bailey-2019",
+        "ward-2017"
+      ],
+      "limits": [
+        "日内・長期の直接研究は限定",
+        "測定時点依存"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C92",
+      "claim": "個人が感じる意味、チームで共有される目的、組織が掲げる使命を別水準として測り、一致を前提にしない。",
+      "label": "実務原則",
+      "directness": "意味管理直接研究",
+      "relationship": "水準の分離",
+      "scope": [
+        "仕事の意味・意義・天職観・職業アイデンティティ"
+      ],
+      "sources": [
+        "rosso-2010",
+        "carton-2018",
+        "lips-morris-2009"
+      ],
+      "limits": [
+        "集団集約の条件",
+        "単一事例・概念研究を含む"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C93",
+      "claim": "本人にとって強く意味ある仕事であることは、その仕事・製品・組織が倫理的・社会的に善である証明ではない。",
+      "label": "A",
+      "directness": "倫理隣接研究",
+      "relationship": "主観的意味と倫理",
+      "scope": [
+        "仕事の意味・意義・天職観・職業アイデンティティ"
+      ],
+      "sources": [
+        "michaelson-2014",
+        "yeoman-2014"
+      ],
+      "limits": [
+        "規範的議論を含む",
+        "影響評価が別途必要"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C94",
+      "claim": "リーダーの目的物語だけでなく、現場、顧客、影響を受ける第三者、異論者の意味づけと証拠を含める。",
+      "label": "実務原則",
+      "directness": "意味管理直接研究",
+      "relationship": "意味形成への参加",
+      "scope": [
+        "仕事の意味・意義・天職観・職業アイデンティティ"
+      ],
+      "sources": [
+        "carton-2018",
+        "lips-morris-2009"
+      ],
+      "limits": [
+        "直接比較介入研究は限定",
+        "権力差・報復防止"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C95",
+      "claim": "意味ある仕事を増やす施策が、仕事外の生活、休息、異動・退出、意味を求めない選択を狭めていないかを中止基準に含める。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "望まない効果",
+      "scope": [
+        "仕事の意味・意義・天職観・職業アイデンティティ"
+      ],
+      "sources": [
+        "bunderson-2009",
+        "ward-2017",
+        "ilo-decent-work"
+      ],
+      "limits": [
+        "長期介入研究が限定",
+        "本人の選好差"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    }
+  ]
+}

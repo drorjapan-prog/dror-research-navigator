@@ -1,0 +1,54 @@
+{
+  "version": "0.4",
+  "audited_on": "2026-07-11",
+  "scope": "公開前の分野基盤としての心理的安全性ナビ。正式なシステマティックレビューの完成を意味しない。",
+  "dimensions": [
+    {
+      "id": "definition-boundaries",
+      "status": "closed",
+      "evidence": "定義、信頼、発言、包摂、心理社会的安全風土、診断との境界を明示"
+    },
+    {
+      "id": "benefits-harms-boundaries",
+      "status": "closed",
+      "evidence": "肯定的関連、非線形性、非倫理的行動、説明責任を併記"
+    },
+    {
+      "id": "power-equity",
+      "status": "closed",
+      "evidence": "職位・権限・報復・アイデンティティ研究の不足を独立ページ化"
+    },
+    {
+      "id": "measurement",
+      "status": "closed",
+      "evidence": "日本語尺度、測定単位、分布、不変性、匿名性、禁止用途を明示"
+    },
+    {
+      "id": "intervention-causality",
+      "status": "closed",
+      "evidence": "レビュー、査読済み日本RCT、査読前RCTを分離し限界を記録"
+    },
+    {
+      "id": "claim-traceability",
+      "status": "closed",
+      "evidence": "全主張に研究ID、全研究に原文URL、方法・対象・主要限界を付与"
+    },
+    {
+      "id": "open-reuse-rights",
+      "status": "closed",
+      "evidence": "JSON/CSV/BibTeX/RIS/Schemaと第三者権利境界を公開"
+    },
+    {
+      "id": "maintenance-corrections",
+      "status": "closed",
+      "evidence": "更新頻度、即時更新条件、訂正ルールを機械判読可能化"
+    }
+  ],
+  "declared_limitations": [
+    "購読データベースの完全検索ではない",
+    "二者独立スクリーニングではない",
+    "正式なPRISMA・RoB評価ではない",
+    "全言語・全一次研究を網羅しない"
+  ],
+  "release_decision": "field-foundation-complete"
+}

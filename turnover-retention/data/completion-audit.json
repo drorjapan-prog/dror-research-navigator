@@ -1,0 +1,56 @@
+{
+  "version": "0.1",
+  "release_decision": "完成条件を満たす（次分野へ移行可）",
+  "dimensions": [
+    {
+      "id": "definition",
+      "status": "complete",
+      "evidence": "意向/実離職、自発/非自発、機能性等を区別"
+    },
+    {
+      "id": "measurement",
+      "status": "complete",
+      "evidence": "率の分母・期間・集計、追跡、意向尺度を収録"
+    },
+    {
+      "id": "antecedents",
+      "status": "complete",
+      "evidence": "100年レビューと包括メタ分析を収録"
+    },
+    {
+      "id": "process",
+      "status": "complete",
+      "evidence": "Mobley、展開モデル、ショック、埋め込みを収録"
+    },
+    {
+      "id": "outcomes",
+      "status": "complete",
+      "evidence": "集団離職と組織成果のメタ分析3系統"
+    },
+    {
+      "id": "interventions",
+      "status": "complete",
+      "evidence": "職務情報、社会化、対象別定着と限界を収録"
+    },
+    {
+      "id": "japan",
+      "status": "complete",
+      "evidence": "令和6年雇用動向調査と比較上の注意を収録"
+    },
+    {
+      "id": "ethics",
+      "status": "complete",
+      "evidence": "AI予測、監視、報復、退出障壁、差別を明示"
+    },
+    {
+      "id": "openness",
+      "status": "complete",
+      "evidence": "主張・研究・用語・採否・質評価・引用を機械可読化"
+    }
+  ],
+  "remaining_non_blocking": [
+    "正式な多人数システマティックレビューではない",
+    "個別産業・職種は今後追加可能",
+    "新規統計・研究は更新規則に従う"
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "name": "職場の多様性・包摂・差別・所属感 迅速エビデンスマップ・プロトコル",
+  "version": "0.1",
+  "review_type": "代表性・包摂経験・制度結果・差別・救済・属性データ・AIを分離した迅速エビデンスマップ",
+  "research_questions": [
+    {
+      "id": "RQ1",
+      "question": "人口統計的・文化的多様性はチーム過程・成果へどう関係し、どの条件で変わるか。"
+    },
+    {
+      "id": "RQ2",
+      "question": "包摂、所属感、独自性、排斥、発言をどう定義・測定・設計するか。"
+    },
+    {
+      "id": "RQ3",
+      "question": "採用・配置・評価・報酬・昇進・柔軟勤務・退出の差別をどう検知・是正するか。"
+    },
+    {
+      "id": "RQ4",
+      "question": "ジェンダー、人種・民族、年齢、障害、宗教・信条、性的指向、ケア、言語等をどう扱うか。"
+    },
+    {
+      "id": "RQ5",
+      "question": "ハラスメント、報復、相談、調査、保護、実効的救済をどう設計するか。"
+    },
+    {
+      "id": "RQ6",
+      "question": "多様性研修、説明責任、当事者参加、ERG等の制度をどう評価するか。"
+    },
+    {
+      "id": "RQ7",
+      "question": "属性データ、交差性、AI採用・評価、公平性指標、異議申立てをどう統治するか。"
+    }
+  ],
+  "query_families": [
+    "team demographic cultural diversity performance meta-analysis",
+    "inclusion climate belonging uniqueness measurement",
+    "inclusive leadership psychological safety status",
+    "workplace ostracism subtle discrimination meta-analysis",
+    "racial discrimination hiring field experiments meta-analysis",
+    "gender bias motherhood penalty flexibility stigma",
+    "sexual harassment violence retaliation workplace meta-analysis",
+    "disability employment reasonable accommodation systematic review",
+    "age stereotypes older workers meta-analysis",
+    "accent bias invisible identity disclosure workplace",
+    "intersectionality organization research methods",
+    "diversity training prejudice reduction implicit bias meta-analysis",
+    "diversity accountability transparency representation longitudinal",
+    "employee resource groups allyship sponsorship evidence",
+    "demographic data self identification privacy small cell",
+    "AI employment discrimination fairness sociotechnical high risk"
+  ],
+  "inclusion": [
+    "多様性とチーム過程・成果の主要メタ分析・統合研究",
+    "包摂・所属・排斥・リーダーシップの主要理論・測定・実証研究",
+    "採用・処遇差別、ハラスメント、偏見介入の主要研究",
+    "障害・年齢・ケア・言語・不可視属性・交差性の主要研究",
+    "平等待遇・暴力ハラスメント・障害・人権・AI・データの公式指針・制度"
+  ],
+  "exclusion": [
+    "代表性と業績の単純な因果を宣伝する資料",
+    "単発研修だけで差別解消を保証する商業資料",
+    "暗黙測度による個人の差別性・採用適性診断",
+    "秘密の属性・感情・性的指向・障害推定",
+    "相談件数ゼロを安全の証拠とする事例",
+    "本人同意・再特定対策のない属性公開"
+  ],
+  "process_limitations": [
+    "単一レビュアーによる迅速整理",
+    "代表文献と書誌メタデータによる非網羅整理",
+    "効果量の独自再計算・正式なバイアス評価は未実施",
+    "直接研究・隣接研究・概念研究・公式資料を直接性ラベルで分離",
+    "法的・医療的・個別人事案件の助言ではない",
+    "国・歴史・カテゴリ・権利制度の違いにより単純移植できない"
+  ]
+}

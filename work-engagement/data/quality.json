@@ -1,0 +1,272 @@
+{
+  "name": "ワーク・エンゲージメント 研究の質と限界",
+  "version": "0.1",
+  "notice": "簡易評価であり正式なRoB評価ではない。",
+  "assessments": [
+    {
+      "study_id": "kahn-1990",
+      "design": "qualitative theory-building",
+      "strength": "概念または観察研究",
+      "key_limits": [
+        "現代のUWES型ワーク・エンゲージメントとは概念系譜が異なる",
+        "小規模・探索的"
+      ]
+    },
+    {
+      "study_id": "schaufeli-2002",
+      "design": "measure development and validation",
+      "strength": "測定根拠",
+      "key_limits": [
+        "初期尺度開発",
+        "学生標本を含む",
+        "文化間不変性は別途検証"
+      ]
+    },
+    {
+      "study_id": "harter-2002",
+      "design": "business-unit meta-analysis",
+      "strength": "統合研究",
+      "key_limits": [
+        "UWESとは異なる独自指標",
+        "企業提供データ",
+        "因果を確定しない"
+      ]
+    },
+    {
+      "study_id": "schaufeli-bakker-2004",
+      "design": "multisample field study",
+      "strength": "概念または観察研究",
+      "key_limits": [
+        "横断データ中心",
+        "自己報告",
+        "因果方向は確定しない"
+      ]
+    },
+    {
+      "study_id": "saks-2006",
+      "design": "cross-sectional field study",
+      "strength": "概念または観察研究",
+      "key_limits": [
+        "小規模横断研究",
+        "独自尺度",
+        "自己報告"
+      ]
+    },
+    {
+      "study_id": "macey-schneider-2008",
+      "design": "conceptual review",
+      "strength": "概念または観察研究",
+      "key_limits": [
+        "実証メタ分析ではない",
+        "UWES型概念と商業指標を含む広い整理"
+      ]
+    },
+    {
+      "study_id": "shimazu-2008",
+      "design": "Japanese scale validation",
+      "strength": "測定根拠",
+      "key_limits": [
+        "自己報告",
+        "全国診断基準ではない",
+        "項目利用条件を確認"
+      ]
+    },
+    {
+      "study_id": "shimazu-2009",
+      "design": "Japanese cross-sectional field study",
+      "strength": "概念または観察研究",
+      "key_limits": [
+        "横断研究",
+        "自己報告",
+        "因果は不明"
+      ]
+    },
+    {
+      "study_id": "crawford-2010",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "key_limits": [
+        "要求分類の文脈依存",
+        "観察研究中心",
+        "過重負荷を正当化できない"
+      ]
+    },
+    {
+      "study_id": "shimazu-2010",
+      "design": "cross-cultural measurement analysis",
+      "strength": "測定根拠",
+      "key_limits": [
+        "国は文化の代理にすぎない",
+        "平均差を国民性へ還元できない",
+        "横断データ"
+      ]
+    },
+    {
+      "study_id": "rich-2010",
+      "design": "field study",
+      "strength": "概念または観察研究",
+      "key_limits": [
+        "単一職種",
+        "独自尺度",
+        "観察研究"
+      ]
+    },
+    {
+      "study_id": "christian-2011",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "key_limits": [
+        "横断研究を多く含む",
+        "共通方法バイアス",
+        "因果確定ではない"
+      ]
+    },
+    {
+      "study_id": "bakker-2011",
+      "design": "conceptual review",
+      "strength": "概念または観察研究",
+      "key_limits": [
+        "系統的レビューではない",
+        "当時の研究に限定"
+      ]
+    },
+    {
+      "study_id": "bailey-2017",
+      "design": "systematic narrative synthesis",
+      "strength": "統合研究",
+      "key_limits": [
+        "異質性のため効果量統合なし",
+        "employee engagementの広い概念を含む"
+      ]
+    },
+    {
+      "study_id": "knight-2017",
+      "design": "systematic review and meta-analysis",
+      "strength": "統合研究",
+      "key_limits": [
+        "研究数が少ない",
+        "自己報告中心",
+        "介入・追跡の異質性と高い異質性"
+      ]
+    },
+    {
+      "study_id": "inamizu-2018",
+      "design": "Japanese longitudinal analysis",
+      "strength": "時間順序・比較を一部検討",
+      "key_limits": [
+        "自己報告業績",
+        "単一組織文脈",
+        "短期縦断"
+      ]
+    },
+    {
+      "study_id": "lesener-2019",
+      "design": "longitudinal meta-analysis",
+      "strength": "統合研究",
+      "key_limits": [
+        "効果は小さい",
+        "測定間隔と尺度が異質",
+        "双方向性"
+      ]
+    },
+    {
+      "study_id": "virga-2019",
+      "design": "meta-analysis of controlled trials",
+      "strength": "統合研究",
+      "key_limits": [
+        "研究数が少ない",
+        "追跡期間が短い",
+        "介入の異質性"
+      ]
+    },
+    {
+      "study_id": "schaufeli-2019",
+      "design": "cross-national scale validation",
+      "strength": "測定根拠",
+      "key_limits": [
+        "3次元を各1項目で測る",
+        "個人の高重要度判断には不向き",
+        "国別代表性に差"
+      ]
+    },
+    {
+      "study_id": "eguchi-2020",
+      "design": "Japanese prospective cohort",
+      "strength": "時間順序・比較を一部検討",
+      "key_limits": [
+        "自己報告指標を含む",
+        "特定職域",
+        "効果の一般化に注意"
+      ]
+    },
+    {
+      "study_id": "frederick-2020",
+      "design": "longitudinal meta-analysis",
+      "strength": "統合研究",
+      "key_limits": [
+        "介入効果とは限らない",
+        "自己報告",
+        "研究数の制約"
+      ]
+    },
+    {
+      "study_id": "toth-kiraly-2020",
+      "design": "longitudinal person-centered study",
+      "strength": "時間順序・比較を一部検討",
+      "key_limits": [
+        "特定国標本",
+        "自己報告",
+        "プロファイル解釈に注意"
+      ]
+    },
+    {
+      "study_id": "neuber-2021",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "key_limits": [
+        "主観業績で関連が強い可能性",
+        "因果確定ではない",
+        "出版バイアスの検討に限界"
+      ]
+    },
+    {
+      "study_id": "lee-2021",
+      "design": "systematic review and meta-analysis",
+      "strength": "統合研究",
+      "key_limits": [
+        "横断研究が多い",
+        "尺度の異質性",
+        "長時間労働の扱いが不均一"
+      ]
+    },
+    {
+      "study_id": "bjork-2021",
+      "design": "systematic review and meta-analysis",
+      "strength": "統合研究",
+      "key_limits": [
+        "自己選択・自己報告",
+        "組織条件を直接変えない介入が多い",
+        "長期追跡不足"
+      ]
+    },
+    {
+      "study_id": "mazzetti-2021",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "key_limits": [
+        "横断研究が多い",
+        "異質性が高い",
+        "因果を直接確定しない"
+      ]
+    },
+    {
+      "study_id": "who-2022",
+      "design": "official evidence-based guideline",
+      "strength": "概念または観察研究",
+      "key_limits": [
+        "ワーク・エンゲージメント専用ガイドラインではない",
+        "各国制度への適用が必要"
+      ]
+    }
+  ]
+}

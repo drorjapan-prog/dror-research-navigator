@@ -1,0 +1,544 @@
+{
+  "name": "離職・定着 研究メタデータ",
+  "version": "0.1",
+  "notice": "論文本文・尺度項目は含みません。各権利者の条件に従ってください。",
+  "studies": [
+    {
+      "id": "mobley-1977",
+      "authors": "Mobley, W. H.",
+      "year": 1977,
+      "title": "Intermediate Linkages in the Relationship Between Job Satisfaction and Employee Turnover",
+      "journal": "Journal of Applied Psychology, 62(2), 237–240",
+      "doi": "10.1037/0021-9010.62.2.237",
+      "type": "process theory and field test",
+      "status": "peer-reviewed",
+      "population": "従業員",
+      "sample": "職場標本。詳細は原文参照",
+      "method": "不満から退職までの認知・探索・意向の連鎖を検討",
+      "finding": "満足と実際の離職の間に退職思考・探索・意向等を置くモデルを提示",
+      "limitations": [
+        "古典的線形モデル",
+        "すべての離職が熟慮過程を通るわけではない"
+      ],
+      "source_url": "https://doi.org/10.1037/0021-9010.62.2.237",
+      "last_human_verified": "2026-07-12"
+    },
+    {
+      "id": "dalton-1982",
+      "authors": "Dalton, D. R., Todor, W. D., & Krackhardt, D. M.",
+      "year": 1982,
+      "title": "Turnover Overstated: The Functional Taxonomy",
+      "journal": "Academy of Management Review, 7(1), 117–123",
+      "doi": "10.2307/257256",
+      "type": "conceptual taxonomy",
+      "status": "peer-reviewed",
+      "population": "従業員離職",
+      "sample": "理論文献",
+      "method": "回避可能性と組織への機能性から離職を分類",
+      "finding": "全離職を一律に悪とみなさない分類を提示",
+      "limitations": [
+        "何が機能的かは誰の視点かで変わる",
+        "後付けの価値判断に注意"
+      ],
+      "source_url": "https://doi.org/10.2307/257256",
+      "last_human_verified": "2026-07-12"
+    },
+    {
+      "id": "steel-ovalle-1984",
+      "authors": "Steel, R. P., & Ovalle, N. K.",
+      "year": 1984,
+      "title": "A Review and Meta-Analysis of Research on the Relationship Between Behavioral Intentions and Employee Turnover",
+      "journal": "Journal of Applied Psychology, 69(4), 673–686",
+      "doi": "10.1037/0021-9010.69.4.673",
+      "type": "meta-analysis",
+      "status": "peer-reviewed",
+      "population": "従業員離職研究",
+      "sample": "統合研究群。詳細は原文参照",
+      "method": "行動意向と実際の離職の関係を統合",
+      "finding": "離職意向は実際の離職を予測するが同一ではない",
+      "limitations": [
+        "古い研究中心",
+        "追跡期間・測定の異質性",
+        "個人予測には誤分類"
+      ],
+      "source_url": "https://doi.org/10.1037/0021-9010.69.4.673",
+      "last_human_verified": "2026-07-12"
+    },
+    {
+      "id": "cotton-tuttle-1986",
+      "authors": "Cotton, J. L., & Tuttle, J. M.",
+      "year": 1986,
+      "title": "Employee Turnover: A Meta-Analysis and Review with Implications for Research",
+      "journal": "Academy of Management Review, 11(1), 55–70",
+      "doi": "10.2307/258331",
+      "type": "meta-analysis and review",
+      "status": "peer-reviewed",
+      "population": "従業員離職研究",
+      "sample": "統合研究群。詳細は原文参照",
+      "method": "仕事、組織、個人、外部環境要因を統合",
+      "finding": "離職は単一原因でなく複数レベル要因と関連",
+      "limitations": [
+        "1980年代まで",
+        "尺度・業種の異質性",
+        "因果確定ではない"
+      ],
+      "source_url": "https://doi.org/10.2307/258331",
+      "last_human_verified": "2026-07-12"
+    },
+    {
+      "id": "tett-meyer-1993",
+      "authors": "Tett, R. P., & Meyer, J. P.",
+      "year": 1993,
+      "title": "Job Satisfaction, Organizational Commitment, Turnover Intention, and Turnover",
+      "journal": "Personnel Psychology, 46(2), 259–293",
+      "doi": "10.1111/j.1744-6570.1993.tb00874.x",
+      "type": "meta-analytic path analysis",
+      "status": "peer-reviewed",
+      "population": "従業員研究",
+      "sample": "メタ分析データ",
+      "method": "満足・コミットメント・意向・実離職の経路を統合",
+      "finding": "満足とコミットメントは別々に離職意向へ関係し、意向は実離職へつながる",
+      "limitations": [
+        "相関メタ分析による経路",
+        "因果順序を完全には証明しない"
+      ],
+      "source_url": "https://doi.org/10.1111/j.1744-6570.1993.tb00874.x",
+      "last_human_verified": "2026-07-12"
+    },
+    {
+      "id": "lee-mitchell-1994",
+      "authors": "Lee, T. W., & Mitchell, T. R.",
+      "year": 1994,
+      "title": "An Alternative Approach: The Unfolding Model of Voluntary Employee Turnover",
+      "journal": "Academy of Management Review, 19(1), 51–89",
+      "doi": "10.2307/258835",
+      "type": "process theory",
+      "status": "peer-reviewed",
+      "population": "自発的離職",
+      "sample": "理論文献",
+      "method": "ショック、スクリプト、イメージ違反、代替案探索の複数経路を提示",
+      "finding": "不満の蓄積だけでなく出来事を契機に異なる経路で辞めるモデルを提示",
+      "limitations": [
+        "理論モデル",
+        "経路の符号化に判断が入る"
+      ],
+      "source_url": "https://doi.org/10.2307/258835",
+      "last_human_verified": "2026-07-12"
+    },
+    {
+      "id": "lee-1996",
+      "authors": "Lee, T. W., Mitchell, T. R., Wise, L., & Fireman, S.",
+      "year": 1996,
+      "title": "An Unfolding Model of Voluntary Employee Turnover",
+      "journal": "Academy of Management Journal, 39(1), 5–36",
+      "doi": "10.2307/256629",
+      "type": "retrospective field test",
+      "status": "peer-reviewed",
+      "population": "退職者",
+      "sample": "退職事例。詳細は原文参照",
+      "method": "退職インタビューを複数の意思決定経路へ分類",
+      "finding": "ショックを含む複数経路が観察された",
+      "limitations": [
+        "退職後回想",
+        "分類者判断",
+        "全職種への一般化に注意"
+      ],
+      "source_url": "https://doi.org/10.2307/256629",
+      "last_human_verified": "2026-07-12"
+    },
+    {
+      "id": "shaw-1998",
+      "authors": "Shaw, J. D., Delery, J. E., Jenkins, G. D., & Gupta, N.",
+      "year": 1998,
+      "title": "An Organization-Level Analysis of Voluntary and Involuntary Turnover",
+      "journal": "Academy of Management Journal, 41(5), 511–525",
+      "doi": "10.2307/256939",
+      "type": "organization-level field study",
+      "status": "peer-reviewed",
+      "population": "組織単位",
+      "sample": "複数組織。詳細は原文参照",
+      "method": "自発・非自発離職を分けて人事施策との関係を分析",
+      "finding": "自発的離職と非自発的離職は異なる要因と関係",
+      "limitations": [
+        "組織レベル観察研究",
+        "個人原因へ還元できない"
+      ],
+      "source_url": "https://doi.org/10.2307/256939",
+      "last_human_verified": "2026-07-12"
+    },
+    {
+      "id": "phillips-1998",
+      "authors": "Phillips, J. M.",
+      "year": 1998,
+      "title": "Effects of Realistic Job Previews on Multiple Organizational Outcomes: A Meta-Analysis",
+      "journal": "Academy of Management Journal, 41(6), 673–690",
+      "doi": "10.2307/256964",
+      "type": "meta-analysis",
+      "status": "peer-reviewed",
+      "population": "求職者・新入社員",
+      "sample": "現実的職務情報研究群",
+      "method": "採用前の現実的情報提供と期待・態度・離職等を統合",
+      "finding": "現実的職務情報は期待を調整し、離職等へ小さい効果を持つ可能性",
+      "limitations": [
+        "古い採用文脈",
+        "実装形式の異質性",
+        "魅力を下げる可能性も評価"
+      ],
+      "source_url": "https://doi.org/10.2307/256964",
+      "last_human_verified": "2026-07-12"
+    },
+    {
+      "id": "griffeth-2000",
+      "authors": "Griffeth, R. W., Hom, P. W., & Gaertner, S.",
+      "year": 2000,
+      "title": "A Meta-Analysis of Antecedents and Correlates of Employee Turnover",
+      "journal": "Journal of Management, 26(3), 463–488",
+      "doi": "10.1177/014920630002600305",
+      "type": "meta-analysis",
+      "status": "peer-reviewed",
+      "population": "従業員離職研究",
+      "sample": "統合研究群。詳細は原文参照",
+      "method": "仕事態度、外部機会、個人・組織要因と実離職を統合",
+      "finding": "離職意向、満足、コミットメント、探索、代替機会等に異なる関連",
+      "limitations": [
+        "観察研究中心",
+        "職種・時代の調整効果",
+        "因果確定ではない"
+      ],
+      "source_url": "https://doi.org/10.1177/014920630002600305",
+      "last_human_verified": "2026-07-12"
+    },
+    {
+      "id": "mitchell-2001",
+      "authors": "Mitchell, T. R., Holtom, B. C., Lee, T. W., Erez, M., & Sablynski, C. J.",
+      "year": 2001,
+      "title": "Why People Stay: Using Job Embeddedness to Predict Voluntary Turnover",
+      "journal": "Academy of Management Journal, 44(6), 1102–1121",
+      "doi": "10.2307/3069391",
+      "type": "construct development and field study",
+      "status": "peer-reviewed",
+      "population": "複数職域の従業員",
+      "sample": "複数標本。詳細は原文参照",
+      "method": "適合、つながり、犠牲の仕事内外の埋め込みを測定",
+      "finding": "埋め込みが満足・コミットメントを越えて自発離職を予測",
+      "limitations": [
+        "つながりを拘束へ転用しない",
+        "地域・家族情報のプライバシー"
+      ],
+      "source_url": "https://doi.org/10.2307/3069391",
+      "last_human_verified": "2026-07-12"
+    },
+    {
+      "id": "lee-2004",
+      "authors": "Lee, T. W., Mitchell, T. R., Sablynski, C. J., Burton, J. P., & Holtom, B. C.",
+      "year": 2004,
+      "title": "The Effects of Job Embeddedness on Organizational Citizenship, Job Performance, Volitional Absences, and Voluntary Turnover",
+      "journal": "Academy of Management Journal, 47(5), 711–722",
+      "doi": "10.2307/20159613",
+      "type": "field study",
+      "status": "peer-reviewed",
+      "population": "従業員",
+      "sample": "職域標本。詳細は原文参照",
+      "method": "仕事内外の埋め込みと行動・実離職を分析",
+      "finding": "埋め込みの側面が欠勤・業績・自発離職へ異なる関係",
+      "limitations": [
+        "観察研究",
+        "尺度と文脈依存",
+        "高埋め込みを忠誠義務にしない"
+      ],
+      "source_url": "https://doi.org/10.2307/20159613",
+      "last_human_verified": "2026-07-12"
+    },
+    {
+      "id": "bauer-2007",
+      "authors": "Bauer, T. N., Bodner, T., Erdogan, B., Truxillo, D. M., & Tucker, J. S.",
+      "year": 2007,
+      "title": "Newcomer Adjustment During Organizational Socialization",
+      "journal": "Journal of Applied Psychology, 92(3), 707–721",
+      "doi": "10.1037/0021-9010.92.3.707",
+      "type": "meta-analysis",
+      "status": "peer-reviewed",
+      "population": "新入社員",
+      "sample": "社会化研究群",
+      "method": "役割明確性、自己効力感、受容、知識と態度・業績・離職を統合",
+      "finding": "新人の適応指標が満足・コミットメント・業績・離職と関係",
+      "limitations": [
+        "相関研究が多い",
+        "オンボーディング施策の直接効果とは限らない"
+      ],
+      "source_url": "https://doi.org/10.1037/0021-9010.92.3.707",
+      "last_human_verified": "2026-07-12"
+    },
+    {
+      "id": "hausknecht-2009",
+      "authors": "Hausknecht, J. P., Rodda, J., & Howard, M. J.",
+      "year": 2009,
+      "title": "Targeted Employee Retention: Performance-Based and Job-Related Differences in Reported Reasons for Staying",
+      "journal": "Human Resource Management, 48(2), 269–288",
+      "doi": "10.1002/hrm.20279",
+      "type": "large qualitative coding study",
+      "status": "peer-reviewed",
+      "population": "レジャー・ホスピタリティ従業員",
+      "sample": "24,829人",
+      "method": "自由回答から12の定着理由を分類し業績・雇用形態別に比較",
+      "finding": "満足、外的報酬、人間関係、コミットメント、評判が頻出",
+      "limitations": [
+        "単一産業・企業文脈",
+        "自己申告理由",
+        "実際の残留因果とは限らない"
+      ],
+      "source_url": "https://doi.org/10.1002/hrm.20279",
+      "last_human_verified": "2026-07-12"
+    },
+    {
+      "id": "felps-2009",
+      "authors": "Felps, W., Mitchell, T. R., Hekman, D. R., Lee, T. W., Holtom, B. C., & Harman, W. S.",
+      "year": 2009,
+      "title": "Turnover Contagion: How Coworkers’ Job Embeddedness and Job Search Behaviors Influence Quitting",
+      "journal": "Academy of Management Journal, 52(3), 545–561",
+      "doi": "10.5465/amj.2009.41331075",
+      "type": "multilevel field study",
+      "status": "peer-reviewed",
+      "population": "職場の従業員と同僚",
+      "sample": "複数職場標本。詳細は原文参照",
+      "method": "同僚の埋め込み・求職行動と個人の離職を多層分析",
+      "finding": "同僚の求職行動等が個人の退職認知・行動に関係する可能性",
+      "limitations": [
+        "観察研究",
+        "contagionは比喩",
+        "退職者を問題源として扱わない",
+        "情報・ショック・仕事条件の共通要因"
+      ],
+      "source_url": "https://doi.org/10.5465/amj.2009.41331075",
+      "last_human_verified": "2026-07-12"
+    },
+    {
+      "id": "allen-2010",
+      "authors": "Allen, D. G., Bryant, P. C., & Vardaman, J. M.",
+      "year": 2010,
+      "title": "Retaining Talent: Replacing Misconceptions With Evidence-Based Strategies",
+      "journal": "Academy of Management Perspectives, 24(2), 48–64",
+      "doi": "10.5465/AMP.2010.51827775",
+      "type": "evidence-based narrative review",
+      "status": "peer-reviewed",
+      "population": "人材定着研究",
+      "sample": "主要研究の統合",
+      "method": "定着に関する通説と根拠、施策を整理",
+      "finding": "一律施策より、原因診断と対象を絞った採用・社会化・仕事設計・報酬等を推奨",
+      "limitations": [
+        "系統的メタ分析ではない",
+        "施策効果は文脈依存"
+      ],
+      "source_url": "https://doi.org/10.5465/AMP.2010.51827775",
+      "last_human_verified": "2026-07-12"
+    },
+    {
+      "id": "jiang-2012",
+      "authors": "Jiang, K., Liu, D., McKay, P. F., Lee, T. W., & Mitchell, T. R.",
+      "year": 2012,
+      "title": "When and How Is Job Embeddedness Predictive of Turnover?",
+      "journal": "Journal of Applied Psychology, 97(5), 1077–1096",
+      "doi": "10.1037/a0028610",
+      "type": "meta-analysis",
+      "status": "peer-reviewed",
+      "population": "従業員",
+      "sample": "埋め込み研究群",
+      "method": "埋め込みと意向・探索・実離職、調整・媒介を統合",
+      "finding": "埋め込みは離職関連結果を予測し、文脈で強さが変わる",
+      "limitations": [
+        "観察研究中心",
+        "尺度版の異質性",
+        "因果確定ではない"
+      ],
+      "source_url": "https://doi.org/10.1037/a0028610",
+      "last_human_verified": "2026-07-12"
+    },
+    {
+      "id": "hom-2012",
+      "authors": "Hom, P. W., Mitchell, T. R., Lee, T. W., & Griffeth, R. W.",
+      "year": 2012,
+      "title": "Reviewing Employee Turnover: Focusing on Proximal Withdrawal States and an Expanded Criterion",
+      "journal": "Psychological Bulletin, 138(5), 831–858",
+      "doi": "10.1037/a0027983",
+      "type": "integrative review",
+      "status": "peer-reviewed",
+      "population": "従業員離職研究",
+      "sample": "理論・実証文献",
+      "method": "残留・離職の希望と統制、複数の離脱状態を整理",
+      "finding": "「残りたい/辞めたい」と「残れる/辞められる」を分ける枠組みを提示",
+      "limitations": [
+        "概念レビュー",
+        "すべての状態の測定根拠は同程度でない"
+      ],
+      "source_url": "https://doi.org/10.1037/a0027983",
+      "last_human_verified": "2026-07-12"
+    },
+    {
+      "id": "park-shaw-2013",
+      "authors": "Park, T.-Y., & Shaw, J. D.",
+      "year": 2013,
+      "title": "Turnover Rates and Organizational Performance: A Meta-Analysis",
+      "journal": "Journal of Applied Psychology, 98(2), 268–309",
+      "doi": "10.1037/a0030723",
+      "type": "meta-analysis",
+      "status": "peer-reviewed",
+      "population": "組織・事業単位",
+      "sample": "集団離職研究群",
+      "method": "離職率と組織成果、離職種類・文脈の調整効果を統合",
+      "finding": "離職率は平均して組織成果と負に関連するが種類・文脈で変わる",
+      "limitations": [
+        "集団レベル",
+        "因果の双方向性",
+        "率の定義が異質"
+      ],
+      "source_url": "https://doi.org/10.1037/a0030723",
+      "last_human_verified": "2026-07-12"
+    },
+    {
+      "id": "hancock-2013",
+      "authors": "Hancock, J. I., Allen, D. G., Bosco, F. A., McDaniel, K. R., & Pierce, C. A.",
+      "year": 2013,
+      "title": "Meta-Analytic Review of Employee Turnover as a Predictor of Firm Performance",
+      "journal": "Journal of Management, 39(3), 573–603",
+      "doi": "10.1177/0149206311424943",
+      "type": "meta-analysis",
+      "status": "peer-reviewed",
+      "population": "組織・事業単位",
+      "sample": "48独立標本、157効果量、N=24,943",
+      "method": "集団離職と財務・顧客・品質・安全等の成果を統合",
+      "finding": "平均相関は小さく、産業・職種・成果指標等で変動",
+      "limitations": [
+        "組織レベル観察研究",
+        "平均効果が小さい",
+        "調整要因多数"
+      ],
+      "source_url": "https://doi.org/10.1177/0149206311424943",
+      "last_human_verified": "2026-07-12"
+    },
+    {
+      "id": "heavey-2013",
+      "authors": "Heavey, A. L., Holwerda, J. A., & Hausknecht, J. P.",
+      "year": 2013,
+      "title": "Causes and Consequences of Collective Turnover: A Meta-Analytic Review",
+      "journal": "Journal of Applied Psychology, 98(3), 412–453",
+      "doi": "10.1037/a0032380",
+      "type": "meta-analysis",
+      "status": "peer-reviewed",
+      "population": "組織・事業単位",
+      "sample": "集団離職研究群",
+      "method": "集団離職の先行要因と組織結果を統合",
+      "finding": "人事制度・態度・環境と集団離職、集団離職と成果の複雑な関係を整理",
+      "limitations": [
+        "組織レベル",
+        "率と期間の異質性",
+        "因果の双方向性"
+      ],
+      "source_url": "https://doi.org/10.1037/a0032380",
+      "last_human_verified": "2026-07-12"
+    },
+    {
+      "id": "hom-2017",
+      "authors": "Hom, P. W., Lee, T. W., Shaw, J. D., & Hausknecht, J. P.",
+      "year": 2017,
+      "title": "One Hundred Years of Employee Turnover Theory and Research",
+      "journal": "Journal of Applied Psychology, 102(3), 530–545",
+      "doi": "10.1037/apl0000103",
+      "type": "centennial review",
+      "status": "peer-reviewed",
+      "population": "従業員離職研究",
+      "sample": "100年の理論・実証文献",
+      "method": "主要パラダイム、進展、今後の課題を統合",
+      "finding": "態度モデルから経路・埋め込み・集団離職へ研究の展開を整理",
+      "limitations": [
+        "ナラティブな総括",
+        "介入効果の統合ではない"
+      ],
+      "source_url": "https://doi.org/10.1037/apl0000103",
+      "last_human_verified": "2026-07-12"
+    },
+    {
+      "id": "rubenstein-2018",
+      "authors": "Rubenstein, A. L., Eberly, M. B., Lee, T. W., & Mitchell, T. R.",
+      "year": 2018,
+      "title": "Surveying the Forest: A Meta-Analysis of the Antecedents of Voluntary Employee Turnover",
+      "journal": "Personnel Psychology, 71(1), 23–65",
+      "doi": "10.1111/peps.12226",
+      "type": "meta-analysis",
+      "status": "peer-reviewed",
+      "population": "自発的離職研究",
+      "sample": "包括的な予測因子研究群",
+      "method": "古典・新規予測因子と調整要因を統合",
+      "finding": "離職は態度、行動、文脈、個人・外部要因の複合で、関係は文脈依存",
+      "limitations": [
+        "観察研究中心",
+        "予測因子間の相関",
+        "個人の確定予測はできない"
+      ],
+      "source_url": "https://doi.org/10.1111/peps.12226",
+      "last_human_verified": "2026-07-12"
+    },
+    {
+      "id": "bauer-2024",
+      "authors": "Bauer, T. N., Erdogan, B., Ellis, A. M., Truxillo, D. M., Brady, G. M., & Bodner, T.",
+      "year": 2025,
+      "title": "New Horizons for Newcomer Organizational Socialization",
+      "journal": "Journal of Management, 51(1), 344–382",
+      "doi": "10.1177/01492063241277168",
+      "type": "review and meta-analysis",
+      "status": "peer-reviewed",
+      "population": "新入社員",
+      "sample": "適格256研究、メタ分析183研究",
+      "method": "情報探索、組織戦術、支援、適応、離職意向等を更新統合",
+      "finding": "社会的受容、役割明確性、適合等が新人の遠位結果と関係",
+      "limitations": [
+        "相関研究が中心",
+        "意向と実離職を区別",
+        "文化分類は粗い"
+      ],
+      "source_url": "https://doi.org/10.1177/01492063241277168",
+      "last_human_verified": "2026-07-12"
+    },
+    {
+      "id": "mhlw-2024",
+      "authors": "厚生労働省",
+      "year": 2025,
+      "title": "令和6年 雇用動向調査結果の概要",
+      "journal": "厚生労働統計",
+      "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/25-2/index.html",
+      "type": "official national statistics",
+      "status": "official statistics",
+      "population": "日本の主要産業の常用労働者",
+      "sample": "抽出事業所・入職者・離職者調査。詳細は調査概要参照",
+      "method": "年初常用労働者数に対する入職・離職者数等を推計",
+      "finding": "2024年の離職率は全体14.2%、一般11.5%、パート21.4%",
+      "limitations": [
+        "個社の自発離職率と同義でない",
+        "就業形態・産業構成が異なる",
+        "公表訂正を確認"
+      ],
+      "source_url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/25-2/index.html",
+      "last_human_verified": "2026-07-12"
+    },
+    {
+      "id": "eu-ai-act-2024",
+      "authors": "European Parliament & Council of the European Union",
+      "year": 2024,
+      "title": "Regulation (EU) 2024/1689 (Artificial Intelligence Act)",
+      "journal": "Official Journal of the European Union",
+      "url": "https://eur-lex.europa.eu/eli/reg/2024/1689/oj/eng",
+      "type": "official legal instrument",
+      "status": "official EU regulation",
+      "population": "EU域内のAIシステム",
+      "sample": "該当なし",
+      "method": "AI利用のリスク分類と義務を規定",
+      "finding": "雇用・労働者管理等の一部AIを高リスク用途として規律",
+      "limitations": [
+        "EU法",
+        "適用時期・例外・国内法を確認",
+        "日本での個別法的助言ではない"
+      ],
+      "source_url": "https://eur-lex.europa.eu/eli/reg/2024/1689/oj/eng",
+      "last_human_verified": "2026-07-12"
+    }
+  ]
+}

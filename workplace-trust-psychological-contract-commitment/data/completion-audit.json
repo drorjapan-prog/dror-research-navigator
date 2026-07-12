@@ -1,0 +1,82 @@
+{
+  "version": "0.1",
+  "release_decision": "完成条件を満たす（次分野へ移行可）",
+  "dimensions": [
+    {
+      "id": "trust-definition",
+      "status": "complete",
+      "evidence": "期待・脆弱性・リスク行動・信頼可能性を分離"
+    },
+    {
+      "id": "referents-levels",
+      "status": "complete",
+      "evidence": "同僚・上司・チーム・経営・組織・制度・組織間"
+    },
+    {
+      "id": "bases-dynamics",
+      "status": "complete",
+      "evidence": "能力・善意・誠実性、認知・感情、初期・更新"
+    },
+    {
+      "id": "distrust-calibration",
+      "status": "complete",
+      "evidence": "低信頼と不信、過信・過小信頼、統制・監査"
+    },
+    {
+      "id": "psychological-contract",
+      "status": "complete",
+      "evidence": "期待・約束・義務・履行・不履行・違反・再交渉"
+    },
+    {
+      "id": "commitment",
+      "status": "complete",
+      "evidence": "対象、情緒的・存続的・規範的、プロフィール・批判"
+    },
+    {
+      "id": "support-exchange-id",
+      "status": "complete",
+      "evidence": "組織支援知覚、社会的交換、組織同一化との境界"
+    },
+    {
+      "id": "repair",
+      "status": "complete",
+      "evidence": "違反類型、帰属、謝罪・説明・補償・制度変更・離脱"
+    },
+    {
+      "id": "no-forced-retrust",
+      "status": "complete",
+      "evidence": "赦し・和解・関係継続・再信頼を強制しない"
+    },
+    {
+      "id": "whistleblowing",
+      "status": "complete",
+      "evidence": "受付・利益相反・調査・是正・非報復・終結"
+    },
+    {
+      "id": "law-currentness",
+      "status": "complete",
+      "evidence": "現行法と2026年12月施行予定改正を分離"
+    },
+    {
+      "id": "privacy-monitoring",
+      "status": "complete",
+      "evidence": "目的限定・最小化・アクセス・保存・異議"
+    },
+    {
+      "id": "measurement",
+      "status": "complete",
+      "evidence": "対象・期間・水準・行動・実装・公平を測定"
+    },
+    {
+      "id": "openness",
+      "status": "complete",
+      "evidence": "主張・研究・用語・採否・質・更新・訂正を公開"
+    }
+  ],
+  "remaining_non_blocking": [
+    "日本語尺度の測定不変性・全国標準値は更新余地",
+    "日本の非正規・請負・フリーランス・多国籍職場研究を優先",
+    "実際の重大不正後の信頼修復を長期追跡する研究は限定",
+    "2026年12月施行改正の実装・報復・是正効果は今後評価"
+  ]
+}

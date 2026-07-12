@@ -1,0 +1,489 @@
+{
+  "name": "職場の対立・コンフリクト・交渉・関係修復 採用・除外記録",
+  "version": "0.1",
+  "screening": [
+    {
+      "id": "S01",
+      "decision": "include",
+      "reason": "介入・実証研究として研究質問に適合",
+      "source": "jehn-1995",
+      "evidence_role": "介入・実証研究"
+    },
+    {
+      "id": "S02",
+      "decision": "include",
+      "reason": "基礎理論・測定として研究質問に適合",
+      "source": "jehn-1997",
+      "evidence_role": "基礎理論・測定"
+    },
+    {
+      "id": "S03",
+      "decision": "include",
+      "reason": "介入・実証研究として研究質問に適合",
+      "source": "simons-peterson-2000",
+      "evidence_role": "介入・実証研究"
+    },
+    {
+      "id": "S04",
+      "decision": "include",
+      "reason": "統合研究として研究質問に適合",
+      "source": "de-dreu-weingart-2003",
+      "evidence_role": "統合研究"
+    },
+    {
+      "id": "S05",
+      "decision": "include",
+      "reason": "統合研究として研究質問に適合",
+      "source": "de-wit-2012",
+      "evidence_role": "統合研究"
+    },
+    {
+      "id": "S06",
+      "decision": "include",
+      "reason": "介入・実証研究として研究質問に適合",
+      "source": "bradley-2012",
+      "evidence_role": "介入・実証研究"
+    },
+    {
+      "id": "S07",
+      "decision": "include",
+      "reason": "介入・実証研究として研究質問に適合",
+      "source": "greer-2008",
+      "evidence_role": "介入・実証研究"
+    },
+    {
+      "id": "S08",
+      "decision": "include",
+      "reason": "介入・実証研究として研究質問に適合",
+      "source": "behfar-2008",
+      "evidence_role": "介入・実証研究"
+    },
+    {
+      "id": "S09",
+      "decision": "include",
+      "reason": "統合研究として研究質問に適合",
+      "source": "tjosvold-2008",
+      "evidence_role": "統合研究"
+    },
+    {
+      "id": "S10",
+      "decision": "include",
+      "reason": "基礎理論・測定として研究質問に適合",
+      "source": "rahim-1983",
+      "evidence_role": "基礎理論・測定"
+    },
+    {
+      "id": "S11",
+      "decision": "include",
+      "reason": "統合研究として研究質問に適合",
+      "source": "huffmeier-2014",
+      "evidence_role": "統合研究"
+    },
+    {
+      "id": "S12",
+      "decision": "include",
+      "reason": "統合研究として研究質問に適合",
+      "source": "mazei-2015",
+      "evidence_role": "統合研究"
+    },
+    {
+      "id": "S13",
+      "decision": "include",
+      "reason": "介入・実証研究として研究質問に適合",
+      "source": "bowles-2007",
+      "evidence_role": "介入・実証研究"
+    },
+    {
+      "id": "S14",
+      "decision": "include",
+      "reason": "介入・実証研究として研究質問に適合",
+      "source": "galinsky-2001",
+      "evidence_role": "介入・実証研究"
+    },
+    {
+      "id": "S15",
+      "decision": "include",
+      "reason": "介入・実証研究として研究質問に適合",
+      "source": "van-kleef-2004",
+      "evidence_role": "介入・実証研究"
+    },
+    {
+      "id": "S16",
+      "decision": "include",
+      "reason": "介入・実証研究として研究質問に適合",
+      "source": "thompson-1991",
+      "evidence_role": "介入・実証研究"
+    },
+    {
+      "id": "S17",
+      "decision": "include",
+      "reason": "介入・実証研究として研究質問に適合",
+      "source": "weingart-1990",
+      "evidence_role": "介入・実証研究"
+    },
+    {
+      "id": "S18",
+      "decision": "include",
+      "reason": "基礎理論・測定として研究質問に適合",
+      "source": "curhan-2006",
+      "evidence_role": "基礎理論・測定"
+    },
+    {
+      "id": "S19",
+      "decision": "include",
+      "reason": "介入・実証研究として研究質問に適合",
+      "source": "elfenbein-2008",
+      "evidence_role": "介入・実証研究"
+    },
+    {
+      "id": "S20",
+      "decision": "include",
+      "reason": "統合研究として研究質問に適合",
+      "source": "wall-2001",
+      "evidence_role": "統合研究"
+    },
+    {
+      "id": "S21",
+      "decision": "include",
+      "reason": "介入・実証研究として研究質問に適合",
+      "source": "pruitt-1993",
+      "evidence_role": "介入・実証研究"
+    },
+    {
+      "id": "S22",
+      "decision": "include",
+      "reason": "介入・実証研究として研究質問に適合",
+      "source": "bingham-1997",
+      "evidence_role": "介入・実証研究"
+    },
+    {
+      "id": "S23",
+      "decision": "include",
+      "reason": "介入・実証研究として研究質問に適合",
+      "source": "latreille-2012",
+      "evidence_role": "介入・実証研究"
+    },
+    {
+      "id": "S24",
+      "decision": "include",
+      "reason": "公式指針・制度として研究質問に適合",
+      "source": "saundry-2013",
+      "evidence_role": "公式指針・制度"
+    },
+    {
+      "id": "S25",
+      "decision": "include",
+      "reason": "基礎理論・測定として研究質問に適合",
+      "source": "andersson-pearson-1999",
+      "evidence_role": "基礎理論・測定"
+    },
+    {
+      "id": "S26",
+      "decision": "include",
+      "reason": "介入・実証研究として研究質問に適合",
+      "source": "cortina-2001",
+      "evidence_role": "介入・実証研究"
+    },
+    {
+      "id": "S27",
+      "decision": "include",
+      "reason": "介入・実証研究として研究質問に適合",
+      "source": "porath-erez-2007",
+      "evidence_role": "介入・実証研究"
+    },
+    {
+      "id": "S28",
+      "decision": "include",
+      "reason": "統合研究として研究質問に適合",
+      "source": "hershcovis-2007",
+      "evidence_role": "統合研究"
+    },
+    {
+      "id": "S29",
+      "decision": "include",
+      "reason": "統合研究として研究質問に適合",
+      "source": "hershcovis-barling-2010",
+      "evidence_role": "統合研究"
+    },
+    {
+      "id": "S30",
+      "decision": "include",
+      "reason": "統合研究として研究質問に適合",
+      "source": "nielsen-einarsen-2012",
+      "evidence_role": "統合研究"
+    },
+    {
+      "id": "S31",
+      "decision": "include",
+      "reason": "統合研究として研究質問に適合",
+      "source": "verkuil-2015",
+      "evidence_role": "統合研究"
+    },
+    {
+      "id": "S32",
+      "decision": "include",
+      "reason": "統合研究として研究質問に適合",
+      "source": "willness-2007",
+      "evidence_role": "統合研究"
+    },
+    {
+      "id": "S33",
+      "decision": "include",
+      "reason": "統合研究として研究質問に適合",
+      "source": "escartin-2016",
+      "evidence_role": "統合研究"
+    },
+    {
+      "id": "S34",
+      "decision": "include",
+      "reason": "統合研究として研究質問に適合",
+      "source": "morrison-2014",
+      "evidence_role": "統合研究"
+    },
+    {
+      "id": "S35",
+      "decision": "include",
+      "reason": "介入・実証研究として研究質問に適合",
+      "source": "detert-edmondson-2011",
+      "evidence_role": "介入・実証研究"
+    },
+    {
+      "id": "S36",
+      "decision": "include",
+      "reason": "介入・実証研究として研究質問に適合",
+      "source": "burris-2012",
+      "evidence_role": "介入・実証研究"
+    },
+    {
+      "id": "S37",
+      "decision": "include",
+      "reason": "統合研究として研究質問に適合",
+      "source": "kish-gephart-2009",
+      "evidence_role": "統合研究"
+    },
+    {
+      "id": "S38",
+      "decision": "include",
+      "reason": "統合研究として研究質問に適合",
+      "source": "miceli-2008",
+      "evidence_role": "統合研究"
+    },
+    {
+      "id": "S39",
+      "decision": "include",
+      "reason": "介入・実証研究として研究質問に適合",
+      "source": "kim-2004",
+      "evidence_role": "介入・実証研究"
+    },
+    {
+      "id": "S40",
+      "decision": "include",
+      "reason": "基礎理論・測定として研究質問に適合",
+      "source": "dirks-2009",
+      "evidence_role": "基礎理論・測定"
+    },
+    {
+      "id": "S41",
+      "decision": "include",
+      "reason": "基礎理論・測定として研究質問に適合",
+      "source": "tomlinson-mayer-2009",
+      "evidence_role": "基礎理論・測定"
+    },
+    {
+      "id": "S42",
+      "decision": "include",
+      "reason": "統合研究として研究質問に適合",
+      "source": "lewicki-brinsfield-2017",
+      "evidence_role": "統合研究"
+    },
+    {
+      "id": "S43",
+      "decision": "include",
+      "reason": "統合研究として研究質問に適合",
+      "source": "fehr-2010",
+      "evidence_role": "統合研究"
+    },
+    {
+      "id": "S44",
+      "decision": "include",
+      "reason": "統合研究として研究質問に適合",
+      "source": "wenzel-2008",
+      "evidence_role": "統合研究"
+    },
+    {
+      "id": "S45",
+      "decision": "include",
+      "reason": "介入・実証研究として研究質問に適合",
+      "source": "okimoto-wenzel-2009",
+      "evidence_role": "介入・実証研究"
+    },
+    {
+      "id": "S46",
+      "decision": "include",
+      "reason": "介入・実証研究として研究質問に適合",
+      "source": "shnabel-nadler-2008",
+      "evidence_role": "介入・実証研究"
+    },
+    {
+      "id": "S47",
+      "decision": "include",
+      "reason": "基礎理論・測定として研究質問に適合",
+      "source": "colquitt-scale-2001",
+      "evidence_role": "基礎理論・測定"
+    },
+    {
+      "id": "S48",
+      "decision": "include",
+      "reason": "統合研究として研究質問に適合",
+      "source": "colquitt-meta-2001",
+      "evidence_role": "統合研究"
+    },
+    {
+      "id": "S49",
+      "decision": "include",
+      "reason": "介入・実証研究として研究質問に適合",
+      "source": "greenberg-1993",
+      "evidence_role": "介入・実証研究"
+    },
+    {
+      "id": "S50",
+      "decision": "include",
+      "reason": "基礎理論・測定として研究質問に適合",
+      "source": "tyler-blader-2003",
+      "evidence_role": "基礎理論・測定"
+    },
+    {
+      "id": "S51",
+      "decision": "include",
+      "reason": "統合研究として研究質問に適合",
+      "source": "rupp-2014",
+      "evidence_role": "統合研究"
+    },
+    {
+      "id": "S52",
+      "decision": "include",
+      "reason": "公式指針・制度として研究質問に適合",
+      "source": "ilo-c190",
+      "evidence_role": "公式指針・制度"
+    },
+    {
+      "id": "S53",
+      "decision": "include",
+      "reason": "公式指針・制度として研究質問に適合",
+      "source": "ilo-r206",
+      "evidence_role": "公式指針・制度"
+    },
+    {
+      "id": "S54",
+      "decision": "include",
+      "reason": "公式指針・制度として研究質問に適合",
+      "source": "ilo-c154",
+      "evidence_role": "公式指針・制度"
+    },
+    {
+      "id": "S55",
+      "decision": "include",
+      "reason": "公式指針・制度として研究質問に適合",
+      "source": "ilo-c98",
+      "evidence_role": "公式指針・制度"
+    },
+    {
+      "id": "S56",
+      "decision": "include",
+      "reason": "公式指針・制度として研究質問に適合",
+      "source": "ilo-c135",
+      "evidence_role": "公式指針・制度"
+    },
+    {
+      "id": "S57",
+      "decision": "include",
+      "reason": "公式指針・制度として研究質問に適合",
+      "source": "japan-individual-disputes",
+      "evidence_role": "公式指針・制度"
+    },
+    {
+      "id": "S58",
+      "decision": "include",
+      "reason": "公式指針・制度として研究質問に適合",
+      "source": "japan-labor-adjustment",
+      "evidence_role": "公式指針・制度"
+    },
+    {
+      "id": "S59",
+      "decision": "include",
+      "reason": "公式指針・制度として研究質問に適合",
+      "source": "japan-labor-policy",
+      "evidence_role": "公式指針・制度"
+    },
+    {
+      "id": "S60",
+      "decision": "include",
+      "reason": "公式指針・制度として研究質問に適合",
+      "source": "japan-equal-opportunity",
+      "evidence_role": "公式指針・制度"
+    },
+    {
+      "id": "S61",
+      "decision": "include",
+      "reason": "公式指針・制度として研究質問に適合",
+      "source": "japan-whistleblower",
+      "evidence_role": "公式指針・制度"
+    },
+    {
+      "id": "S62",
+      "decision": "include",
+      "reason": "公式指針・制度として研究質問に適合",
+      "source": "mhlw-harassment-guidance",
+      "evidence_role": "公式指針・制度"
+    },
+    {
+      "id": "S63",
+      "decision": "include",
+      "reason": "公式指針・制度として研究質問に適合",
+      "source": "acas-code-2015",
+      "evidence_role": "公式指針・制度"
+    },
+    {
+      "id": "S64",
+      "decision": "exclude",
+      "source": "conflict-is-always-good",
+      "reason": "課題対立を無条件に有益と断定"
+    },
+    {
+      "id": "S65",
+      "decision": "exclude",
+      "source": "style-personality-test",
+      "reason": "対立スタイルを固定人格・採用診断に利用"
+    },
+    {
+      "id": "S66",
+      "decision": "exclude",
+      "source": "forced-mediation",
+      "reason": "被害申立人へ共同面談を強制"
+    },
+    {
+      "id": "S67",
+      "decision": "exclude",
+      "source": "forgive-to-heal",
+      "reason": "赦しを回復義務として要求"
+    },
+    {
+      "id": "S68",
+      "decision": "exclude",
+      "source": "complaint-score",
+      "reason": "相談履歴から問題人物をAI推定"
+    },
+    {
+      "id": "S69",
+      "decision": "exclude",
+      "source": "vendor-mediation-rate",
+      "reason": "定義・比較群のない仲介成功率広告"
+    },
+    {
+      "id": "S70",
+      "decision": "exclude",
+      "source": "silence-equals-harmony",
+      "reason": "相談ゼロを調和の証拠とする資料"
+    }
+  ]
+}

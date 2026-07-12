@@ -1,0 +1,1619 @@
+{
+  "name": "職場の多様性・包摂・差別・所属感 主張レジスター",
+  "version": "0.1",
+  "license": "CC BY 4.0",
+  "claims": [
+    {
+      "id": "DI-C01",
+      "claim": "多様性、代表性、公平、包摂、所属感、差別禁止、アクセシビリティ、合理的配慮は重なりつつ異なる概念であり、人数比だけで代替しない。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "概念境界",
+      "sources": [
+        "shore-2011",
+        "jansen-2014",
+        "ilo-c111"
+      ],
+      "limits": [
+        "用語・法的定義は制度により異なる"
+      ],
+      "scope": [
+        "定義"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DI-C02",
+      "claim": "人口統計的多様性とチーム業績の平均的関係は一様でなく、属性、仕事関連性、課題、相互依存、在籍期間、文脈で異なる。",
+      "label": "A",
+      "directness": "多様性直接研究",
+      "relationship": "メタ分析",
+      "sources": [
+        "vandijk-2012",
+        "joshi-2009",
+        "horwitz-2007",
+        "webber-2001",
+        "bell-2011"
+      ],
+      "limits": [
+        "相関研究中心",
+        "カテゴリ・成果測定差",
+        "権利根拠とは別"
+      ],
+      "scope": [
+        "多様性効果"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DI-C03",
+      "claim": "文化的多様性は創造性・情報等の利点と、葛藤・調整負担等の過程を同時に生み得るため、単純な事業効果を約束しない。",
+      "label": "A",
+      "directness": "多様性直接研究",
+      "relationship": "メタ分析",
+      "sources": [
+        "stahl-2010",
+        "guillaume-2017"
+      ],
+      "limits": [
+        "文化指標・国・チーム差",
+        "平均効果を個別組織へ直輸入しない"
+      ],
+      "scope": [
+        "文化多様性"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DI-C04",
+      "claim": "多様性の「ビジネスケース」が弱い・混合であっても、差別を防ぎ、権利・機会・待遇の平等を確保する責任は変わらない。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "権利と効果の分離",
+      "sources": [
+        "ilo-c111",
+        "un-guiding-2011"
+      ],
+      "limits": [
+        "個別法的義務は国内法を確認"
+      ],
+      "scope": [
+        "権利"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DI-C05",
+      "claim": "代表性は入口・階層・職種・雇用形態・意思決定権ごとに測り、全社平均だけで偏在を隠さない。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "分布評価",
+      "sources": [
+        "kalev-2006",
+        "mccall-2005"
+      ],
+      "limits": [
+        "少人数の再特定",
+        "カテゴリ設定・母集団比較"
+      ],
+      "scope": [
+        "代表性"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DI-C06",
+      "claim": "包摂は所属感と独自性・真正性の両立として捉え、所属のために同化・沈黙・属性開示を要求しない。",
+      "label": "B",
+      "directness": "多様性直接研究",
+      "relationship": "概念・測定",
+      "sources": [
+        "shore-2011",
+        "jansen-2014"
+      ],
+      "limits": [
+        "自己報告",
+        "文化差",
+        "真正性を固定規範にしない"
+      ],
+      "scope": [
+        "包摂"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DI-C07",
+      "claim": "包摂風土は、多様な人が公正に扱われ、意思決定へ参加し、違いが学習に使われる共有経験として測る。",
+      "label": "B",
+      "directness": "多様性直接研究",
+      "relationship": "多水準観察・測定",
+      "sources": [
+        "nishii-2013",
+        "morbarak-1998"
+      ],
+      "limits": [
+        "観察・自己報告",
+        "集団内差を平均で隠さない"
+      ],
+      "scope": [
+        "包摂風土"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DI-C08",
+      "claim": "「自分らしく」と求める前に、開示しても不利益がない制度、開示しない自由、必要な配慮を得る代替経路を整える。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "開示と安全",
+      "sources": [
+        "clair-2005",
+        "ilo-data",
+        "un-crpd"
+      ],
+      "limits": [
+        "不可視属性・文脈差",
+        "国内法を確認"
+      ],
+      "scope": [
+        "開示"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DI-C09",
+      "claim": "所属感をエンゲージメントや忠誠心と混同せず、関係、尊重、参加、排斥、同化圧力を分けて測る。",
+      "label": "B",
+      "directness": "多様性隣接研究",
+      "relationship": "統合・測定",
+      "sources": [
+        "baumeister-1995",
+        "ferris-2008",
+        "shore-2011"
+      ],
+      "limits": [
+        "職場直接性・自己報告",
+        "個人差・文化差"
+      ],
+      "scope": [
+        "所属感"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DI-C10",
+      "claim": "職場排斥は明示的拒絶だけでなく、無視、情報・会話・機会からの除外として現れ得るため、意図だけでなく反復・影響・分布を調べる。",
+      "label": "A",
+      "directness": "多様性直接研究",
+      "relationship": "測定・統合",
+      "sources": [
+        "ferris-2008",
+        "robinson-2013"
+      ],
+      "limits": [
+        "意図推定の困難",
+        "自己報告",
+        "通常の業務境界と区別"
+      ],
+      "scope": [
+        "排斥"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DI-C11",
+      "claim": "包摂的リーダーシップを温和な態度だけにせず、発言招請、アクセス可能性、異論への反応、情報・機会配分、貢献評価で確認する。",
+      "label": "B",
+      "directness": "多様性直接研究",
+      "relationship": "統合・観察",
+      "sources": [
+        "randel-2018",
+        "nembhard-2006",
+        "carmeli-2010"
+      ],
+      "limits": [
+        "概念・観察研究中心",
+        "制度・権力を別途評価"
+      ],
+      "scope": [
+        "包摂的リーダーシップ"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DI-C12",
+      "claim": "地位差のある場では、全員へ同じ発言機会を宣言するだけでなく、事前収集、匿名経路、順番、通訳・支援、決定への反映を設計する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "参加設計",
+      "sources": [
+        "nembhard-2006",
+        "edmondson-1999"
+      ],
+      "limits": [
+        "匿名性・少人数保護",
+        "発言強制を避ける"
+      ],
+      "scope": [
+        "発言"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DI-C13",
+      "claim": "心理的安全性を包摂・差別禁止・雇用上の安全・守秘の代替にせず、異議を述べても不利益を受けない正式手続を別に持つ。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "概念境界",
+      "sources": [
+        "edmondson-1999",
+        "ilo-c111",
+        "un-guiding-2011"
+      ],
+      "limits": [
+        "法的保護・救済は国内法を確認"
+      ],
+      "scope": [
+        "安全"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DI-C14",
+      "claim": "差別を露骨な侮辱だけに限定せず、採用、配置、評価、報酬、昇進、訓練、柔軟勤務、懲戒、解雇等の結果・手続も監査する。",
+      "label": "A",
+      "directness": "混合",
+      "relationship": "メタ分析・公式原則",
+      "sources": [
+        "jones-2016",
+        "ilo-c111",
+        "un-guiding-2011"
+      ],
+      "limits": [
+        "保護事由・立証は国内法を確認",
+        "相関証拠を含む"
+      ],
+      "scope": [
+        "差別"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DI-C15",
+      "claim": "微妙・曖昧な差別も健康・態度・業績等と関連し得るため、「悪意が証明できない」だけで影響を無視しない。",
+      "label": "A",
+      "directness": "多様性直接研究",
+      "relationship": "メタ分析",
+      "sources": [
+        "jones-2016",
+        "triana-2015"
+      ],
+      "limits": [
+        "自己報告・相関中心",
+        "個別事案の法的認定ではない"
+      ],
+      "scope": [
+        "微妙な差別"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DI-C16",
+      "claim": "無礼や低強度の排除が特定集団へ偏っていないかを調べ、一般的な礼儀研修だけで構造的偏りを隠さない。",
+      "label": "B",
+      "directness": "多様性直接研究",
+      "relationship": "概念統合",
+      "sources": [
+        "cortina-2008",
+        "ferris-2008"
+      ],
+      "limits": [
+        "意図・法的差別の推定に注意",
+        "直接介入証拠限定"
+      ],
+      "scope": [
+        "選択的無礼"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DI-C17",
+      "claim": "人種・民族差別の監査では、本人の認知だけでなく、応募・選考・処遇の比較、手続、記録、結果差を組み合わせる。",
+      "label": "A",
+      "directness": "多様性直接研究",
+      "relationship": "メタ分析・フィールド実験",
+      "sources": [
+        "triana-2015",
+        "bertrand-2004",
+        "quillian-2017"
+      ],
+      "limits": [
+        "国・時代・集団差",
+        "カテゴリの社会的構成",
+        "国内法を確認"
+      ],
+      "scope": [
+        "人種・民族"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DI-C18",
+      "claim": "氏名・住所・学校等の代理情報を通じた差別を想定し、属性欄を消すだけでなく、募集経路、基準、評価、呼出率を監査する。",
+      "label": "A",
+      "directness": "多様性直接研究",
+      "relationship": "フィールド実験",
+      "sources": [
+        "bertrand-2004",
+        "quillian-2017"
+      ],
+      "limits": [
+        "匿名化だけでは構造差を解消しない",
+        "国・職種差"
+      ],
+      "scope": [
+        "採用"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DI-C19",
+      "claim": "ジェンダーバイアスは仕事の性別類型、評価者、情報、役割適合等で変わるため、平均差だけでなく条件別の選考・評価を調べる。",
+      "label": "A",
+      "directness": "多様性直接研究",
+      "relationship": "メタ分析",
+      "sources": [
+        "koch-2015"
+      ],
+      "limits": [
+        "実験中心",
+        "性別二分法",
+        "時代・職種差"
+      ],
+      "scope": [
+        "ジェンダー"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DI-C20",
+      "claim": "妊娠・出産・親であること・ケア責任を能力やコミットメント不足の代理にせず、機会・評価・賃金・柔軟勤務利用後の結果を監査する。",
+      "label": "A",
+      "directness": "混合",
+      "relationship": "実験・観察・公式原則",
+      "sources": [
+        "correll-2007",
+        "cech-2014",
+        "ilo-c156"
+      ],
+      "limits": [
+        "米国研究中心",
+        "家族・ジェンダー定義差",
+        "国内法を確認"
+      ],
+      "scope": [
+        "親・ケア"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DI-C21",
+      "claim": "柔軟勤務・休暇・配慮制度の存在だけでなく、利用時のキャリア罰、業務再配分、同僚負担、評価差を追う。",
+      "label": "B",
+      "directness": "混合",
+      "relationship": "観察・公式原則",
+      "sources": [
+        "cech-2014",
+        "ilo-c156",
+        "who-2022"
+      ],
+      "limits": [
+        "職種・制度差",
+        "因果方向",
+        "国内法を確認"
+      ],
+      "scope": [
+        "柔軟勤務"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DI-C22",
+      "claim": "年齢から意欲、学習力、技術適応、健康、生産性を推定せず、職務関連の個別証拠と機会・支援を用いる。",
+      "label": "A",
+      "directness": "混合",
+      "relationship": "メタ分析・公式原則",
+      "sources": [
+        "ng-2012-age",
+        "eu-equality-2000"
+      ],
+      "limits": [
+        "平均差を個人へ適用しない",
+        "国内法を確認"
+      ],
+      "scope": [
+        "年齢"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DI-C23",
+      "claim": "障害を個人の欠陥として扱わず、仕事・環境・技術・態度が作る障壁、アクセシビリティ、合理的配慮、本人の選択を確認する。",
+      "label": "B",
+      "directness": "混合",
+      "relationship": "概念・公式原則",
+      "sources": [
+        "stone-1996",
+        "un-crpd"
+      ],
+      "limits": [
+        "障害・仕事の多様性",
+        "合理的配慮は個別・国内制度で判断"
+      ],
+      "scope": [
+        "障害"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DI-C24",
+      "claim": "障害のある人の雇用を事業便益が証明できる場合だけに条件づけず、権利を基礎にしつつ、組織・個人双方の結果を評価する。",
+      "label": "B",
+      "directness": "混合",
+      "relationship": "体系的レビューと権利原則",
+      "sources": [
+        "lindsay-2018",
+        "un-crpd"
+      ],
+      "limits": [
+        "研究質・出版バイアス",
+        "便益の一般化を避ける"
+      ],
+      "scope": [
+        "障害雇用"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DI-C25",
+      "claim": "合理的配慮の相談では診断名の過剰開示を求めず、必要な機能・障壁・変更、閲覧者、保存、見直しを限定する。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "配慮とデータ",
+      "sources": [
+        "un-crpd",
+        "ilo-data",
+        "who-2022"
+      ],
+      "limits": [
+        "国内法・医療情報取扱いを確認"
+      ],
+      "scope": [
+        "合理的配慮"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DI-C26",
+      "claim": "宗教・信条、性的指向等について、開示を前提にせず、服装、時間、休暇、設備、福利厚生、家族定義等の障壁と配慮を確認する。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "平等待遇と配慮",
+      "sources": [
+        "eu-equality-2000",
+        "ilo-c111"
+      ],
+      "limits": [
+        "保護事由・配慮義務・例外は国内法を確認"
+      ],
+      "scope": [
+        "宗教・性的指向"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DI-C27",
+      "claim": "不可視のアイデンティティの開示・秘匿・選択的開示は本人が決め、所属感やデータ収集のために開示を強制しない。",
+      "label": "B",
+      "directness": "多様性直接研究",
+      "relationship": "概念統合",
+      "sources": [
+        "clair-2005",
+        "jansen-2014",
+        "ilo-data"
+      ],
+      "limits": [
+        "概念研究中心",
+        "集団・関係・国差"
+      ],
+      "scope": [
+        "不可視属性"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DI-C28",
+      "claim": "非母語アクセントを理解力・知識・信頼性・リーダー性の代理にせず、内容、職務要件、通訳・字幕・文書化等を分けて評価する。",
+      "label": "B",
+      "directness": "多様性隣接研究",
+      "relationship": "統合・実験",
+      "sources": [
+        "gluszek-2010",
+        "levari-2010"
+      ],
+      "limits": [
+        "職場直接性制約",
+        "言語・文化差",
+        "安全上の明瞭性要件を別途評価"
+      ],
+      "scope": [
+        "言語・アクセント"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DI-C29",
+      "claim": "交差性は属性を足し算したリスク得点にせず、複数の社会的位置と制度・権力が同時に作る経験・結果を調べる。",
+      "label": "B",
+      "directness": "多様性直接研究",
+      "relationship": "方法論・概念",
+      "sources": [
+        "mccall-2005",
+        "holvino-2010"
+      ],
+      "limits": [
+        "カテゴリ固定化・小標本・再特定",
+        "介入効果証明ではない"
+      ],
+      "scope": [
+        "交差性"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DI-C30",
+      "claim": "集団別データを単一属性だけで集計すると交差的格差を隠す場合がある一方、細分化しすぎると再特定するため、目的と最小セル基準を定める。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "測定・データ保護",
+      "sources": [
+        "mccall-2005",
+        "ilo-data"
+      ],
+      "limits": [
+        "統計的安定性",
+        "法的カテゴリ・同意を確認"
+      ],
+      "scope": [
+        "交差データ"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DI-C31",
+      "claim": "性的ハラスメント・暴力は個人間トラブルだけでなく、組織風土、権力、雇用関係、第三者、オンライン・出張等を含む仕事の世界として予防する。",
+      "label": "A",
+      "directness": "混合",
+      "relationship": "メタ分析・公式原則",
+      "sources": [
+        "willness-2007",
+        "ilo-c190",
+        "ilo-r206"
+      ],
+      "limits": [
+        "定義・適用範囲は国内制度差",
+        "研究年代"
+      ],
+      "scope": [
+        "暴力・ハラスメント"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DI-C32",
+      "claim": "通報制度は相談、非公式対応、正式調査、緊急保護、外部救済を分け、守秘の限界、期限、証拠、利益相反、報復防止を示す。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "救済設計",
+      "sources": [
+        "ilo-r206",
+        "un-guiding-2011"
+      ],
+      "limits": [
+        "国内法・労使手続を確認",
+        "完全な秘密を約束しない"
+      ],
+      "scope": [
+        "通報"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DI-C33",
+      "claim": "被害を受けた人だけに環境から離れる負担を課さず、安全確保、業務・指揮命令・接触の調整、医療・心理・法的支援、回復を検討する。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "保護・支援",
+      "sources": [
+        "ilo-c190",
+        "ilo-r206",
+        "who-2022"
+      ],
+      "limits": [
+        "本人の希望・緊急性・国内制度を確認"
+      ],
+      "scope": [
+        "被害者支援"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DI-C34",
+      "claim": "報復は解雇・降格だけでなく、仕事・情報・機会の剥奪、悪評、孤立、契約不更新等を含めて追跡する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "報復防止",
+      "sources": [
+        "ilo-r206",
+        "robinson-2013",
+        "un-guiding-2011"
+      ],
+      "limits": [
+        "個別事案の法的認定は国内法を確認"
+      ],
+      "scope": [
+        "報復"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DI-C35",
+      "claim": "多様性研修は平均的に反応・認知・態度・技能を改善し得るが、短期研修だけで職場行動・代表性・格差が変わるとは限らない。",
+      "label": "A",
+      "directness": "多様性直接研究",
+      "relationship": "メタ分析",
+      "sources": [
+        "bezrukova-2016",
+        "kalinoski-2013"
+      ],
+      "limits": [
+        "研究・成果の異質性",
+        "長期・組織結果限定"
+      ],
+      "scope": [
+        "多様性研修"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DI-C36",
+      "claim": "多様性研修を単発の免責手段にせず、基準、仕事設計、意思決定、説明責任、相談・救済、結果監査と組み合わせる。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "研修と制度の接続",
+      "sources": [
+        "bezrukova-2016",
+        "kalev-2006",
+        "castilla-2015"
+      ],
+      "limits": [
+        "観察研究を含む",
+        "制度・国差"
+      ],
+      "scope": [
+        "多様性施策"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DI-C37",
+      "claim": "暗黙バイアス測度の変化を、個人の差別性・道徳性・実際の行動変化と同一視しない。",
+      "label": "A",
+      "directness": "多様性隣接研究",
+      "relationship": "メタ分析",
+      "sources": [
+        "forscher-2019"
+      ],
+      "limits": [
+        "職場専用ではない",
+        "測度の信頼性・妥当性",
+        "長期・行動効果限定"
+      ],
+      "scope": [
+        "暗黙バイアス"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DI-C38",
+      "claim": "暗黙連合テスト等を採用・昇進・懲戒の個人診断に使わず、必要なら匿名・集団レベルの教育的利用と限界説明に限定する。",
+      "label": "不支持",
+      "directness": "予防原則に基づく推論",
+      "relationship": "測定と不利益判断",
+      "sources": [
+        "forscher-2019",
+        "ilo-data"
+      ],
+      "limits": [
+        "国内法・研究倫理を確認",
+        "個人得点の安定性・予測力限定"
+      ],
+      "scope": [
+        "暗黙測度"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DI-C39",
+      "claim": "偏見低減介入には有望な結果がある一方、大規模・長期・行動・制度結果の証拠は限定されるため、効果を直接測定して更新する。",
+      "label": "B",
+      "directness": "多様性隣接研究",
+      "relationship": "実験・統合",
+      "sources": [
+        "devine-2012",
+        "paluck-2021"
+      ],
+      "limits": [
+        "職場直接性制約",
+        "介入・成果の異質性",
+        "再現・持続性"
+      ],
+      "scope": [
+        "偏見低減"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DI-C40",
+      "claim": "「属性を見ない」という方針は、既存の格差・経験差・必要な配慮を見えなくする場合があるため、同一取扱いと公平な結果を区別する。",
+      "label": "B",
+      "directness": "多様性隣接研究",
+      "relationship": "実験・概念",
+      "sources": [
+        "plaut-2009",
+        "ilo-c111"
+      ],
+      "limits": [
+        "米国人種文脈",
+        "理念と実装差",
+        "法的扱いは国内制度を確認"
+      ],
+      "scope": [
+        "色盲主義"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DI-C41",
+      "claim": "固定観念の対象となる人へ「気にしない」「自信を持つ」と求める前に、評価基準、手掛かり、代表性、支援、再評価機会を変える。",
+      "label": "B",
+      "directness": "多様性隣接研究",
+      "relationship": "統合レビュー",
+      "sources": [
+        "roberson-2007",
+        "nishii-2013"
+      ],
+      "limits": [
+        "実験・教育研究を含む",
+        "職場介入証拠限定"
+      ],
+      "scope": [
+        "ステレオタイプ脅威"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DI-C42",
+      "claim": "多様性施策の責任を少数者・ERG・有志の無償感情労働へ移さず、正式な権限、予算、時間、スポンサー、守秘、退出を設ける。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "権力・制度設計",
+      "sources": [
+        "shore-2011",
+        "kalev-2006"
+      ],
+      "limits": [
+        "ERG固有の効果研究は限定",
+        "国内労働条件を確認"
+      ],
+      "scope": [
+        "ERG"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DI-C43",
+      "claim": "ERG・当事者会への参加や名簿を人事評価・後継者選抜へ流用せず、参加しない自由と匿名・外部参加の選択を用意する。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "データ・結社",
+      "sources": [
+        "ilo-data",
+        "un-guiding-2011"
+      ],
+      "limits": [
+        "労働組合等との法的関係を確認",
+        "完全匿名性の限界"
+      ],
+      "scope": [
+        "ERGデータ"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DI-C44",
+      "claim": "多様性目標は法令・地域・母集団を確認し、採用数だけでなく、募集、選考、配置、定着、昇進、報酬、退出理由を追う。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "パイプライン監査",
+      "sources": [
+        "kalev-2006",
+        "castilla-2015",
+        "ilo-c111"
+      ],
+      "limits": [
+        "割当・積極的是正措置は国内法を確認",
+        "母集団設定"
+      ],
+      "scope": [
+        "目標"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DI-C45",
+      "claim": "説明責任と透明性は格差是正を支え得るが、単なる会議・署名・公開でなく、誰が何を説明し修正するかを定める。",
+      "label": "B",
+      "directness": "多様性直接研究",
+      "relationship": "組織フィールド研究",
+      "sources": [
+        "castilla-2015",
+        "kalev-2006"
+      ],
+      "limits": [
+        "観察・単一企業を含む",
+        "制度の形式化と実装差"
+      ],
+      "scope": [
+        "説明責任"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DI-C46",
+      "claim": "同一価値労働の報酬格差を、職位名や前職給与だけで正当化せず、技能、努力、責任、条件、評価・交渉機会を監査する。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "報酬公平",
+      "sources": [
+        "ilo-c100",
+        "castilla-2015"
+      ],
+      "limits": [
+        "国内賃金法・労使制度を確認"
+      ],
+      "scope": [
+        "報酬"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DI-C47",
+      "claim": "属性別の平均値だけで「公平」と判断せず、分布、職位、雇用形態、勤務時間、欠測、選抜、交差性、説明可能な要因と残差を確認する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "分配分析",
+      "sources": [
+        "mccall-2005",
+        "castilla-2015"
+      ],
+      "limits": [
+        "因果推論・多重比較",
+        "少人数保護",
+        "統計専門性"
+      ],
+      "scope": [
+        "統計監査"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DI-C48",
+      "claim": "属性データは目的、法的根拠、任意性、自己認識、カテゴリ、閲覧者、保存、集計単位、訂正、削除を事前に示す。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "属性データ統治",
+      "sources": [
+        "ilo-data",
+        "un-guiding-2011"
+      ],
+      "limits": [
+        "国内個人情報・雇用法を確認",
+        "同意の自由度"
+      ],
+      "scope": [
+        "属性データ"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DI-C49",
+      "claim": "少人数集団を公開表・ダッシュボードで再特定しないよう、最小セル、抑制、丸め、アクセス制御を定める。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "プライバシー保護",
+      "sources": [
+        "ilo-data",
+        "mccall-2005"
+      ],
+      "limits": [
+        "完全な匿名化を保証しない",
+        "統計有用性との均衡"
+      ],
+      "scope": [
+        "再特定"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DI-C50",
+      "claim": "未回答・複数回答・カテゴリ外・回答変更を認め、属性回答の欠測を本人の抵抗・忠誠心・リスクの指標にしない。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "自己認識と任意性",
+      "sources": [
+        "ilo-data",
+        "mccall-2005"
+      ],
+      "limits": [
+        "法定報告で選択肢が異なる",
+        "データ品質との均衡"
+      ],
+      "scope": [
+        "自己認識"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DI-C51",
+      "claim": "AI採用・評価の公平性を単一の統計指標へ還元せず、問題定義、訓練データ、母集団、仕事要件、運用、人の判断、異議、結果を社会技術システムとして監査する。",
+      "label": "A",
+      "directness": "混合",
+      "relationship": "概念・公式枠組み",
+      "sources": [
+        "selbst-2019",
+        "nist-ai-100",
+        "eu-ai-2024"
+      ],
+      "limits": [
+        "公平性定義間の競合",
+        "法的要件は管轄で異なる"
+      ],
+      "scope": [
+        "AI公平性"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DI-C52",
+      "claim": "採用、配置、昇進、解雇、監視、評価等に用いるAIでは、用途、入力、群別性能、誤り、責任者、人による再審査、停止、記録を示す。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "高リスクAI統治",
+      "sources": [
+        "eu-ai-2024",
+        "nist-ai-100",
+        "ilo-data"
+      ],
+      "limits": [
+        "EU法の段階適用・例外",
+        "日本へ直接適用されない",
+        "国内法を確認"
+      ],
+      "scope": [
+        "雇用AI"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DI-C53",
+      "claim": "職場の感情認識や生体・行動データからの性格・忠誠心・脆弱性推定を、高不利益な雇用判断へ用いることを支持しない。",
+      "label": "不支持",
+      "directness": "予防原則に基づく推論",
+      "relationship": "妥当性・尊厳",
+      "sources": [
+        "eu-ai-2024",
+        "ilo-data",
+        "nist-ai-100"
+      ],
+      "limits": [
+        "EU法の禁止範囲・例外を確認",
+        "推定妥当性・国内法"
+      ],
+      "scope": [
+        "感情認識"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DI-C54",
+      "claim": "AIの群別公平性評価では、誤検出・見逃しの誰への負担か、カテゴリ内差、交差性、データ不足、閾値変更の分配影響を示す。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "分配と技術評価",
+      "sources": [
+        "selbst-2019",
+        "mccall-2005",
+        "nist-ai-100"
+      ],
+      "limits": [
+        "小標本・統計不安定",
+        "カテゴリの社会的構成"
+      ],
+      "scope": [
+        "AI監査"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DI-C55",
+      "claim": "人による確認を承認ボタンにせず、独立情報、判断を覆す権限・時間・能力、利益相反管理、記録を持たせる。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "実質的人間監督",
+      "sources": [
+        "eu-ai-2024",
+        "nist-ai-100"
+      ],
+      "limits": [
+        "自動化依存・責任の空洞化",
+        "国内制度を確認"
+      ],
+      "scope": [
+        "人の監督"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DI-C56",
+      "claim": "差別・ハラスメント・配慮・AI判断への異議では、アクセス可能な複数窓口、期限、独立性、理由、訂正、暫定保護、報復防止、外部救済情報を設ける。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "実効的救済",
+      "sources": [
+        "un-guiding-2011",
+        "ilo-r206",
+        "un-crpd"
+      ],
+      "limits": [
+        "国内法・労使制度を確認",
+        "緊急案件は専門対応"
+      ],
+      "scope": [
+        "救済"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DI-C57",
+      "claim": "相談件数が少ないことを安全の証拠にせず、認知、アクセス、信頼、報復懸念、離職・欠勤・異動等の別指標と併せる。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "測定解釈",
+      "sources": [
+        "willness-2007",
+        "un-guiding-2011"
+      ],
+      "limits": [
+        "相談増加が悪化・信頼向上の双方を表し得る"
+      ],
+      "scope": [
+        "相談指標"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DI-C58",
+      "claim": "多様性・包摂調査は平均だけでなく分布・少数意見・群別差を示し、自由記述の再特定と報復を防ぐ。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "調査設計",
+      "sources": [
+        "morbarak-1998",
+        "jansen-2014",
+        "ilo-data"
+      ],
+      "limits": [
+        "少人数・自由記述の再特定",
+        "調査疲れ",
+        "自己報告"
+      ],
+      "scope": [
+        "包摂調査"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DI-C59",
+      "claim": "組織成果は代表性や好意的態度だけでなく、差別・排斥・ハラスメント、機会、報酬、健康、定着、救済、仕事の質で評価する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "多次元成果",
+      "sources": [
+        "triana-2015",
+        "willness-2007",
+        "nishii-2013"
+      ],
+      "limits": [
+        "遠い成果ほど他要因が多い",
+        "平均で格差を隠さない"
+      ],
+      "scope": [
+        "成果"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DI-C60",
+      "claim": "施策による反発・沈黙・属性開示圧力・少数者負担・形式遵守・データ再特定・逆選別等の副作用を追跡する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "副作用評価",
+      "sources": [
+        "plaut-2009",
+        "bezrukova-2016",
+        "ilo-data"
+      ],
+      "limits": [
+        "反発を権利制限の理由にしない",
+        "測定自体の萎縮効果"
+      ],
+      "scope": [
+        "副作用"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DI-C61",
+      "claim": "制度変更は影響を受ける人を含めて小さく試し、実装、理解、群別結果、異議、負担を確認して修正・撤回する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "反復設計",
+      "sources": [
+        "nishii-2013",
+        "kalev-2006",
+        "nist-ai-100"
+      ],
+      "limits": [
+        "試行中の権利侵害を許容しない",
+        "比較条件・実装度"
+      ],
+      "scope": [
+        "改善"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DI-C62",
+      "claim": "当事者参加は意見聴取、共同設計、決定、監査の権限を区別し、代表者一人へ集団全体の説明責任を負わせない。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "参加と権力",
+      "sources": [
+        "un-guiding-2011",
+        "mccall-2005"
+      ],
+      "limits": [
+        "代表性・安全・報酬",
+        "国内労使制度を確認"
+      ],
+      "scope": [
+        "当事者参加"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DI-C63",
+      "claim": "管理職評価へ包摂を入れる場合、人気や属性別好感度でなく、機会配分、異論への反応、配慮実装、格差是正、報復防止等の行動・結果を用いる。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "説明責任と測定",
+      "sources": [
+        "randel-2018",
+        "castilla-2015"
+      ],
+      "limits": [
+        "評価指標のゲーム化",
+        "少人数の再特定",
+        "因果帰属"
+      ],
+      "scope": [
+        "管理職評価"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DI-C64",
+      "claim": "法定カテゴリや海外本社の分類を無批判に移植せず、現地法、本人の言葉、歴史・社会文脈、比較可能性を検討し変更履歴を残す。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "カテゴリ統治",
+      "sources": [
+        "ilo-c111",
+        "mccall-2005",
+        "ilo-data"
+      ],
+      "limits": [
+        "国際比較と自己認識の緊張",
+        "国内法を確認"
+      ],
+      "scope": [
+        "カテゴリ"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DI-C65",
+      "claim": "多様性・包摂の方針は、誰を歓迎するかという広報だけでなく、誰が決め、誰が負担し、誰が異議を述べ、どう訂正・救済されるかを公開する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "公開性・統治",
+      "sources": [
+        "un-guiding-2011",
+        "shore-2011",
+        "un-crpd"
+      ],
+      "limits": [
+        "公開情報と個人情報・調査守秘を分ける"
+      ],
+      "scope": [
+        "透明性"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DI-C66",
+      "claim": "性的指向、性自認、性表現、性の特徴等について、開示を強制せず、氏名・呼称、設備、服装、福利厚生、家族定義、ハラスメント、属性データの障壁を点検する。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "LGBTIの人権と包摂",
+      "sources": [
+        "un-lgbti-2017",
+        "ilo-c111",
+        "eu-equality-2000"
+      ],
+      "limits": [
+        "国内法・安全・本人の希望を確認",
+        "カテゴリ・用語は本人と地域で異なる"
+      ],
+      "scope": [
+        "LGBTI"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DI-C67",
+      "claim": "ニューロダイバーシティを固定的な「強み」や「欠陥」のラベルにせず、職務関連の個別証拠、感覚・認知・コミュニケーション上の障壁、本人が望む配慮を確認する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "障害の社会モデルと個別化",
+      "sources": [
+        "stone-1996",
+        "un-crpd"
+      ],
+      "limits": [
+        "診断・障害認定・配慮義務は国内制度を確認",
+        "本人の自己認識を尊重"
+      ],
+      "scope": [
+        "ニューロダイバーシティ"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DI-C68",
+      "claim": "採用、研修、評価、通報等のデジタル画面・文書・会議は、キーボード、字幕、代替テキスト、読みやすさ、支援技術等を含めてアクセシビリティを検証する。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "デジタルアクセシビリティ",
+      "sources": [
+        "wcag-22",
+        "un-crpd"
+      ],
+      "limits": [
+        "WCAGはWeb中心",
+        "法的基準・個別配慮・支援技術を別途確認"
+      ],
+      "scope": [
+        "アクセシビリティ"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DI-C69",
+      "claim": "傍観者・同僚・管理職には、直接介入だけでなく、記録、相談、被害者支援、権限者への報告、場から離れる等の選択肢と報復防止を用意する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "安全な第三者行動",
+      "sources": [
+        "ilo-r206",
+        "paluck-2021"
+      ],
+      "limits": [
+        "介入効果は文脈・安全性で異なる",
+        "当事者の希望を尊重",
+        "危険時は専門対応"
+      ],
+      "scope": [
+        "傍観者介入"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DI-C70",
+      "claim": "相談・調査では、緊急保護と事実確認を分け、独立性、双方への手続説明、証拠管理、必要最小限の開示、判断理由、再審査を確保する。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "公正手続",
+      "sources": [
+        "un-guiding-2011",
+        "ilo-r206"
+      ],
+      "limits": [
+        "刑事・労働・懲戒手続は国内法と専門家を確認",
+        "安全確保を遅らせない"
+      ],
+      "scope": [
+        "調査手続"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DI-C71",
+      "claim": "アライシップやERG支援を自己称号・イベント回数で評価せず、資源配分、意思決定への影響、リスク負担、当事者からの検証、制度結果で確認する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "行動と説明責任",
+      "sources": [
+        "shore-2011",
+        "kalev-2006"
+      ],
+      "limits": [
+        "ERG・アライシップ固有の因果研究は限定",
+        "当事者の無償評価労働を避ける"
+      ],
+      "scope": [
+        "アライシップ"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DI-C72",
+      "claim": "就労資格・職務上必要な言語要件の確認と、国籍・民族的出身・母語・アクセントによる能力・信頼性の推定を区別し、募集・配置・顧客対応の代理差別を監査する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "職務要件と出身差別の境界",
+      "sources": [
+        "ilo-c111",
+        "gluszek-2010",
+        "levari-2010"
+      ],
+      "limits": [
+        "在留・就労資格、言語要件、保護事由は国内法を確認",
+        "安全上の明瞭性要件を別途評価"
+      ],
+      "scope": [
+        "国籍・言語"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DI-C73",
+      "claim": "精神健康上の状態を信頼性・危険性・昇進可能性の代理にせず、本人に隠れた推定を避け、守秘、合理的配慮、復職・継続就労支援を個別に検討する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "健康・障害・データ権利",
+      "sources": [
+        "who-2022",
+        "un-crpd",
+        "ilo-data"
+      ],
+      "limits": [
+        "医療判断・障害認定・配慮義務は国内制度と適格専門家を確認"
+      ],
+      "scope": [
+        "精神健康"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DI-C74",
+      "claim": "差別・ハラスメント・救済の対象範囲は正社員だけに限定せず、応募者、研修生、派遣・請負、退職者、顧客・取引先等との関係を国内制度に沿って明示する。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "仕事の世界の適用範囲",
+      "sources": [
+        "ilo-c190",
+        "ilo-r206",
+        "ilo-c111"
+      ],
+      "limits": [
+        "雇用関係・事業者責任・法的適用範囲は国内法を確認"
+      ],
+      "scope": [
+        "適用範囲"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DI-C75",
+      "claim": "会議、重要情報、研修、ERG、相談窓口は、短時間、夜勤、遠隔、現場、休職・復職者も利用できる時間・形式・非同期経路を設ける。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "参加アクセス",
+      "sources": [
+        "nishii-2013",
+        "ilo-c156",
+        "un-crpd"
+      ],
+      "limits": [
+        "職務・勤務制度差",
+        "本人の希望と労働時間を確認"
+      ],
+      "scope": [
+        "勤務形態"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    }
+  ]
+}

@@ -1,0 +1,432 @@
+{
+  "name": "雇用不安・組織再編・レイオフ・公正な移行 用語集",
+  "version": "0.1",
+  "license": "CC BY 4.0",
+  "terms": [
+    {
+      "id": "job-insecurity",
+      "term": "雇用不安",
+      "definition": "望まない職または重要な雇用条件の喪失可能性に関する知覚。"
+    },
+    {
+      "id": "objective-precarity",
+      "term": "客観的不安定性",
+      "definition": "契約期間、解雇発表、事業継続等の観察可能な雇用条件。"
+    },
+    {
+      "id": "quantitative-insecurity",
+      "term": "量的雇用不安",
+      "definition": "職そのものを失う可能性への不安。"
+    },
+    {
+      "id": "qualitative-insecurity",
+      "term": "質的雇用不安",
+      "definition": "賃金、役割、昇進、勤務条件等の劣化への不安。"
+    },
+    {
+      "id": "cognitive-insecurity",
+      "term": "認知的雇用不安",
+      "definition": "失職可能性の判断・予測。"
+    },
+    {
+      "id": "affective-insecurity",
+      "term": "情動的雇用不安",
+      "definition": "失職への恐れ・心配。"
+    },
+    {
+      "id": "employability",
+      "term": "エンプロイアビリティ",
+      "definition": "仕事を得て維持・移行できる資源と機会。個人能力だけではない。"
+    },
+    {
+      "id": "downsizing",
+      "term": "ダウンサイジング",
+      "definition": "組織が計画的に人員規模を縮小すること。"
+    },
+    {
+      "id": "layoff",
+      "term": "レイオフ",
+      "definition": "経営上の理由等による非自発的な雇用終了。地域により意味が異なる。"
+    },
+    {
+      "id": "redundancy",
+      "term": "余剰人員による解雇",
+      "definition": "個人の非行等でなく職務・事業上の理由による雇用終了。"
+    },
+    {
+      "id": "collective-redundancy",
+      "term": "集団的解雇",
+      "definition": "一定期間・事業所で法定閾値等を満たす複数の解雇。"
+    },
+    {
+      "id": "dismissal",
+      "term": "解雇",
+      "definition": "使用者の意思による雇用契約終了。"
+    },
+    {
+      "id": "termination",
+      "term": "雇用終了",
+      "definition": "解雇、契約満了等を含む雇用関係の終了。"
+    },
+    {
+      "id": "displacement",
+      "term": "非自発的失職",
+      "definition": "事業所閉鎖・大量解雇等で職を失うこと。"
+    },
+    {
+      "id": "plant-closure",
+      "term": "事業所閉鎖",
+      "definition": "工場・店舗・拠点等の活動終了。"
+    },
+    {
+      "id": "restructuring",
+      "term": "組織再編",
+      "definition": "事業、組織、所有、職務、人員等の構造変更。"
+    },
+    {
+      "id": "merger",
+      "term": "合併",
+      "definition": "複数組織を法的・実務的に統合すること。"
+    },
+    {
+      "id": "acquisition",
+      "term": "買収",
+      "definition": "他組織の所有・支配権を取得すること。"
+    },
+    {
+      "id": "transfer-of-undertaking",
+      "term": "事業移転",
+      "definition": "事業またはその一部が別主体へ移ること。"
+    },
+    {
+      "id": "outsourcing",
+      "term": "外部委託",
+      "definition": "業務を外部組織へ移すこと。"
+    },
+    {
+      "id": "offshoring",
+      "term": "海外移転",
+      "definition": "業務・生産を国外へ移すこと。"
+    },
+    {
+      "id": "insolvency",
+      "term": "倒産・支払不能",
+      "definition": "債務を履行できない法的・経済的状態。"
+    },
+    {
+      "id": "wage-claim",
+      "term": "労働者債権",
+      "definition": "未払賃金、退職給付等、労働関係から生じる請求。"
+    },
+    {
+      "id": "notice-period",
+      "term": "予告期間",
+      "definition": "雇用終了の通知から効力発生までの期間。"
+    },
+    {
+      "id": "severance",
+      "term": "退職・解雇給付",
+      "definition": "雇用終了に伴い支払われる金銭等。"
+    },
+    {
+      "id": "valid-reason",
+      "term": "妥当な理由",
+      "definition": "雇用終了を正当化する能力・行動・事業上の理由等。法域で異なる。"
+    },
+    {
+      "id": "selection-criteria",
+      "term": "選定基準",
+      "definition": "削減対象となる職務・人を選ぶ規則。"
+    },
+    {
+      "id": "consultation",
+      "term": "協議",
+      "definition": "決定前に情報を共有し、回避・緩和・代替案を検討する過程。"
+    },
+    {
+      "id": "information-duty",
+      "term": "情報提供義務",
+      "definition": "理由、人数、期間、基準等を適時提供する制度上の義務。"
+    },
+    {
+      "id": "worker-representative",
+      "term": "労働者代表",
+      "definition": "労働者の利益を代表する労組・代表者等。"
+    },
+    {
+      "id": "social-dialogue",
+      "term": "社会対話",
+      "definition": "政府、使用者、労働者代表等による協議・交渉。"
+    },
+    {
+      "id": "appeal",
+      "term": "異議申立て",
+      "definition": "決定の理由・事実・手続を争い、再審を求める経路。"
+    },
+    {
+      "id": "remedy",
+      "term": "救済",
+      "definition": "違反や不利益を是正・補償する制度。"
+    },
+    {
+      "id": "redeployment",
+      "term": "配置転換",
+      "definition": "同一組織等の別職務・拠点へ移すこと。"
+    },
+    {
+      "id": "retraining",
+      "term": "再訓練",
+      "definition": "新しい仕事・職務に必要な技能を学ぶ支援。"
+    },
+    {
+      "id": "reskilling",
+      "term": "リスキリング",
+      "definition": "異なる技能群を獲得すること。"
+    },
+    {
+      "id": "upskilling",
+      "term": "アップスキリング",
+      "definition": "現在・近接職務の技能を高めること。"
+    },
+    {
+      "id": "job-search-assistance",
+      "term": "求職支援",
+      "definition": "探索、応募、面接、求人接続等への支援。"
+    },
+    {
+      "id": "outplacement",
+      "term": "再就職支援",
+      "definition": "離職予定者・離職者に外部就職移行を支援するサービス。"
+    },
+    {
+      "id": "active-labor-market-policy",
+      "term": "積極的労働市場政策",
+      "definition": "訓練、求職支援、助成等で雇用移行を支える政策。"
+    },
+    {
+      "id": "unemployment-insurance",
+      "term": "失業保険・給付",
+      "definition": "失業中の所得を一定条件で保障する制度。"
+    },
+    {
+      "id": "income-replacement",
+      "term": "所得代替",
+      "definition": "失われた賃金の一部を給付等で補うこと。"
+    },
+    {
+      "id": "job-quality",
+      "term": "仕事の質",
+      "definition": "賃金、安定、安全、裁量、時間、権利、発達等の仕事条件。"
+    },
+    {
+      "id": "reemployment-quality",
+      "term": "再就職の質",
+      "definition": "再就職先の賃金、安定、適合、健康、持続可能性。"
+    },
+    {
+      "id": "earnings-loss",
+      "term": "所得損失",
+      "definition": "失職前の反実仮想と比べた失職後所得の低下。"
+    },
+    {
+      "id": "survivor-reaction",
+      "term": "残留者反応",
+      "definition": "人員削減後に組織へ残った人の認知・感情・行動。"
+    },
+    {
+      "id": "survivor-guilt",
+      "term": "残留者の罪悪感",
+      "definition": "自分が残り他者が去ったことへの罪悪感。診断名ではない。"
+    },
+    {
+      "id": "work-intensification",
+      "term": "仕事強化",
+      "definition": "少ない時間・人員で要求や努力密度が高まること。"
+    },
+    {
+      "id": "change-recipient",
+      "term": "変革の影響を受ける人",
+      "definition": "組織変革を受け止め、経験し、対応する人。"
+    },
+    {
+      "id": "change-readiness",
+      "term": "変革準備性",
+      "definition": "変革の必要性・能力・支援等に関する共有認知。服従性ではない。"
+    },
+    {
+      "id": "resistance-to-change",
+      "term": "変革への抵抗",
+      "definition": "変革への異議・回避・反対等。個人欠陥と同一ではない。"
+    },
+    {
+      "id": "uncertainty",
+      "term": "不確実性",
+      "definition": "将来・手続・役割・結果について十分に予測できない状態。"
+    },
+    {
+      "id": "rumor",
+      "term": "うわさ",
+      "definition": "公式確認されていない情報の流通。"
+    },
+    {
+      "id": "procedural-justice",
+      "term": "手続的公正",
+      "definition": "決定手続の一貫性、正確性、代表性、修正可能性等。"
+    },
+    {
+      "id": "distributive-justice",
+      "term": "分配的公正",
+      "definition": "負担・補償・機会・結果の配分に関する公正。"
+    },
+    {
+      "id": "interpersonal-justice",
+      "term": "対人的公正",
+      "definition": "尊厳と敬意ある扱いに関する公正。"
+    },
+    {
+      "id": "informational-justice",
+      "term": "情報的公正",
+      "definition": "説明の十分さ、誠実さ、適時性に関する公正。"
+    },
+    {
+      "id": "retaliation",
+      "term": "報復",
+      "definition": "異議・相談・権利行使への不利益な対応。"
+    },
+    {
+      "id": "constructive-dismissal",
+      "term": "実質的な退職強要",
+      "definition": "使用者の行為により退職を余儀なくされる状態。法的定義は法域で異なる。"
+    },
+    {
+      "id": "voluntary-separation",
+      "term": "希望退職等",
+      "definition": "本人の同意を形式とする雇用終了。実質的自由を別途確認する。"
+    },
+    {
+      "id": "recall-right",
+      "term": "再雇用優先",
+      "definition": "一定条件で元労働者を優先的に再雇用する仕組み。"
+    },
+    {
+      "id": "bumping-right",
+      "term": "配置優先・先任権",
+      "definition": "他職務への配置等を勤続・協約に基づき調整する仕組み。"
+    },
+    {
+      "id": "skills-audit",
+      "term": "技能監査",
+      "definition": "保有技能、移転可能性、将来需要を体系的に確認すること。"
+    },
+    {
+      "id": "task-exposure",
+      "term": "タスク曝露",
+      "definition": "技術が職務内タスクへ影響し得る程度。実際の失職率ではない。"
+    },
+    {
+      "id": "automation",
+      "term": "自動化",
+      "definition": "人が行っていた作業を技術システムで実行すること。"
+    },
+    {
+      "id": "augmentation",
+      "term": "補完",
+      "definition": "技術が人の仕事を支援・拡張すること。"
+    },
+    {
+      "id": "algorithmic-selection",
+      "term": "アルゴリズム選定",
+      "definition": "モデル等を用いて削減対象・配置等を順位づけること。"
+    },
+    {
+      "id": "human-review",
+      "term": "人による再審査",
+      "definition": "自動出力を権限・証拠・時間を持つ人が実質的に検討すること。"
+    },
+    {
+      "id": "just-transition",
+      "term": "公正な移行",
+      "definition": "環境・技術等の移行を良質な仕事、権利、社会保護、参加とともに進める枠組み。"
+    },
+    {
+      "id": "climate-neutrality",
+      "term": "気候中立",
+      "definition": "温室効果ガス排出と吸収等を均衡させる目標。"
+    },
+    {
+      "id": "regional-diversification",
+      "term": "地域経済多角化",
+      "definition": "特定企業・産業への地域依存を減らすこと。"
+    },
+    {
+      "id": "community-impact",
+      "term": "地域影響",
+      "definition": "雇用、税収、取引、住宅、教育、医療等への地域レベル影響。"
+    },
+    {
+      "id": "transition-plan",
+      "term": "移行計画",
+      "definition": "工程、責任、資金、参加、影響、救済、評価を定めた計画。"
+    },
+    {
+      "id": "distributional-impact",
+      "term": "分配影響",
+      "definition": "便益・費用・危険が誰にどれだけ配分されるか。"
+    },
+    {
+      "id": "process-evaluation",
+      "term": "プロセス評価",
+      "definition": "施策の到達、実装、参加、文脈、機序を調べる評価。"
+    },
+    {
+      "id": "implementation-fidelity",
+      "term": "実装忠実度",
+      "definition": "設計された主要要素が実際に実施された程度。"
+    },
+    {
+      "id": "reach",
+      "term": "到達率",
+      "definition": "対象者のうち施策・情報へ実際に届いた割合。"
+    },
+    {
+      "id": "uptake",
+      "term": "利用率",
+      "definition": "利用可能な支援を実際に使った割合。"
+    },
+    {
+      "id": "adverse-effect",
+      "term": "有害影響",
+      "definition": "施策により生じた健康、公平、安全、所得等の不利益。"
+    },
+    {
+      "id": "longitudinal-followup",
+      "term": "縦断追跡",
+      "definition": "同じ人・集団を時間をおいて観察すること。"
+    },
+    {
+      "id": "counterfactual",
+      "term": "反実仮想",
+      "definition": "施策・失職がなかった場合に起きたと考えられる比較状態。"
+    },
+    {
+      "id": "survivorship-bias",
+      "term": "生存者バイアス",
+      "definition": "残った人・観察できた人だけから全体を推論する偏り。"
+    },
+    {
+      "id": "nonresponse",
+      "term": "無回答",
+      "definition": "対象者が調査に回答しないこと。欠測の理由を検討する。"
+    },
+    {
+      "id": "small-cell-protection",
+      "term": "少人数セル保護",
+      "definition": "小さな集団から個人を再特定できないようにする措置。"
+    },
+    {
+      "id": "data-purpose-limitation",
+      "term": "データ目的限定",
+      "definition": "収集時に示した目的を越えてデータを利用しない原則。"
+    }
+  ]
+}

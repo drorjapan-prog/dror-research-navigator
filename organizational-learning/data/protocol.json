@@ -1,0 +1,63 @@
+{
+  "name": "組織学習・知識共有 迅速エビデンスマップ・プロトコル",
+  "version": "0.1",
+  "review_type": "組織学習の理論・実証・統合研究と公式指針を分離した迅速エビデンスマップ",
+  "research_questions": [
+    {
+      "id": "RQ1",
+      "question": "個人・チーム・組織の学習をどう定義し、水準間の移行をどう捉えるか。"
+    },
+    {
+      "id": "RQ2",
+      "question": "知識の創造、共有、移転、保持、利用をどう区別するか。"
+    },
+    {
+      "id": "RQ3",
+      "question": "失敗、エラー、インシデント、AARから学ぶ条件と副作用は何か。"
+    },
+    {
+      "id": "RQ4",
+      "question": "探索と活用、吸収能力、ルーティンは適応へどう関係するか。"
+    },
+    {
+      "id": "RQ5",
+      "question": "組織記憶、TMS、リポジトリ、忘却・更新をどう設計・評価するか。"
+    },
+    {
+      "id": "RQ6",
+      "question": "開放性、個人情報、知識主権、知財、生成AIをどう統治するか。"
+    }
+  ],
+  "query_families": [
+    "organizational learning review routines memory",
+    "team learning behavior meta-analysis performance",
+    "knowledge sharing transfer meta-analysis",
+    "knowledge hiding meta-analysis organizations",
+    "exploration exploitation ambidexterity meta-analysis",
+    "error management training meta-analysis",
+    "after action review debrief meta-analysis",
+    "transactive memory system review",
+    "incident reporting learning system guidance",
+    "generative AI knowledge management provenance privacy"
+  ],
+  "inclusion": [
+    "組織学習・知識移転を直接扱う主要研究",
+    "メタ分析・主要統合レビュー",
+    "学習行動・心理的安全性・情報共有等の構成要素研究",
+    "労働者データ、報告学習、オープンサイエンス、生成AIの公式指針"
+  ],
+  "exclusion": [
+    "学習件数や投稿数だけを成果とする記事",
+    "ベンダーの導入効果宣伝",
+    "失敗礼賛・責任免除を推奨する資料",
+    "無断で従業員の会話・文書をAIへ取り込む提案",
+    "知識共有を強制的自己開示と同一視する資料"
+  ],
+  "process_limitations": [
+    "単一レビュアーによる迅速整理",
+    "代表文献とDOIメタデータによる非網羅整理で全文データベース横断は未実施",
+    "効果量の独自再計算・正式なバイアス評価は未実施",
+    "古典理論、観察研究、訓練研究、公式指針を直接性ラベルで分離",
+    "法的助言・安全工学上の個別助言ではない"
+  ]
+}

@@ -1,0 +1,7 @@
+import fs from 'node:fs';
+import path from 'node:path';
+const publicRoot=path.resolve(path.dirname(new URL(import.meta.url).pathname),'..');
+const fieldsRoot=path.join(publicRoot,'fields');
+const errors=[];let studies=0,claims=0,fields=0;
+for(const name of fs.readdirSync(fieldsRoot)){const root=path.join(fieldsRoot,name);if(!fs.statSync(root).isDirectory())continue;fields++;const read=n=>JSON.parse(fs.readFileSync(path.join(root,'data',n),'utf8'));const studyData=read('studies.json').studies;const claimData=read('claims.json').claims;const ids=new Set(studyData.map(x=>x.id));studies+=studyData.length;claims+=claimData.length;for(const item of studyData){if(!(item.source_url||item.url||item.doi))errors.push(name+': study '+item.id+' has no source');if(!(item.last_human_verified||item.last_verified))errors.push(name+': study '+item.id+' has no verification date')}for(const item of claimData){if(!(item.last_human_verified||item.last_verified||item.last_searched))errors.push(name+': claim '+item.id+' has no verification date');for(const id of item.sources||item.study_ids||[])if(!ids.has(id))errors.push(name+': claim '+item.id+' refers to missing study '+id)}for(const required of ['protocol.json','screening.json','quality.json','completion-audit.json','maintenance.json','glossary.json'])if(!fs.existsSync(path.join(root,'data',required)))errors.push(name+': missing '+required)}
+console.log(JSON.stringify({fields,studies,claims,errors},null,2));if(errors.length)process.exit(1);

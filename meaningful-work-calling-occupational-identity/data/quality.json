@@ -1,0 +1,756 @@
+{
+  "name": "仕事の意味・意義・天職観・職業アイデンティティ 研究の質と限界",
+  "version": "0.1",
+  "notice": "簡易評価であり正式なRoB評価ではない。",
+  "assessments": [
+    {
+      "study_id": "hackman-1976",
+      "design": "field theory test",
+      "strength": "基礎理論・測定",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "古い標本",
+        "自己報告を含む",
+        "理論経路の全てが確定ではない"
+      ]
+    },
+    {
+      "study_id": "fried-1987",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "研究時代・測定制約",
+        "全経路が同程度に支持されない"
+      ]
+    },
+    {
+      "study_id": "morgeson-2006",
+      "design": "scale development",
+      "strength": "基礎理論・測定",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "尺度項目は再配布しない",
+        "自己報告",
+        "職務内差"
+      ]
+    },
+    {
+      "study_id": "humphrey-2007",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "相関研究中心",
+        "意味は複数の経路の一部"
+      ]
+    },
+    {
+      "study_id": "rosso-2010",
+      "design": "integrative review",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "ナラティブレビュー",
+        "意味の定義・水準が多様"
+      ]
+    },
+    {
+      "study_id": "steger-2012",
+      "design": "scale development",
+      "strength": "基礎理論・測定",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "自己報告",
+        "尺度項目は再配布しない",
+        "文化差"
+      ]
+    },
+    {
+      "study_id": "lips-wiersma-2012",
+      "design": "scale development",
+      "strength": "基礎理論・測定",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "尺度項目は再配布しない",
+        "因子構造の文化差"
+      ]
+    },
+    {
+      "study_id": "martela-2018",
+      "design": "integrative conceptual review",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "概念統合",
+        "直接介入効果でない"
+      ]
+    },
+    {
+      "study_id": "bailey-2017",
+      "design": "conceptual review",
+      "strength": "統合研究",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "概念論",
+        "実証的効果量なし"
+      ]
+    },
+    {
+      "study_id": "bailey-2019",
+      "design": "systematic-style review",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "研究品質・定義の異質性",
+        "因果研究が限定"
+      ]
+    },
+    {
+      "study_id": "allan-2019",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "相関研究中心",
+        "自己報告・出版バイアス",
+        "個人処方にしない"
+      ]
+    },
+    {
+      "study_id": "may-2004",
+      "design": "field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "単一企業",
+        "横断中心",
+        "意味とエンゲージメントを分ける"
+      ]
+    },
+    {
+      "study_id": "kahn-1990",
+      "design": "qualitative field study",
+      "strength": "基礎理論・測定",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "小規模・質的",
+        "一般化制約"
+      ]
+    },
+    {
+      "study_id": "deci-2017",
+      "design": "annual review",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "意味専用理論でない",
+        "因果研究の偏り"
+      ]
+    },
+    {
+      "study_id": "gagne-2005",
+      "design": "integrative theory review",
+      "strength": "統合研究",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "概念・統合論文",
+        "自律性を放任としない"
+      ]
+    },
+    {
+      "study_id": "vandenbroeck-2016",
+      "design": "meta-analytic review",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "自己報告・横断研究を含む",
+        "意味と欲求充足を分ける"
+      ]
+    },
+    {
+      "study_id": "michaelson-2014",
+      "design": "integrative ethical review",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "規範的議論を含む",
+        "法的権利と別"
+      ]
+    },
+    {
+      "study_id": "yeoman-2014",
+      "design": "normative conceptual analysis",
+      "strength": "基礎理論・測定",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "規範理論",
+        "実証効果ではない"
+      ]
+    },
+    {
+      "study_id": "ward-2017",
+      "design": "integrative review",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "仕事外の意味源も重要",
+        "文化・生活段階差"
+      ]
+    },
+    {
+      "study_id": "lips-morris-2009",
+      "design": "qualitative and conceptual study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "質的研究",
+        "組織文脈差"
+      ]
+    },
+    {
+      "study_id": "lysova-2019",
+      "design": "multilevel integrative review",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "介入因果証拠は限定",
+        "文脈差"
+      ]
+    },
+    {
+      "study_id": "wrzesniewski-1997",
+      "design": "field survey",
+      "strength": "基礎理論・測定",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "分類の固定化に注意",
+        "単一時点・文化差"
+      ]
+    },
+    {
+      "study_id": "schabram-2023",
+      "design": "integrative review",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "ナラティブレビュー",
+        "固定タイプにしない"
+      ]
+    },
+    {
+      "study_id": "dik-2009",
+      "design": "conceptual review",
+      "strength": "統合研究",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "宗教・文化差",
+        "単一定義でない"
+      ]
+    },
+    {
+      "study_id": "dobrow-2011",
+      "design": "scale development",
+      "strength": "基礎理論・測定",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "尺度定義が他尺度と異なる",
+        "尺度項目は再配布しない"
+      ]
+    },
+    {
+      "study_id": "elangovan-2010",
+      "design": "conceptual review",
+      "strength": "統合研究",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "概念論",
+        "美化・搾取の可能性を別評価"
+      ]
+    },
+    {
+      "study_id": "duffy-2013-review",
+      "design": "integrative review",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "研究定義の不一致",
+        "横断研究中心"
+      ]
+    },
+    {
+      "study_id": "bunderson-2009",
+      "design": "qualitative field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "単一職業・質的",
+        "一般化制約"
+      ]
+    },
+    {
+      "study_id": "berg-2010",
+      "design": "qualitative field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "質的・自己選択",
+        "余暇負担・資源差"
+      ]
+    },
+    {
+      "study_id": "duffy-2013-life",
+      "design": "multistudy survey",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "自己報告・相関",
+        "文化・機会制約"
+      ]
+    },
+    {
+      "study_id": "duffy-2014",
+      "design": "longitudinal study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "自己報告",
+        "観察研究",
+        "機会・資源の選択"
+      ]
+    },
+    {
+      "study_id": "duffy-2012",
+      "design": "survey model study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "横断・自己報告",
+        "因果確定でない"
+      ]
+    },
+    {
+      "study_id": "xie-2016",
+      "design": "field survey",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "横断・自己報告",
+        "特定文化"
+      ]
+    },
+    {
+      "study_id": "xie-2017",
+      "design": "field survey",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "観察研究",
+        "向社会性の無償化に注意"
+      ]
+    },
+    {
+      "study_id": "wrzesniewski-2001",
+      "design": "conceptual theory",
+      "strength": "基礎理論・測定",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "概念論",
+        "権限・負担・安全を別評価"
+      ]
+    },
+    {
+      "study_id": "tims-2010",
+      "design": "conceptual theory",
+      "strength": "基礎理論・測定",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "概念論",
+        "組織責任の代替にしない"
+      ]
+    },
+    {
+      "study_id": "rudolph-2017",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "相関研究中心",
+        "逆因果・共通方法"
+      ]
+    },
+    {
+      "study_id": "lichtenthaler-2019",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "相関研究中心",
+        "定義・尺度の異質性"
+      ]
+    },
+    {
+      "study_id": "oprea-2019",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "研究数・追跡期間の制約",
+        "個人介入中心"
+      ]
+    },
+    {
+      "study_id": "grant-2007",
+      "design": "conceptual theory",
+      "strength": "基礎理論・測定",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "概念論",
+        "感情労働・境界・危険を別評価"
+      ]
+    },
+    {
+      "study_id": "grant-2008",
+      "design": "field experiments",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "特定職務・短期",
+        "健康・搾取を直接検証しない"
+      ]
+    },
+    {
+      "study_id": "grant-2007-impact",
+      "design": "field and laboratory experiments",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "特定課題・短期",
+        "接触強制に注意"
+      ]
+    },
+    {
+      "study_id": "carton-2018",
+      "design": "historical qualitative study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "歴史的単一事例",
+        "英雄物語・後知恵"
+      ]
+    },
+    {
+      "study_id": "ibarra-1999",
+      "design": "qualitative field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "特定専門職",
+        "質的・文化差"
+      ]
+    },
+    {
+      "study_id": "pratt-2006",
+      "design": "qualitative longitudinal study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "医療専門職",
+        "質的",
+        "訓練文化差"
+      ]
+    },
+    {
+      "study_id": "kreiner-2006",
+      "design": "qualitative field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "特定職業",
+        "質的",
+        "最適境界は個人差"
+      ]
+    },
+    {
+      "study_id": "ashforth-1999",
+      "design": "conceptual review",
+      "strength": "統合研究",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "概念論",
+        "危険・低賃金を美化しない"
+      ]
+    },
+    {
+      "study_id": "ashforth-2007",
+      "design": "qualitative field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "質的・職業差",
+        "危害・権利侵害の隠蔽に注意"
+      ]
+    },
+    {
+      "study_id": "dutton-2010",
+      "design": "conceptual review",
+      "strength": "統合研究",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "概念論",
+        "肯定性の強制に注意"
+      ]
+    },
+    {
+      "study_id": "brown-2015",
+      "design": "integrative review",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "学派・定義の多様性",
+        "実証因果でない"
+      ]
+    },
+    {
+      "study_id": "caza-2018",
+      "design": "qualitative field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "特定集団・質的",
+        "複業資源差"
+      ]
+    },
+    {
+      "study_id": "ibarra-2010",
+      "design": "conceptual review",
+      "strength": "統合研究",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "概念論",
+        "語りの巧拙を適性にしない"
+      ]
+    },
+    {
+      "study_id": "conroy-2014",
+      "design": "conceptual review",
+      "strength": "統合研究",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "概念論",
+        "悲嘆・回復の個人差"
+      ]
+    },
+    {
+      "study_id": "petriglieri-2011",
+      "design": "conceptual review",
+      "strength": "統合研究",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "概念論",
+        "脅威認知と実害を分ける"
+      ]
+    },
+    {
+      "study_id": "petriglieri-2019",
+      "design": "qualitative field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "高技能独立職中心",
+        "質的",
+        "低所得ギグへ一般化制約"
+      ]
+    },
+    {
+      "study_id": "litz-2009",
+      "design": "integrative clinical review",
+      "strength": "統合研究",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "職場直接性なし",
+        "診断名でない",
+        "臨床転用注意"
+      ]
+    },
+    {
+      "study_id": "epstein-2009",
+      "design": "conceptual clinical review",
+      "strength": "統合研究",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "医療中心",
+        "測定・因果の制約"
+      ]
+    },
+    {
+      "study_id": "riedel-2022",
+      "design": "scoping review",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "医療・パンデミック",
+        "定義・研究品質の異質性"
+      ]
+    },
+    {
+      "study_id": "soffia-2022",
+      "design": "survey analysis",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "自己報告・欧州",
+        "俗語概念の操作化",
+        "因果確定でない"
+      ]
+    },
+    {
+      "study_id": "ferraro-2018",
+      "design": "scale development",
+      "strength": "基礎理論・測定",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "知識労働者標本",
+        "ILO規範と尺度を分ける",
+        "尺度項目は再配布しない"
+      ]
+    },
+    {
+      "study_id": "ilo-decent-work",
+      "design": "official policy framework",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "国際政策枠組み",
+        "国内法上の個別義務は別確認"
+      ]
+    },
+    {
+      "study_id": "ilo-fundamental-rights",
+      "design": "international declaration",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "宣言の法的効果・国内実施を確認"
+      ]
+    },
+    {
+      "study_id": "un-sdg8",
+      "design": "official global goal",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "目標枠組み",
+        "個別職場の意味を直接測らない"
+      ]
+    },
+    {
+      "study_id": "who-work-2022",
+      "design": "international guideline",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "意味専用でない",
+        "地域実装を確認"
+      ]
+    },
+    {
+      "study_id": "who-ilo-2022",
+      "design": "international policy brief",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "政策概説",
+        "個人治療や意味研修の代替でない"
+      ]
+    },
+    {
+      "study_id": "japan-labor-contract",
+      "design": "Japanese statute",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "個別適用は専門確認",
+        "使命感で契約・安全を上書きしない"
+      ]
+    },
+    {
+      "study_id": "japan-labor-standards",
+      "design": "Japanese statute",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "適用除外・個別条文・改正を確認"
+      ]
+    },
+    {
+      "study_id": "japan-osh-act",
+      "design": "Japanese statute",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "意味づけは安全衛生対策の代替でない"
+      ]
+    },
+    {
+      "study_id": "japan-vocational-act",
+      "design": "Japanese statute",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "個別のキャリア選択を強制しない",
+        "最新制度を確認"
+      ]
+    },
+    {
+      "study_id": "mhlw-jobtag",
+      "design": "official occupational information portal",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "適職・天職の自動診断ではない",
+        "統計・職業分類の限界"
+      ]
+    },
+    {
+      "study_id": "mhlw-jobcard",
+      "design": "official career support portal",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "記入内容の本人管理・利用目的を確認",
+        "評価強制を避ける"
+      ]
+    },
+    {
+      "study_id": "mhlw-career-consulting",
+      "design": "official career support portal",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "本人の自己決定を尊重",
+        "人事評価との守秘境界"
+      ]
+    },
+    {
+      "study_id": "japan-whistleblower",
+      "design": "Japanese statute",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "適用要件・通報先・改正を確認",
+        "道徳的葛藤一般とは別"
+      ]
+    },
+    {
+      "study_id": "japan-appi",
+      "design": "Japanese statute",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "個別運用は指針・専門確認",
+        "目的外利用禁止"
+      ]
+    }
+  ]
+}

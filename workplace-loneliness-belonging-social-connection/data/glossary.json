@@ -1,0 +1,777 @@
+{
+  "name": "職場の孤独・所属感・社会的つながり 用語集",
+  "version": "0.1",
+  "license": "CC BY 4.0",
+  "terms": [
+    {
+      "id": "loneliness",
+      "term": "孤独",
+      "definition": "望む関係と実際の関係のずれとして経験される主観的な苦痛。"
+    },
+    {
+      "id": "social-isolation",
+      "term": "社会的孤立",
+      "definition": "接触、関係、参加等が客観的に乏しい状態。"
+    },
+    {
+      "id": "workplace-loneliness",
+      "term": "職場孤独",
+      "definition": "職場で望む関係の質・利用可能性が満たされない主観的経験。"
+    },
+    {
+      "id": "emotional-loneliness",
+      "term": "情緒的孤独",
+      "definition": "親密な理解・愛着関係が不足すると感じること。"
+    },
+    {
+      "id": "social-loneliness",
+      "term": "社会的孤独感",
+      "definition": "仲間・集団・ネットワークへの所属が不足すると感じること。"
+    },
+    {
+      "id": "solitude",
+      "term": "独りの時間",
+      "definition": "本人が選び、回復・集中等に使える一人の状態。"
+    },
+    {
+      "id": "aloneness",
+      "term": "一人でいる状態",
+      "definition": "周囲に人がいない客観的・状況的状態。"
+    },
+    {
+      "id": "living-alone",
+      "term": "独居",
+      "definition": "一人で居住する世帯状態。孤独と同義ではない。"
+    },
+    {
+      "id": "professional-isolation",
+      "term": "専門的孤立",
+      "definition": "情報、学習、可視性、発達機会から切り離されている経験。"
+    },
+    {
+      "id": "workplace-isolation",
+      "term": "職場での孤立",
+      "definition": "仕事上の社会・業務関係から切り離されている状態や経験。"
+    },
+    {
+      "id": "belongingness",
+      "term": "所属感",
+      "definition": "受け入れられ価値ある成員だと感じる経験。"
+    },
+    {
+      "id": "need-to-belong",
+      "term": "所属欲求",
+      "definition": "安定した肯定的関係を形成・維持したい動機。"
+    },
+    {
+      "id": "acceptance",
+      "term": "受容",
+      "definition": "関係・集団の一員として認められること。"
+    },
+    {
+      "id": "rejection",
+      "term": "拒絶",
+      "definition": "関係・集団への受入れを拒まれること。"
+    },
+    {
+      "id": "ostracism",
+      "term": "排斥",
+      "definition": "無視され、会話・情報・関係等から外されること。"
+    },
+    {
+      "id": "exclusion",
+      "term": "除外",
+      "definition": "参加、機会、資源、決定等の範囲から外されること。"
+    },
+    {
+      "id": "inclusion",
+      "term": "包摂",
+      "definition": "所属と独自性を両立し、参加・資源へアクセスできる状態。"
+    },
+    {
+      "id": "uniqueness",
+      "term": "独自性",
+      "definition": "集団内で本人固有の視点・属性・貢献が認められること。"
+    },
+    {
+      "id": "assimilation-pressure",
+      "term": "同化圧力",
+      "definition": "多数派の振る舞い・価値へ合わせるよう求める圧力。"
+    },
+    {
+      "id": "organizational-identification",
+      "term": "組織同一化",
+      "definition": "組織との一体感を自己概念に取り込む程度。"
+    },
+    {
+      "id": "relational-identification",
+      "term": "関係的同一化",
+      "definition": "特定の仕事関係を通じ自己を定義すること。"
+    },
+    {
+      "id": "team-identification",
+      "term": "チーム同一化",
+      "definition": "チームとの一体感を自己概念に取り込む程度。"
+    },
+    {
+      "id": "engagement",
+      "term": "エンゲージメント",
+      "definition": "仕事への活力・熱意・没頭等を含む状態。"
+    },
+    {
+      "id": "psychological-safety",
+      "term": "心理的安全性",
+      "definition": "対人的リスクを伴う発言をしても罰されにくいという認知。"
+    },
+    {
+      "id": "trust",
+      "term": "信頼",
+      "definition": "相手の意図・能力等に期待し脆弱性を受け入れる状態。"
+    },
+    {
+      "id": "cohesion",
+      "term": "凝集性",
+      "definition": "集団の結び付きや成員を引き留める力。"
+    },
+    {
+      "id": "social-connection",
+      "term": "社会的つながり",
+      "definition": "関係の構造、機能、質を含む広い接続概念。"
+    },
+    {
+      "id": "social-connectedness",
+      "term": "社会的接続感",
+      "definition": "社会世界との近さ・一体感を感じる程度。"
+    },
+    {
+      "id": "social-network",
+      "term": "社会ネットワーク",
+      "definition": "人や集団を結ぶ関係の構造。"
+    },
+    {
+      "id": "network-size",
+      "term": "ネットワーク規模",
+      "definition": "一定範囲で結ばれている相手の数。"
+    },
+    {
+      "id": "network-density",
+      "term": "ネットワーク密度",
+      "definition": "可能な関係のうち実際に存在する関係の割合。"
+    },
+    {
+      "id": "centrality",
+      "term": "中心性",
+      "definition": "ネットワーク内で関係・経路上の中心に位置する程度。"
+    },
+    {
+      "id": "degree-centrality",
+      "term": "次数中心性",
+      "definition": "直接結ばれている相手の数に基づく中心性。"
+    },
+    {
+      "id": "betweenness-centrality",
+      "term": "媒介中心性",
+      "definition": "他者間の最短経路を仲介する程度。"
+    },
+    {
+      "id": "structural-hole",
+      "term": "構造的空隙",
+      "definition": "互いに結ばれていない集団間の空白。"
+    },
+    {
+      "id": "brokerage",
+      "term": "橋渡し",
+      "definition": "異なる人・集団間を仲介する役割。"
+    },
+    {
+      "id": "boundary-spanner",
+      "term": "境界連結者",
+      "definition": "部署・専門・組織等の境界を越えて情報や関係をつなぐ人。"
+    },
+    {
+      "id": "network-range",
+      "term": "ネットワーク範囲",
+      "definition": "異質な集団・知識へ関係が広がる程度。"
+    },
+    {
+      "id": "network-cohesion",
+      "term": "ネットワーク凝集性",
+      "definition": "関係網が相互に密接につながる程度。"
+    },
+    {
+      "id": "tie-strength",
+      "term": "紐帯の強さ",
+      "definition": "接触頻度、親密さ、相互支援等による関係の強度。"
+    },
+    {
+      "id": "weak-tie",
+      "term": "弱い紐帯",
+      "definition": "接触や親密さは低いが新しい情報へつなぎ得る関係。"
+    },
+    {
+      "id": "strong-tie",
+      "term": "強い紐帯",
+      "definition": "頻繁・親密で相互支援の大きい関係。"
+    },
+    {
+      "id": "multiplex-tie",
+      "term": "多重関係",
+      "definition": "仕事、友人、相談等の複数役割を同じ相手と持つ関係。"
+    },
+    {
+      "id": "negative-tie",
+      "term": "否定的関係",
+      "definition": "回避、対立、妨害等を伴う関係。"
+    },
+    {
+      "id": "social-capital",
+      "term": "社会関係資本",
+      "definition": "関係網から利用できる情報、信頼、支援等の資源。"
+    },
+    {
+      "id": "bonding-capital",
+      "term": "結束型社会関係資本",
+      "definition": "似た人・近い集団内の強い結び付きから得る資源。"
+    },
+    {
+      "id": "bridging-capital",
+      "term": "橋渡し型社会関係資本",
+      "definition": "異なる集団間の結び付きから得る資源。"
+    },
+    {
+      "id": "relational-energy",
+      "term": "関係的エネルギー",
+      "definition": "他者との相互作用から得る心理的な活力。"
+    },
+    {
+      "id": "high-quality-connection",
+      "term": "高品質なつながり",
+      "definition": "短い接触でも相互の活力・尊重・応答性を支える関係。"
+    },
+    {
+      "id": "workplace-friendship",
+      "term": "職場友人関係",
+      "definition": "仕事を越えた相互の好意・信頼を含む任意の関係。"
+    },
+    {
+      "id": "coworker-relationship",
+      "term": "同僚関係",
+      "definition": "同じ職場・仕事で協働する人との関係。"
+    },
+    {
+      "id": "supervisor-relationship",
+      "term": "上司関係",
+      "definition": "監督・評価権限を持つ上司との仕事関係。"
+    },
+    {
+      "id": "leader-member-exchange",
+      "term": "LMX",
+      "definition": "上司と部下の二者関係の質を扱う概念。"
+    },
+    {
+      "id": "mentor",
+      "term": "メンター",
+      "definition": "経験・知識を用いて発達やキャリアを支援する人。"
+    },
+    {
+      "id": "mentee",
+      "term": "メンティー",
+      "definition": "メンタリング支援を受ける人。"
+    },
+    {
+      "id": "mentoring",
+      "term": "メンタリング",
+      "definition": "経験者が学習・キャリア・心理社会面を支える関係・制度。"
+    },
+    {
+      "id": "sponsorship",
+      "term": "スポンサーシップ",
+      "definition": "権限ある人が重要機会や可視性を積極的に提供する支援。"
+    },
+    {
+      "id": "buddy-system",
+      "term": "バディ制度",
+      "definition": "新任者等へ同僚の相談・案内役を割り当てる制度。"
+    },
+    {
+      "id": "peer-support",
+      "term": "ピア支援",
+      "definition": "近い立場・経験の人による非専門的支援。"
+    },
+    {
+      "id": "community-of-practice",
+      "term": "実践共同体",
+      "definition": "共通の実践を通じて学び知識を形成する集まり。"
+    },
+    {
+      "id": "employee-resource-group",
+      "term": "ERG",
+      "definition": "共通属性・経験や支援目的で組織内に作る従業員グループ。"
+    },
+    {
+      "id": "affinity-group",
+      "term": "アフィニティグループ",
+      "definition": "共通の属性・関心・経験を基盤とする任意の集まり。"
+    },
+    {
+      "id": "social-support",
+      "term": "社会的支援",
+      "definition": "他者から得る情緒的・道具的・情報的・評価的な支援。"
+    },
+    {
+      "id": "emotional-support",
+      "term": "情緒的支援",
+      "definition": "傾聴、共感、安心等を提供する支援。"
+    },
+    {
+      "id": "instrumental-support",
+      "term": "道具的支援",
+      "definition": "時間、代替、金銭、作業援助等の具体的支援。"
+    },
+    {
+      "id": "informational-support",
+      "term": "情報的支援",
+      "definition": "助言、知識、手順、選択肢等を提供する支援。"
+    },
+    {
+      "id": "appraisal-support",
+      "term": "評価的支援",
+      "definition": "状況理解や自己評価を助けるフィードバック。"
+    },
+    {
+      "id": "perceived-support",
+      "term": "知覚された支援",
+      "definition": "必要時に支援を得られると本人が感じる程度。"
+    },
+    {
+      "id": "received-support",
+      "term": "受領した支援",
+      "definition": "実際に提供・利用された支援。"
+    },
+    {
+      "id": "organizational-support",
+      "term": "組織支援",
+      "definition": "組織が貢献を評価し健康・福祉を気に掛けるという知覚や制度。"
+    },
+    {
+      "id": "supervisor-support",
+      "term": "上司支援",
+      "definition": "上司による傾聴、資源、保護、調整等。"
+    },
+    {
+      "id": "coworker-support",
+      "term": "同僚支援",
+      "definition": "同僚による情報、交代、協力、情緒的支援等。"
+    },
+    {
+      "id": "support-access",
+      "term": "支援アクセス",
+      "definition": "必要な支援を知り、到達し、利用できる程度。"
+    },
+    {
+      "id": "support-matching",
+      "term": "支援適合",
+      "definition": "ストレスや必要の種類と提供支援が合っていること。"
+    },
+    {
+      "id": "buffering-hypothesis",
+      "term": "緩衝仮説",
+      "definition": "支援がストレスの不利な影響を弱めるという仮説。"
+    },
+    {
+      "id": "direct-effect-model",
+      "term": "直接効果モデル",
+      "definition": "ストレス水準によらず支援が良い結果と関係するというモデル。"
+    },
+    {
+      "id": "reciprocity",
+      "term": "互恵性",
+      "definition": "支援・資源のやり取りが相互的であること。"
+    },
+    {
+      "id": "care-burden",
+      "term": "ケア負担",
+      "definition": "他者支援を継続して担う心理・時間・身体上の負担。"
+    },
+    {
+      "id": "relational-labor",
+      "term": "関係労働",
+      "definition": "関係の形成・維持・調整に必要な仕事。"
+    },
+    {
+      "id": "invisible-relational-work",
+      "term": "見えない関係労働",
+      "definition": "記録・評価・報酬されにくい紹介、橋渡し、相談対応等。"
+    },
+    {
+      "id": "social-load",
+      "term": "社会的負荷",
+      "definition": "対人接触・応答・調整に伴う要求や疲労。"
+    },
+    {
+      "id": "interaction-overload",
+      "term": "相互作用過多",
+      "definition": "対人接触や連絡が本人の処理可能範囲を超える状態。"
+    },
+    {
+      "id": "collaboration-overload",
+      "term": "協働過多",
+      "definition": "会議、依頼、相談、調整が一部の人へ集中する状態。"
+    },
+    {
+      "id": "meeting-load",
+      "term": "会議負荷",
+      "definition": "会議の頻度、時間、準備、中断等による負担。"
+    },
+    {
+      "id": "availability-pressure",
+      "term": "応答可能性圧力",
+      "definition": "常に連絡・相談へ応答できるよう求められる圧力。"
+    },
+    {
+      "id": "telepressure",
+      "term": "テレプレッシャー",
+      "definition": "デジタル連絡へすぐ返信すべきだと感じる圧力。"
+    },
+    {
+      "id": "remote-work",
+      "term": "遠隔勤務",
+      "definition": "通常の職場から離れ情報通信技術等を用いて働く形態。"
+    },
+    {
+      "id": "hybrid-work",
+      "term": "ハイブリッド勤務",
+      "definition": "遠隔と対面を組み合わせる勤務形態。"
+    },
+    {
+      "id": "distributed-team",
+      "term": "分散チーム",
+      "definition": "異なる場所・時差等に成員が分かれたチーム。"
+    },
+    {
+      "id": "lone-work",
+      "term": "単独勤務",
+      "definition": "近くに同僚の支援がない状態で行う仕事。"
+    },
+    {
+      "id": "shift-work",
+      "term": "交替勤務",
+      "definition": "時間帯を交替して行う勤務形態。"
+    },
+    {
+      "id": "field-work",
+      "term": "現場勤務",
+      "definition": "顧客先・工事・訪問等の現場で行う仕事。"
+    },
+    {
+      "id": "asynchronous-work",
+      "term": "非同期協働",
+      "definition": "同時接続せず記録・メッセージ等で進める協働。"
+    },
+    {
+      "id": "synchronous-work",
+      "term": "同期協働",
+      "definition": "同じ時間に会話・会議等で進める協働。"
+    },
+    {
+      "id": "proximity",
+      "term": "近接性",
+      "definition": "物理的・時間的・社会的に近い程度。"
+    },
+    {
+      "id": "visibility",
+      "term": "可視性",
+      "definition": "仕事、貢献、必要、存在が他者から認識される程度。"
+    },
+    {
+      "id": "proximity-bias",
+      "term": "近接バイアス",
+      "definition": "近くにいる人を有利に評価・配分する偏り。"
+    },
+    {
+      "id": "digital-presenteeism",
+      "term": "デジタル・プレゼンティーイズム",
+      "definition": "オンライン状態や即応で働いていることを示そうとする行動。"
+    },
+    {
+      "id": "communication-metadata",
+      "term": "通信メタデータ",
+      "definition": "送受信時刻・相手・量等、内容以外の通信情報。"
+    },
+    {
+      "id": "digital-trace",
+      "term": "デジタル行動痕跡",
+      "definition": "システム利用によって残る操作・通信等の記録。"
+    },
+    {
+      "id": "network-surveillance",
+      "term": "ネットワーク監視",
+      "definition": "関係データを用いて人のつながりや位置を監視すること。"
+    },
+    {
+      "id": "network-intervention",
+      "term": "ネットワーク介入",
+      "definition": "関係の形成・橋渡し・情報流を意図的に変える取組。"
+    },
+    {
+      "id": "onboarding",
+      "term": "オンボーディング",
+      "definition": "新しく加わる人が仕事・関係・制度へ接続する過程。"
+    },
+    {
+      "id": "organizational-socialization",
+      "term": "組織社会化",
+      "definition": "役割、規範、関係、知識を学び成員となる過程。"
+    },
+    {
+      "id": "newcomer",
+      "term": "新規参入者",
+      "definition": "新たに組織・部署・役割へ加わった人。"
+    },
+    {
+      "id": "information-seeking",
+      "term": "情報探索",
+      "definition": "役割・仕事・文化等を理解するため情報を求める行動。"
+    },
+    {
+      "id": "role-clarity",
+      "term": "役割明確性",
+      "definition": "責任、権限、優先順位を理解している程度。"
+    },
+    {
+      "id": "help-seeking",
+      "term": "援助要請",
+      "definition": "問題解決や支援のため他者・制度へ助けを求めること。"
+    },
+    {
+      "id": "voice",
+      "term": "発言",
+      "definition": "改善、懸念、異論、提案等を権限ある相手へ伝える行動。"
+    },
+    {
+      "id": "silence",
+      "term": "沈黙",
+      "definition": "発言できる情報・懸念を意図的に述べないこと。"
+    },
+    {
+      "id": "incivility",
+      "term": "無礼",
+      "definition": "低強度で害意が曖昧な相互尊重規範に反する言動。"
+    },
+    {
+      "id": "bullying",
+      "term": "職場いじめ",
+      "definition": "反復・継続し、力の不均衡を伴う否定的行為。"
+    },
+    {
+      "id": "harassment",
+      "term": "ハラスメント",
+      "definition": "望まない言動により尊厳・就業環境等を害すること。"
+    },
+    {
+      "id": "discrimination",
+      "term": "差別",
+      "definition": "属性等に基づく不利な取扱い・障壁・排除。"
+    },
+    {
+      "id": "microaggression",
+      "term": "マイクロアグレッション",
+      "definition": "日常的で微妙な侮蔑・無効化・異質化を含む言動。"
+    },
+    {
+      "id": "retaliation",
+      "term": "報復",
+      "definition": "相談・申告・協力等を理由とする不利益。"
+    },
+    {
+      "id": "bystander",
+      "term": "傍観者・周囲の人",
+      "definition": "出来事を見聞きし介入・報告・支援を選び得る人。"
+    },
+    {
+      "id": "social-pain",
+      "term": "社会的痛み",
+      "definition": "拒絶・排斥等に伴う苦痛の経験。"
+    },
+    {
+      "id": "stigma",
+      "term": "スティグマ",
+      "definition": "ある状態・属性を否定的にラベル付けし価値を下げる過程。"
+    },
+    {
+      "id": "self-stigma",
+      "term": "セルフスティグマ",
+      "definition": "社会的偏見を自分へ内在化すること。"
+    },
+    {
+      "id": "disclosure",
+      "term": "開示",
+      "definition": "本人が状態・属性・経験を他者へ伝えること。"
+    },
+    {
+      "id": "forced-disclosure",
+      "term": "開示強制",
+      "definition": "本人の選択を越えて私的情報を明かすよう求めること。"
+    },
+    {
+      "id": "confidentiality",
+      "term": "守秘",
+      "definition": "知り得た情報を認められた範囲外へ漏らさないこと。"
+    },
+    {
+      "id": "anonymity",
+      "term": "匿名性",
+      "definition": "情報から本人を直接識別できない状態。"
+    },
+    {
+      "id": "pseudonymization",
+      "term": "仮名化",
+      "definition": "追加情報なしに本人を特定しにくくする処理。"
+    },
+    {
+      "id": "small-cell-protection",
+      "term": "少人数セル保護",
+      "definition": "集計から個人・小集団を再特定しにくくする措置。"
+    },
+    {
+      "id": "data-minimization",
+      "term": "データ最小化",
+      "definition": "目的達成に必要な範囲だけデータを扱う原則。"
+    },
+    {
+      "id": "purpose-limitation",
+      "term": "目的限定",
+      "definition": "示した目的以外へデータを流用しない原則。"
+    },
+    {
+      "id": "informed-consent",
+      "term": "説明に基づく同意",
+      "definition": "目的、負担、利用、撤回等の説明を理解して行う同意。"
+    },
+    {
+      "id": "opt-out",
+      "term": "オプトアウト",
+      "definition": "参加・利用を拒否または停止できる選択。"
+    },
+    {
+      "id": "eap",
+      "term": "従業員支援プログラム",
+      "definition": "働く人へ心理・生活・法律等の相談を提供する制度。"
+    },
+    {
+      "id": "occupational-health",
+      "term": "産業保健",
+      "definition": "仕事と健康の両面から予防・支援する専門領域。"
+    },
+    {
+      "id": "psychosocial-risk",
+      "term": "心理社会的リスク",
+      "definition": "仕事設計・管理・関係等から健康へ影響する危険。"
+    },
+    {
+      "id": "risk-assessment",
+      "term": "リスクアセスメント",
+      "definition": "危険を特定し発生・重大性・統制を評価する過程。"
+    },
+    {
+      "id": "primary-prevention",
+      "term": "一次予防",
+      "definition": "問題発生前に原因・危険を減らすこと。"
+    },
+    {
+      "id": "secondary-prevention",
+      "term": "二次予防",
+      "definition": "早期把握・対応で悪化を防ぐこと。"
+    },
+    {
+      "id": "tertiary-prevention",
+      "term": "三次予防",
+      "definition": "発生後の回復・再発防止・影響軽減を図ること。"
+    },
+    {
+      "id": "crisis-referral",
+      "term": "危機紹介",
+      "definition": "緊急性に応じ医療・警察・福祉等へ接続すること。"
+    },
+    {
+      "id": "warm-handoff",
+      "term": "温かい引継ぎ",
+      "definition": "本人の同意を得て支援先へ情報・関係を切れ目なくつなぐこと。"
+    },
+    {
+      "id": "reasonable-accommodation",
+      "term": "合理的配慮",
+      "definition": "障壁を除くため必要かつ適切な変更・調整。"
+    },
+    {
+      "id": "accessibility",
+      "term": "アクセシビリティ",
+      "definition": "障害・言語・環境等にかかわらず利用・参加できる程度。"
+    },
+    {
+      "id": "universal-design",
+      "term": "ユニバーサルデザイン",
+      "definition": "多様な人が利用しやすいよう初めから設計する考え方。"
+    },
+    {
+      "id": "intersectionality",
+      "term": "交差性",
+      "definition": "複数の属性・権力関係が交差して固有の経験を生むこと。"
+    },
+    {
+      "id": "leading-indicator",
+      "term": "先行指標",
+      "definition": "重大結果の前に危険・統制状態を示す指標。"
+    },
+    {
+      "id": "lagging-indicator",
+      "term": "遅行指標",
+      "definition": "離職・休業等、結果発生後に示される指標。"
+    },
+    {
+      "id": "response-rate",
+      "term": "回答率",
+      "definition": "調査対象のうち有効回答が得られた割合。"
+    },
+    {
+      "id": "missing-data",
+      "term": "欠測",
+      "definition": "測定予定の値が得られていないこと。"
+    },
+    {
+      "id": "attrition",
+      "term": "追跡脱落",
+      "definition": "縦断調査・介入から参加者が離れること。"
+    },
+    {
+      "id": "implementation-fidelity",
+      "term": "実装忠実度",
+      "definition": "計画した中核要素が実際に実施された程度。"
+    },
+    {
+      "id": "adverse-effect",
+      "term": "望まない効果",
+      "definition": "施策によって意図せず生じる不利益・危害。"
+    },
+    {
+      "id": "stop-rule",
+      "term": "中止基準",
+      "definition": "危害・無効・実装失敗等で施策を止める条件。"
+    },
+    {
+      "id": "open-methods",
+      "term": "オープンな方法",
+      "definition": "定義、検索、採否、分析、限界を公開すること。"
+    },
+    {
+      "id": "open-aggregate-data",
+      "term": "公開集計データ",
+      "definition": "個人を守りながら定義・方法付きで公開する集計情報。"
+    },
+    {
+      "id": "correction-log",
+      "term": "訂正履歴",
+      "definition": "誤りや更新の内容、理由、根拠、時点を残す記録。"
+    }
+  ]
+}

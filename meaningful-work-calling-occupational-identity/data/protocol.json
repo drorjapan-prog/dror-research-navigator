@@ -1,0 +1,80 @@
+{
+  "name": "仕事の意味・意義・天職観・職業アイデンティティ 迅速エビデンスマップ・プロトコル",
+  "version": "0.1",
+  "review_type": "意味ある仕事、天職、仕事設計、意味管理、アイデンティティ、倫理的葛藤、ディーセント・ワークを分離した迅速エビデンスマップ",
+  "research_questions": [
+    {
+      "id": "RQ1",
+      "question": "仕事の意味、意味ある仕事、人生の意味、満足・エンゲージメントをどう区別するか。"
+    },
+    {
+      "id": "RQ2",
+      "question": "天職・仕事志向をどう定義・測定し、両刃性をどう扱うか。"
+    },
+    {
+      "id": "RQ3",
+      "question": "仕事設計、受益者接触、ジョブ・クラフティングは意味へどう関係するか。"
+    },
+    {
+      "id": "RQ4",
+      "question": "組織による目的・理念・意味管理と本人の意味経験をどう区別するか。"
+    },
+    {
+      "id": "RQ5",
+      "question": "職業・専門職・複数仕事アイデンティティはどう形成・移行・喪失・回復するか。"
+    },
+    {
+      "id": "RQ6",
+      "question": "汚れ仕事、無意味感、道徳的苦痛・負傷、倫理的発言をどう扱うか。"
+    },
+    {
+      "id": "RQ7",
+      "question": "意味を権利・安全・賃金・時間・ディーセント・ワークより優先させない設計は何か。"
+    },
+    {
+      "id": "RQ8",
+      "question": "尺度、相談、AI、個人情報、公開・訂正をどう統治するか。"
+    }
+  ],
+  "query_families": [
+    "meaningful work meta-analysis scale review",
+    "work meaning WAMI comprehensive meaningful work scale",
+    "calling vocation work orientation longitudinal dark side",
+    "job characteristics task significance beneficiary contact meaningfulness",
+    "job crafting meta-analysis intervention meaning",
+    "management of meaning existential labor purpose washing",
+    "professional occupational work identity transitions loss recovery",
+    "dirty work occupational taint positive identity",
+    "moral distress moral injury work ethics review",
+    "decent work meaningful work rights dignity",
+    "Japan career consulting job card occupational information",
+    "AI career calling assessment privacy employee values"
+  ],
+  "inclusion": [
+    "査読済み基礎・測定・統合研究",
+    "意味ある仕事・天職・クラフティングの直接研究",
+    "仕事設計・動機づけ・受益者接触の隣接研究",
+    "職業アイデンティティ・移行・汚れ仕事の主要研究",
+    "道徳的苦痛・負傷は定義を限定した隣接研究",
+    "ILO、WHO、国連、日本法・職業情報・キャリア支援の公式原典"
+  ],
+  "exclusion": [
+    "意味・天職・理念共感の万能研修",
+    "使命感による低賃金・長時間・危険・無償労働の正当化",
+    "価値観・宗教・天職尺度による採用・配置・評価",
+    "AIによる天職確定・退職推奨・価値観推定",
+    "仕事を人生唯一の意味源とする表現",
+    "道徳的負傷による一般的不満・燃え尽きの一律診断",
+    "自由記述・相談記録の人事流用"
+  ],
+  "process_limitations": [
+    "単一レビュアーによる迅速整理",
+    "代表文献と公式原典による非網羅整理",
+    "効果量の独自再計算・正式なバイアス評価は未実施",
+    "意味ある仕事・天職研究は自己報告・横断研究が多い",
+    "職業アイデンティティ研究は質的・特定専門職が多い",
+    "道徳的苦痛・負傷研究は医療・軍事に偏り職場一般への移植に注意",
+    "規範的倫理論と実証的効果を区別",
+    "尺度項目、相談個票、価値・宗教・健康情報、AIモデルは収録しない"
+  ]
+}

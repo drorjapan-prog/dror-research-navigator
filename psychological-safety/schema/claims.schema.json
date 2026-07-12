@@ -1,0 +1,76 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://research.dror.co.jp/psychological-safety/schema/claims.schema.json",
+  "title": "Psychological safety claim register",
+  "type": "object",
+  "required": [
+    "name",
+    "version",
+    "license",
+    "claims"
+  ],
+  "properties": {
+    "name": {
+      "type": "string"
+    },
+    "version": {
+      "type": "string"
+    },
+    "license": {
+      "type": "string"
+    },
+    "claims": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "claim",
+          "label",
+          "relationship",
+          "sources",
+          "limits"
+        ],
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "claim": {
+            "type": "string"
+          },
+          "label": {
+            "type": "string"
+          },
+          "relationship": {
+            "type": "string"
+          },
+          "scope": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "sources": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "limits": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "last_human_verified": {
+            "type": "string",
+            "format": "date"
+          },
+          "license": {
+            "type": "string"
+          }
+        }
+      }
+    }
+  }
+}

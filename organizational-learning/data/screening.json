@@ -1,0 +1,316 @@
+{
+  "name": "組織学習・知識共有 採用・除外記録",
+  "version": "0.1",
+  "screening": [
+    {
+      "id": "S01",
+      "decision": "include",
+      "reason": "基礎理論・概念として研究質問に適合",
+      "source": "argyris-1976",
+      "evidence_role": "基礎理論・概念"
+    },
+    {
+      "id": "S02",
+      "decision": "include",
+      "reason": "統合研究として研究質問に適合",
+      "source": "levitt-march-1988",
+      "evidence_role": "統合研究"
+    },
+    {
+      "id": "S03",
+      "decision": "include",
+      "reason": "実証研究として研究質問に適合",
+      "source": "cohen-levinthal-1990",
+      "evidence_role": "実証研究"
+    },
+    {
+      "id": "S04",
+      "decision": "include",
+      "reason": "基礎理論・概念として研究質問に適合",
+      "source": "march-1991",
+      "evidence_role": "基礎理論・概念"
+    },
+    {
+      "id": "S05",
+      "decision": "include",
+      "reason": "統合研究として研究質問に適合",
+      "source": "huber-1991",
+      "evidence_role": "統合研究"
+    },
+    {
+      "id": "S06",
+      "decision": "include",
+      "reason": "基礎理論・概念として研究質問に適合",
+      "source": "brown-duguid-1991",
+      "evidence_role": "基礎理論・概念"
+    },
+    {
+      "id": "S07",
+      "decision": "include",
+      "reason": "統合研究として研究質問に適合",
+      "source": "walsh-ungson-1991",
+      "evidence_role": "統合研究"
+    },
+    {
+      "id": "S08",
+      "decision": "include",
+      "reason": "基礎理論・概念として研究質問に適合",
+      "source": "nonaka-1994",
+      "evidence_role": "基礎理論・概念"
+    },
+    {
+      "id": "S09",
+      "decision": "include",
+      "reason": "実証研究として研究質問に適合",
+      "source": "szulanski-1996",
+      "evidence_role": "実証研究"
+    },
+    {
+      "id": "S10",
+      "decision": "include",
+      "reason": "基礎理論・概念として研究質問に適合",
+      "source": "crossan-1999",
+      "evidence_role": "基礎理論・概念"
+    },
+    {
+      "id": "S11",
+      "decision": "include",
+      "reason": "実証研究として研究質問に適合",
+      "source": "edmondson-1999",
+      "evidence_role": "実証研究"
+    },
+    {
+      "id": "S12",
+      "decision": "include",
+      "reason": "統合研究として研究質問に適合",
+      "source": "argote-ingram-2000",
+      "evidence_role": "統合研究"
+    },
+    {
+      "id": "S13",
+      "decision": "include",
+      "reason": "実証研究として研究質問に適合",
+      "source": "lewis-2003",
+      "evidence_role": "実証研究"
+    },
+    {
+      "id": "S14",
+      "decision": "include",
+      "reason": "基礎理論・概念として研究質問に適合",
+      "source": "feldman-pentland-2003",
+      "evidence_role": "基礎理論・概念"
+    },
+    {
+      "id": "S15",
+      "decision": "include",
+      "reason": "実証研究として研究質問に適合",
+      "source": "deholan-phillips-2004",
+      "evidence_role": "実証研究"
+    },
+    {
+      "id": "S16",
+      "decision": "include",
+      "reason": "実証研究として研究質問に適合",
+      "source": "van-dyck-2005",
+      "evidence_role": "実証研究"
+    },
+    {
+      "id": "S17",
+      "decision": "include",
+      "reason": "統合研究として研究質問に適合",
+      "source": "cannon-edmondson-2005",
+      "evidence_role": "統合研究"
+    },
+    {
+      "id": "S18",
+      "decision": "include",
+      "reason": "実証研究として研究質問に適合",
+      "source": "ellis-davidi-2005",
+      "evidence_role": "実証研究"
+    },
+    {
+      "id": "S19",
+      "decision": "include",
+      "reason": "統合研究として研究質問に適合",
+      "source": "lane-2006",
+      "evidence_role": "統合研究"
+    },
+    {
+      "id": "S20",
+      "decision": "include",
+      "reason": "統合研究として研究質問に適合",
+      "source": "van-wijk-2008",
+      "evidence_role": "統合研究"
+    },
+    {
+      "id": "S21",
+      "decision": "include",
+      "reason": "統合研究として研究質問に適合",
+      "source": "tsang-zahra-2008",
+      "evidence_role": "統合研究"
+    },
+    {
+      "id": "S22",
+      "decision": "include",
+      "reason": "統合研究として研究質問に適合",
+      "source": "keith-frese-2008",
+      "evidence_role": "統合研究"
+    },
+    {
+      "id": "S23",
+      "decision": "include",
+      "reason": "統合研究として研究質問に適合",
+      "source": "mesmer-dechurch-2009",
+      "evidence_role": "統合研究"
+    },
+    {
+      "id": "S24",
+      "decision": "include",
+      "reason": "統合研究として研究質問に適合",
+      "source": "wang-noe-2010",
+      "evidence_role": "統合研究"
+    },
+    {
+      "id": "S25",
+      "decision": "include",
+      "reason": "統合研究として研究質問に適合",
+      "source": "decuyper-2010",
+      "evidence_role": "統合研究"
+    },
+    {
+      "id": "S26",
+      "decision": "include",
+      "reason": "統合研究として研究質問に適合",
+      "source": "ren-argote-2011",
+      "evidence_role": "統合研究"
+    },
+    {
+      "id": "S27",
+      "decision": "include",
+      "reason": "実証研究として研究質問に適合",
+      "source": "connelly-2012",
+      "evidence_role": "実証研究"
+    },
+    {
+      "id": "S28",
+      "decision": "include",
+      "reason": "統合研究として研究質問に適合",
+      "source": "junni-2013",
+      "evidence_role": "統合研究"
+    },
+    {
+      "id": "S29",
+      "decision": "include",
+      "reason": "統合研究として研究質問に適合",
+      "source": "witherspoon-2013",
+      "evidence_role": "統合研究"
+    },
+    {
+      "id": "S30",
+      "decision": "include",
+      "reason": "統合研究として研究質問に適合",
+      "source": "frese-keith-2015",
+      "evidence_role": "統合研究"
+    },
+    {
+      "id": "S31",
+      "decision": "include",
+      "reason": "統合研究として研究質問に適合",
+      "source": "frazier-2017",
+      "evidence_role": "統合研究"
+    },
+    {
+      "id": "S32",
+      "decision": "include",
+      "reason": "統合研究として研究質問に適合",
+      "source": "koeslag-2018",
+      "evidence_role": "統合研究"
+    },
+    {
+      "id": "S33",
+      "decision": "include",
+      "reason": "統合研究として研究質問に適合",
+      "source": "keiser-arthur-2021",
+      "evidence_role": "統合研究"
+    },
+    {
+      "id": "S34",
+      "decision": "include",
+      "reason": "統合研究として研究質問に適合",
+      "source": "wiese-2022",
+      "evidence_role": "統合研究"
+    },
+    {
+      "id": "S35",
+      "decision": "include",
+      "reason": "統合研究として研究質問に適合",
+      "source": "arain-2024",
+      "evidence_role": "統合研究"
+    },
+    {
+      "id": "S36",
+      "decision": "include",
+      "reason": "統合研究として研究質問に適合",
+      "source": "keiser-2024",
+      "evidence_role": "統合研究"
+    },
+    {
+      "id": "S37",
+      "decision": "include",
+      "reason": "公式指針・ガバナンスとして研究質問に適合",
+      "source": "ilo-1997",
+      "evidence_role": "公式指針・ガバナンス"
+    },
+    {
+      "id": "S38",
+      "decision": "include",
+      "reason": "公式指針・ガバナンスとして研究質問に適合",
+      "source": "who-2020",
+      "evidence_role": "公式指針・ガバナンス"
+    },
+    {
+      "id": "S39",
+      "decision": "include",
+      "reason": "公式指針・ガバナンスとして研究質問に適合",
+      "source": "unesco-2021",
+      "evidence_role": "公式指針・ガバナンス"
+    },
+    {
+      "id": "S40",
+      "decision": "include",
+      "reason": "公式指針・ガバナンスとして研究質問に適合",
+      "source": "nist-2024",
+      "evidence_role": "公式指針・ガバナンス"
+    },
+    {
+      "id": "S41",
+      "decision": "exclude",
+      "source": "repository-vendor-roi",
+      "reason": "ベンダー独自調査で比較条件・原データが不明"
+    },
+    {
+      "id": "S42",
+      "decision": "exclude",
+      "source": "failure-celebration",
+      "reason": "失敗の種類・安全責任を区別せず失敗を推奨"
+    },
+    {
+      "id": "S43",
+      "decision": "exclude",
+      "source": "sharing-count-ranking",
+      "reason": "投稿数の個人ランキングを学習成果とみなす"
+    },
+    {
+      "id": "S44",
+      "decision": "exclude",
+      "source": "covert-ai-ingestion",
+      "reason": "従業員の会話・文書を無断で生成AI基盤へ取り込む"
+    },
+    {
+      "id": "S45",
+      "decision": "exclude",
+      "source": "universal-seci",
+      "reason": "SECIをあらゆる組織の実証済み普遍法則と断定"
+    }
+  ]
+}

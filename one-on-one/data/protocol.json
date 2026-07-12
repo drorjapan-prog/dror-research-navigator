@@ -1,0 +1,62 @@
+{
+  "name": "1on1・上司部下面談 迅速エビデンスマップ・プロトコル",
+  "version": "0.1",
+  "review_type": "直接1on1証拠と隣接研究を分離した迅速エビデンスマップ",
+  "research_questions": [
+    {
+      "id": "RQ1",
+      "question": "1on1をどう定義し、査定・進捗・相談・コーチングと区別するか。"
+    },
+    {
+      "id": "RQ2",
+      "question": "1on1固有の直接実証研究はどこまで存在するか。"
+    },
+    {
+      "id": "RQ3",
+      "question": "フィードバック、目標設定、傾聴、コーチングの隣接知見をどう限定して適用するか。"
+    },
+    {
+      "id": "RQ4",
+      "question": "LMX、voice、心理的安全性は1on1設計へ何を示唆するか。"
+    },
+    {
+      "id": "RQ5",
+      "question": "頻度、アジェンダ、記録、フォローアップをどう設計・評価するか。"
+    },
+    {
+      "id": "RQ6",
+      "question": "強制開示、監視、査定転用、報復、診断行為をどう防ぐか。"
+    }
+  ],
+  "query_families": [
+    "manager direct report one-on-one meetings",
+    "feedback intervention meta-analysis performance",
+    "goal setting theory workplace",
+    "workplace coaching meta-analysis",
+    "leader member exchange meta-analysis",
+    "employee voice silence managerial openness",
+    "listening at work review",
+    "performance appraisal participation reactions meta-analysis",
+    "workers personal data meeting recording"
+  ],
+  "inclusion": [
+    "1on1を直接扱う査読文献",
+    "隣接領域のメタ分析・主要レビュー",
+    "上司部下関係・voice・安全性研究",
+    "公式の労働者データ・メンタルヘルス指針"
+  ],
+  "exclusion": [
+    "出典不明の週次1on1万能論",
+    "コーチング研究を1on1効果と表示する資料",
+    "アプリベンダーの生産性・離職改善宣伝",
+    "無断録音・感情推定・健康診断化を推奨する資料"
+  ],
+  "process_limitations": [
+    "直接1on1実証研究が少ない",
+    "単一レビュアーによる迅速整理",
+    "代表文献とDOIメタデータによる非網羅整理で、全文データベース横断・灰色文献の体系的探索は未実施",
+    "効果量の独自再計算・正式なバイアス評価は未実施",
+    "隣接知見の外挿を含むが直接性ラベルで分離",
+    "法的助言・医療助言ではない"
+  ]
+}

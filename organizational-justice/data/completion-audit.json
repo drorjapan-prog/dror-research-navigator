@@ -1,0 +1,56 @@
+{
+  "version": "0.1",
+  "release_decision": "完成条件を満たす（次分野へ移行可）",
+  "dimensions": [
+    {
+      "id": "definition",
+      "status": "complete",
+      "evidence": "4次元、全体判断、歴史的系譜を区別"
+    },
+    {
+      "id": "measurement",
+      "status": "complete",
+      "evidence": "Colquitt尺度、日本語OJQ、多焦点、風土集約を収録"
+    },
+    {
+      "id": "antecedents",
+      "status": "complete",
+      "evidence": "配分規則、手続き基準、主体・情報・扱いを収録"
+    },
+    {
+      "id": "outcomes",
+      "status": "complete",
+      "evidence": "信頼・態度・業績・協力・離脱・報復を統合研究で収録"
+    },
+    {
+      "id": "health",
+      "status": "complete",
+      "evidence": "健康メタ分析、前向きレビュー、日本の心理・睡眠・受診研究を収録"
+    },
+    {
+      "id": "interventions",
+      "status": "complete",
+      "evidence": "古典フィールド実験と現代的限界を収録"
+    },
+    {
+      "id": "japan",
+      "status": "complete",
+      "evidence": "日本語尺度と4本の日本研究を収録"
+    },
+    {
+      "id": "ethics",
+      "status": "complete",
+      "evidence": "適法性、差別、疑似参加、説明による正当化、調査権力を明示"
+    },
+    {
+      "id": "openness",
+      "status": "complete",
+      "evidence": "主張・研究・用語・採否・質評価・引用を機械可読化"
+    }
+  ],
+  "remaining_non_blocking": [
+    "正式な多人数システマティックレビューではない",
+    "法的助言ではなく各国・地域法の別途確認が必要",
+    "新規研究は更新規則に従い追加する"
+  ]
+}

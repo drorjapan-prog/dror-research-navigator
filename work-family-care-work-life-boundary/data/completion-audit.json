@@ -1,0 +1,81 @@
+{
+  "version": "0.1",
+  "release_decision": "完成条件を満たす（次分野へ移行可）",
+  "dimensions": [
+    {
+      "id": "constructs",
+      "status": "complete",
+      "evidence": "方向・時間/緊張/行動・葛藤/相互促進・バランスを分離"
+    },
+    {
+      "id": "boundaries",
+      "status": "complete",
+      "evidence": "分断/統合、選好、統制、適合、役割移行"
+    },
+    {
+      "id": "recovery",
+      "status": "complete",
+      "evidence": "離脱、回復の逆説、勤務外連絡、テレプレッシャー、睡眠"
+    },
+    {
+      "id": "organizational-support",
+      "status": "complete",
+      "evidence": "上司支援、風土、介入、利用ファネル、同僚負担"
+    },
+    {
+      "id": "parenting-leave",
+      "status": "complete",
+      "evidence": "育児、母性・父親休暇、有給休暇、復帰・キャリア"
+    },
+    {
+      "id": "caregiving-treatment",
+      "status": "complete",
+      "evidence": "介護、治療、合理的配慮、復職、プライバシー"
+    },
+    {
+      "id": "household-family-diversity",
+      "status": "complete",
+      "evidence": "家事の認知労働、共働き、単身者、ひとり親、多様な家族"
+    },
+    {
+      "id": "violence-safety",
+      "status": "complete",
+      "evidence": "家庭内暴力の就労影響、守秘、安全計画、非報復"
+    },
+    {
+      "id": "equity",
+      "status": "complete",
+      "evidence": "柔軟性スティグマ、母親ペナルティ、父親ボーナス、分配影響"
+    },
+    {
+      "id": "japan-law",
+      "status": "complete",
+      "evidence": "2025年4月・10月施行改正を厚労省・e-Govで現行確認"
+    },
+    {
+      "id": "international-rights",
+      "status": "complete",
+      "evidence": "ILO C156/R165/C183/C190、WHO/ILO指針を国内法と分離"
+    },
+    {
+      "id": "measurement-evaluation",
+      "status": "complete",
+      "evidence": "多次元測定、実装、健康、仕事、生活、キャリア、公平を評価"
+    },
+    {
+      "id": "privacy",
+      "status": "complete",
+      "evidence": "目的限定、最小化、守秘、保存、開示任意性"
+    },
+    {
+      "id": "openness",
+      "status": "complete",
+      "evidence": "主張・研究・用語・採否・質・更新・訂正を機械可読で公開"
+    }
+  ],
+  "remaining_non_blocking": [
+    "日本の長期組織介入・低賃金職・同性カップル・選択家族の研究は更新優先",
+    "介護強度・認知労働・治療と仕事を横断する標準尺度は発展途上",
+    "2025年改正の実装・利用格差・長期キャリア影響は今後の研究課題"
+  ]
+}

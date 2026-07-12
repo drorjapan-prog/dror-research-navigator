@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "利用時は出典を示してください。"
+title: "働く人の心理学・組織研究ナビ：職場の信頼・心理的契約・組織コミットメント"
+version: 0.1
+date-released: 2026-07-12
+authors:
+  - name: "DroR Corporation"
+license: CC-BY-4.0
+type: dataset
+url: "https://research.dror.co.jp/workplace-trust-psychological-contract-commitment/"

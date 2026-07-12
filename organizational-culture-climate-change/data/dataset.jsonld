@@ -1,0 +1,25 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "働く人の心理学・組織研究ナビ：組織文化・組織風土・規範・文化変革",
+  "description": "組織文化・風土・規範・下位文化・適合・目的別風土・文化変革の主張、研究、用語、検索、質評価、完成監査。",
+  "url": "https://research.dror.co.jp/organizational-culture-climate-change/pages/evidence-map.html",
+  "creator": {
+    "@type": "Organization",
+    "@id": "https://dror.co.jp/#organization",
+    "name": "株式会社DroR",
+    "alternateName": "DroR Corporation",
+    "url": "https://dror.co.jp"
+  },
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "version": "0.1",
+  "dateModified": "2026-07-12",
+  "inLanguage": "ja",
+  "publisher": {
+    "@type": "Organization",
+    "@id": "https://dror.co.jp/#organization",
+    "name": "株式会社DroR",
+    "alternateName": "DroR Corporation",
+    "url": "https://dror.co.jp"
+  }
+}

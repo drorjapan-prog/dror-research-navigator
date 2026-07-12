@@ -1,0 +1,747 @@
+{
+  "name": "質と限界",
+  "version": "0.1",
+  "notice": "簡易評価であり正式なRoB評価ではない。",
+  "assessments": [
+    {
+      "study_id": "mayer-1995",
+      "design": "conceptual theory",
+      "strength": "理論・測定",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "観察研究を含む",
+        "対象・国・時代による一般化制約"
+      ]
+    },
+    {
+      "study_id": "mcallister-1995",
+      "design": "measurement and field study",
+      "strength": "理論・測定",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "観察研究を含む",
+        "対象・国・時代による一般化制約"
+      ]
+    },
+    {
+      "study_id": "rousseau-1998-trust",
+      "design": "integrative theory",
+      "strength": "理論・測定",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "観察研究を含む",
+        "対象・国・時代による一般化制約"
+      ]
+    },
+    {
+      "study_id": "dirks-2001",
+      "design": "integrative review",
+      "strength": "介入・実証研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "観察研究を含む",
+        "対象・国・時代による一般化制約"
+      ]
+    },
+    {
+      "study_id": "dirks-2002",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "観察研究を含む",
+        "対象・国・時代による一般化制約"
+      ]
+    },
+    {
+      "study_id": "colquitt-2007",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "観察研究を含む",
+        "対象・国・時代による一般化制約"
+      ]
+    },
+    {
+      "study_id": "fulmer-2012",
+      "design": "multilevel integrative review",
+      "strength": "介入・実証研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "観察研究を含む",
+        "対象・国・時代による一般化制約"
+      ]
+    },
+    {
+      "study_id": "dejong-2016",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "観察研究を含む",
+        "対象・国・時代による一般化制約"
+      ]
+    },
+    {
+      "study_id": "mayer-2005",
+      "design": "field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "観察研究を含む",
+        "対象・国・時代による一般化制約"
+      ]
+    },
+    {
+      "study_id": "dirks-2000",
+      "design": "field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "観察研究を含む",
+        "対象・国・時代による一般化制約"
+      ]
+    },
+    {
+      "study_id": "zaheer-1998",
+      "design": "field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "観察研究を含む",
+        "対象・国・時代による一般化制約"
+      ]
+    },
+    {
+      "study_id": "mcevily-2003",
+      "design": "conceptual review",
+      "strength": "理論・測定",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "観察研究を含む",
+        "対象・国・時代による一般化制約"
+      ]
+    },
+    {
+      "study_id": "kramer-1999",
+      "design": "integrative review",
+      "strength": "介入・実証研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "観察研究を含む",
+        "対象・国・時代による一般化制約"
+      ]
+    },
+    {
+      "study_id": "lewicki-1998",
+      "design": "conceptual theory",
+      "strength": "理論・測定",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "観察研究を含む",
+        "対象・国・時代による一般化制約"
+      ]
+    },
+    {
+      "study_id": "jones-1998",
+      "design": "conceptual theory",
+      "strength": "理論・測定",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "観察研究を含む",
+        "対象・国・時代による一般化制約"
+      ]
+    },
+    {
+      "study_id": "mcknight-1998",
+      "design": "conceptual theory",
+      "strength": "理論・測定",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "観察研究を含む",
+        "対象・国・時代による一般化制約"
+      ]
+    },
+    {
+      "study_id": "schoorman-2007",
+      "design": "integrative review",
+      "strength": "介入・実証研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "観察研究を含む",
+        "対象・国・時代による一般化制約"
+      ]
+    },
+    {
+      "study_id": "rousseau-1989",
+      "design": "conceptual review",
+      "strength": "理論・測定",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "観察研究を含む",
+        "対象・国・時代による一般化制約"
+      ]
+    },
+    {
+      "study_id": "robinson-1994",
+      "design": "field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "観察研究を含む",
+        "対象・国・時代による一般化制約"
+      ]
+    },
+    {
+      "study_id": "morrison-1997",
+      "design": "conceptual theory",
+      "strength": "理論・測定",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "観察研究を含む",
+        "対象・国・時代による一般化制約"
+      ]
+    },
+    {
+      "study_id": "robinson-1996",
+      "design": "longitudinal field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "観察研究を含む",
+        "対象・国・時代による一般化制約"
+      ]
+    },
+    {
+      "study_id": "zhao-2007",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "観察研究を含む",
+        "対象・国・時代による一般化制約"
+      ]
+    },
+    {
+      "study_id": "bal-2008",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "観察研究を含む",
+        "対象・国・時代による一般化制約"
+      ]
+    },
+    {
+      "study_id": "conway-2002",
+      "design": "field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "観察研究を含む",
+        "対象・国・時代による一般化制約"
+      ]
+    },
+    {
+      "study_id": "restubog-2008",
+      "design": "field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "観察研究を含む",
+        "対象・国・時代による一般化制約"
+      ]
+    },
+    {
+      "study_id": "montes-2009",
+      "design": "field studies",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "観察研究を含む",
+        "対象・国・時代による一般化制約"
+      ]
+    },
+    {
+      "study_id": "dulac-2008",
+      "design": "longitudinal field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "観察研究を含む",
+        "対象・国・時代による一般化制約"
+      ]
+    },
+    {
+      "study_id": "conway-diary-2002",
+      "design": "daily diary study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "観察研究を含む",
+        "対象・国・時代による一般化制約"
+      ]
+    },
+    {
+      "study_id": "alcover-2017",
+      "design": "integrative review",
+      "strength": "介入・実証研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "観察研究を含む",
+        "対象・国・時代による一般化制約"
+      ]
+    },
+    {
+      "study_id": "mowday-1979",
+      "design": "measurement validation",
+      "strength": "理論・測定",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "観察研究を含む",
+        "対象・国・時代による一般化制約"
+      ]
+    },
+    {
+      "study_id": "allen-1990",
+      "design": "measurement validation",
+      "strength": "理論・測定",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "観察研究を含む",
+        "対象・国・時代による一般化制約"
+      ]
+    },
+    {
+      "study_id": "meyer-1991",
+      "design": "conceptual review",
+      "strength": "理論・測定",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "観察研究を含む",
+        "対象・国・時代による一般化制約"
+      ]
+    },
+    {
+      "study_id": "meyer-2002",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "観察研究を含む",
+        "対象・国・時代による一般化制約"
+      ]
+    },
+    {
+      "study_id": "mathieu-1990",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "観察研究を含む",
+        "対象・国・時代による一般化制約"
+      ]
+    },
+    {
+      "study_id": "riketta-2002",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "観察研究を含む",
+        "対象・国・時代による一般化制約"
+      ]
+    },
+    {
+      "study_id": "tett-1993",
+      "design": "meta-analytic path analysis",
+      "strength": "介入・実証研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "観察研究を含む",
+        "対象・国・時代による一般化制約"
+      ]
+    },
+    {
+      "study_id": "mercurio-2015",
+      "design": "integrative review",
+      "strength": "介入・実証研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "観察研究を含む",
+        "対象・国・時代による一般化制約"
+      ]
+    },
+    {
+      "study_id": "meyer-2004",
+      "design": "integrative theory",
+      "strength": "理論・測定",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "観察研究を含む",
+        "対象・国・時代による一般化制約"
+      ]
+    },
+    {
+      "study_id": "klein-2012",
+      "design": "conceptual review",
+      "strength": "理論・測定",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "観察研究を含む",
+        "対象・国・時代による一般化制約"
+      ]
+    },
+    {
+      "study_id": "klein-2014",
+      "design": "measurement validation",
+      "strength": "理論・測定",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "観察研究を含む",
+        "対象・国・時代による一般化制約"
+      ]
+    },
+    {
+      "study_id": "wasti-2005",
+      "design": "field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "観察研究を含む",
+        "対象・国・時代による一般化制約"
+      ]
+    },
+    {
+      "study_id": "eisenberger-1986",
+      "design": "measurement and field studies",
+      "strength": "理論・測定",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "観察研究を含む",
+        "対象・国・時代による一般化制約"
+      ]
+    },
+    {
+      "study_id": "rhoades-2002",
+      "design": "integrative review",
+      "strength": "介入・実証研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "観察研究を含む",
+        "対象・国・時代による一般化制約"
+      ]
+    },
+    {
+      "study_id": "kurtessis-2017",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "観察研究を含む",
+        "対象・国・時代による一般化制約"
+      ]
+    },
+    {
+      "study_id": "cropanzano-2005",
+      "design": "integrative review",
+      "strength": "介入・実証研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "観察研究を含む",
+        "対象・国・時代による一般化制約"
+      ]
+    },
+    {
+      "study_id": "shore-1991",
+      "design": "measurement validation",
+      "strength": "理論・測定",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "観察研究を含む",
+        "対象・国・時代による一般化制約"
+      ]
+    },
+    {
+      "study_id": "eisenberger-2001",
+      "design": "field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "観察研究を含む",
+        "対象・国・時代による一般化制約"
+      ]
+    },
+    {
+      "study_id": "coyle-2005",
+      "design": "field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "観察研究を含む",
+        "対象・国・時代による一般化制約"
+      ]
+    },
+    {
+      "study_id": "ashforth-1989",
+      "design": "conceptual theory",
+      "strength": "理論・測定",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "観察研究を含む",
+        "対象・国・時代による一般化制約"
+      ]
+    },
+    {
+      "study_id": "riketta-2005",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "観察研究を含む",
+        "対象・国・時代による一般化制約"
+      ]
+    },
+    {
+      "study_id": "vanknippenberg-2006",
+      "design": "field studies",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "観察研究を含む",
+        "対象・国・時代による一般化制約"
+      ]
+    },
+    {
+      "study_id": "kim-2004",
+      "design": "laboratory experiments",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "観察研究を含む",
+        "対象・国・時代による一般化制約"
+      ]
+    },
+    {
+      "study_id": "gillespie-2009",
+      "design": "conceptual framework",
+      "strength": "理論・測定",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "観察研究を含む",
+        "対象・国・時代による一般化制約"
+      ]
+    },
+    {
+      "study_id": "dirks-2009",
+      "design": "integrative framework",
+      "strength": "理論・測定",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "観察研究を含む",
+        "対象・国・時代による一般化制約"
+      ]
+    },
+    {
+      "study_id": "tomlinson-2009",
+      "design": "conceptual model",
+      "strength": "理論・測定",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "観察研究を含む",
+        "対象・国・時代による一般化制約"
+      ]
+    },
+    {
+      "study_id": "bachmann-2015",
+      "design": "integrative framework",
+      "strength": "介入・実証研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "観察研究を含む",
+        "対象・国・時代による一般化制約"
+      ]
+    },
+    {
+      "study_id": "ferrin-2007",
+      "design": "laboratory experiments",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "観察研究を含む",
+        "対象・国・時代による一般化制約"
+      ]
+    },
+    {
+      "study_id": "morrison-2011",
+      "design": "integrative review",
+      "strength": "介入・実証研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "観察研究を含む",
+        "対象・国・時代による一般化制約"
+      ]
+    },
+    {
+      "study_id": "connelly-2011",
+      "design": "measurement and field studies",
+      "strength": "理論・測定",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "観察研究を含む",
+        "対象・国・時代による一般化制約"
+      ]
+    },
+    {
+      "study_id": "burke-2007",
+      "design": "integrative review",
+      "strength": "介入・実証研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "観察研究を含む",
+        "対象・国・時代による一般化制約"
+      ]
+    },
+    {
+      "study_id": "whitener-1997",
+      "design": "integrative review",
+      "strength": "介入・実証研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "観察研究を含む",
+        "対象・国・時代による一般化制約"
+      ]
+    },
+    {
+      "study_id": "gottfredson-2017",
+      "design": "meta-analytic path analysis",
+      "strength": "介入・実証研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "観察研究を含む",
+        "対象・国・時代による一般化制約"
+      ]
+    },
+    {
+      "study_id": "jp-whistleblower-law",
+      "design": "official source",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "法域・適用・効力・施行日を個別に確認",
+        "研究上の信頼概念と法的義務を同一視しない"
+      ]
+    },
+    {
+      "study_id": "caa-whistleblower",
+      "design": "official source",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "法域・適用・効力・施行日を個別に確認",
+        "研究上の信頼概念と法的義務を同一視しない"
+      ]
+    },
+    {
+      "study_id": "caa-overview",
+      "design": "official source",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "法域・適用・効力・施行日を個別に確認",
+        "研究上の信頼概念と法的義務を同一視しない"
+      ]
+    },
+    {
+      "study_id": "jp-labor-contract",
+      "design": "official source",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "法域・適用・効力・施行日を個別に確認",
+        "研究上の信頼概念と法的義務を同一視しない"
+      ]
+    },
+    {
+      "study_id": "jp-appi",
+      "design": "official source",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "法域・適用・効力・施行日を個別に確認",
+        "研究上の信頼概念と法的義務を同一視しない"
+      ]
+    },
+    {
+      "study_id": "jp-labor-standards",
+      "design": "official source",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "法域・適用・効力・施行日を個別に確認",
+        "研究上の信頼概念と法的義務を同一視しない"
+      ]
+    },
+    {
+      "study_id": "oecd-mne",
+      "design": "official source",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "法域・適用・効力・施行日を個別に確認",
+        "研究上の信頼概念と法的義務を同一視しない"
+      ]
+    },
+    {
+      "study_id": "ungp",
+      "design": "official source",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "法域・適用・効力・施行日を個別に確認",
+        "研究上の信頼概念と法的義務を同一視しない"
+      ]
+    },
+    {
+      "study_id": "eu-whistleblower",
+      "design": "official source",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "法域・適用・効力・施行日を個別に確認",
+        "研究上の信頼概念と法的義務を同一視しない"
+      ]
+    },
+    {
+      "study_id": "iso-37002",
+      "design": "official source",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "法域・適用・効力・施行日を個別に確認",
+        "研究上の信頼概念と法的義務を同一視しない"
+      ]
+    },
+    {
+      "study_id": "ilo-c158",
+      "design": "official source",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "法域・適用・効力・施行日を個別に確認",
+        "研究上の信頼概念と法的義務を同一視しない"
+      ]
+    },
+    {
+      "study_id": "ilo-r166",
+      "design": "official source",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "法域・適用・効力・施行日を個別に確認",
+        "研究上の信頼概念と法的義務を同一視しない"
+      ]
+    }
+  ]
+}

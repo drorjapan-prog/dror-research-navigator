@@ -1,0 +1,74 @@
+{
+  "name": "組織の権力・組織政治・従業員参加・発言権 迅速エビデンスマップ・プロトコル",
+  "version": "0.1",
+  "review_type": "権力、地位、政治、ネットワーク、発言、沈黙、参加、代表、エンパワメント、アルゴリズム管理を分離した迅速エビデンスマップ",
+  "research_questions": [
+    {
+      "id": "RQ1",
+      "question": "権力、権限、影響力、地位、階層、依存をどう区別するか。"
+    },
+    {
+      "id": "RQ2",
+      "question": "組織政治の知覚・政治的スキルは何と関係し、どこまで測れるか。"
+    },
+    {
+      "id": "RQ3",
+      "question": "発言・沈黙・苦情・公益通報・集団的発言をどう区別するか。"
+    },
+    {
+      "id": "RQ4",
+      "question": "情報提供、協議、共同決定、委任、直接・代表参加をどう設計するか。"
+    },
+    {
+      "id": "RQ5",
+      "question": "心理的・構造的エンパワメントをどう区別し、責任転嫁を防ぐか。"
+    },
+    {
+      "id": "RQ6",
+      "question": "ネットワーク、専門性、地位、属性による非公式権力差をどう調べるか。"
+    },
+    {
+      "id": "RQ7",
+      "question": "団結、代表、団体交渉、通報等の制度的権利を心理尺度とどう分けるか。"
+    },
+    {
+      "id": "RQ8",
+      "question": "アルゴリズム管理、参加データ、公開性、プライバシーをどう統治するか。"
+    }
+  ],
+  "query_families": [
+    "organizational power dependence status hierarchy review",
+    "perceptions organizational politics meta-analysis political skill",
+    "employee voice silence meta-analysis retaliation whistleblowing",
+    "employee participation involvement meta-analysis direct representative voice",
+    "psychological structural empowerment meta-analysis",
+    "social networks expertise status influence organization",
+    "freedom association collective bargaining worker representatives ILO",
+    "algorithmic management worker voice human review"
+  ],
+  "inclusion": [
+    "査読済み基礎・測定・統合研究",
+    "多層・質的・フィールド・実験研究",
+    "権力、政治、発言、沈黙、参加、代表、エンパワメント研究",
+    "ネットワーク、地位、アルゴリズム管理研究",
+    "ILO、EU、日本の公式原典"
+  ],
+  "exclusion": [
+    "権力者の性格診断・ダークトライアド選別",
+    "政治的操作・迎合・報復のハウツー",
+    "発言件数だけの安全ランキング",
+    "心理的安全性による団結権・代表制度の代替",
+    "意思決定後の疑似参加を共同決定と表示",
+    "秘密の影響者・抵抗者・組合支持者スコア",
+    "アプリ投票を民主的代表性とみなす資料"
+  ],
+  "process_limitations": [
+    "単一レビュアーによる迅速整理",
+    "代表文献と公式原典による非網羅整理",
+    "効果量の独自再計算・正式なバイアス評価は未実施",
+    "古典的権力研究は短期実験・欧米標本が多い",
+    "参加・代表制度の効果は国・産業・労使制度に依存",
+    "権利・法的地位・個別事案は国内法・批准・専門窓口を確認",
+    "ネットワーク・発言・通報の個人データは収録しない"
+  ]
+}

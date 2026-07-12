@@ -1,0 +1,531 @@
+{
+  "name": "感情労働・顧客対応・カスタマーハラスメント 採用・除外記録",
+  "version": "0.1",
+  "screening": [
+    {
+      "id": "S01",
+      "decision": "include",
+      "reason": "基礎理論・測定として研究質問に適合",
+      "source": "grandey-2000",
+      "evidence_role": "基礎理論・測定"
+    },
+    {
+      "id": "S02",
+      "decision": "include",
+      "reason": "基礎理論・測定として研究質問に適合",
+      "source": "morris-feldman-1996",
+      "evidence_role": "基礎理論・測定"
+    },
+    {
+      "id": "S03",
+      "decision": "include",
+      "reason": "基礎理論・測定として研究質問に適合",
+      "source": "brotheridge-lee-2003",
+      "evidence_role": "基礎理論・測定"
+    },
+    {
+      "id": "S04",
+      "decision": "include",
+      "reason": "介入・実証研究として研究質問に適合",
+      "source": "diefendorff-2005",
+      "evidence_role": "介入・実証研究"
+    },
+    {
+      "id": "S05",
+      "decision": "include",
+      "reason": "統合研究として研究質問に適合",
+      "source": "grandey-gabriel-2015",
+      "evidence_role": "統合研究"
+    },
+    {
+      "id": "S06",
+      "decision": "include",
+      "reason": "統合研究として研究質問に適合",
+      "source": "hulsheger-schewe-2011",
+      "evidence_role": "統合研究"
+    },
+    {
+      "id": "S07",
+      "decision": "include",
+      "reason": "統合研究として研究質問に適合",
+      "source": "mesmer-magnus-2011",
+      "evidence_role": "統合研究"
+    },
+    {
+      "id": "S08",
+      "decision": "include",
+      "reason": "統合研究として研究質問に適合",
+      "source": "kammeyer-mueller-2013",
+      "evidence_role": "統合研究"
+    },
+    {
+      "id": "S09",
+      "decision": "include",
+      "reason": "介入・実証研究として研究質問に適合",
+      "source": "scott-barnes-2011",
+      "evidence_role": "介入・実証研究"
+    },
+    {
+      "id": "S10",
+      "decision": "include",
+      "reason": "介入・実証研究として研究質問に適合",
+      "source": "goldberg-grandey-2007",
+      "evidence_role": "介入・実証研究"
+    },
+    {
+      "id": "S11",
+      "decision": "include",
+      "reason": "介入・実証研究として研究質問に適合",
+      "source": "grandey-2012",
+      "evidence_role": "介入・実証研究"
+    },
+    {
+      "id": "S12",
+      "decision": "include",
+      "reason": "介入・実証研究として研究質問に適合",
+      "source": "pugh-2001",
+      "evidence_role": "介入・実証研究"
+    },
+    {
+      "id": "S13",
+      "decision": "include",
+      "reason": "介入・実証研究として研究質問に適合",
+      "source": "groth-2009",
+      "evidence_role": "介入・実証研究"
+    },
+    {
+      "id": "S14",
+      "decision": "include",
+      "reason": "介入・実証研究として研究質問に適合",
+      "source": "hennig-thurau-2006",
+      "evidence_role": "介入・実証研究"
+    },
+    {
+      "id": "S15",
+      "decision": "include",
+      "reason": "介入・実証研究として研究質問に適合",
+      "source": "totterdell-holman-2003",
+      "evidence_role": "介入・実証研究"
+    },
+    {
+      "id": "S16",
+      "decision": "include",
+      "reason": "介入・実証研究として研究質問に適合",
+      "source": "grandey-2003",
+      "evidence_role": "介入・実証研究"
+    },
+    {
+      "id": "S17",
+      "decision": "include",
+      "reason": "統合研究として研究質問に適合",
+      "source": "zapf-2002",
+      "evidence_role": "統合研究"
+    },
+    {
+      "id": "S18",
+      "decision": "include",
+      "reason": "基礎理論・測定として研究質問に適合",
+      "source": "gross-1998",
+      "evidence_role": "基礎理論・測定"
+    },
+    {
+      "id": "S19",
+      "decision": "include",
+      "reason": "統合研究として研究質問に適合",
+      "source": "webb-2012",
+      "evidence_role": "統合研究"
+    },
+    {
+      "id": "S20",
+      "decision": "include",
+      "reason": "介入・実証研究として研究質問に適合",
+      "source": "hulsheger-2013",
+      "evidence_role": "介入・実証研究"
+    },
+    {
+      "id": "S21",
+      "decision": "include",
+      "reason": "介入・実証研究として研究質問に適合",
+      "source": "wharton-1993",
+      "evidence_role": "介入・実証研究"
+    },
+    {
+      "id": "S22",
+      "decision": "include",
+      "reason": "介入・実証研究として研究質問に適合",
+      "source": "bhave-glomb-2016",
+      "evidence_role": "介入・実証研究"
+    },
+    {
+      "id": "S23",
+      "decision": "include",
+      "reason": "統合研究として研究質問に適合",
+      "source": "chen-2024",
+      "evidence_role": "統合研究"
+    },
+    {
+      "id": "S24",
+      "decision": "include",
+      "reason": "介入・実証研究として研究質問に適合",
+      "source": "dormann-zapf-2004",
+      "evidence_role": "介入・実証研究"
+    },
+    {
+      "id": "S25",
+      "decision": "include",
+      "reason": "介入・実証研究として研究質問に適合",
+      "source": "grandey-2004",
+      "evidence_role": "介入・実証研究"
+    },
+    {
+      "id": "S26",
+      "decision": "include",
+      "reason": "介入・実証研究として研究質問に適合",
+      "source": "wang-2011",
+      "evidence_role": "介入・実証研究"
+    },
+    {
+      "id": "S27",
+      "decision": "include",
+      "reason": "介入・実証研究として研究質問に適合",
+      "source": "skarlicki-2008",
+      "evidence_role": "介入・実証研究"
+    },
+    {
+      "id": "S28",
+      "decision": "include",
+      "reason": "介入・実証研究として研究質問に適合",
+      "source": "van-jaarsveld-2010",
+      "evidence_role": "介入・実証研究"
+    },
+    {
+      "id": "S29",
+      "decision": "include",
+      "reason": "介入・実証研究として研究質問に適合",
+      "source": "rupp-2008",
+      "evidence_role": "介入・実証研究"
+    },
+    {
+      "id": "S30",
+      "decision": "include",
+      "reason": "介入・実証研究として研究質問に適合",
+      "source": "gettman-gelfand-2007",
+      "evidence_role": "介入・実証研究"
+    },
+    {
+      "id": "S31",
+      "decision": "include",
+      "reason": "統合研究として研究質問に適合",
+      "source": "yagil-2008",
+      "evidence_role": "統合研究"
+    },
+    {
+      "id": "S32",
+      "decision": "include",
+      "reason": "介入・実証研究として研究質問に適合",
+      "source": "harris-reynolds-2003",
+      "evidence_role": "介入・実証研究"
+    },
+    {
+      "id": "S33",
+      "decision": "include",
+      "reason": "統合研究として研究質問に適合",
+      "source": "fisk-2010",
+      "evidence_role": "統合研究"
+    },
+    {
+      "id": "S34",
+      "decision": "include",
+      "reason": "基礎理論・測定として研究質問に適合",
+      "source": "andersson-pearson-1999",
+      "evidence_role": "基礎理論・測定"
+    },
+    {
+      "id": "S35",
+      "decision": "include",
+      "reason": "統合研究として研究質問に適合",
+      "source": "hershcovis-barling-2010",
+      "evidence_role": "統合研究"
+    },
+    {
+      "id": "S36",
+      "decision": "include",
+      "reason": "介入・実証研究として研究質問に適合",
+      "source": "schat-kelloway-2003",
+      "evidence_role": "介入・実証研究"
+    },
+    {
+      "id": "S37",
+      "decision": "include",
+      "reason": "介入・実証研究として研究質問に適合",
+      "source": "leblanc-kelloway-2002",
+      "evidence_role": "介入・実証研究"
+    },
+    {
+      "id": "S38",
+      "decision": "include",
+      "reason": "介入・実証研究として研究質問に適合",
+      "source": "lim-2008",
+      "evidence_role": "介入・実証研究"
+    },
+    {
+      "id": "S39",
+      "decision": "include",
+      "reason": "介入・実証研究として研究質問に適合",
+      "source": "sliter-2012",
+      "evidence_role": "介入・実証研究"
+    },
+    {
+      "id": "S40",
+      "decision": "include",
+      "reason": "介入・実証研究として研究質問に適合",
+      "source": "kern-grandey-2009",
+      "evidence_role": "介入・実証研究"
+    },
+    {
+      "id": "S41",
+      "decision": "include",
+      "reason": "介入・実証研究として研究質問に適合",
+      "source": "walker-2014",
+      "evidence_role": "介入・実証研究"
+    },
+    {
+      "id": "S42",
+      "decision": "include",
+      "reason": "介入・実証研究として研究質問に適合",
+      "source": "schneider-1998",
+      "evidence_role": "介入・実証研究"
+    },
+    {
+      "id": "S43",
+      "decision": "include",
+      "reason": "統合研究として研究質問に適合",
+      "source": "bowen-schneider-2014",
+      "evidence_role": "統合研究"
+    },
+    {
+      "id": "S44",
+      "decision": "include",
+      "reason": "統合研究として研究質問に適合",
+      "source": "bakker-demerouti-2007",
+      "evidence_role": "統合研究"
+    },
+    {
+      "id": "S45",
+      "decision": "include",
+      "reason": "統合研究として研究質問に適合",
+      "source": "nahrgang-2011",
+      "evidence_role": "統合研究"
+    },
+    {
+      "id": "S46",
+      "decision": "include",
+      "reason": "統合研究として研究質問に適合",
+      "source": "halbesleben-2006",
+      "evidence_role": "統合研究"
+    },
+    {
+      "id": "S47",
+      "decision": "include",
+      "reason": "介入・実証研究として研究質問に適合",
+      "source": "cortina-magley-2003",
+      "evidence_role": "介入・実証研究"
+    },
+    {
+      "id": "S48",
+      "decision": "include",
+      "reason": "統合研究として研究質問に適合",
+      "source": "wassell-2009",
+      "evidence_role": "統合研究"
+    },
+    {
+      "id": "S49",
+      "decision": "include",
+      "reason": "統合研究として研究質問に適合",
+      "source": "lanctot-guay-2014",
+      "evidence_role": "統合研究"
+    },
+    {
+      "id": "S50",
+      "decision": "include",
+      "reason": "統合研究として研究質問に適合",
+      "source": "geoffrion-2020",
+      "evidence_role": "統合研究"
+    },
+    {
+      "id": "S51",
+      "decision": "include",
+      "reason": "介入・実証研究として研究質問に適合",
+      "source": "wood-2019",
+      "evidence_role": "介入・実証研究"
+    },
+    {
+      "id": "S52",
+      "decision": "include",
+      "reason": "統合研究として研究質問に適合",
+      "source": "kellogg-2020",
+      "evidence_role": "統合研究"
+    },
+    {
+      "id": "S53",
+      "decision": "include",
+      "reason": "介入・実証研究として研究質問に適合",
+      "source": "fitzgerald-1997",
+      "evidence_role": "介入・実証研究"
+    },
+    {
+      "id": "S54",
+      "decision": "include",
+      "reason": "介入・実証研究として研究質問に適合",
+      "source": "cortina-2001",
+      "evidence_role": "介入・実証研究"
+    },
+    {
+      "id": "S55",
+      "decision": "include",
+      "reason": "公式指針・制度として研究質問に適合",
+      "source": "mhlw-customer-manual",
+      "evidence_role": "公式指針・制度"
+    },
+    {
+      "id": "S56",
+      "decision": "include",
+      "reason": "公式指針・制度として研究質問に適合",
+      "source": "mhlw-harassment-policy-2026",
+      "evidence_role": "公式指針・制度"
+    },
+    {
+      "id": "S57",
+      "decision": "include",
+      "reason": "公式指針・制度として研究質問に適合",
+      "source": "mhlw-customer-guideline-2026",
+      "evidence_role": "公式指針・制度"
+    },
+    {
+      "id": "S58",
+      "decision": "include",
+      "reason": "公式指針・制度として研究質問に適合",
+      "source": "japan-act-63-2025",
+      "evidence_role": "公式指針・制度"
+    },
+    {
+      "id": "S59",
+      "decision": "include",
+      "reason": "公式指針・制度として研究質問に適合",
+      "source": "japan-labor-policy-act",
+      "evidence_role": "公式指針・制度"
+    },
+    {
+      "id": "S60",
+      "decision": "include",
+      "reason": "公式指針・制度として研究質問に適合",
+      "source": "tokyo-customer-ordinance",
+      "evidence_role": "公式指針・制度"
+    },
+    {
+      "id": "S61",
+      "decision": "include",
+      "reason": "公式指針・制度として研究質問に適合",
+      "source": "tokyo-customer-guideline",
+      "evidence_role": "公式指針・制度"
+    },
+    {
+      "id": "S62",
+      "decision": "include",
+      "reason": "公式指針・制度として研究質問に適合",
+      "source": "ilo-c190",
+      "evidence_role": "公式指針・制度"
+    },
+    {
+      "id": "S63",
+      "decision": "include",
+      "reason": "公式指針・制度として研究質問に適合",
+      "source": "ilo-r206",
+      "evidence_role": "公式指針・制度"
+    },
+    {
+      "id": "S64",
+      "decision": "include",
+      "reason": "公式指針・制度として研究質問に適合",
+      "source": "who-mental-health-2022",
+      "evidence_role": "公式指針・制度"
+    },
+    {
+      "id": "S65",
+      "decision": "include",
+      "reason": "公式指針・制度として研究質問に適合",
+      "source": "ilo-who-brief-2022",
+      "evidence_role": "公式指針・制度"
+    },
+    {
+      "id": "S66",
+      "decision": "include",
+      "reason": "公式指針・制度として研究質問に適合",
+      "source": "osha-workplace-violence",
+      "evidence_role": "公式指針・制度"
+    },
+    {
+      "id": "S67",
+      "decision": "include",
+      "reason": "公式指針・制度として研究質問に適合",
+      "source": "japan-osh-act",
+      "evidence_role": "公式指針・制度"
+    },
+    {
+      "id": "S68",
+      "decision": "include",
+      "reason": "公式指針・制度として研究質問に適合",
+      "source": "japan-appi",
+      "evidence_role": "公式指針・制度"
+    },
+    {
+      "id": "S69",
+      "decision": "include",
+      "reason": "公式指針・制度として研究質問に適合",
+      "source": "japan-disability-act",
+      "evidence_role": "公式指針・制度"
+    },
+    {
+      "id": "S70",
+      "decision": "exclude",
+      "source": "smile-training",
+      "reason": "笑顔・共感・感情知能の万能研修"
+    },
+    {
+      "id": "S71",
+      "decision": "exclude",
+      "source": "customer-profiling",
+      "reason": "顧客属性から危険を予測するプロファイリング"
+    },
+    {
+      "id": "S72",
+      "decision": "exclude",
+      "source": "complaint-suppression",
+      "reason": "正当な苦情・合理的配慮・権利行使のカスハラ認定"
+    },
+    {
+      "id": "S73",
+      "decision": "exclude",
+      "source": "forced-service",
+      "reason": "暴力・脅迫時の謝罪・接客継続強制"
+    },
+    {
+      "id": "S74",
+      "decision": "exclude",
+      "source": "resilience-only",
+      "reason": "個人の回復力だけで危険を管理"
+    },
+    {
+      "id": "S75",
+      "decision": "exclude",
+      "source": "rating-auto-sanction",
+      "reason": "顧客評価だけによる自動処分"
+    },
+    {
+      "id": "S76",
+      "decision": "exclude",
+      "source": "surveillance-reuse",
+      "reason": "録音・顔・声・感情データの無期限・目的外利用"
+    }
+  ]
+}

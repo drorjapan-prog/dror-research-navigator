@@ -1,0 +1,673 @@
+{
+  "name": "採用・選抜・オンボーディング・組織社会化 研究の質と限界",
+  "version": "0.1",
+  "notice": "簡易評価であり正式なRoB評価ではない。",
+  "assessments": [
+    {
+      "study_id": "schmidt-hunter-1998",
+      "design": "meta-analytic review",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "古い研究・補正推定",
+        "現代職務・公平性・応募者反応を別途確認",
+        "後続再分析あり"
+      ]
+    },
+    {
+      "study_id": "sackett-2022",
+      "design": "meta-analytic reanalysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "利用可能データ・補正仮定",
+        "職務・基準差",
+        "単一順位表にしない"
+      ]
+    },
+    {
+      "study_id": "ones-1993",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "出版社・尺度差",
+        "自己報告・基準汚染",
+        "個人を正直／不正直と断定しない"
+      ]
+    },
+    {
+      "study_id": "barrick-mount-1991",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "相関は中程度以下",
+        "職務・基準差",
+        "人格の総合価値にしない"
+      ]
+    },
+    {
+      "study_id": "mcdaniel-1994",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "補正推定・研究年代",
+        "面接者・職務差",
+        "公平性を別途監査"
+      ]
+    },
+    {
+      "study_id": "levashina-2014",
+      "design": "integrative and meta-analytic review",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "構造化の実装差",
+        "完全な偏り除去ではない"
+      ]
+    },
+    {
+      "study_id": "campion-1997",
+      "design": "integrative review",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "ナラティブレビュー",
+        "状況に応じた設計が必要"
+      ]
+    },
+    {
+      "study_id": "mcdaniel-2001",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "構成概念の混合",
+        "職務固有性",
+        "問題漏洩・コーチング"
+      ]
+    },
+    {
+      "study_id": "roth-2005",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "米国分類",
+        "課題・採点差",
+        "妥当性と群別影響を両方確認"
+      ]
+    },
+    {
+      "study_id": "sanchez-levine-2012",
+      "design": "annual review",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "ナラティブレビュー",
+        "分析方法・職種差"
+      ]
+    },
+    {
+      "study_id": "campion-2011",
+      "design": "best-practice review",
+      "strength": "基礎理論・測定",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "実務レビュー",
+        "妥当性検証を別途実施",
+        "万能能力辞書にしない"
+      ]
+    },
+    {
+      "study_id": "highhouse-2008",
+      "design": "critical review",
+      "strength": "基礎理論・測定",
+      "directness": "統合研究",
+      "key_limits": [
+        "論評・レビュー",
+        "機械判断の無条件優位を意味しない"
+      ]
+    },
+    {
+      "study_id": "kuncel-2013",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "入力の偏り・妥当性に依存",
+        "人の異議・例外手続が必要"
+      ]
+    },
+    {
+      "study_id": "dana-2013",
+      "design": "experiments",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "実験課題",
+        "実採用への一般化",
+        "面接全般の否定ではない"
+      ]
+    },
+    {
+      "study_id": "gilliland-1993",
+      "design": "conceptual review",
+      "strength": "基礎理論・測定",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "概念論",
+        "法的公正と知覚公正を区別"
+      ]
+    },
+    {
+      "study_id": "hausknecht-2004",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "自己報告・相関研究",
+        "採否結果の影響",
+        "妥当性と人気を分ける"
+      ]
+    },
+    {
+      "study_id": "truxillo-2002",
+      "design": "longitudinal field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "特定選抜・公的部門",
+        "採否結果の影響"
+      ]
+    },
+    {
+      "study_id": "ployhart-holtz-2008",
+      "design": "integrative review",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "米国法・分類中心",
+        "妥当性と公平性を単一最適化しない"
+      ]
+    },
+    {
+      "study_id": "de-corte-2007",
+      "design": "optimization study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "仮定・入力データ依存",
+        "権利判断を数理最適化だけへ委ねない"
+      ]
+    },
+    {
+      "study_id": "bobko-1999",
+      "design": "meta-analytic synthesis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "古い研究群",
+        "米国人種分類",
+        "補正仮定"
+      ]
+    },
+    {
+      "study_id": "chapman-2005",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "相関研究中心",
+        "実際の入社と意図を区別",
+        "候補者操作に使わない"
+      ]
+    },
+    {
+      "study_id": "breaugh-2013",
+      "design": "annual review",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "ナラティブレビュー",
+        "技術・労働市場の変化"
+      ]
+    },
+    {
+      "study_id": "premack-wanous-1985",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "古い研究群",
+        "研究間異質性",
+        "脅し・覚悟確認にしない"
+      ]
+    },
+    {
+      "study_id": "phillips-1998",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "研究年代・媒体差",
+        "自己選抜と適応を分ける"
+      ]
+    },
+    {
+      "study_id": "theurer-2018",
+      "design": "systematic review",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "ブランド研究中心",
+        "実態との乖離・採用マーケティングの害を別途確認"
+      ]
+    },
+    {
+      "study_id": "dineen-2007",
+      "design": "experiments",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "実験・技術年代",
+        "操作的パーソナライズへ使わない"
+      ]
+    },
+    {
+      "study_id": "kristof-brown-2005",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "知覚適合・自己報告が多い",
+        "採用の主観的相性と区別"
+      ]
+    },
+    {
+      "study_id": "arthur-2006",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "主観的同質性を増幅する危険",
+        "公平性監査"
+      ]
+    },
+    {
+      "study_id": "rivera-2012",
+      "design": "qualitative field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "特定高所得業界・米国",
+        "質的研究",
+        "すべての適合評価を否定しない"
+      ]
+    },
+    {
+      "study_id": "cable-judge-1997",
+      "design": "field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "単一企業群",
+        "共通方法・類似性",
+        "職務関連性を確認"
+      ]
+    },
+    {
+      "study_id": "bertrand-2004",
+      "design": "correspondence field experiment",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "米国・特定都市・時代",
+        "名前と人種の代理",
+        "交差性"
+      ]
+    },
+    {
+      "study_id": "quillian-2017",
+      "design": "meta-analysis of field experiments",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "米国中心",
+        "人種分類・職種差",
+        "コールバック段階"
+      ]
+    },
+    {
+      "study_id": "pager-2009",
+      "design": "audit field experiment",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "米国都市・男性応募者",
+        "特定職種",
+        "実験倫理"
+      ]
+    },
+    {
+      "study_id": "koch-2015",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "実験シミュレーション",
+        "性別二分法",
+        "実組織結果を別途確認"
+      ]
+    },
+    {
+      "study_id": "fernandez-2000",
+      "design": "organizational field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "単一企業・観察研究",
+        "ネットワーク同質性・時代差"
+      ]
+    },
+    {
+      "study_id": "raghavan-2020",
+      "design": "empirical industry review",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "公開情報・少数企業",
+        "製品変化",
+        "独立監査を別途確認"
+      ]
+    },
+    {
+      "study_id": "kochling-2020",
+      "design": "systematic review",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "新興研究・実証不足",
+        "技術変化",
+        "法的判断を代替しない"
+      ]
+    },
+    {
+      "study_id": "woods-2020",
+      "design": "integrative review",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "新興技術・研究不足",
+        "ベンダー固有性"
+      ]
+    },
+    {
+      "study_id": "langer-2019",
+      "design": "experiments",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "シナリオ・実験",
+        "実際の妥当性・差別影響を別途確認"
+      ]
+    },
+    {
+      "study_id": "van-iddekinge-2016",
+      "design": "validation studies",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "性格測定文脈",
+        "自己呈示",
+        "採用での一般化"
+      ]
+    },
+    {
+      "study_id": "roth-social-2016",
+      "design": "integrative review",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "当時の実証不足",
+        "技術変化",
+        "公開情報＝自由利用ではない"
+      ]
+    },
+    {
+      "study_id": "bauer-2007",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "相関研究中心",
+        "自己報告",
+        "歓迎イベントの単独効果ではない"
+      ]
+    },
+    {
+      "study_id": "saks-2007",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "相関研究中心",
+        "戦術分類・文化差",
+        "同化強制にしない"
+      ]
+    },
+    {
+      "study_id": "jones-1986",
+      "design": "field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "観察研究",
+        "単一時代・組織群",
+        "革新性との緊張"
+      ]
+    },
+    {
+      "study_id": "morrison-1993",
+      "design": "longitudinal field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "自己報告",
+        "探索しない理由・安全を別途確認"
+      ]
+    },
+    {
+      "study_id": "wanberg-2000",
+      "design": "longitudinal field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "自己選択・相関",
+        "新人へ適応責任を転嫁しない"
+      ]
+    },
+    {
+      "study_id": "kammeyer-2003",
+      "design": "longitudinal field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "観察研究",
+        "自己報告",
+        "組織・職種差"
+      ]
+    },
+    {
+      "study_id": "klein-2015",
+      "design": "field studies",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "自己報告・相関",
+        "施策パッケージ",
+        "因果確定ではない"
+      ]
+    },
+    {
+      "study_id": "allen-2006",
+      "design": "longitudinal field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "観察研究",
+        "自己選択",
+        "定着を本人の自由より優先しない"
+      ]
+    },
+    {
+      "study_id": "jokisaari-2009",
+      "design": "longitudinal field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "観察研究",
+        "フィンランド標本",
+        "因果方向"
+      ]
+    },
+    {
+      "study_id": "rousseau-1989",
+      "design": "conceptual review",
+      "strength": "基礎理論・測定",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "概念論",
+        "法的契約と区別",
+        "主観的信念を事実としない"
+      ]
+    },
+    {
+      "study_id": "zhao-2007",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "相関研究中心",
+        "自己報告",
+        "法的違反と区別"
+      ]
+    },
+    {
+      "study_id": "ilo-c111",
+      "design": "international labour convention",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "批准・国内法上の保護事由を確認"
+      ]
+    },
+    {
+      "study_id": "ilo-c159",
+      "design": "international labour convention",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "批准・国内実施を確認",
+        "現代の障害権利枠組みと併読"
+      ]
+    },
+    {
+      "study_id": "un-crpd",
+      "design": "international human rights convention",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "批准・国内実施を確認",
+        "個別法的助言ではない"
+      ]
+    },
+    {
+      "study_id": "japan-eeoa",
+      "design": "Japanese statute",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "現行条文・指針・個別該当性を確認"
+      ]
+    },
+    {
+      "study_id": "japan-disability-employment",
+      "design": "Japanese statute",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "現行条文・指針・適用を確認"
+      ]
+    },
+    {
+      "study_id": "japan-appi",
+      "design": "Japanese statute",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "採用データの個別運用はガイドライン・専門家へ確認"
+      ]
+    },
+    {
+      "study_id": "japan-employment-security",
+      "design": "Japanese statute",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "現行条文・省令・指針を確認"
+      ]
+    },
+    {
+      "study_id": "japan-labor-standards",
+      "design": "Japanese statute",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "適用・書面明示事項・改正を確認"
+      ]
+    },
+    {
+      "study_id": "mhlw-fair-recruitment",
+      "design": "official guidance portal",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "法令・指針の現行内容と個別事案を確認"
+      ]
+    },
+    {
+      "study_id": "eu-ai-act",
+      "design": "official legal instrument",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "EU法令",
+        "段階的適用・改正・日本への非直接適用を確認"
+      ]
+    },
+    {
+      "study_id": "eu-pay-2023",
+      "design": "official legal instrument",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "EU法令",
+        "国内実装・適用範囲を確認",
+        "日本へ直接適用されない"
+      ]
+    },
+    {
+      "study_id": "ilo-data",
+      "design": "official code of practice",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "拘束的条約ではない",
+        "国内法を確認"
+      ]
+    }
+  ]
+}

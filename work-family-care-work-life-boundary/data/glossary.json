@@ -1,0 +1,782 @@
+{
+  "name": "仕事と家庭・ケア・ワークライフ境界 用語集",
+  "version": "0.1",
+  "license": "CC BY 4.0",
+  "terms": [
+    {
+      "id": "work-family-conflict",
+      "term": "仕事家庭葛藤",
+      "definition": "仕事と家庭の役割要求が互いに両立しにくい状態"
+    },
+    {
+      "id": "work-to-family-conflict",
+      "term": "仕事→家庭葛藤",
+      "definition": "仕事側の要求が家庭役割の遂行を妨げる状態"
+    },
+    {
+      "id": "family-to-work-conflict",
+      "term": "家庭→仕事葛藤",
+      "definition": "家庭側の要求が仕事役割の遂行を妨げる状態"
+    },
+    {
+      "id": "time-based-conflict",
+      "term": "時間に基づく葛藤",
+      "definition": "一方の役割に使う時間が他方の役割を妨げる葛藤"
+    },
+    {
+      "id": "strain-based-conflict",
+      "term": "緊張に基づく葛藤",
+      "definition": "一方の役割で生じた疲労・緊張が他方を妨げる葛藤"
+    },
+    {
+      "id": "behavior-based-conflict",
+      "term": "行動に基づく葛藤",
+      "definition": "一方で求められる行動が他方で不適合となる葛藤"
+    },
+    {
+      "id": "work-family-enrichment",
+      "term": "仕事家庭相互促進",
+      "definition": "一方の役割経験が他方の生活の質を高める過程"
+    },
+    {
+      "id": "positive-spillover",
+      "term": "肯定的スピルオーバー",
+      "definition": "感情・技能・価値等が領域を越えて好影響を及ぼすこと"
+    },
+    {
+      "id": "negative-spillover",
+      "term": "否定的スピルオーバー",
+      "definition": "ストレスや行動等が領域を越えて悪影響を及ぼすこと"
+    },
+    {
+      "id": "work-life-balance",
+      "term": "ワークライフバランス",
+      "definition": "仕事と仕事外の役割・価値に関する適合や評価"
+    },
+    {
+      "id": "boundary-management",
+      "term": "境界管理",
+      "definition": "仕事と仕事外の時間・場所・役割・心理的境界を調整すること"
+    },
+    {
+      "id": "segmentation",
+      "term": "分断",
+      "definition": "仕事と仕事外を明確に分ける境界方略・選好"
+    },
+    {
+      "id": "integration",
+      "term": "統合",
+      "definition": "仕事と仕事外の境界を浸透的にする方略・選好"
+    },
+    {
+      "id": "boundary-control",
+      "term": "境界統制",
+      "definition": "いつどのように境界を越えるかに持つ統制感"
+    },
+    {
+      "id": "boundary-preference",
+      "term": "境界選好",
+      "definition": "分断・統合をどの程度望むかという本人の希望"
+    },
+    {
+      "id": "boundary-fit",
+      "term": "境界適合",
+      "definition": "望む境界と実際の仕事・生活条件が合う程度"
+    },
+    {
+      "id": "role-transition",
+      "term": "役割移行",
+      "definition": "仕事から家族等、一つの役割から別の役割へ移ること"
+    },
+    {
+      "id": "micro-role-transition",
+      "term": "微小役割移行",
+      "definition": "一日の中で短時間に起きる役割の切替"
+    },
+    {
+      "id": "border-crosser",
+      "term": "越境者",
+      "definition": "仕事と家庭等の境界を日常的に越える人"
+    },
+    {
+      "id": "boundary-keeper",
+      "term": "境界管理者",
+      "definition": "上司や家族等、境界の運用へ影響する人"
+    },
+    {
+      "id": "psychological-detachment",
+      "term": "心理的離脱",
+      "definition": "仕事外の時間に仕事から心理的に距離を置くこと"
+    },
+    {
+      "id": "recovery",
+      "term": "回復",
+      "definition": "仕事で消費した資源や負荷が戻る過程"
+    },
+    {
+      "id": "relaxation",
+      "term": "リラックス",
+      "definition": "低い覚醒と肯定的感情を伴う回復経験"
+    },
+    {
+      "id": "mastery",
+      "term": "熟達経験",
+      "definition": "仕事外で新しい技能・達成感を得る回復経験"
+    },
+    {
+      "id": "recovery-control",
+      "term": "回復統制",
+      "definition": "仕事外時間の使い方を自分で決められる感覚"
+    },
+    {
+      "id": "recovery-paradox",
+      "term": "回復の逆説",
+      "definition": "回復が必要な高負荷時ほど回復行動を取りにくい現象"
+    },
+    {
+      "id": "rumination",
+      "term": "反すう",
+      "definition": "仕事上の出来事を繰り返し考え続けること"
+    },
+    {
+      "id": "telepressure",
+      "term": "テレプレッシャー",
+      "definition": "仕事の連絡へ迅速に応答すべきだという圧力"
+    },
+    {
+      "id": "after-hours-contact",
+      "term": "勤務時間外連絡",
+      "definition": "所定勤務外に送受信される仕事上の連絡"
+    },
+    {
+      "id": "supplemental-work",
+      "term": "補足的就業",
+      "definition": "通常勤務外にICT等を使って追加で行う仕事"
+    },
+    {
+      "id": "right-to-disconnect",
+      "term": "つながらない権利",
+      "definition": "勤務外に仕事のデジタル接続から離れる権利・制度"
+    },
+    {
+      "id": "availability",
+      "term": "利用可能性",
+      "definition": "制度が規程上利用できる状態"
+    },
+    {
+      "id": "accessibility",
+      "term": "アクセス可能性",
+      "definition": "本人が情報・手続・環境上実際に制度へ到達できる状態"
+    },
+    {
+      "id": "uptake",
+      "term": "制度利用",
+      "definition": "利用可能な制度を実際に申請・利用すること"
+    },
+    {
+      "id": "utilization-funnel",
+      "term": "利用ファネル",
+      "definition": "認知から適格・申請・承認・利用・復帰までの段階"
+    },
+    {
+      "id": "flexibility-stigma",
+      "term": "柔軟性スティグマ",
+      "definition": "柔軟制度利用者を低い献身とみなす偏見"
+    },
+    {
+      "id": "career-penalty",
+      "term": "キャリア罰",
+      "definition": "制度利用等に伴う評価・機会・昇進・報酬上の不利益"
+    },
+    {
+      "id": "motherhood-penalty",
+      "term": "母親ペナルティ",
+      "definition": "母親であることに結びつく雇用・賃金上の不利益"
+    },
+    {
+      "id": "fatherhood-bonus",
+      "term": "父親ボーナス",
+      "definition": "父親であることに結びつく賃金上の利益"
+    },
+    {
+      "id": "ideal-worker-norm",
+      "term": "理想的労働者規範",
+      "definition": "家庭責任に妨げられず長時間働ける人を標準とする規範"
+    },
+    {
+      "id": "work-devotion-schema",
+      "term": "仕事献身スキーマ",
+      "definition": "仕事への無制約な献身を価値あるものとみなす文化的枠組み"
+    },
+    {
+      "id": "family-supportive-supervisor",
+      "term": "家族支援的管理職",
+      "definition": "部下の仕事と家族の両立を支える管理職"
+    },
+    {
+      "id": "family-supportive-climate",
+      "term": "家族支援的風土",
+      "definition": "制度利用と両立を組織が安全に支える共有認知"
+    },
+    {
+      "id": "organizational-support",
+      "term": "組織的支援",
+      "definition": "組織が本人の貢献とウェルビーイングを大切にするという認知"
+    },
+    {
+      "id": "manager-discretion",
+      "term": "管理職裁量",
+      "definition": "制度運用・承認・仕事配分に管理職が持つ判断範囲"
+    },
+    {
+      "id": "policy-practice-gap",
+      "term": "制度運用ギャップ",
+      "definition": "規程上の制度と実際に安全に使える状態の差"
+    },
+    {
+      "id": "employee-control",
+      "term": "労働者統制",
+      "definition": "本人が時間・場所・仕事方法に影響できる程度"
+    },
+    {
+      "id": "employer-driven-flexibility",
+      "term": "雇用者主導の柔軟性",
+      "definition": "需要に応じ組織が勤務を変えられる柔軟性"
+    },
+    {
+      "id": "employee-driven-flexibility",
+      "term": "労働者主導の柔軟性",
+      "definition": "本人が生活に合わせ勤務を調整できる柔軟性"
+    },
+    {
+      "id": "schedule-control",
+      "term": "勤務時間統制",
+      "definition": "本人が勤務日・時間・変更に影響できる程度"
+    },
+    {
+      "id": "schedule-predictability",
+      "term": "勤務予定の予測可能性",
+      "definition": "勤務予定を前もって把握できる程度"
+    },
+    {
+      "id": "schedule-instability",
+      "term": "勤務予定の不安定性",
+      "definition": "直前変更・取消し・変動が多い状態"
+    },
+    {
+      "id": "on-call-shift",
+      "term": "オンコールシフト",
+      "definition": "呼出しに備えて勤務可否を確保する勤務"
+    },
+    {
+      "id": "work-intensification",
+      "term": "仕事強化",
+      "definition": "同じ時間で多く速く働くよう要求密度が上がること"
+    },
+    {
+      "id": "workload-transfer",
+      "term": "業務負担移転",
+      "definition": "制度利用者の仕事が同僚等へ補償なく移ること"
+    },
+    {
+      "id": "coverage",
+      "term": "代替要員",
+      "definition": "休暇・短時間等の間に業務を担う人員・仕組み"
+    },
+    {
+      "id": "handover",
+      "term": "引継ぎ",
+      "definition": "仕事の情報・責任・期限を別の人へ移すこと"
+    },
+    {
+      "id": "return-to-work",
+      "term": "復職",
+      "definition": "休業・療養等から仕事へ戻る過程"
+    },
+    {
+      "id": "phased-return",
+      "term": "段階的復職",
+      "definition": "時間・業務等を段階的に増やして復職する方法"
+    },
+    {
+      "id": "reboarding",
+      "term": "再オンボーディング",
+      "definition": "復職者へ情報・関係・権限・業務を再接続する過程"
+    },
+    {
+      "id": "paid-family-leave",
+      "term": "有給家族休暇",
+      "definition": "家族ケア等のため所得保障を伴い仕事を休む制度"
+    },
+    {
+      "id": "parental-leave",
+      "term": "育児休業",
+      "definition": "子の養育のため一定期間仕事を休む制度"
+    },
+    {
+      "id": "maternity-protection",
+      "term": "母性保護",
+      "definition": "妊娠・出産・授乳に関する健康・雇用・所得保護"
+    },
+    {
+      "id": "paternity-leave",
+      "term": "父親休暇",
+      "definition": "父親等が出産・育児に関して取得する休暇"
+    },
+    {
+      "id": "care-leave",
+      "term": "介護休業",
+      "definition": "家族介護の体制整備等のため一定期間仕事を休む制度"
+    },
+    {
+      "id": "caregiver",
+      "term": "介護者",
+      "definition": "高齢・障害・疾病等のある人を無償または有償で支える人"
+    },
+    {
+      "id": "informal-caregiving",
+      "term": "インフォーマル介護",
+      "definition": "家族・友人等が制度外または無償で担うケア"
+    },
+    {
+      "id": "care-intensity",
+      "term": "介護強度",
+      "definition": "介護の時間、頻度、複雑性、夜間性等の負荷"
+    },
+    {
+      "id": "caregiver-burden",
+      "term": "介護負担",
+      "definition": "介護に伴う心理・身体・社会・経済的負担"
+    },
+    {
+      "id": "caregiving-crisis",
+      "term": "介護危機",
+      "definition": "急な入院・悪化・退院等で介護体制の再編が必要な状態"
+    },
+    {
+      "id": "care-navigation",
+      "term": "介護ナビゲーション",
+      "definition": "介護制度・サービス・相談先を探し調整する作業"
+    },
+    {
+      "id": "dual-earner-couple",
+      "term": "共働きカップル",
+      "definition": "双方が有償労働に従事する二者関係"
+    },
+    {
+      "id": "single-parent",
+      "term": "ひとり親",
+      "definition": "主に一人で子を養育する親"
+    },
+    {
+      "id": "single-worker",
+      "term": "単身の働く人",
+      "definition": "配偶者・子の有無にかかわらず単身で生活する働く人"
+    },
+    {
+      "id": "chosen-family",
+      "term": "選択家族",
+      "definition": "法的・血縁関係に限らず本人が家族的支援関係とみなす人々"
+    },
+    {
+      "id": "family-diversity",
+      "term": "家族多様性",
+      "definition": "家族の構成・法的関係・同居・文化等が多様であること"
+    },
+    {
+      "id": "household-labor",
+      "term": "家事労働",
+      "definition": "食事・清掃・洗濯・買物・維持等の家庭内作業"
+    },
+    {
+      "id": "care-work",
+      "term": "ケア労働",
+      "definition": "他者の生活・健康・発達を支える身体・感情・認知的作業"
+    },
+    {
+      "id": "cognitive-labor",
+      "term": "認知労働",
+      "definition": "気づく・予測する・調べる・決める・監督する作業"
+    },
+    {
+      "id": "mental-load",
+      "term": "メンタルロード",
+      "definition": "複数の家庭課題を常に把握し調整し続ける認知負荷"
+    },
+    {
+      "id": "invisible-labor",
+      "term": "見えない労働",
+      "definition": "記録・評価・配分で捉えられにくい必要作業"
+    },
+    {
+      "id": "emotional-labor-home",
+      "term": "家庭内感情労働",
+      "definition": "家族の感情を予測・調整・支える作業"
+    },
+    {
+      "id": "childcare",
+      "term": "育児",
+      "definition": "子の生活・安全・発達を支える活動"
+    },
+    {
+      "id": "eldercare",
+      "term": "高齢者介護",
+      "definition": "高齢者の生活・健康・移動等を支える活動"
+    },
+    {
+      "id": "disability-care",
+      "term": "障害に関するケア",
+      "definition": "障害のある人の生活・参加・意思決定等を支える活動"
+    },
+    {
+      "id": "treatment-work-balance",
+      "term": "治療と仕事の両立",
+      "definition": "治療・通院・回復と就労を両立させること"
+    },
+    {
+      "id": "reasonable-accommodation",
+      "term": "合理的配慮",
+      "definition": "障壁を除き参加を可能にする個別の必要・相当な変更"
+    },
+    {
+      "id": "work-adjustment",
+      "term": "就業上の措置",
+      "definition": "時間・場所・業務・設備等を調整する措置"
+    },
+    {
+      "id": "fitness-for-work",
+      "term": "就業可能性",
+      "definition": "健康状態と仕事要求の関係から安全に就業できる程度"
+    },
+    {
+      "id": "medical-information",
+      "term": "医療情報",
+      "definition": "診断・治療・検査・健康状態等に関する情報"
+    },
+    {
+      "id": "functional-information",
+      "term": "機能情報",
+      "definition": "仕事上できること・難しいこと・必要な調整に関する情報"
+    },
+    {
+      "id": "consent",
+      "term": "同意",
+      "definition": "情報提供・利用等について本人が理解し自由に示す意思"
+    },
+    {
+      "id": "purpose-limitation",
+      "term": "目的限定",
+      "definition": "情報利用を明示した正当な目的へ限定する原則"
+    },
+    {
+      "id": "data-minimization",
+      "term": "データ最小化",
+      "definition": "目的に必要な範囲へ収集・保持を限定する原則"
+    },
+    {
+      "id": "access-control",
+      "term": "アクセス制御",
+      "definition": "情報を閲覧・利用できる人と権限を限定する仕組み"
+    },
+    {
+      "id": "retention-period",
+      "term": "保存期間",
+      "definition": "情報を保持する期間"
+    },
+    {
+      "id": "confidentiality",
+      "term": "守秘",
+      "definition": "正当な権限なく情報を開示しないこと"
+    },
+    {
+      "id": "domestic-violence",
+      "term": "家庭内暴力",
+      "definition": "親密な関係・家族等における身体・心理・性的・経済的暴力"
+    },
+    {
+      "id": "safety-plan",
+      "term": "安全計画",
+      "definition": "危険を予測し安全な連絡・移動・支援等を準備する計画"
+    },
+    {
+      "id": "trauma-informed",
+      "term": "トラウマに配慮した対応",
+      "definition": "安全・選択・信頼・協働を重視し再トラウマ化を避ける対応"
+    },
+    {
+      "id": "non-retaliation",
+      "term": "報復禁止",
+      "definition": "相談・申請・申告等を理由とする不利益を禁じること"
+    },
+    {
+      "id": "non-discrimination",
+      "term": "差別禁止",
+      "definition": "保護される属性・状態等を理由とする不利益を禁じること"
+    },
+    {
+      "id": "adverse-action",
+      "term": "不利益取扱い",
+      "definition": "申請・利用・属性等を理由に雇用上不利に扱うこと"
+    },
+    {
+      "id": "eligibility",
+      "term": "適格性",
+      "definition": "制度を利用できる要件を満たすこと"
+    },
+    {
+      "id": "application",
+      "term": "申請",
+      "definition": "制度利用を正式に申し出ること"
+    },
+    {
+      "id": "approval",
+      "term": "承認",
+      "definition": "申請を認め利用可能とする判断"
+    },
+    {
+      "id": "denial",
+      "term": "拒否",
+      "definition": "申請を認めない判断"
+    },
+    {
+      "id": "appeal",
+      "term": "異議申立て",
+      "definition": "判断の理由・再検討・訂正を求める手続"
+    },
+    {
+      "id": "take-up-rate",
+      "term": "利用率",
+      "definition": "適格者等のうち制度を利用した人の割合"
+    },
+    {
+      "id": "return-rate",
+      "term": "復帰率",
+      "definition": "休業者等のうち仕事へ復帰した割合"
+    },
+    {
+      "id": "retention",
+      "term": "定着",
+      "definition": "一定期間雇用・就業を継続すること"
+    },
+    {
+      "id": "promotion",
+      "term": "昇進",
+      "definition": "職位・責任・権限が上がること"
+    },
+    {
+      "id": "pay-gap",
+      "term": "賃金格差",
+      "definition": "集団間に観察される賃金の差"
+    },
+    {
+      "id": "opportunity-access",
+      "term": "機会アクセス",
+      "definition": "重要案件・研修・関係・昇進機会へ到達できる程度"
+    },
+    {
+      "id": "flexibility-premium",
+      "term": "柔軟性プレミアム",
+      "definition": "柔軟制度利用に伴う肯定的なキャリア評価"
+    },
+    {
+      "id": "leave-penalty",
+      "term": "休暇ペナルティ",
+      "definition": "休暇利用に伴う評価・賃金・機会上の不利益"
+    },
+    {
+      "id": "part-time-penalty",
+      "term": "短時間勤務ペナルティ",
+      "definition": "短時間勤務に伴う賃金・昇進・仕事質上の不利益"
+    },
+    {
+      "id": "gender-norm",
+      "term": "ジェンダー規範",
+      "definition": "性別に応じた役割・行動への社会的期待"
+    },
+    {
+      "id": "caregiver-bias",
+      "term": "介護者バイアス",
+      "definition": "ケア責任を持つ人への能力・献身に関する偏見"
+    },
+    {
+      "id": "intersectionality",
+      "term": "交差性",
+      "definition": "複数の属性・制度的位置が交差して経験を形づくる視点"
+    },
+    {
+      "id": "distributional-impact",
+      "term": "分配影響",
+      "definition": "便益・費用・リスクが集団間でどう配分されるか"
+    },
+    {
+      "id": "procedural-fairness",
+      "term": "手続的公正",
+      "definition": "決定手続が一貫・透明・発言可能である程度"
+    },
+    {
+      "id": "substantive-equality",
+      "term": "実質的平等",
+      "definition": "形式的同一扱いを超え、結果や障壁を考慮する平等"
+    },
+    {
+      "id": "universal-design",
+      "term": "ユニバーサルデザイン",
+      "definition": "多様な人が利用しやすいよう初めから環境を設計する考え方"
+    },
+    {
+      "id": "targeted-support",
+      "term": "対象別支援",
+      "definition": "特定の障壁・必要に合わせて追加する支援"
+    },
+    {
+      "id": "worker-voice",
+      "term": "労働者の声",
+      "definition": "働く人が制度・仕事設計へ意見を表明し影響できること"
+    },
+    {
+      "id": "co-design",
+      "term": "共同設計",
+      "definition": "利用者・関係者とともに制度を設計すること"
+    },
+    {
+      "id": "pilot",
+      "term": "試行",
+      "definition": "限定範囲・期間で制度を導入し評価すること"
+    },
+    {
+      "id": "implementation-fidelity",
+      "term": "実装忠実度",
+      "definition": "想定した制度要素が実際に実施された程度"
+    },
+    {
+      "id": "implementation-climate",
+      "term": "実装風土",
+      "definition": "新制度の利用・実行が期待・支援される共有認知"
+    },
+    {
+      "id": "process-evaluation",
+      "term": "プロセス評価",
+      "definition": "誰に何がどう届き運用されたかを評価すること"
+    },
+    {
+      "id": "outcome-evaluation",
+      "term": "アウトカム評価",
+      "definition": "制度後の健康・仕事・生活等の変化を評価すること"
+    },
+    {
+      "id": "equity-audit",
+      "term": "公平性監査",
+      "definition": "利用・結果・負担の集団差を継続的に調べること"
+    },
+    {
+      "id": "privacy-impact-assessment",
+      "term": "プライバシー影響評価",
+      "definition": "情報取扱いの必要性・リスク・軽減策を事前評価すること"
+    },
+    {
+      "id": "causal-inference",
+      "term": "因果推論",
+      "definition": "介入が結果を生じさせたかを比較設計等から推定すること"
+    },
+    {
+      "id": "cross-sectional-study",
+      "term": "横断研究",
+      "definition": "一時点で曝露と結果等を測る研究"
+    },
+    {
+      "id": "longitudinal-study",
+      "term": "縦断研究",
+      "definition": "同じ対象等を時間を追って測る研究"
+    },
+    {
+      "id": "randomized-trial",
+      "term": "無作為化試験",
+      "definition": "介入割当を無作為化して比較する研究"
+    },
+    {
+      "id": "quasi-experiment",
+      "term": "準実験",
+      "definition": "制度変更等を利用し比較から因果を推定する研究"
+    },
+    {
+      "id": "meta-analysis",
+      "term": "メタ分析",
+      "definition": "複数研究の効果量を統計的に統合する方法"
+    },
+    {
+      "id": "systematic-review",
+      "term": "システマティックレビュー",
+      "definition": "明示した方法で研究を検索・選択・統合する方法"
+    },
+    {
+      "id": "directness",
+      "term": "直接性",
+      "definition": "根拠が対象・介入・結果・文脈にどれだけ直接対応するか"
+    },
+    {
+      "id": "generalizability",
+      "term": "一般化可能性",
+      "definition": "知見を別の対象・仕事・国等へ適用できる程度"
+    },
+    {
+      "id": "confounding",
+      "term": "交絡",
+      "definition": "第三の要因が曝露と結果の関係を歪めること"
+    },
+    {
+      "id": "selection-bias",
+      "term": "選択バイアス",
+      "definition": "参加・利用等の選択が比較を歪めること"
+    },
+    {
+      "id": "common-method-bias",
+      "term": "共通方法バイアス",
+      "definition": "同じ回答方法等により関連が過大になる可能性"
+    },
+    {
+      "id": "legal-minimum",
+      "term": "法的最低線",
+      "definition": "法令が求める最低限の基準"
+    },
+    {
+      "id": "organizational-standard",
+      "term": "組織基準",
+      "definition": "組織が法的最低線を超えて定める運用基準"
+    },
+    {
+      "id": "international-standard",
+      "term": "国際基準",
+      "definition": "国際機関の条約・勧告・指針等が示す基準"
+    },
+    {
+      "id": "human-rights-based",
+      "term": "権利基盤",
+      "definition": "便益だけでなく尊厳・平等・参加・救済を基礎にする考え方"
+    },
+    {
+      "id": "public-interest",
+      "term": "公共性",
+      "definition": "知識・制度を幅広い人が検証・利用できるようにする性質"
+    },
+    {
+      "id": "open-data",
+      "term": "オープンデータ",
+      "definition": "再利用可能な形式・条件で公開されたデータ"
+    },
+    {
+      "id": "provenance",
+      "term": "来歴",
+      "definition": "情報がどこから得られどう加工されたかの記録"
+    },
+    {
+      "id": "correction-log",
+      "term": "訂正履歴",
+      "definition": "誤り・変更と理由・影響を記録した履歴"
+    },
+    {
+      "id": "update-trigger",
+      "term": "更新トリガー",
+      "definition": "臨時更新を開始する出来事・条件"
+    }
+  ]
+}

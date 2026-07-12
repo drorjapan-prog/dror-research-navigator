@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "この研究ナビまたはデータを利用した場合は出典を示してください。"
+title: "働く人の心理学・組織研究ナビ：組織の権力・組織政治・従業員参加・発言権"
+version: 0.1
+date-released: 2026-07-12
+authors:
+  - name: "DroR Corporation"
+license: CC-BY-4.0
+type: dataset
+url: "https://research.dror.co.jp/organizational-power-politics-participation-voice/"

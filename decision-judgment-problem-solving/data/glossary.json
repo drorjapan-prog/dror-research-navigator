@@ -1,0 +1,367 @@
+{
+  "name": "意思決定・判断・問題解決・認知バイアス 用語集",
+  "version": "0.1",
+  "license": "CC BY 4.0",
+  "terms": [
+    {
+      "id": "decision-making",
+      "term": "意思決定",
+      "definition": "目的に照らし選択肢を形成・評価・選択・実行・検証する過程。"
+    },
+    {
+      "id": "judgment",
+      "term": "判断",
+      "definition": "事実、確率、価値、状態等について評価を形成すること。"
+    },
+    {
+      "id": "problem-solving",
+      "term": "問題解決",
+      "definition": "現状と望ましい状態の差を定義し、原因・選択肢・行動を扱う過程。"
+    },
+    {
+      "id": "bounded-rationality",
+      "term": "限定合理性",
+      "definition": "情報・時間・注意・計算能力が限られる中での合理性。"
+    },
+    {
+      "id": "satisficing",
+      "term": "満足化",
+      "definition": "十分に受容可能な選択肢を見つけた時点で探索を止める方略。"
+    },
+    {
+      "id": "heuristic",
+      "term": "ヒューリスティック",
+      "definition": "少ない情報と計算で判断する簡便な方略。"
+    },
+    {
+      "id": "bias",
+      "term": "認知バイアス",
+      "definition": "判断が特定方向へ体系的に偏る傾向。"
+    },
+    {
+      "id": "representativeness",
+      "term": "代表性",
+      "definition": "類似性を確率判断の手掛かりにすること。"
+    },
+    {
+      "id": "availability",
+      "term": "利用可能性",
+      "definition": "思い出しやすさを頻度・可能性の手掛かりにすること。"
+    },
+    {
+      "id": "anchoring",
+      "term": "係留",
+      "definition": "初期値や提示値に判断が引き寄せられること。"
+    },
+    {
+      "id": "prospect-theory",
+      "term": "プロスペクト理論",
+      "definition": "参照点・損失回避・確率加重でリスク選択を記述する理論。"
+    },
+    {
+      "id": "reference-point",
+      "term": "参照点",
+      "definition": "利得・損失を評価する基準となる状態。"
+    },
+    {
+      "id": "loss-aversion",
+      "term": "損失回避",
+      "definition": "同程度の利得より損失を強く評価する傾向。"
+    },
+    {
+      "id": "dual-process",
+      "term": "二重過程理論",
+      "definition": "高速・自動的過程と低速・統制的過程を区別する理論群。"
+    },
+    {
+      "id": "intuition",
+      "term": "直観",
+      "definition": "意識的な逐次推論を経ずに生じる判断。"
+    },
+    {
+      "id": "intuitive-expertise",
+      "term": "直観的熟達",
+      "definition": "規則性と適切な経験・フィードバックに基づく高品質な直観。"
+    },
+    {
+      "id": "naturalistic-decision",
+      "term": "自然主義的意思決定",
+      "definition": "現場の時間圧・不確実性・高リスク下の実務判断研究。"
+    },
+    {
+      "id": "cognitive-reflection",
+      "term": "認知的熟考",
+      "definition": "初発反応を点検し別の答えを検討する傾向。"
+    },
+    {
+      "id": "motivated-reasoning",
+      "term": "動機づけられた推論",
+      "definition": "望む結論や正確さの目標が探索・解釈を方向づける推論。"
+    },
+    {
+      "id": "confirmation-bias",
+      "term": "確認バイアス",
+      "definition": "既存信念に合う証拠を優先的に探索・解釈・記憶する傾向。"
+    },
+    {
+      "id": "overestimation",
+      "term": "過大評価",
+      "definition": "自分の実際の成績・能力を絶対的に高く見積もること。"
+    },
+    {
+      "id": "overplacement",
+      "term": "過順位",
+      "definition": "自分が他者より上だと過度に見積もること。"
+    },
+    {
+      "id": "overprecision",
+      "term": "過精密",
+      "definition": "自分の推定の不確実性を過小評価すること。"
+    },
+    {
+      "id": "accountability",
+      "term": "説明責任",
+      "definition": "判断と根拠を説明し検証・是正を受ける責任。"
+    },
+    {
+      "id": "outcome-bias",
+      "term": "結果バイアス",
+      "definition": "判断当時の過程より結果の良否で意思決定を評価する傾向。"
+    },
+    {
+      "id": "hindsight-bias",
+      "term": "後知恵バイアス",
+      "definition": "結果を知った後にその予見可能性を過大評価する傾向。"
+    },
+    {
+      "id": "escalation",
+      "term": "コミットメントのエスカレーション",
+      "definition": "否定的結果後も選んだ方針へ資源投入を増やす傾向。"
+    },
+    {
+      "id": "sunk-cost",
+      "term": "サンクコスト",
+      "definition": "すでに支出され回収できない費用。"
+    },
+    {
+      "id": "planning-fallacy",
+      "term": "計画錯誤",
+      "definition": "課題完了時間・費用を楽観的に過小見積もりする傾向。"
+    },
+    {
+      "id": "reference-class",
+      "term": "参照クラス",
+      "definition": "類似案件の結果分布として予測の基準にする集合。"
+    },
+    {
+      "id": "affect-heuristic",
+      "term": "感情ヒューリスティック",
+      "definition": "好悪・感情をリスクや便益判断の手掛かりにすること。"
+    },
+    {
+      "id": "natural-frequency",
+      "term": "自然頻度",
+      "definition": "100人中10人のように事象を頻度で表す方法。"
+    },
+    {
+      "id": "debiasing",
+      "term": "デバイアス",
+      "definition": "判断の体系的偏りを低減する介入・設計。"
+    },
+    {
+      "id": "choice-architecture",
+      "term": "選択アーキテクチャ",
+      "definition": "選択肢の提示、順序、既定値、情報等の選択環境。"
+    },
+    {
+      "id": "nudge",
+      "term": "ナッジ",
+      "definition": "選択肢を禁じず経済的誘因を大きく変えず行動へ影響する設計。"
+    },
+    {
+      "id": "forecast",
+      "term": "予測",
+      "definition": "将来事象・値・時期・確率に関する事前判断。"
+    },
+    {
+      "id": "calibration",
+      "term": "較正",
+      "definition": "述べた確率と実際の発生頻度が対応する程度。"
+    },
+    {
+      "id": "resolution",
+      "term": "識別力",
+      "definition": "起こる事象へ高く、起こらない事象へ低い確率を付ける能力。"
+    },
+    {
+      "id": "hidden-profile",
+      "term": "隠れたプロフィール",
+      "definition": "独自情報を統合すれば最良案が分かるが共有情報だけでは別案に見える課題。"
+    },
+    {
+      "id": "shared-information-bias",
+      "term": "共有情報バイアス",
+      "definition": "集団討議で全員が知る情報を独自情報より多く扱う傾向。"
+    },
+    {
+      "id": "groupthink",
+      "term": "集団思考",
+      "definition": "結束・圧力・構造条件の下で批判的検討が損なわれるとするモデル。"
+    },
+    {
+      "id": "brainstorming",
+      "term": "ブレインストーミング",
+      "definition": "評価を遅らせ多数のアイデア生成を目指す方法。"
+    },
+    {
+      "id": "production-blocking",
+      "term": "生産阻害",
+      "definition": "集団発想で発話待ち等がアイデア生成を妨げること。"
+    },
+    {
+      "id": "delphi",
+      "term": "デルファイ法",
+      "definition": "匿名・反復・集約・フィードバックで専門家判断を構造化する方法。"
+    },
+    {
+      "id": "group-polarization",
+      "term": "集団分極化",
+      "definition": "討議後に平均的立場が討議前より極端になる傾向。"
+    },
+    {
+      "id": "participation",
+      "term": "意思決定参加",
+      "definition": "影響を受ける人が情報・意見・選択・決定へ関与すること。"
+    },
+    {
+      "id": "decision-rights",
+      "term": "意思決定権",
+      "definition": "選択、拒否、停止、承認、実行、監査等の権限配分。"
+    },
+    {
+      "id": "reversibility",
+      "term": "可逆性",
+      "definition": "決定を大きな害や費用なしに戻せる程度。"
+    },
+    {
+      "id": "stopping-rule",
+      "term": "停止規則",
+      "definition": "探索・継続・投資・実験を止める事前条件。"
+    },
+    {
+      "id": "decision-log",
+      "term": "意思決定記録",
+      "definition": "目的、選択肢、情報、予測、根拠、決定、更新条件の記録。"
+    },
+    {
+      "id": "algorithm-aversion",
+      "term": "アルゴリズム回避",
+      "definition": "アルゴリズムの誤り等を見て過度に利用を避ける傾向。"
+    },
+    {
+      "id": "algorithm-appreciation",
+      "term": "アルゴリズム選好",
+      "definition": "条件により人の助言よりアルゴリズム助言を重視する傾向。"
+    },
+    {
+      "id": "automation-bias",
+      "term": "自動化バイアス",
+      "definition": "自動システムの助言へ過度に依存し誤り・見落としを生む傾向。"
+    },
+    {
+      "id": "appropriate-reliance",
+      "term": "適正依存",
+      "definition": "システムの能力・限界に較正して利用・不利用を選ぶこと。"
+    },
+    {
+      "id": "human-ai-collaboration",
+      "term": "人間―AI協働",
+      "definition": "人とAIが役割を分け相互に補完・検証する仕事設計。"
+    },
+    {
+      "id": "algorithmic-management",
+      "term": "アルゴリズム管理",
+      "definition": "アルゴリズムで配分、監視、評価、報酬、意思決定等を行う管理。"
+    },
+    {
+      "id": "human-oversight",
+      "term": "人による監督",
+      "definition": "自動システムを理解・監視し介入・覆し・停止・訂正できる人の役割。"
+    },
+    {
+      "id": "contestability",
+      "term": "異議申立て可能性",
+      "definition": "判断理由を知り、争い、訂正・再審査・救済を求められる性質。"
+    },
+    {
+      "id": "high-stakes-decision",
+      "term": "高リスク判断",
+      "definition": "健康、安全、権利、雇用、生活等へ重大な影響を及ぼし得る判断。"
+    },
+    {
+      "id": "conflict-of-interest",
+      "term": "利益相反",
+      "definition": "判断が私的・二次的利益に影響され得る状態。"
+    },
+    {
+      "id": "independent-review",
+      "term": "独立審査",
+      "definition": "元の判断者・利害関係者から距離を置く再検討。"
+    },
+    {
+      "id": "precommitment",
+      "term": "事前コミットメント",
+      "definition": "将来の判断基準・手続きを結果前に定めること。"
+    },
+    {
+      "id": "decision-quality",
+      "term": "意思決定品質",
+      "definition": "結果だけでなく情報・論理・参加・公正・実行・学習を含む質。"
+    },
+    {
+      "id": "framing-effect",
+      "term": "フレーミング効果",
+      "definition": "等価な選択肢でも表現・参照点により選好が変わること。"
+    },
+    {
+      "id": "causal-inference",
+      "term": "因果推論",
+      "definition": "介入や原因が結果へ与える影響を仮定と証拠から推論すること。"
+    },
+    {
+      "id": "confounding",
+      "term": "交絡",
+      "definition": "原因と結果の双方に関係する要因が関連を歪めること。"
+    },
+    {
+      "id": "causal-diagram",
+      "term": "因果ダイアグラム",
+      "definition": "変数間の想定因果関係を有向グラフで表す方法。"
+    },
+    {
+      "id": "decision-criteria",
+      "term": "評価基準",
+      "definition": "選択肢を比較する観点、尺度、重み、閾値、拒否条件。"
+    },
+    {
+      "id": "sociotechnical-system",
+      "term": "社会技術システム",
+      "definition": "人、制度、仕事、技術、データ、環境が相互作用する仕組み。"
+    },
+    {
+      "id": "abstraction-trap",
+      "term": "抽象化の罠",
+      "definition": "技術モデル化で重要な社会・制度・文脈を落とすこと。"
+    },
+    {
+      "id": "algorithmic-fairness",
+      "term": "アルゴリズム公平性",
+      "definition": "自動判断の分配・手続・誤り・権利等の公平性。"
+    },
+    {
+      "id": "choice-overload",
+      "term": "選択過多",
+      "definition": "選択肢の多さが条件により選択困難・不満・回避を生む現象。"
+    }
+  ]
+}

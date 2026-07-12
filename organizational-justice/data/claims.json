@@ -1,0 +1,404 @@
+{
+  "name": "組織的公正 主張レジスター",
+  "version": "0.1",
+  "license": "CC BY 4.0",
+  "claims": [
+    {
+      "id": "OJ-C01",
+      "claim": "組織的公正は、職場の結果、意思決定手続き、対人扱い、説明に関する公正判断を扱う。",
+      "label": "A",
+      "relationship": "定義",
+      "scope": [
+        "組織的公正研究"
+      ],
+      "sources": [
+        "greenberg-1990-review",
+        "colquitt-2001-scale"
+      ],
+      "limits": [
+        "法律上・倫理上の正しさそのものとは同義でない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OJ-C02",
+      "claim": "分配的、手続き的、対人的、情報的公正は関連するが、区別して測る根拠がある。",
+      "label": "A",
+      "relationship": "測定構造",
+      "scope": [
+        "4次元モデル"
+      ],
+      "sources": [
+        "colquitt-2001-scale",
+        "colquitt-2001-meta"
+      ],
+      "limits": [
+        "尺度・文化・判断対象で構造が変わり得る"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OJ-C03",
+      "claim": "分配の公正は、衡平だけでなく平等・必要等の規則を使う場合があり、唯一の万能配分則はない。",
+      "label": "A",
+      "relationship": "規範的枠組み",
+      "scope": [
+        "配分判断"
+      ],
+      "sources": [
+        "adams-1965",
+        "leventhal-1980"
+      ],
+      "limits": [
+        "どの規則を採用するかは目的・権利・法制度で異なる"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OJ-C04",
+      "claim": "公正な手続きには、一貫性、偏り抑制、正確性、修正可能性、代表性、倫理性が含まれる。",
+      "label": "A",
+      "relationship": "理論基準",
+      "scope": [
+        "手続き的公正"
+      ],
+      "sources": [
+        "leventhal-1980"
+      ],
+      "limits": [
+        "基準間の衝突は対話と説明責任を要する"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OJ-C05",
+      "claim": "公正認知は仕事満足、組織コミットメント、信頼等と平均して正に関連する。",
+      "label": "A",
+      "relationship": "関連",
+      "scope": [
+        "複数職種・国"
+      ],
+      "sources": [
+        "colquitt-2001-meta",
+        "cohen-charash-2001",
+        "cohen-charash-erratum-2002",
+        "colquitt-2013"
+      ],
+      "limits": [
+        "横断研究が多い",
+        "概念重複・共通方法バイアス",
+        "Cohen-Charash & Spectorは訂正記事も参照"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OJ-C06",
+      "claim": "公正認知はタスク業績・組織市民行動と平均して正に関連する。",
+      "label": "A",
+      "relationship": "主に関連",
+      "scope": [
+        "職場行動"
+      ],
+      "sources": [
+        "moorman-1991",
+        "colquitt-2001-meta",
+        "colquitt-2013"
+      ],
+      "limits": [
+        "効果は中小規模",
+        "高業績を保証しない",
+        "逆方向・第三変数"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OJ-C07",
+      "claim": "不公正認知は離脱、報復、反生産的行動と関連する。",
+      "label": "A",
+      "relationship": "主に関連",
+      "scope": [
+        "職場行動"
+      ],
+      "sources": [
+        "skarlicki-folger-1997",
+        "greenberg-1990-theft",
+        "colquitt-2013"
+      ],
+      "limits": [
+        "不正行為を正当化しない",
+        "特定研究を一般化しすぎない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OJ-C08",
+      "claim": "低い公正認知は精神・身体健康指標の不良と関連する。",
+      "label": "A",
+      "relationship": "関連、一部前向き",
+      "scope": [
+        "労働者健康"
+      ],
+      "sources": [
+        "robbins-2012",
+        "ndjaboue-2012",
+        "kivimaki-2005",
+        "scalabrin-2022"
+      ],
+      "limits": [
+        "観察研究",
+        "自己報告",
+        "残余交絡",
+        "診断尺度ではない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OJ-C09",
+      "claim": "日本の前向き研究では、公正認知と後の心理的不調、不眠、受診控え、自己報告業績の関連が検討されている。",
+      "label": "B",
+      "relationship": "前向き関連",
+      "scope": [
+        "日本の特定企業・職域"
+      ],
+      "sources": [
+        "inoue-2013-prospective",
+        "nakagawa-2015",
+        "hayashi-2017",
+        "inoue-2019-care"
+      ],
+      "limits": [
+        "結果は次元・雇用群で一様でない",
+        "企業・業種の一般化に注意"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OJ-C10",
+      "claim": "公正と業績・協力の関係の一部は、信頼、コミットメント、支援認知、感情等で説明される可能性がある。",
+      "label": "B",
+      "relationship": "統計的媒介",
+      "scope": [
+        "メタ分析"
+      ],
+      "sources": [
+        "tyler-blader-2003",
+        "colquitt-2013"
+      ],
+      "limits": [
+        "媒介分析だけで因果機序を証明しない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OJ-C11",
+      "claim": "誰が公正・不公正だったか（上司、組織、チーム等）と、どの対象への反応かを合わせる価値がある。",
+      "label": "A",
+      "relationship": "焦点対応",
+      "scope": [
+        "多焦点研究"
+      ],
+      "sources": [
+        "rupp-2014"
+      ],
+      "limits": [
+        "主体が複数・曖昧な意思決定もある"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OJ-C12",
+      "claim": "チームの公正風土を扱うには、平均だけでなく成員間の合意度と集約根拠が必要である。",
+      "label": "B",
+      "relationship": "集団レベル",
+      "scope": [
+        "チーム研究"
+      ],
+      "sources": [
+        "colquitt-noe-2002"
+      ],
+      "limits": [
+        "個人得点の単純平均では不十分"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OJ-C13",
+      "claim": "日本語版OJQには手続き的・相互作用的公正の信頼性・妥当性検証がある。",
+      "label": "B",
+      "relationship": "測定妥当性",
+      "scope": [
+        "日本の製造業労働者"
+      ],
+      "sources": [
+        "inoue-2009-scale"
+      ],
+      "limits": [
+        "単一工場・小規模",
+        "4次元Colquitt尺度とは別",
+        "女性で因子差"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OJ-C14",
+      "claim": "公正なリーダー行動の研修で市民行動が改善した古典的フィールド実験がある。",
+      "label": "C",
+      "relationship": "介入効果",
+      "scope": [
+        "労働組合"
+      ],
+      "sources": [
+        "skarlicki-latham-1996",
+        "skarlicki-latham-1997"
+      ],
+      "limits": [
+        "小規模・特定文脈",
+        "現代の大規模組織介入の根拠は不足"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OJ-C15",
+      "claim": "十分な説明と尊重ある扱いは不公正反応を緩和し得るが、不公正な決定自体を正当化しない。",
+      "label": "B",
+      "relationship": "実験的調整効果と倫理限界",
+      "scope": [
+        "不利益決定"
+      ],
+      "sources": [
+        "greenberg-1990-theft",
+        "greenberg-1993"
+      ],
+      "limits": [
+        "説明は実質的是正・異議申立ての代替ではない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OJ-C16",
+      "claim": "全体的公正判断だけでは、どの分配・手続き・対人・情報を直すべきか特定できない。",
+      "label": "A",
+      "relationship": "測定上の注意",
+      "scope": [
+        "全体公正"
+      ],
+      "sources": [
+        "ambrose-schminke-2009",
+        "colquitt-2001-scale"
+      ],
+      "limits": [
+        "全体判断にも結果予測上の価値はある"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OJ-C17",
+      "claim": "従業員が公正と回答したことだけで、差別、賃金格差、違法性、権利侵害がないとは結論できない。",
+      "label": "不支持",
+      "relationship": "推論・倫理",
+      "scope": [
+        "法務・DEI・監査"
+      ],
+      "sources": [
+        "greenberg-1990-review",
+        "ilo-c111"
+      ],
+      "limits": [
+        "認知指標と客観・法的指標を併用する",
+        "各国法・批准状況を別途確認する"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OJ-C18",
+      "claim": "発言機会を設けただけで、意見が検討・反映されない手続きを参加型とみなすことはできない。",
+      "label": "実務原則",
+      "relationship": "参加・権力",
+      "scope": [
+        "意思決定手続き"
+      ],
+      "sources": [
+        "leventhal-1980",
+        "tyler-blader-2003"
+      ],
+      "limits": [
+        "全意見を採用する義務とは異なり、検討・理由・修正可能性が必要"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OJ-C19",
+      "claim": "公正得点による個人管理職ランキング、報酬直結、懲戒は研究上支持されない。",
+      "label": "不支持",
+      "relationship": "用途判断",
+      "scope": [
+        "人事評価"
+      ],
+      "sources": [
+        "colquitt-2001-scale",
+        "colquitt-noe-2002"
+      ],
+      "limits": [
+        "集団改善用測定と高重要度個人判断は必要精度が異なる"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OJ-C20",
+      "claim": "調査後に結果を返さず、改善責任・期限・異議申立て経路を示さないことは、本ナビの公正実装原則に反する。",
+      "label": "実務原則",
+      "relationship": "調査倫理",
+      "scope": [
+        "組織サーベイ"
+      ],
+      "sources": [
+        "leventhal-1980",
+        "who-2022"
+      ],
+      "limits": [
+        "法的助言ではない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    }
+  ]
+}

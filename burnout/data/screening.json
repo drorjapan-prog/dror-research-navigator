@@ -1,0 +1,151 @@
+{
+  "name": "バーンアウト 採用・除外記録",
+  "version": "0.1",
+  "screening": [
+    {
+      "id": "who-2019",
+      "decision": "include-definition",
+      "reason": "ICD-11における公式定義と疾患との境界。RQ1。"
+    },
+    {
+      "id": "maslach-jackson-1981",
+      "decision": "include-core",
+      "reason": "代表的な多次元尺度の基礎原著。RQ1・RQ5。"
+    },
+    {
+      "id": "demerouti-2001",
+      "decision": "include-core",
+      "reason": "JD-Rモデルの基礎研究。RQ2。"
+    },
+    {
+      "id": "lee-ashforth-1996",
+      "decision": "include-core",
+      "reason": "三次元の相関要因を統合。RQ2。"
+    },
+    {
+      "id": "alarcon-2011",
+      "decision": "include-core",
+      "reason": "要求・資源・態度のメタ分析。RQ2。"
+    },
+    {
+      "id": "bakker-2014",
+      "decision": "include-core",
+      "reason": "バーンアウトとエンゲージメントの境界・JD-R統合。RQ1・RQ2。"
+    },
+    {
+      "id": "maslach-leiter-2016",
+      "decision": "include-core",
+      "reason": "概念・測定・介入の領域レビュー。"
+    },
+    {
+      "id": "aronsson-2017",
+      "decision": "include-core",
+      "reason": "労働環境の前向き研究を統合。RQ2。"
+    },
+    {
+      "id": "salvagioni-2017",
+      "decision": "include-core",
+      "reason": "結果を前向き研究で整理。RQ3。"
+    },
+    {
+      "id": "koutsimani-2019",
+      "decision": "include-core",
+      "reason": "抑うつ・不安との境界を統合。RQ1。"
+    },
+    {
+      "id": "rotenstein-2018",
+      "decision": "include-core",
+      "reason": "有病率定義の異質性を可視化。RQ5。"
+    },
+    {
+      "id": "west-2016",
+      "decision": "include-core",
+      "reason": "個人・組織介入の主要メタ分析。RQ4。"
+    },
+    {
+      "id": "haslam-2024",
+      "decision": "include-core",
+      "reason": "RCT限定の最新介入統合。RQ4。"
+    },
+    {
+      "id": "who-2022",
+      "decision": "include-guideline",
+      "reason": "職場メンタルヘルスの公的勧告。RQ4・RQ6。"
+    },
+    {
+      "id": "debeer-2024",
+      "decision": "include-core",
+      "reason": "MBI-GS測定特性の統合。RQ5。"
+    },
+    {
+      "id": "kitaoka-2004",
+      "decision": "include-core",
+      "reason": "MBI-GS日本語研究版の検証。RQ5。"
+    },
+    {
+      "id": "kubo-2014",
+      "decision": "include-core",
+      "reason": "日本版バーンアウト尺度の検証。RQ5。"
+    },
+    {
+      "id": "sakakibara-2020",
+      "decision": "include-core",
+      "reason": "BAT日本語版の検証。RQ5。"
+    },
+    {
+      "id": "awa-2010",
+      "decision": "include-context",
+      "reason": "介入レビューの歴史的基準。"
+    },
+    {
+      "id": "perski-2017",
+      "decision": "include-context",
+      "reason": "臨床的に重い状態への第三次介入。"
+    },
+    {
+      "id": "de-simone-2019",
+      "decision": "include-context",
+      "reason": "組織介入の統合。"
+    },
+    {
+      "id": "lee-cha-2023",
+      "decision": "include-context",
+      "reason": "看護師介入の比較的新しい統合。"
+    },
+    {
+      "id": "chen-meier-2021",
+      "decision": "include-context",
+      "reason": "看護師における抑うつとの関係。"
+    },
+    {
+      "id": "freudenberger-1974",
+      "decision": "include-history",
+      "reason": "概念史の初期原著。"
+    },
+    {
+      "id": "maslach-leiter-2008",
+      "decision": "include-context",
+      "reason": "仕事生活領域の縦断研究。"
+    },
+    {
+      "id": "schaufeli-2020",
+      "decision": "include-measure",
+      "reason": "BATの公式研究プログラム。"
+    },
+    {
+      "id": "Commercial prevalence rankings",
+      "decision": "exclude",
+      "reason": "尺度・次元・カットオフが不明な単一順位は比較不能。"
+    },
+    {
+      "id": "Student or parental burnout only",
+      "decision": "exclude",
+      "reason": "職業上の現象という本分野の範囲外。"
+    },
+    {
+      "id": "Unvalidated AI burnout detectors",
+      "decision": "exclude-core",
+      "reason": "本人同意・外部妥当性・誤分類の問題が未解決。"
+    }
+  ]
+}

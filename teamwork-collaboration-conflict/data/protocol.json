@@ -1,0 +1,66 @@
+{
+  "name": "チームワーク・協働・対立 迅速エビデンスマップ・プロトコル",
+  "version": "0.1",
+  "review_type": "チーム有効性、協働過程、対立、多様性、仮想性、介入と権利を分離した迅速エビデンスマップ",
+  "research_questions": [
+    {
+      "id": "RQ1",
+      "question": "チーム、有効性、相互依存、過程をどう定義・測定するか。"
+    },
+    {
+      "id": "RQ2",
+      "question": "調整、共有認知、情報共有、信頼、結束は成果へどう関係するか。"
+    },
+    {
+      "id": "RQ3",
+      "question": "タスク・関係・プロセス対立をどう区別し、安全に扱うか。"
+    },
+    {
+      "id": "RQ4",
+      "question": "多様性、権力、包摂、少数意見は協働へどう関係するか。"
+    },
+    {
+      "id": "RQ5",
+      "question": "仮想・ハイブリッドチームをどう設計するか。"
+    },
+    {
+      "id": "RQ6",
+      "question": "訓練、クロストレーニング、デブリーフ、再設計をどう評価するか。"
+    },
+    {
+      "id": "RQ7",
+      "question": "監視、チーム分析、暴力・ハラスメント、救済をどう統治するか。"
+    }
+  ],
+  "query_families": [
+    "team effectiveness IMOI review meta-analysis",
+    "team processes meta-analysis coordination shared mental models",
+    "information sharing transactive memory team performance",
+    "task relationship process conflict meta-analysis",
+    "team diversity inclusion faultlines meta-analysis",
+    "shared leadership psychological safety team learning",
+    "virtual teams trust remote collaboration",
+    "team training cross-training debrief meta-analysis",
+    "ILO violence harassment worker data WHO mental health"
+  ],
+  "inclusion": [
+    "仕事チームを直接扱う主要理論・実証研究",
+    "メタ分析・システマティックレビュー・主要統合レビュー",
+    "チーム訓練・調整・学習の介入研究",
+    "健康、暴力・ハラスメント、労働者データの公式指針・制度"
+  ],
+  "exclusion": [
+    "商業的チーム診断の宣伝のみ",
+    "タスク対立は常に有益とする無条件論",
+    "仲良し・結束・同質性の最大化を推奨",
+    "ハラスメントを相互対立として均等化",
+    "通信量・会議量による個人ランキング"
+  ],
+  "process_limitations": [
+    "単一レビュアーによる迅速整理",
+    "代表文献と書誌メタデータによる非網羅整理",
+    "効果量の独自再計算・正式なバイアス評価は未実施",
+    "観察・実験・介入・統合・公式資料を直接性ラベルで分離",
+    "法的・医療的・危機対応上の個別助言ではない"
+  ]
+}

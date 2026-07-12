@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://research.dror.co.jp/organizational-culture-climate-change/sitemap.xml

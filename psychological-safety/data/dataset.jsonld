@@ -1,0 +1,51 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "心理的安全性エビデンスデータ",
+  "description": "心理的安全性に関する主張、研究、用語、検索プロトコル、採否記録、質評価、完成監査、更新規則。",
+  "url": "https://research.dror.co.jp/psychological-safety/pages/evidence-map.html",
+  "creator": {
+    "@type": "Organization",
+    "@id": "https://dror.co.jp/#organization",
+    "name": "株式会社DroR",
+    "alternateName": "DroR Corporation",
+    "url": "https://dror.co.jp"
+  },
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "version": "0.4",
+  "dateModified": "2026-07-11",
+  "inLanguage": "ja",
+  "distribution": [
+    {
+      "name": "Claims JSON",
+      "@type": "DataDownload",
+      "encodingFormat": "application/json",
+      "contentUrl": "https://research.dror.co.jp/psychological-safety/data/claims.json"
+    },
+    {
+      "name": "Studies CSV",
+      "@type": "DataDownload",
+      "encodingFormat": "text/csv",
+      "contentUrl": "https://research.dror.co.jp/psychological-safety/data/studies.csv"
+    },
+    {
+      "name": "BibTeX",
+      "@type": "DataDownload",
+      "encodingFormat": "application/x-bibtex",
+      "contentUrl": "https://research.dror.co.jp/psychological-safety/data/references.bib"
+    },
+    {
+      "name": "Completion audit",
+      "@type": "DataDownload",
+      "encodingFormat": "application/json",
+      "contentUrl": "https://research.dror.co.jp/psychological-safety/data/completion-audit.json"
+    }
+  ],
+  "publisher": {
+    "@type": "Organization",
+    "@id": "https://dror.co.jp/#organization",
+    "name": "株式会社DroR",
+    "alternateName": "DroR Corporation",
+    "url": "https://dror.co.jp"
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "name": "心理的安全性 採用・除外記録",
+  "version": "0.4",
+  "screening": [
+    {
+      "id": "frazier-2017",
+      "decision": "include-core",
+      "reason": "主要な定量メタ分析。RQ1・RQ2に直接対応。"
+    },
+    {
+      "id": "newman-2017",
+      "decision": "include-core",
+      "reason": "領域横断のシステマティックレビュー。測定課題も扱う。"
+    },
+    {
+      "id": "detert-burris-2007",
+      "decision": "include-boundary",
+      "reason": "心理的安全性という認識と、発言という行動を区別する代表的フィールド研究。"
+    },
+    {
+      "id": "dollard-bakker-2010",
+      "decision": "include-boundary",
+      "reason": "名称が近い心理社会的安全風土の定義と分析単位を確認する一次研究。"
+    },
+    {
+      "id": "pearsall-ellis-2011",
+      "decision": "include-boundary",
+      "reason": "心理的安全性が倫理規範を自動保証しない境界条件を扱う実験研究。"
+    },
+    {
+      "id": "edmondson-bransby-2023",
+      "decision": "include-core",
+      "reason": "2013〜2021年の研究展開を整理する主要レビュー。"
+    },
+    {
+      "id": "capezio-2023",
+      "decision": "include-context",
+      "reason": "迅速エビデンス評価と質評価を含む。ただし非西洋研究等を除外しており適用範囲に注意。"
+    },
+    {
+      "id": "odonovan-interventions-2020",
+      "decision": "include-core",
+      "reason": "介入を対象としたシステマティックレビュー。RQ3に直接対応。"
+    },
+    {
+      "id": "odonovan-enablers-2020",
+      "decision": "include-context",
+      "reason": "医療チームの先行要因を系統的に整理。RQ2のセクター別根拠。"
+    },
+    {
+      "id": "gonzalez-2026",
+      "decision": "include-core",
+      "reason": "11レビューを統合したアンブレラレビュー。文化・人種・民族の研究ギャップも評価。"
+    },
+    {
+      "id": "dong-2024",
+      "decision": "include-context",
+      "reason": "990文献の広域マッピング。ただし心理的安全性と心理社会的安全風土を同時に扱う。"
+    },
+    {
+      "id": "kobayashi-2025",
+      "decision": "include-core",
+      "reason": "日本の職場における査読済みクラスターRCT。RQ3・RQ4に直接対応。"
+    },
+    {
+      "id": "castro-2025",
+      "decision": "include-emerging",
+      "reason": "大規模フィールドRCTだがディスカッションペーパー。査読済み研究と分離。"
+    },
+    {
+      "id": "liu-measures-2024",
+      "decision": "include-emerging",
+      "reason": "217研究を扱う測定レビューだがプレプリント。測定ページの補助根拠に限定。"
+    },
+    {
+      "id": "ochiai-otsuka-2022",
+      "decision": "include-core",
+      "reason": "日本語尺度の信頼性・妥当性を検討。"
+    },
+    {
+      "id": "matsuo-2024",
+      "decision": "include-core",
+      "reason": "別の日本語尺度検証としてRQ4に対応。"
+    },
+    {
+      "id": "sasaki-2022",
+      "decision": "include-context",
+      "reason": "日本語尺度とメンタルヘルス・職務成果の関連を検討。ただし横断分析。"
+    },
+    {
+      "id": "sato-2025",
+      "decision": "include-context",
+      "reason": "看護師のバーンアウトとの関係を扱うスコーピングレビュー。セクター限定。"
+    },
+    {
+      "id": "peddie-2025",
+      "decision": "include-context",
+      "reason": "医療・社会ケア職の経験を扱う質的統合。一般組織への直接一般化はしない。"
+    },
+    {
+      "candidate": "Patil (2023) The Power of Psychological Safety",
+      "decision": "exclude-from-core",
+      "reason": "横断的関連研究であり、今回優先するレビュー・因果研究より下位。"
+    },
+    {
+      "candidate": "APA Work in America Survey (2024)",
+      "decision": "exclude-from-core",
+      "reason": "記述的調査。査読研究の統合ではない。"
+    },
+    {
+      "candidate": "Workplace Options Psychological Safety Study (2025)",
+      "decision": "exclude",
+      "reason": "商業調査で、主要な方法情報を本更新では確認できない。"
+    },
+    {
+      "candidate": "Campbell Institute Psychological Safety and Inclusion Review (2024)",
+      "decision": "exclude-from-core",
+      "reason": "一般向け文献レビューで、系統的選定・質評価を主要根拠として確認できない。"
+    },
+    {
+      "candidate": "Kobayashi preprint (2025)",
+      "decision": "exclude-duplicate",
+      "reason": "査読済み論文 10.3390/bs15101302 に置き換え。"
+    },
+    {
+      "candidate": "Commercial white papers and unsourced guides",
+      "decision": "exclude",
+      "reason": "出典・選定基準・利益相反が不明確。"
+    }
+  ]
+}

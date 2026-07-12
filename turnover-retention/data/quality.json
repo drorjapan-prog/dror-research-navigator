@@ -1,0 +1,258 @@
+{
+  "name": "離職・定着 研究の質と限界",
+  "version": "0.1",
+  "notice": "簡易評価であり正式なRoB評価ではない。",
+  "assessments": [
+    {
+      "study_id": "mobley-1977",
+      "design": "process theory and field test",
+      "strength": "実地研究",
+      "key_limits": [
+        "古典的線形モデル",
+        "すべての離職が熟慮過程を通るわけではない"
+      ]
+    },
+    {
+      "study_id": "dalton-1982",
+      "design": "conceptual taxonomy",
+      "strength": "概念またはレビュー",
+      "key_limits": [
+        "何が機能的かは誰の視点かで変わる",
+        "後付けの価値判断に注意"
+      ]
+    },
+    {
+      "study_id": "steel-ovalle-1984",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "key_limits": [
+        "古い研究中心",
+        "追跡期間・測定の異質性",
+        "個人予測には誤分類"
+      ]
+    },
+    {
+      "study_id": "cotton-tuttle-1986",
+      "design": "meta-analysis and review",
+      "strength": "統合研究",
+      "key_limits": [
+        "1980年代まで",
+        "尺度・業種の異質性",
+        "因果確定ではない"
+      ]
+    },
+    {
+      "study_id": "tett-meyer-1993",
+      "design": "meta-analytic path analysis",
+      "strength": "概念またはレビュー",
+      "key_limits": [
+        "相関メタ分析による経路",
+        "因果順序を完全には証明しない"
+      ]
+    },
+    {
+      "study_id": "lee-mitchell-1994",
+      "design": "process theory",
+      "strength": "概念またはレビュー",
+      "key_limits": [
+        "理論モデル",
+        "経路の符号化に判断が入る"
+      ]
+    },
+    {
+      "study_id": "lee-1996",
+      "design": "retrospective field test",
+      "strength": "実地研究",
+      "key_limits": [
+        "退職後回想",
+        "分類者判断",
+        "全職種への一般化に注意"
+      ]
+    },
+    {
+      "study_id": "shaw-1998",
+      "design": "organization-level field study",
+      "strength": "実地研究",
+      "key_limits": [
+        "組織レベル観察研究",
+        "個人原因へ還元できない"
+      ]
+    },
+    {
+      "study_id": "phillips-1998",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "key_limits": [
+        "古い採用文脈",
+        "実装形式の異質性",
+        "魅力を下げる可能性も評価"
+      ]
+    },
+    {
+      "study_id": "griffeth-2000",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "key_limits": [
+        "観察研究中心",
+        "職種・時代の調整効果",
+        "因果確定ではない"
+      ]
+    },
+    {
+      "study_id": "mitchell-2001",
+      "design": "construct development and field study",
+      "strength": "実地研究",
+      "key_limits": [
+        "つながりを拘束へ転用しない",
+        "地域・家族情報のプライバシー"
+      ]
+    },
+    {
+      "study_id": "lee-2004",
+      "design": "field study",
+      "strength": "実地研究",
+      "key_limits": [
+        "観察研究",
+        "尺度と文脈依存",
+        "高埋め込みを忠誠義務にしない"
+      ]
+    },
+    {
+      "study_id": "bauer-2007",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "key_limits": [
+        "相関研究が多い",
+        "オンボーディング施策の直接効果とは限らない"
+      ]
+    },
+    {
+      "study_id": "hausknecht-2009",
+      "design": "large qualitative coding study",
+      "strength": "概念またはレビュー",
+      "key_limits": [
+        "単一産業・企業文脈",
+        "自己申告理由",
+        "実際の残留因果とは限らない"
+      ]
+    },
+    {
+      "study_id": "felps-2009",
+      "design": "multilevel field study",
+      "strength": "実地研究",
+      "key_limits": [
+        "観察研究",
+        "contagionは比喩",
+        "退職者を問題源として扱わない",
+        "情報・ショック・仕事条件の共通要因"
+      ]
+    },
+    {
+      "study_id": "allen-2010",
+      "design": "evidence-based narrative review",
+      "strength": "概念またはレビュー",
+      "key_limits": [
+        "系統的メタ分析ではない",
+        "施策効果は文脈依存"
+      ]
+    },
+    {
+      "study_id": "jiang-2012",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "key_limits": [
+        "観察研究中心",
+        "尺度版の異質性",
+        "因果確定ではない"
+      ]
+    },
+    {
+      "study_id": "hom-2012",
+      "design": "integrative review",
+      "strength": "概念またはレビュー",
+      "key_limits": [
+        "概念レビュー",
+        "すべての状態の測定根拠は同程度でない"
+      ]
+    },
+    {
+      "study_id": "park-shaw-2013",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "key_limits": [
+        "集団レベル",
+        "因果の双方向性",
+        "率の定義が異質"
+      ]
+    },
+    {
+      "study_id": "hancock-2013",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "key_limits": [
+        "組織レベル観察研究",
+        "平均効果が小さい",
+        "調整要因多数"
+      ]
+    },
+    {
+      "study_id": "heavey-2013",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "key_limits": [
+        "組織レベル",
+        "率と期間の異質性",
+        "因果の双方向性"
+      ]
+    },
+    {
+      "study_id": "hom-2017",
+      "design": "centennial review",
+      "strength": "概念またはレビュー",
+      "key_limits": [
+        "ナラティブな総括",
+        "介入効果の統合ではない"
+      ]
+    },
+    {
+      "study_id": "rubenstein-2018",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "key_limits": [
+        "観察研究中心",
+        "予測因子間の相関",
+        "個人の確定予測はできない"
+      ]
+    },
+    {
+      "study_id": "bauer-2024",
+      "design": "review and meta-analysis",
+      "strength": "統合研究",
+      "key_limits": [
+        "相関研究が中心",
+        "意向と実離職を区別",
+        "文化分類は粗い"
+      ]
+    },
+    {
+      "study_id": "mhlw-2024",
+      "design": "official national statistics",
+      "strength": "公式統計・制度",
+      "key_limits": [
+        "個社の自発離職率と同義でない",
+        "就業形態・産業構成が異なる",
+        "公表訂正を確認"
+      ]
+    },
+    {
+      "study_id": "eu-ai-act-2024",
+      "design": "official legal instrument",
+      "strength": "公式統計・制度",
+      "key_limits": [
+        "EU法",
+        "適用時期・例外・国内法を確認",
+        "日本での個別法的助言ではない"
+      ]
+    }
+  ]
+}

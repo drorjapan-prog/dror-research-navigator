@@ -1,0 +1,792 @@
+{
+  "name": "仕事の意味・意義・天職観・職業アイデンティティ 用語集",
+  "version": "0.1",
+  "license": "CC BY 4.0",
+  "terms": [
+    {
+      "id": "meaning-of-work",
+      "term": "仕事の意味",
+      "definition": "本人や集団が仕事をどう理解・解釈するかという広い概念。"
+    },
+    {
+      "id": "meaningful-work",
+      "term": "意味ある仕事",
+      "definition": "本人にとって重要で価値があり、意義を感じられる仕事経験。"
+    },
+    {
+      "id": "work-meaningfulness",
+      "term": "仕事の有意味感",
+      "definition": "仕事が意味あると感じられる程度。"
+    },
+    {
+      "id": "meaning-in-work",
+      "term": "仕事内の意味",
+      "definition": "仕事の課題・役割・行為そのものから得る意味。"
+    },
+    {
+      "id": "meaning-at-work",
+      "term": "職場での意味",
+      "definition": "所属・関係・組織文脈を通じて得る意味。"
+    },
+    {
+      "id": "meaning-through-work",
+      "term": "仕事を通じた意味",
+      "definition": "仕事が人生全体の意味形成へ寄与すること。"
+    },
+    {
+      "id": "positive-meaning",
+      "term": "肯定的意味",
+      "definition": "仕事を価値あるものとして肯定的に理解すること。"
+    },
+    {
+      "id": "significance",
+      "term": "意義・重要性",
+      "definition": "本人や他者にとって重要であること。"
+    },
+    {
+      "id": "self-realization",
+      "term": "自己実現",
+      "definition": "能力・価値・可能性を仕事等で実現する経験。"
+    },
+    {
+      "id": "broader-purpose",
+      "term": "より広い目的",
+      "definition": "自己を越えた社会・他者・理念へつながる目的。"
+    },
+    {
+      "id": "purpose",
+      "term": "目的",
+      "definition": "行動を方向づける将来志向の目標・理由。"
+    },
+    {
+      "id": "work-purpose",
+      "term": "仕事の目的",
+      "definition": "仕事が何を実現するために存在するか。"
+    },
+    {
+      "id": "purpose-alignment",
+      "term": "目的の整合",
+      "definition": "個人・仕事・組織の目的が両立・接続する程度。"
+    },
+    {
+      "id": "purpose-conflict",
+      "term": "目的葛藤",
+      "definition": "複数の目的が両立せず緊張する状態。"
+    },
+    {
+      "id": "meaning-source",
+      "term": "意味源",
+      "definition": "意味を生み出す自己、他者、仕事、組織、社会、精神性等。"
+    },
+    {
+      "id": "meaning-mechanism",
+      "term": "意味形成機序",
+      "definition": "真正性、自己効力、所属、目的等を通じ意味が生じる過程。"
+    },
+    {
+      "id": "meaning-making",
+      "term": "意味づけ",
+      "definition": "出来事・経験を解釈し意味を形成・更新する過程。"
+    },
+    {
+      "id": "sensemaking",
+      "term": "センスメイキング",
+      "definition": "曖昧な状況を手掛かりと行為を通じ理解する過程。"
+    },
+    {
+      "id": "meaning-management",
+      "term": "意味の管理",
+      "definition": "組織・管理者が仕事の解釈や目的を方向づける働きかけ。"
+    },
+    {
+      "id": "management-of-meaning",
+      "term": "意味管理",
+      "definition": "象徴・物語・理念等で成員の理解を形成しようとする実践。"
+    },
+    {
+      "id": "existential-labor",
+      "term": "実存的労働",
+      "definition": "内面の意味と組織が要求する意味の間を調整する労働。"
+    },
+    {
+      "id": "meaning-washing",
+      "term": "意味ウォッシング",
+      "definition": "社会的意義の表現が事業・仕事条件の実態と乖離すること。"
+    },
+    {
+      "id": "purpose-washing",
+      "term": "パーパス・ウォッシング",
+      "definition": "掲げる目的が意思決定・資源・影響と一致しない状態。"
+    },
+    {
+      "id": "meaninglessness",
+      "term": "無意味感",
+      "definition": "仕事に価値・目的・意義を見いだせない経験。"
+    },
+    {
+      "id": "meaning-loss",
+      "term": "意味の喪失",
+      "definition": "以前あった仕事の意味が失われる過程・経験。"
+    },
+    {
+      "id": "alienation",
+      "term": "疎外",
+      "definition": "仕事、成果、自己、他者等から切り離され支配されている経験。"
+    },
+    {
+      "id": "bullshit-job",
+      "term": "ブルシット・ジョブ",
+      "definition": "本人が無用と感じる仕事を指す俗語的概念。診断名ではない。"
+    },
+    {
+      "id": "useless-task",
+      "term": "無用と感じるタスク",
+      "definition": "目的・受益者・成果が見えず不要と知覚される作業。"
+    },
+    {
+      "id": "task-significance",
+      "term": "タスク重要性",
+      "definition": "仕事が他者や社会へ影響する程度。"
+    },
+    {
+      "id": "social-impact",
+      "term": "社会的影響",
+      "definition": "仕事が他者・社会へもたらす変化。"
+    },
+    {
+      "id": "prosocial-impact",
+      "term": "向社会的影響",
+      "definition": "仕事が他者の福祉や利益へ与える肯定的影響。"
+    },
+    {
+      "id": "beneficiary",
+      "term": "受益者",
+      "definition": "仕事の成果・サービスから利益を受ける人・集団。"
+    },
+    {
+      "id": "beneficiary-contact",
+      "term": "受益者接触",
+      "definition": "仕事の受益者と直接・間接に接すること。"
+    },
+    {
+      "id": "impact-visibility",
+      "term": "影響可視性",
+      "definition": "仕事の結果や受益者への影響が見える程度。"
+    },
+    {
+      "id": "impact-map",
+      "term": "インパクト地図",
+      "definition": "仕事から正負の影響までの経路・関係者を可視化する図。"
+    },
+    {
+      "id": "negative-externality",
+      "term": "負の外部性",
+      "definition": "意思決定者が負担しない害・費用を第三者へ生じさせること。"
+    },
+    {
+      "id": "calling",
+      "term": "天職・コーリング",
+      "definition": "仕事を強い意味・目的・召命として経験する仕事志向。"
+    },
+    {
+      "id": "vocation",
+      "term": "召命・職業",
+      "definition": "宗教的召命または強い目的を伴う職業という概念。"
+    },
+    {
+      "id": "work-orientation",
+      "term": "仕事志向",
+      "definition": "仕事を仕事、キャリア、天職等として捉える方向性。"
+    },
+    {
+      "id": "job-orientation",
+      "term": "仕事志向（収入中心）",
+      "definition": "主に生活手段・報酬として仕事を捉える志向。"
+    },
+    {
+      "id": "career-orientation",
+      "term": "キャリア志向",
+      "definition": "昇進・発達・達成の系列として仕事を捉える志向。"
+    },
+    {
+      "id": "calling-orientation",
+      "term": "天職志向",
+      "definition": "深い目的・意味・貢献として仕事を捉える志向。"
+    },
+    {
+      "id": "perceiving-a-calling",
+      "term": "天職の知覚",
+      "definition": "自分に天職があると感じること。"
+    },
+    {
+      "id": "living-a-calling",
+      "term": "天職を生きる",
+      "definition": "現在の仕事・活動で天職を実際に実現している感覚。"
+    },
+    {
+      "id": "unanswered-calling",
+      "term": "未回答の天職",
+      "definition": "天職を感じるが現在の仕事で実現できていない状態。"
+    },
+    {
+      "id": "transcendent-summons",
+      "term": "超越的召命",
+      "definition": "自己を越えた源から呼ばれているという感覚。"
+    },
+    {
+      "id": "prosocial-orientation",
+      "term": "向社会志向",
+      "definition": "他者・社会へ利益をもたらすことを重視する方向性。"
+    },
+    {
+      "id": "calling-exploitation",
+      "term": "天職の搾取",
+      "definition": "使命感や情熱を利用して不利な条件・犠牲を受け入れさせること。"
+    },
+    {
+      "id": "passion-tax",
+      "term": "情熱税",
+      "definition": "好き・使命という理由で低報酬や追加負担を負わせることを指す実務語。"
+    },
+    {
+      "id": "self-sacrifice",
+      "term": "自己犠牲",
+      "definition": "本人の健康・生活・権利を削って他の目的を優先すること。"
+    },
+    {
+      "id": "job-idolization",
+      "term": "仕事の偶像化",
+      "definition": "仕事を人生・道徳的価値の唯一または最高の源として扱うこと。"
+    },
+    {
+      "id": "job-characteristics-model",
+      "term": "職務特性モデル",
+      "definition": "職務特性が心理状態を介して結果へ関係するモデル。"
+    },
+    {
+      "id": "skill-variety",
+      "term": "技能多様性",
+      "definition": "仕事が多様な技能・能力を必要とする程度。"
+    },
+    {
+      "id": "task-identity",
+      "term": "タスク完結性",
+      "definition": "仕事のまとまりを最初から最後まで担う程度。"
+    },
+    {
+      "id": "autonomy",
+      "term": "自律性",
+      "definition": "仕事の選択・方法・順序等に裁量を持つ程度。"
+    },
+    {
+      "id": "feedback-from-job",
+      "term": "仕事からのフィードバック",
+      "definition": "仕事の実行自体から成果情報を得られる程度。"
+    },
+    {
+      "id": "knowledge-characteristics",
+      "term": "知識特性",
+      "definition": "複雑性、情報処理、問題解決、専門性等の仕事特性。"
+    },
+    {
+      "id": "social-characteristics",
+      "term": "社会的仕事特性",
+      "definition": "相互依存、他者接触、支援、フィードバック等の特性。"
+    },
+    {
+      "id": "work-context",
+      "term": "仕事文脈",
+      "definition": "人間工学、設備、環境、身体要求等の仕事条件。"
+    },
+    {
+      "id": "self-determination-theory",
+      "term": "自己決定理論",
+      "definition": "自律性・有能感・関係性と動機づけを扱う理論。"
+    },
+    {
+      "id": "autonomy-need",
+      "term": "自律性欲求",
+      "definition": "自分の行為を自ら選び承認していると感じる必要。"
+    },
+    {
+      "id": "competence-need",
+      "term": "有能感欲求",
+      "definition": "効果的に行為し能力を発揮・成長したい必要。"
+    },
+    {
+      "id": "relatedness-need",
+      "term": "関係性欲求",
+      "definition": "他者とつながり気遣われたい必要。"
+    },
+    {
+      "id": "autonomous-motivation",
+      "term": "自律的動機づけ",
+      "definition": "価値を認める・興味を持つ等、自己承認された動機。"
+    },
+    {
+      "id": "controlled-motivation",
+      "term": "統制的動機づけ",
+      "definition": "報酬、罰、承認、罪悪感等の圧力に基づく動機。"
+    },
+    {
+      "id": "intrinsic-motivation",
+      "term": "内発的動機づけ",
+      "definition": "活動自体の興味・楽しさに基づく動機。"
+    },
+    {
+      "id": "extrinsic-motivation",
+      "term": "外発的動機づけ",
+      "definition": "活動とは別の結果を得るための動機。"
+    },
+    {
+      "id": "internalization",
+      "term": "内在化",
+      "definition": "外的価値・規範を段階的に自己のものとして取り込む過程。"
+    },
+    {
+      "id": "identified-regulation",
+      "term": "同一化的調整",
+      "definition": "行為の価値を本人が認めて行う調整。"
+    },
+    {
+      "id": "introjected-regulation",
+      "term": "取り入れ的調整",
+      "definition": "罪悪感・自尊維持・承認圧力に基づく調整。"
+    },
+    {
+      "id": "job-crafting",
+      "term": "ジョブ・クラフティング",
+      "definition": "働く人が課題・関係・認知・要求度・資源を変えること。"
+    },
+    {
+      "id": "task-crafting",
+      "term": "タスク・クラフティング",
+      "definition": "仕事の課題範囲・方法・数等を変えること。"
+    },
+    {
+      "id": "relational-crafting",
+      "term": "関係クラフティング",
+      "definition": "仕事上の接触相手・関係の性質を変えること。"
+    },
+    {
+      "id": "cognitive-crafting",
+      "term": "認知的クラフティング",
+      "definition": "仕事全体や目的の捉え方を変えること。"
+    },
+    {
+      "id": "resources-crafting",
+      "term": "資源クラフティング",
+      "definition": "支援、裁量、学習等の仕事資源を増減・調整すること。"
+    },
+    {
+      "id": "demands-crafting",
+      "term": "要求度クラフティング",
+      "definition": "仕事要求を増減・変更すること。"
+    },
+    {
+      "id": "promotion-focused-crafting",
+      "term": "促進焦点クラフティング",
+      "definition": "成長・資源・挑戦へ接近する仕事変更。"
+    },
+    {
+      "id": "prevention-focused-crafting",
+      "term": "予防焦点クラフティング",
+      "definition": "損失・負担・危険を避ける仕事変更。"
+    },
+    {
+      "id": "job-redesign",
+      "term": "職務再設計",
+      "definition": "組織・チーム等が仕事の構造・条件を変更すること。"
+    },
+    {
+      "id": "participatory-design",
+      "term": "参加型設計",
+      "definition": "影響を受ける働く人が仕事・制度設計へ参加すること。"
+    },
+    {
+      "id": "externality",
+      "term": "外部性",
+      "definition": "本人の仕事変更が同僚・顧客等へ与える波及。"
+    },
+    {
+      "id": "work-identity",
+      "term": "仕事アイデンティティ",
+      "definition": "仕事に関連して自分をどう定義するか。"
+    },
+    {
+      "id": "occupational-identity",
+      "term": "職業アイデンティティ",
+      "definition": "職業と結び付く自己理解・所属感。"
+    },
+    {
+      "id": "professional-identity",
+      "term": "専門職アイデンティティ",
+      "definition": "専門職の知識・倫理・役割と結び付く自己理解。"
+    },
+    {
+      "id": "role-identity",
+      "term": "役割アイデンティティ",
+      "definition": "特定の社会的役割と結び付く自己理解。"
+    },
+    {
+      "id": "organizational-identification",
+      "term": "組織同一化",
+      "definition": "組織との一体感を自己概念に取り込む程度。"
+    },
+    {
+      "id": "identity-work",
+      "term": "アイデンティティ・ワーク",
+      "definition": "自己理解を形成、維持、修復、変更する行為・語り。"
+    },
+    {
+      "id": "identity-learning",
+      "term": "アイデンティティ学習",
+      "definition": "実践と他者反応から「何者として働くか」を学ぶ過程。"
+    },
+    {
+      "id": "provisional-self",
+      "term": "仮の自己",
+      "definition": "移行期に試験的に演じ・評価する将来の自己像。"
+    },
+    {
+      "id": "possible-self",
+      "term": "可能自己",
+      "definition": "将来なり得る・なりたい・避けたい自己像。"
+    },
+    {
+      "id": "identity-boundary",
+      "term": "アイデンティティ境界",
+      "definition": "個人、職業、組織等の自己定義を分ける境界。"
+    },
+    {
+      "id": "identity-balance",
+      "term": "アイデンティティ均衡",
+      "definition": "個人性と集団・職業同一化を調整した状態。"
+    },
+    {
+      "id": "multiple-work-identities",
+      "term": "複数の仕事アイデンティティ",
+      "definition": "複数の職業・役割に結び付く自己理解を持つこと。"
+    },
+    {
+      "id": "identity-harmonization",
+      "term": "アイデンティティ調和",
+      "definition": "複数の仕事アイデンティティを両立可能に整える過程。"
+    },
+    {
+      "id": "identity-conflict",
+      "term": "アイデンティティ葛藤",
+      "definition": "複数の自己定義・役割要求が衝突する状態。"
+    },
+    {
+      "id": "identity-threat",
+      "term": "アイデンティティ脅威",
+      "definition": "重要な自己定義の価値・連続性が損なわれる知覚。"
+    },
+    {
+      "id": "identity-loss",
+      "term": "アイデンティティ喪失",
+      "definition": "仕事・役割の終了等で重要な自己定義を失う経験。"
+    },
+    {
+      "id": "identity-recovery",
+      "term": "アイデンティティ回復",
+      "definition": "喪失後に自己の連続性・価値・将来像を再構成する過程。"
+    },
+    {
+      "id": "narrative-identity",
+      "term": "物語的アイデンティティ",
+      "definition": "経験を物語として結び自己の連続性を作ること。"
+    },
+    {
+      "id": "identity-narrative",
+      "term": "アイデンティティ物語",
+      "definition": "自分が何者でどう変化したかを説明する語り。"
+    },
+    {
+      "id": "macro-work-role-transition",
+      "term": "大きな仕事役割移行",
+      "definition": "転職、昇進、失職、引退等の広範な役割変化。"
+    },
+    {
+      "id": "role-exit",
+      "term": "役割退出",
+      "definition": "重要な役割から離れる過程。"
+    },
+    {
+      "id": "career-transition",
+      "term": "キャリア移行",
+      "definition": "職業・役割・働き方等が変わる過程。"
+    },
+    {
+      "id": "professional-adaptation",
+      "term": "専門職適応",
+      "definition": "新しい専門役割・実践・規範へ適応する過程。"
+    },
+    {
+      "id": "holding-environment",
+      "term": "保持環境",
+      "definition": "不確実な自己・仕事を支える人、場所、習慣、目的の組合せ。"
+    },
+    {
+      "id": "gig-work",
+      "term": "ギグ労働",
+      "definition": "プラットフォーム等を通じ単発・短期で受ける仕事。"
+    },
+    {
+      "id": "independent-professional",
+      "term": "独立専門職",
+      "definition": "組織雇用外で専門サービスを提供する人。"
+    },
+    {
+      "id": "precarious-work",
+      "term": "不安定就業",
+      "definition": "所得・契約・時間・権利等が不安定な仕事。"
+    },
+    {
+      "id": "dirty-work",
+      "term": "汚れ仕事",
+      "definition": "身体的・社会的・道徳的な汚名を伴うとされる仕事。"
+    },
+    {
+      "id": "physical-taint",
+      "term": "身体的汚名",
+      "definition": "汚物、死、危険等との接触に基づく汚名。"
+    },
+    {
+      "id": "social-taint",
+      "term": "社会的汚名",
+      "definition": "卑屈・奉仕・周辺集団との接触等に基づく汚名。"
+    },
+    {
+      "id": "moral-taint",
+      "term": "道徳的汚名",
+      "definition": "欺瞞、罪、規範違反等とみなされることによる汚名。"
+    },
+    {
+      "id": "occupational-taint",
+      "term": "職業的汚名",
+      "definition": "職業に付与される否定的社会評価。"
+    },
+    {
+      "id": "taint-management",
+      "term": "汚名管理",
+      "definition": "職業的汚名へ対処し自己価値を守る実践。"
+    },
+    {
+      "id": "normalization",
+      "term": "正常化",
+      "definition": "逸脱・汚名とされる対象を通常・価値あるものとして再解釈すること。"
+    },
+    {
+      "id": "occupational-pride",
+      "term": "職業的誇り",
+      "definition": "職業・仕事への肯定的評価と尊厳。"
+    },
+    {
+      "id": "essential-work",
+      "term": "不可欠労働",
+      "definition": "社会機能の維持に不可欠と位置付けられる仕事。"
+    },
+    {
+      "id": "invisible-work",
+      "term": "見えない仕事",
+      "definition": "記録・評価・報酬で捉えられにくい仕事。"
+    },
+    {
+      "id": "moral-distress",
+      "term": "道徳的苦痛",
+      "definition": "正しい行為を実行できない制約等に伴う道徳的苦痛。"
+    },
+    {
+      "id": "moral-residue",
+      "term": "道徳的残余",
+      "definition": "道徳的苦痛の出来事後にも残る感情・自己評価への影響。"
+    },
+    {
+      "id": "crescendo-effect",
+      "term": "クレッシェンド効果",
+      "definition": "道徳的苦痛の残余が反復で増幅するという概念。"
+    },
+    {
+      "id": "moral-injury",
+      "term": "道徳的負傷",
+      "definition": "深く保持する道徳信念への違反等に伴う持続的苦痛の発展途上概念。"
+    },
+    {
+      "id": "moral-stressor",
+      "term": "道徳的ストレッサー",
+      "definition": "道徳価値・義務に関わる葛藤や制約を生む状況。"
+    },
+    {
+      "id": "ethical-conflict",
+      "term": "倫理的葛藤",
+      "definition": "複数の倫理原則・責任が衝突する状態。"
+    },
+    {
+      "id": "ethical-voice",
+      "term": "倫理的発言",
+      "definition": "不正・危害・葛藤について懸念・異議を伝えること。"
+    },
+    {
+      "id": "whistleblowing",
+      "term": "公益通報",
+      "definition": "一定の法令違反等を定められた先へ通報すること。"
+    },
+    {
+      "id": "retaliation",
+      "term": "報復",
+      "definition": "相談・異議・通報等を理由とする不利益。"
+    },
+    {
+      "id": "conscientious-objection",
+      "term": "良心的拒否",
+      "definition": "深い倫理・宗教的信念に基づき行為を拒むこと。適用は法域で異なる。"
+    },
+    {
+      "id": "decent-work",
+      "term": "ディーセント・ワーク",
+      "definition": "権利、雇用、社会保護、社会対話等を伴う人間らしい仕事の枠組み。"
+    },
+    {
+      "id": "productive-employment",
+      "term": "生産的雇用",
+      "definition": "適切な所得・価値を生み得る雇用。"
+    },
+    {
+      "id": "fundamental-rights-at-work",
+      "term": "仕事上の基本的権利",
+      "definition": "結社、強制労働禁止、差別禁止、安全衛生等の基本原則。"
+    },
+    {
+      "id": "social-protection",
+      "term": "社会保護",
+      "definition": "失業、疾病、老齢等の生活上のリスクを支える制度。"
+    },
+    {
+      "id": "social-dialogue",
+      "term": "社会対話",
+      "definition": "政府、使用者、労働者代表による協議・交渉。"
+    },
+    {
+      "id": "worker-dignity",
+      "term": "労働者の尊厳",
+      "definition": "働く人を目的ある主体として尊重する原則。"
+    },
+    {
+      "id": "minimum-labor-standard",
+      "term": "最低労働基準",
+      "definition": "賃金・時間等について法が定める最低条件。"
+    },
+    {
+      "id": "duty-of-care",
+      "term": "安全配慮",
+      "definition": "働く人の生命・身体等の安全へ配慮する責任。"
+    },
+    {
+      "id": "career-consulting",
+      "term": "キャリアコンサルティング",
+      "definition": "職業選択・能力開発等について本人の相談を支援すること。"
+    },
+    {
+      "id": "career-self-determination",
+      "term": "キャリア自己決定",
+      "definition": "本人が情報・支援を得て進路を自ら選ぶこと。"
+    },
+    {
+      "id": "job-card",
+      "term": "ジョブ・カード",
+      "definition": "職業能力・経験・キャリアプラン等を整理する日本の制度・様式。"
+    },
+    {
+      "id": "occupational-information",
+      "term": "職業情報",
+      "definition": "職業内容、タスク、スキル、就業状況等の情報。"
+    },
+    {
+      "id": "career-narrative",
+      "term": "キャリア物語",
+      "definition": "職業経験・転機・将来をつなぐ自己の語り。"
+    },
+    {
+      "id": "value-clarification",
+      "term": "価値明確化",
+      "definition": "本人が重視する価値を探索・言語化する過程。"
+    },
+    {
+      "id": "forced-disclosure",
+      "term": "開示強制",
+      "definition": "本人の意思を越えて価値・宗教・葛藤等を明かさせること。"
+    },
+    {
+      "id": "confidentiality",
+      "term": "守秘",
+      "definition": "得た情報を認められた範囲外へ共有しないこと。"
+    },
+    {
+      "id": "purpose-limitation",
+      "term": "目的限定",
+      "definition": "収集時に示した目的以外へデータを使わない原則。"
+    },
+    {
+      "id": "data-minimization",
+      "term": "データ最小化",
+      "definition": "目的に必要な範囲だけデータを収集・保持する原則。"
+    },
+    {
+      "id": "small-cell-protection",
+      "term": "少人数セル保護",
+      "definition": "集計から個人を再特定しにくくする措置。"
+    },
+    {
+      "id": "psychosocial-risk",
+      "term": "心理社会的リスク",
+      "definition": "仕事設計・管理・関係等から健康へ影響する危険。"
+    },
+    {
+      "id": "primary-prevention",
+      "term": "一次予防",
+      "definition": "問題発生前に仕事・制度上の原因を減らすこと。"
+    },
+    {
+      "id": "process-evaluation",
+      "term": "プロセス評価",
+      "definition": "施策の到達、実装、参加、文脈、機序を調べる評価。"
+    },
+    {
+      "id": "implementation-fidelity",
+      "term": "実装忠実度",
+      "definition": "計画した中核要素が実際に実施された程度。"
+    },
+    {
+      "id": "adverse-effect",
+      "term": "望まない効果",
+      "definition": "施策によって意図せず生じる不利益・危害。"
+    },
+    {
+      "id": "stop-rule",
+      "term": "中止基準",
+      "definition": "危害・無効・実装失敗等で施策を止める条件。"
+    },
+    {
+      "id": "longitudinal-followup",
+      "term": "縦断追跡",
+      "definition": "同じ人・集団を時間をおいて観察すること。"
+    },
+    {
+      "id": "open-methods",
+      "term": "オープンな方法",
+      "definition": "定義、検索、採否、分析、限界を公開すること。"
+    },
+    {
+      "id": "open-aggregate-data",
+      "term": "公開集計データ",
+      "definition": "個人を守り方法付きで公開する集計情報。"
+    },
+    {
+      "id": "correction-log",
+      "term": "訂正履歴",
+      "definition": "変更内容、理由、根拠、時点を残す記録。"
+    }
+  ]
+}

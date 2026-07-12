@@ -1,0 +1,82 @@
+{
+  "version": "0.1",
+  "release_decision": "完成条件を満たす（次分野へ移行可）",
+  "dimensions": [
+    {
+      "id": "constructs",
+      "status": "complete",
+      "evidence": "客観状態、量的・質的、認知的・情動的雇用不安を分離"
+    },
+    {
+      "id": "health-attitudes",
+      "status": "complete",
+      "evidence": "精神・身体健康、満足、コミットメント、業績の統合研究"
+    },
+    {
+      "id": "displacement",
+      "status": "complete",
+      "evidence": "所得、精神健康、死亡、家族への縦断・登録研究"
+    },
+    {
+      "id": "downsizing",
+      "status": "complete",
+      "evidence": "財務成果、実装条件、残留者、後続離職、仕事強化"
+    },
+    {
+      "id": "change-ma",
+      "status": "complete",
+      "evidence": "変革特性、参加、情報、M&A・文化・事業移転"
+    },
+    {
+      "id": "alternatives",
+      "status": "complete",
+      "evidence": "配置転換、自然減、時間短縮、訓練、再雇用等の代替案"
+    },
+    {
+      "id": "procedure-rights",
+      "status": "complete",
+      "evidence": "妥当理由、選定、協議、通知、異議、救済を分離"
+    },
+    {
+      "id": "income-insolvency",
+      "status": "complete",
+      "evidence": "失業保護、未払賃金、倒産時保証、補償の制度資料"
+    },
+    {
+      "id": "reemployment",
+      "status": "complete",
+      "evidence": "JOBS II、求職介入、積極的労働市場政策、仕事の質"
+    },
+    {
+      "id": "technology-ai",
+      "status": "complete",
+      "evidence": "タスク曝露、自動化・補完、自動選定、人による再審"
+    },
+    {
+      "id": "just-transition",
+      "status": "complete",
+      "evidence": "ILO 2015・2023、EU勧告、パリ協定、地域転換"
+    },
+    {
+      "id": "equity-community",
+      "status": "complete",
+      "evidence": "契約、障害、ケア、在留資格、世帯、地域への負担移転"
+    },
+    {
+      "id": "japan",
+      "status": "complete",
+      "evidence": "労働契約、労基、雇用保険、賃金確保、再就職援助制度の原典"
+    },
+    {
+      "id": "openness",
+      "status": "complete",
+      "evidence": "主張・研究・用語・採否・質・更新・完成監査を公開"
+    }
+  ],
+  "remaining_non_blocking": [
+    "日本の整理解雇・希望退職・事業再生を追う比較実証研究は追加可能",
+    "生成AI導入後の長期的な実失職・仕事の質データは発展途上",
+    "地域の公正な移行に関する長期比較・失敗事例は更新優先",
+    "移民、障害、単親、非正規、複数就業の交差的影響研究は追加可能"
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "name": "キャリア形成・能力開発・職場学習・リスキリング 迅速エビデンスマップ・プロトコル",
+  "version": "0.1",
+  "review_type": "研修効果・転移・職場学習・発達的経験・関係支援・キャリア・制度・データ権利を分離した迅速エビデンスマップ",
+  "research_questions": [
+    {
+      "id": "RQ1",
+      "question": "研修設計、学習技法、動機、職場環境は学習・転移・維持へどう関係するか。"
+    },
+    {
+      "id": "RQ2",
+      "question": "非公式学習、仕事設計、挑戦的経験、メンタリング、コーチングをどう設計するか。"
+    },
+    {
+      "id": "RQ3",
+      "question": "キャリア成功、適応性、雇用可能性、興味・適合をどう定義・測定するか。"
+    },
+    {
+      "id": "RQ4",
+      "question": "学習・キャリア機会の分配、年齢、契約、障害、ケア等の格差をどう扱うか。"
+    },
+    {
+      "id": "RQ5",
+      "question": "リスキリング、資格、徒弟制度、オープン教材を仕事・権利・移動へどう接続するか。"
+    },
+    {
+      "id": "RQ6",
+      "question": "学習・スキルデータ、AI推薦、能力推定、認証をどう統治するか。"
+    }
+  ],
+  "query_families": [
+    "training effectiveness meta-analysis organizations",
+    "transfer of training meta-analysis work environment",
+    "active learning error management spaced practice learning styles",
+    "informal workplace learning systematic review meta-analysis",
+    "developmental assignments stretch experience leader development",
+    "mentoring workplace coaching meta-analysis",
+    "career success adaptability employability meta-analysis",
+    "vocational interests person job fit career development",
+    "job crafting proactive behavior work design development",
+    "age training motivation older worker stereotypes",
+    "reskilling lifelong learning access inequality paid training time",
+    "quality apprenticeships micro-credentials individual learning accounts",
+    "skills taxonomy AI learning recommendation worker data",
+    "open educational resources adult learning accessibility"
+  ],
+  "inclusion": [
+    "職場研修・転移・学習の主要メタ分析・体系的レビュー",
+    "職場学習・経験・関係支援の主要理論・実証研究",
+    "キャリア成功・適応・雇用可能性・適合の主要研究",
+    "生涯学習・訓練・徒弟・認証・データの公式指針・制度"
+  ],
+  "exclusion": [
+    "研修製品・資格の商業宣伝のみ",
+    "受講完了率だけを効果とする事例",
+    "学習スタイル適合の無条件推奨",
+    "70-20-10等の固定比率を普遍則とする資料",
+    "秘密のスキル・潜在能力・学習意欲推定",
+    "学習名目で権利・報酬・指導のない労働"
+  ],
+  "process_limitations": [
+    "単一レビュアーによる迅速整理",
+    "代表文献と書誌メタデータによる非網羅整理",
+    "効果量の独自再計算・正式なバイアス評価は未実施",
+    "職場直接研究、教育隣接研究、概念研究、公式資料を直接性ラベルで分離",
+    "法的・教育資格・医療・キャリアの個別助言ではない"
+  ]
+}

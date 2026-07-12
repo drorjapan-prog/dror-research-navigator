@@ -1,0 +1,183 @@
+{
+  "name": "1on1・上司部下面談 採用・除外記録",
+  "version": "0.1",
+  "screening": [
+    {
+      "id": "S01",
+      "decision": "include",
+      "reason": "1on1を焦点とする直接概念レビュー",
+      "source": "flinchum-2022",
+      "evidence_role": "1on1直接・概念"
+    },
+    {
+      "id": "S02",
+      "decision": "include",
+      "reason": "フィードバック介入メタ分析",
+      "source": "kluger-denisi-1996",
+      "evidence_role": "隣接研究"
+    },
+    {
+      "id": "S03",
+      "decision": "include",
+      "reason": "LMXメタ分析",
+      "source": "gerstner-day-1997",
+      "evidence_role": "隣接研究"
+    },
+    {
+      "id": "S04",
+      "decision": "include",
+      "reason": "評価参加メタ分析",
+      "source": "cawley-1998",
+      "evidence_role": "隣接研究"
+    },
+    {
+      "id": "S05",
+      "decision": "include",
+      "reason": "心理的安全性の主要フィールド研究",
+      "source": "edmondson-1999",
+      "evidence_role": "隣接研究"
+    },
+    {
+      "id": "S06",
+      "decision": "include",
+      "reason": "評価反応の測定研究",
+      "source": "keeping-levy-2000",
+      "evidence_role": "隣接研究"
+    },
+    {
+      "id": "S07",
+      "decision": "include",
+      "reason": "目標設定の主要統合理論",
+      "source": "locke-latham-2002",
+      "evidence_role": "隣接研究"
+    },
+    {
+      "id": "S08",
+      "decision": "include",
+      "reason": "多面フィードバックのメタ分析・レビュー",
+      "source": "smither-2005",
+      "evidence_role": "隣接研究"
+    },
+    {
+      "id": "S09",
+      "decision": "include",
+      "reason": "管理職の開放性とvoiceの主要研究",
+      "source": "detert-burris-2007",
+      "evidence_role": "隣接研究"
+    },
+    {
+      "id": "S10",
+      "decision": "include",
+      "reason": "業績管理の概念・実務レビュー",
+      "source": "pulakos-2011",
+      "evidence_role": "隣接研究"
+    },
+    {
+      "id": "S11",
+      "decision": "include",
+      "reason": "評価の社会的文脈メタ分析",
+      "source": "pichler-2012",
+      "evidence_role": "隣接研究"
+    },
+    {
+      "id": "S12",
+      "decision": "include",
+      "reason": "フィードバック探索メタ分析",
+      "source": "anseel-2015",
+      "evidence_role": "隣接研究"
+    },
+    {
+      "id": "S13",
+      "decision": "include",
+      "reason": "職場コーチング・メタ分析",
+      "source": "theeboom-2014",
+      "evidence_role": "隣接研究"
+    },
+    {
+      "id": "S14",
+      "decision": "include",
+      "reason": "voice・沈黙の主要レビュー",
+      "source": "morrison-2014",
+      "evidence_role": "隣接研究"
+    },
+    {
+      "id": "S15",
+      "decision": "include",
+      "reason": "職場コーチング・メタ分析と直接性限界",
+      "source": "jones-2016",
+      "evidence_role": "隣接研究"
+    },
+    {
+      "id": "S16",
+      "decision": "include",
+      "reason": "LMXと業績のメタ分析",
+      "source": "martin-2016",
+      "evidence_role": "隣接研究"
+    },
+    {
+      "id": "S17",
+      "decision": "include",
+      "reason": "心理的安全性メタ分析",
+      "source": "frazier-2017",
+      "evidence_role": "隣接研究"
+    },
+    {
+      "id": "S18",
+      "decision": "include",
+      "reason": "職場の傾聴レビュー",
+      "source": "kluger-itzchakov-2022",
+      "evidence_role": "隣接研究"
+    },
+    {
+      "id": "S19",
+      "decision": "include",
+      "reason": "職場コーチング更新メタ分析",
+      "source": "cannon-bowers-2023",
+      "evidence_role": "隣接研究"
+    },
+    {
+      "id": "S20",
+      "decision": "include",
+      "reason": "労働者個人データの公式原則",
+      "source": "ilo-1997",
+      "evidence_role": "公式指針・ガバナンス"
+    },
+    {
+      "id": "S21",
+      "decision": "include",
+      "reason": "職場のメンタルヘルス公式指針",
+      "source": "who-2022",
+      "evidence_role": "公式指針・ガバナンス"
+    },
+    {
+      "id": "S22",
+      "decision": "exclude",
+      "reason": "週次が最適という無出典記事",
+      "source": "weekly-universal"
+    },
+    {
+      "id": "S23",
+      "decision": "exclude",
+      "reason": "管理職1on1でないコーチング効果を1on1効果と誤表示",
+      "source": "coaching-as-oneonone"
+    },
+    {
+      "id": "S24",
+      "decision": "exclude",
+      "reason": "サイバーセキュリティ管理者向け書籍章で、1on1の焦点的実証研究ではない",
+      "source": "10.1201/9781003597407-8"
+    },
+    {
+      "id": "S25",
+      "decision": "exclude",
+      "reason": "教育・コミュニティ組織化の書籍章で、職場の上司—直属部下研究ではない",
+      "source": "10.4324/9781003712879-2"
+    },
+    {
+      "id": "S26",
+      "decision": "exclude",
+      "reason": "教育分野の一対一コーチングで、管理職—直属部下の1on1研究ではない",
+      "source": "10.3102/1892367"
+    }
+  ]
+}

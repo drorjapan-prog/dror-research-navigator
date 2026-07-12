@@ -1,0 +1,63 @@
+{
+  "name": "意思決定・判断・問題解決・認知バイアス 迅速エビデンスマップ・プロトコル",
+  "version": "0.1",
+  "review_type": "個人・集団・組織・AI意思決定と権利を分離した迅速エビデンスマップ",
+  "research_questions": [
+    {
+      "id": "RQ1",
+      "question": "限定合理性、ヒューリスティック、直観、分析をどう理解するか。"
+    },
+    {
+      "id": "RQ2",
+      "question": "予測、確率、過信、後知恵、計画・撤退判断をどう改善するか。"
+    },
+    {
+      "id": "RQ3",
+      "question": "集団の情報共有、発散、討議、参加、決定規則をどう設計するか。"
+    },
+    {
+      "id": "RQ4",
+      "question": "デバイアス、選択アーキテクチャ、説明責任をどう評価するか。"
+    },
+    {
+      "id": "RQ5",
+      "question": "高リスク判断の権限、記録、独立審査、異議申立てをどう設計するか。"
+    },
+    {
+      "id": "RQ6",
+      "question": "アルゴリズム助言、自動化、AI、人の監督をどう統治するか。"
+    }
+  ],
+  "query_families": [
+    "bounded rationality heuristic decision making review",
+    "intuition expertise dual process naturalistic decision making",
+    "confirmation overconfidence accountability outcome hindsight meta-analysis",
+    "sunk cost escalation planning fallacy risk communication",
+    "debiasing training choice architecture nudge meta-analysis",
+    "group decision hidden profile information sharing groupthink brainstorming",
+    "Delphi group polarization participation decision making",
+    "algorithm aversion appreciation automation bias trust",
+    "human AI organizational decision making algorithmic management",
+    "NIST AI RMF worker data human oversight contestability"
+  ],
+  "inclusion": [
+    "判断・意思決定の主要理論・実証研究",
+    "メタ分析・システマティックレビュー・主要統合レビュー",
+    "集団・組織の意思決定方法と介入研究",
+    "AIリスク、労働者データ、自動判断の公式指針・制度"
+  ],
+  "exclusion": [
+    "バイアス名だけの性格診断",
+    "成功企業・著名人の意思決定逸話のみ",
+    "効果検証のない意思決定フレームワーク宣伝",
+    "通信・感情データによる秘密の人物推定",
+    "人の承認を名目だけ置く完全自動化"
+  ],
+  "process_limitations": [
+    "単一レビュアーによる迅速整理",
+    "代表文献と書誌メタデータによる非網羅整理",
+    "効果量の独自再計算・正式なバイアス評価は未実施",
+    "実験・観察・統合・公式資料を直接性ラベルで分離",
+    "法的・医療的・安全上の個別助言ではない"
+  ]
+}

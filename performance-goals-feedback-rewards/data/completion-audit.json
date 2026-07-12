@@ -1,0 +1,61 @@
+{
+  "version": "0.1",
+  "release_decision": "完成条件を満たす（次分野へ移行可）",
+  "dimensions": [
+    {
+      "id": "goals",
+      "status": "complete",
+      "evidence": "難度・具体性・学習・コミットメント・複数目標"
+    },
+    {
+      "id": "side-effects",
+      "status": "complete",
+      "evidence": "狭い焦点・不正・安全・ゲーム化・指標置換"
+    },
+    {
+      "id": "measurement-rating",
+      "status": "complete",
+      "evidence": "測定制度・評定信頼性・評定者効果・反応"
+    },
+    {
+      "id": "feedback",
+      "status": "complete",
+      "evidence": "介入・環境・探索・多面評価・匿名性"
+    },
+    {
+      "id": "rewards",
+      "status": "complete",
+      "evidence": "金銭・内発的動機・創造性・承認・成果給"
+    },
+    {
+      "id": "team-public",
+      "status": "complete",
+      "evidence": "個人・チーム報酬、相互依存、公共・ケア職"
+    },
+    {
+      "id": "pay-equity",
+      "status": "complete",
+      "evidence": "賃金分散・秘密・透明性・同一価値・ジェンダー格差"
+    },
+    {
+      "id": "promotion",
+      "status": "complete",
+      "evidence": "昇進・次職基準・潜在能力ラベル"
+    },
+    {
+      "id": "digital-ai",
+      "status": "complete",
+      "evidence": "デジタル指標・AI評価・人の審査・異議・データ権利"
+    },
+    {
+      "id": "openness",
+      "status": "complete",
+      "evidence": "主張・研究・用語・採否・質・更新を公開"
+    }
+  ],
+  "remaining_non_blocking": [
+    "日本の賃金・評価・非正規雇用に関する介入研究は追加可能",
+    "生成AIを使う継続的業績評価の長期研究は発展途上",
+    "障害・ケア・交差性を含む評価機会格差は今後の優先領域"
+  ]
+}

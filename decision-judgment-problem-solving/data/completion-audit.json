@@ -1,0 +1,61 @@
+{
+  "version": "0.1",
+  "release_decision": "完成条件を満たす（次分野へ移行可）",
+  "dimensions": [
+    {
+      "id": "foundations",
+      "status": "complete",
+      "evidence": "限定合理性・ヒューリスティック・二重過程・環境適合"
+    },
+    {
+      "id": "expertise",
+      "status": "complete",
+      "evidence": "直観的熟達・自然主義的判断・認知的熟考"
+    },
+    {
+      "id": "biases",
+      "status": "complete",
+      "evidence": "確認・過信・結果・後知恵・感情・動機"
+    },
+    {
+      "id": "forecast-planning",
+      "status": "complete",
+      "evidence": "確率・較正・計画錯誤・参照クラス・撤退"
+    },
+    {
+      "id": "groups",
+      "status": "complete",
+      "evidence": "独自情報・集団思考・発散・デルファイ・分極化"
+    },
+    {
+      "id": "participation-power",
+      "status": "complete",
+      "evidence": "参加水準・決定権・利益相反・独立審査"
+    },
+    {
+      "id": "debiasing",
+      "status": "complete",
+      "evidence": "訓練・環境設計・選択アーキテクチャ・説明責任"
+    },
+    {
+      "id": "ai-automation",
+      "status": "complete",
+      "evidence": "回避・選好・自動化バイアス・信頼較正・人の監督"
+    },
+    {
+      "id": "rights-data",
+      "status": "complete",
+      "evidence": "個人データ・透明性・異議申立て・高リスク統治"
+    },
+    {
+      "id": "openness",
+      "status": "complete",
+      "evidence": "主張・研究・用語・採否・質・更新を公開"
+    }
+  ],
+  "remaining_non_blocking": [
+    "日本の行政・医療・雇用判断の介入研究は追加可能",
+    "生成AI・エージェントによる組織判断の長期研究は発展途上",
+    "ナッジ効果推定と一般化可能性の再評価を継続監視する"
+  ]
+}

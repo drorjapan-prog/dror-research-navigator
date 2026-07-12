@@ -1,0 +1,631 @@
+{
+  "name": "組織文化・組織風土・規範・文化変革 研究の質と限界",
+  "version": "0.1",
+  "notice": "簡易評価であり正式なRoB評価ではない。",
+  "assessments": [
+    {
+      "study_id": "smircich-1983",
+      "design": "conceptual review",
+      "strength": "基礎理論・測定",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "概念論",
+        "単一の正解定義ではない"
+      ]
+    },
+    {
+      "study_id": "schein-1990",
+      "design": "conceptual review",
+      "strength": "基礎理論・測定",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "概念・事例中心",
+        "後の版で概念発展"
+      ]
+    },
+    {
+      "study_id": "hofstede-1990",
+      "design": "multimethod field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "ケース数限定",
+        "特定企業群",
+        "国民文化との混同に注意"
+      ]
+    },
+    {
+      "study_id": "oreilly-1991",
+      "design": "measure and field studies",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "自己報告・選択効果",
+        "同質化や差別へ転用しない"
+      ]
+    },
+    {
+      "study_id": "denison-mishra-1995",
+      "design": "multimethod field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "観察研究",
+        "成果指標・業界差",
+        "文化を操作レバー化しない"
+      ]
+    },
+    {
+      "study_id": "meyerson-martin-1987",
+      "design": "conceptual synthesis",
+      "strength": "基礎理論・測定",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "概念論",
+        "測定・介入効果ではない"
+      ]
+    },
+    {
+      "study_id": "hatch-1993",
+      "design": "conceptual model",
+      "strength": "基礎理論・測定",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "概念モデル",
+        "実証検証は別途"
+      ]
+    },
+    {
+      "study_id": "chatman-oreilly-2016",
+      "design": "integrative review",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "ナラティブ統合",
+        "介入効果レビューではない"
+      ]
+    },
+    {
+      "study_id": "schneider-2013",
+      "design": "annual review",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "ナラティブレビュー",
+        "境界は完全には固定しない"
+      ]
+    },
+    {
+      "study_id": "hartnell-2011",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "観察研究",
+        "類型内異質性",
+        "万能の最良文化ではない"
+      ]
+    },
+    {
+      "study_id": "schneider-reichers-1983",
+      "design": "conceptual review",
+      "strength": "基礎理論・測定",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "概念論",
+        "後続の多層研究で発展"
+      ]
+    },
+    {
+      "study_id": "james-2008",
+      "design": "integrative review",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "ナラティブレビュー",
+        "尺度・焦点の異質性"
+      ]
+    },
+    {
+      "study_id": "patterson-2005",
+      "design": "measure validation",
+      "strength": "基礎理論・測定",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "尺度項目・利用条件",
+        "英国中心",
+        "次元を一得点にしない"
+      ]
+    },
+    {
+      "study_id": "chan-1998",
+      "design": "multilevel methodology",
+      "strength": "基礎理論・測定",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "方法論",
+        "特定風土の効果証明ではない"
+      ]
+    },
+    {
+      "study_id": "schneider-strength-2002",
+      "design": "multilevel field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "特定業界",
+        "観察研究",
+        "強い風土を善としない"
+      ]
+    },
+    {
+      "study_id": "zohar-1980",
+      "design": "measure and field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "古典的製造業",
+        "現代サービス・心理社会リスクへ拡張注意"
+      ]
+    },
+    {
+      "study_id": "clarke-2006",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "観察研究中心",
+        "尺度・産業差",
+        "事故過少報告"
+      ]
+    },
+    {
+      "study_id": "beus-2010",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "観察研究",
+        "事故記録差",
+        "逆因果"
+      ]
+    },
+    {
+      "study_id": "christian-2009",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "相関研究中心",
+        "個人責任へ還元しない"
+      ]
+    },
+    {
+      "study_id": "schneider-service-1998",
+      "design": "multilevel field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "単一業界",
+        "観察研究",
+        "顧客第一で従業員を犠牲にしない"
+      ]
+    },
+    {
+      "study_id": "hong-2013",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "観察研究中心",
+        "業種・測定差",
+        "顧客ハラスメントを正当化しない"
+      ]
+    },
+    {
+      "study_id": "nishii-2013",
+      "design": "multilevel field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "観察研究",
+        "二元的性別構成中心",
+        "他の交差性に一般化注意"
+      ]
+    },
+    {
+      "study_id": "mckay-2007",
+      "design": "longitudinal field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "米国人種分類・単一企業",
+        "観察研究",
+        "差別監査を代替しない"
+      ]
+    },
+    {
+      "study_id": "anderson-west-1998",
+      "design": "measure validation",
+      "strength": "基礎理論・測定",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "尺度権利・長さ",
+        "革新成果そのものではない"
+      ]
+    },
+    {
+      "study_id": "hunter-2007",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "観察研究中心",
+        "尺度の異質性",
+        "過重な挑戦を推奨しない"
+      ]
+    },
+    {
+      "study_id": "victor-cullen-1988",
+      "design": "measure and field study",
+      "strength": "基礎理論・測定",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "古典的分類",
+        "倫理性の高低を単純順位化しない"
+      ]
+    },
+    {
+      "study_id": "martin-cullen-2006",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "相関研究中心",
+        "文化・業界差",
+        "倫理をアンケートだけで証明しない"
+      ]
+    },
+    {
+      "study_id": "kish-gephart-2010",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "主に意思決定研究",
+        "自己報告・実験を含む",
+        "個人選別へ使わない"
+      ]
+    },
+    {
+      "study_id": "kaptein-2008",
+      "design": "measure development",
+      "strength": "基礎理論・測定",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "自己報告",
+        "尺度権利",
+        "コンプライアンス実効性を単独証明しない"
+      ]
+    },
+    {
+      "study_id": "morrison-2011",
+      "design": "multilevel field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "観察研究",
+        "発言内容・報復を別途評価"
+      ]
+    },
+    {
+      "study_id": "frazier-2017",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "観察研究中心",
+        "安全尺度を文化全体と同一視しない"
+      ]
+    },
+    {
+      "study_id": "baron-2001",
+      "design": "longitudinal organization study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "特定地域・時代・業界",
+        "モデルは文化そのものではない"
+      ]
+    },
+    {
+      "study_id": "giberson-2009",
+      "design": "multilevel field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "観察研究",
+        "CEOだけで文化を決めない",
+        "共通方法差"
+      ]
+    },
+    {
+      "study_id": "berson-2008",
+      "design": "multilevel field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "観察研究",
+        "因果方向",
+        "リーダー中心主義に注意"
+      ]
+    },
+    {
+      "study_id": "kristof-1996",
+      "design": "integrative review",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "ナラティブレビュー",
+        "適合の定義・測定差"
+      ]
+    },
+    {
+      "study_id": "verquer-2003",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "自己報告同時測定が多い",
+        "実離職・業績は限定"
+      ]
+    },
+    {
+      "study_id": "arthur-2006",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "採用で主観的同質性を増幅する危険",
+        "法的・公平性監査"
+      ]
+    },
+    {
+      "study_id": "oh-2014",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "文化・尺度・自己報告差",
+        "因果確定ではない"
+      ]
+    },
+    {
+      "study_id": "van-vianen-2018",
+      "design": "annual review",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "ナラティブレビュー",
+        "介入効果は限定"
+      ]
+    },
+    {
+      "study_id": "rivera-2012",
+      "design": "qualitative field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "特定高所得業界・米国",
+        "質的研究",
+        "すべての適合評価を否定しない"
+      ]
+    },
+    {
+      "study_id": "cable-judge-1997",
+      "design": "selection field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "観察研究",
+        "面接者バイアス",
+        "価値適合と人物類似を分ける"
+      ]
+    },
+    {
+      "study_id": "howard-grenville-2006",
+      "design": "qualitative field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "単一事例中心",
+        "環境課題文脈",
+        "一般化制約"
+      ]
+    },
+    {
+      "study_id": "golden-1992",
+      "design": "qualitative field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "事例研究",
+        "文化強度を善としない"
+      ]
+    },
+    {
+      "study_id": "weick-quinn-1999",
+      "design": "annual review",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "ナラティブレビュー",
+        "文化変革だけに限定されない"
+      ]
+    },
+    {
+      "study_id": "ogbonna-harris-1998",
+      "design": "qualitative field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "事例研究",
+        "管理主導視点",
+        "長期因果限定"
+      ]
+    },
+    {
+      "study_id": "harris-ogbonna-2002",
+      "design": "qualitative field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "少数事例",
+        "自己報告",
+        "一般化制約"
+      ]
+    },
+    {
+      "study_id": "stouten-2018",
+      "design": "integrative review",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "ナラティブ統合",
+        "文化変革に限定されない",
+        "万能手順ではない"
+      ]
+    },
+    {
+      "study_id": "rafferty-2013",
+      "design": "multilevel review",
+      "strength": "基礎理論・測定",
+      "directness": "統合研究",
+      "key_limits": [
+        "ナラティブレビュー",
+        "準備性を服従性にしない"
+      ]
+    },
+    {
+      "study_id": "taras-2010",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "国平均を個人へ当てはめない",
+        "時代・国内差",
+        "組織文化と別"
+      ]
+    },
+    {
+      "study_id": "gelfand-2011",
+      "design": "cross-national study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "国レベル平均",
+        "個人・組織へ直結しない",
+        "規範強度を善悪化しない"
+      ]
+    },
+    {
+      "study_id": "ashforth-mael-1989",
+      "design": "conceptual review",
+      "strength": "基礎理論・測定",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "概念論",
+        "同一視を忠誠義務にしない"
+      ]
+    },
+    {
+      "study_id": "pratt-2000",
+      "design": "qualitative field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "単一特殊組織",
+        "質的研究",
+        "操作的同一視に注意"
+      ]
+    },
+    {
+      "study_id": "who-2022",
+      "design": "evidence-based guideline",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "各勧告の確実性差",
+        "医療的個別助言ではない"
+      ]
+    },
+    {
+      "study_id": "iso-45003",
+      "design": "international standard guidance",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "規格本文は著作権・有料",
+        "認証だけで有効性を証明しない",
+        "2026年時点で体系的レビュー中"
+      ]
+    },
+    {
+      "study_id": "ilo-c155",
+      "design": "international labour convention",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "批准・国内実施を確認"
+      ]
+    },
+    {
+      "study_id": "ilo-c187",
+      "design": "international labour convention",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "批准・国内実施を確認",
+        "標語で代替しない"
+      ]
+    },
+    {
+      "study_id": "ilo-c190",
+      "design": "international labour convention",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "批准・国内実施を確認"
+      ]
+    },
+    {
+      "study_id": "doj-compliance-2024",
+      "design": "official evaluation guidance",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "米国刑事執行文脈",
+        "一般的な文化評価規格ではない",
+        "2024年9月版"
+      ]
+    },
+    {
+      "study_id": "japan-whistleblower",
+      "design": "Japanese statute",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "対象・要件・現行指針を確認"
+      ]
+    },
+    {
+      "study_id": "mhlw-harassment",
+      "design": "official guidance portal",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "指針改正・個別該当性を確認"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,645 @@
+{
+  "name": "職場の多様性・包摂・差別・所属感 研究の質と限界",
+  "version": "0.1",
+  "notice": "簡易評価であり正式なRoB評価ではない。",
+  "assessments": [
+    {
+      "study_id": "vandijk-2012",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "研究・尺度の異質性",
+        "因果方向",
+        "権利の根拠とは別"
+      ]
+    },
+    {
+      "study_id": "stahl-2010",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "文化指標・チーム差",
+        "相関研究を含む",
+        "国・時代差"
+      ]
+    },
+    {
+      "study_id": "joshi-2009",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "相関研究中心",
+        "カテゴリ定義差",
+        "効果の平均化"
+      ]
+    },
+    {
+      "study_id": "horwitz-2007",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "研究年代",
+        "測定の粗さ",
+        "チーム文脈差"
+      ]
+    },
+    {
+      "study_id": "webber-2001",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "古い研究群",
+        "凝集性と包摂を区別",
+        "相関研究"
+      ]
+    },
+    {
+      "study_id": "bell-2011",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "カテゴリ・測定差",
+        "相関研究中心",
+        "交差性を十分扱わない"
+      ]
+    },
+    {
+      "study_id": "guillaume-2017",
+      "design": "integrative review",
+      "strength": "理論・測定研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "レビュー",
+        "効果量の独自統合ではない",
+        "多様性カテゴリ差"
+      ]
+    },
+    {
+      "study_id": "nishii-2013",
+      "design": "multilevel field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "観察研究",
+        "ジェンダー二分法",
+        "特定組織・国"
+      ]
+    },
+    {
+      "study_id": "shore-2011",
+      "design": "integrative review",
+      "strength": "理論・測定研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "概念レビュー",
+        "測定・因果証拠を別途確認"
+      ]
+    },
+    {
+      "study_id": "randel-2018",
+      "design": "integrative conceptual review",
+      "strength": "理論・測定研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "概念レビュー",
+        "効果量統合ではない",
+        "権限・制度を別途評価"
+      ]
+    },
+    {
+      "study_id": "nembhard-2006",
+      "design": "multilevel field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "医療チーム",
+        "観察研究",
+        "因果方向"
+      ]
+    },
+    {
+      "study_id": "carmeli-2010",
+      "design": "field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "横断・自己報告を含む",
+        "因果方向",
+        "文化・職種差"
+      ]
+    },
+    {
+      "study_id": "jansen-2014",
+      "design": "measurement studies",
+      "strength": "理論・測定研究",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "自己報告",
+        "文化・翻訳差",
+        "真正性開示を強制しない"
+      ]
+    },
+    {
+      "study_id": "morbarak-1998",
+      "design": "measurement and field study",
+      "strength": "理論・測定研究",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "自己報告",
+        "研究年代",
+        "カテゴリ内差・交差性"
+      ]
+    },
+    {
+      "study_id": "baumeister-1995",
+      "design": "integrative review",
+      "strength": "理論・測定研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "職場専用ではない",
+        "文化・個人差",
+        "所属を同調要求にしない"
+      ]
+    },
+    {
+      "study_id": "ferris-2008",
+      "design": "measurement and field studies",
+      "strength": "理論・測定研究",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "自己報告",
+        "意図と影響を区別",
+        "尺度を個人診断に使わない"
+      ]
+    },
+    {
+      "study_id": "robinson-2013",
+      "design": "integrative review",
+      "strength": "理論・測定研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "概念・レビュー",
+        "意図推定の困難",
+        "文化差"
+      ]
+    },
+    {
+      "study_id": "plaut-2009",
+      "design": "field and experimental studies",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "短報",
+        "米国の人種文脈",
+        "理念と実装を区別"
+      ]
+    },
+    {
+      "study_id": "roberson-2007",
+      "design": "integrative review",
+      "strength": "理論・測定研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "実験・教育研究を含む",
+        "職場因果研究限定",
+        "カテゴリ差"
+      ]
+    },
+    {
+      "study_id": "triana-2015",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "自己報告・相関中心",
+        "米国中心",
+        "認知と法的認定を区別"
+      ]
+    },
+    {
+      "study_id": "jones-2016",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "自己報告・相関中心",
+        "定義・文脈差",
+        "個別事案の認定ではない"
+      ]
+    },
+    {
+      "study_id": "bertrand-2004",
+      "design": "field experiment",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "米国・特定時代・職種",
+        "氏名からの属性推定",
+        "採用後を扱わない"
+      ]
+    },
+    {
+      "study_id": "quillian-2017",
+      "design": "meta-analysis of field experiments",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "国・集団・職種差",
+        "応募段階中心",
+        "時点以後の変化を更新"
+      ]
+    },
+    {
+      "study_id": "koch-2015",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "実験シミュレーション",
+        "性別二分法",
+        "実職場・時代差"
+      ]
+    },
+    {
+      "study_id": "correll-2007",
+      "design": "laboratory and field experiments",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "米国・特定職務",
+        "ジェンダー二分法",
+        "時代・制度差"
+      ]
+    },
+    {
+      "study_id": "willness-2007",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "自己報告・相関中心",
+        "研究年代",
+        "性別・文化差"
+      ]
+    },
+    {
+      "study_id": "cortina-2008",
+      "design": "conceptual integrative review",
+      "strength": "理論・測定研究",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "概念レビュー",
+        "意図・法的認定を推定しない",
+        "実証を別途確認"
+      ]
+    },
+    {
+      "study_id": "bezrukova-2016",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "研究・成果の異質性",
+        "長期組織結果限定",
+        "出版バイアス"
+      ]
+    },
+    {
+      "study_id": "kalinoski-2013",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "実験・教育場面を含む",
+        "行動・長期結果限定",
+        "研究異質性"
+      ]
+    },
+    {
+      "study_id": "forscher-2019",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "職場専用ではない",
+        "測度変化と行動変化を区別",
+        "持続性限定"
+      ]
+    },
+    {
+      "study_id": "devine-2012",
+      "design": "longitudinal experiment",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "職場専用ではない",
+        "行動・制度結果限定",
+        "再現・一般化を確認"
+      ]
+    },
+    {
+      "study_id": "paluck-2021",
+      "design": "systematic integrative review",
+      "strength": "理論・測定研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "職場専用ではない",
+        "介入・成果の異質性",
+        "出版バイアス"
+      ]
+    },
+    {
+      "study_id": "kalev-2006",
+      "design": "longitudinal organizational study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "米国・特定時代",
+        "観察研究",
+        "導入の内生性"
+      ]
+    },
+    {
+      "study_id": "castilla-2015",
+      "design": "organizational field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "単一企業",
+        "制度変更の同時要因",
+        "他国・他判断への一般化"
+      ]
+    },
+    {
+      "study_id": "stone-1996",
+      "design": "conceptual integrative model",
+      "strength": "理論・測定研究",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "概念モデル",
+        "障害の多様性・自己定義",
+        "現在の技術・制度更新が必要"
+      ]
+    },
+    {
+      "study_id": "lindsay-2018",
+      "design": "systematic review",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "研究設計・質の差",
+        "便益による権利条件化を避ける",
+        "出版バイアス"
+      ]
+    },
+    {
+      "study_id": "ng-2012-age",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "年齢定義・職種差",
+        "平均差を個人へ適用しない"
+      ]
+    },
+    {
+      "study_id": "cech-2014",
+      "design": "field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "特定専門職・国",
+        "観察研究",
+        "制度・性別役割差"
+      ]
+    },
+    {
+      "study_id": "clair-2005",
+      "design": "conceptual integrative review",
+      "strength": "理論・測定研究",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "概念レビュー",
+        "開示結果の集団差",
+        "開示を強制しない"
+      ]
+    },
+    {
+      "study_id": "gluszek-2010",
+      "design": "integrative review",
+      "strength": "理論・測定研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "職場専用ではない",
+        "言語・文化差",
+        "技能とアクセントを混同しない"
+      ]
+    },
+    {
+      "study_id": "levari-2010",
+      "design": "experiments",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "短い実験研究",
+        "職場への一般化",
+        "言語・アクセント差"
+      ]
+    },
+    {
+      "study_id": "mccall-2005",
+      "design": "conceptual methodological review",
+      "strength": "理論・測定研究",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "方法論論文",
+        "職場介入効果ではない",
+        "カテゴリ固定化に注意"
+      ]
+    },
+    {
+      "study_id": "holvino-2010",
+      "design": "conceptual integrative review",
+      "strength": "理論・測定研究",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "概念論文",
+        "米国中心の理論史",
+        "測定・介入を別途設計"
+      ]
+    },
+    {
+      "study_id": "selbst-2019",
+      "design": "conceptual systems analysis",
+      "strength": "理論・測定研究",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "概念分析",
+        "職場固有の効果量ではない",
+        "法的公平と区別"
+      ]
+    },
+    {
+      "study_id": "edmondson-1999",
+      "design": "multilevel field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "観察研究",
+        "包摂・差別・法的安全とは別",
+        "チーム文脈差"
+      ]
+    },
+    {
+      "study_id": "ilo-c111",
+      "design": "international labour convention",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "批准・国内法上の保護事由を確認",
+        "個別案件の法的判断ではない"
+      ]
+    },
+    {
+      "study_id": "ilo-c190",
+      "design": "international labour convention",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "批准・国内法を確認",
+        "適用範囲・定義は制度差"
+      ]
+    },
+    {
+      "study_id": "ilo-r206",
+      "design": "international labour recommendation",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "勧告であり条約ではない",
+        "国内制度を確認"
+      ]
+    },
+    {
+      "study_id": "ilo-c100",
+      "design": "international labour convention",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "批准・国内法を確認",
+        "歴史的なジェンダー二分法"
+      ]
+    },
+    {
+      "study_id": "ilo-c156",
+      "design": "international labour convention",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "批准・国内法を確認",
+        "ケア形態・家族定義の制度差"
+      ]
+    },
+    {
+      "study_id": "un-lgbti-2017",
+      "design": "official business and human rights guidance",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "法的拘束力のない指針",
+        "地域・国内法・安全文脈を確認",
+        "本人の開示を前提にしない"
+      ]
+    },
+    {
+      "study_id": "un-crpd",
+      "design": "international human rights convention",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "批准・国内法を確認",
+        "合理的配慮は個別文脈で判断"
+      ]
+    },
+    {
+      "study_id": "un-guiding-2011",
+      "design": "official human rights framework",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "法的義務は国・制度により異なる",
+        "個別法的判断ではない"
+      ]
+    },
+    {
+      "study_id": "eu-equality-2000",
+      "design": "official legal instrument",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "EU法令",
+        "日本へ直接適用されない",
+        "国内実装・判例を確認"
+      ]
+    },
+    {
+      "study_id": "eu-ai-2024",
+      "design": "official legal instrument",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "EU法令",
+        "段階適用と例外を確認",
+        "日本へ直接適用されない"
+      ]
+    },
+    {
+      "study_id": "who-2022",
+      "design": "official evidence-based guideline",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "包摂・差別専用ではない",
+        "医療・国内制度を確認"
+      ]
+    },
+    {
+      "study_id": "wcag-22",
+      "design": "official technical standard",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "Webコンテンツ中心",
+        "法的適合要件は国・調達制度を確認",
+        "個別配慮を代替しない"
+      ]
+    },
+    {
+      "study_id": "ilo-data",
+      "design": "official code of practice",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "拘束的条約ではない",
+        "国内法を別途確認"
+      ]
+    },
+    {
+      "study_id": "nist-ai-100",
+      "design": "official risk management framework",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "米国の自発的枠組み",
+        "法的義務そのものではない",
+        "用途固有評価が必要"
+      ]
+    }
+  ]
+}

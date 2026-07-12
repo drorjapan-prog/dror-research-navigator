@@ -1,0 +1,512 @@
+{
+  "name": "目標設定・人事評価・フィードバック・報酬 研究の質と限界",
+  "version": "0.1",
+  "notice": "簡易評価であり正式なRoB評価ではない。",
+  "assessments": [
+    {
+      "study_id": "tubbs-1986",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "古い研究群",
+        "課題・能力・フィードバック条件",
+        "健康・倫理を別途確認"
+      ]
+    },
+    {
+      "study_id": "mento-1987",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "研究年代",
+        "複雑課題・複数成果への一般化"
+      ]
+    },
+    {
+      "study_id": "locke-2002",
+      "design": "integrative theory review",
+      "strength": "理論・測定研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "レビュー",
+        "目標外成果・倫理・健康を別途確認"
+      ]
+    },
+    {
+      "study_id": "locke-2006",
+      "design": "integrative review",
+      "strength": "理論・測定研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "短いレビュー",
+        "効果量統合ではない"
+      ]
+    },
+    {
+      "study_id": "klein-1999",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "相関研究を含む",
+        "強いコミットメントを無条件に良いとしない"
+      ]
+    },
+    {
+      "study_id": "seijts-2004",
+      "design": "experiments",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "実験課題",
+        "職場への一般化",
+        "目標文言だけで学習環境は生まれない"
+      ]
+    },
+    {
+      "study_id": "gilliland-1992",
+      "design": "experiment",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "短報・実験課題",
+        "実務の多目標へ直接一般化しない"
+      ]
+    },
+    {
+      "study_id": "schweitzer-2004",
+      "design": "experiments",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "実験課題",
+        "倫理的組織制度を別途確認"
+      ]
+    },
+    {
+      "study_id": "ordonez-2009",
+      "design": "integrative review",
+      "strength": "理論・測定研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "概念・事例を含む",
+        "目標設定全般の否定ではない"
+      ]
+    },
+    {
+      "study_id": "kerr-1975",
+      "design": "conceptual analysis",
+      "strength": "理論・測定研究",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "概念論文",
+        "個別制度の効果量ではない"
+      ]
+    },
+    {
+      "study_id": "bevan-2006",
+      "design": "policy analysis",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "特定国・公共医療",
+        "因果識別の制約"
+      ]
+    },
+    {
+      "study_id": "rodgers-1991",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "古い研究・介入の異質性",
+        "現代OKRへの直接適用不可"
+      ]
+    },
+    {
+      "study_id": "franco-2012",
+      "design": "integrative review",
+      "strength": "理論・測定研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "レビュー",
+        "制度・研究の異質性"
+      ]
+    },
+    {
+      "study_id": "landy-1980",
+      "design": "integrative review",
+      "strength": "理論・測定研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "古典レビュー",
+        "現代の継続的・AI評価を別途確認"
+      ]
+    },
+    {
+      "study_id": "viswesvaran-1996",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "研究年代",
+        "信頼性は妥当性・公平性ではない"
+      ]
+    },
+    {
+      "study_id": "scullen-2000",
+      "design": "variance decomposition and meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "評定データ",
+        "真の業績構造の仮定"
+      ]
+    },
+    {
+      "study_id": "keeping-2000",
+      "design": "measurement and field study",
+      "strength": "理論・測定研究",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "自己報告",
+        "反応が評価精度そのものではない"
+      ]
+    },
+    {
+      "study_id": "levy-2004",
+      "design": "integrative review",
+      "strength": "理論・測定研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "レビュー",
+        "効果量統合ではない"
+      ]
+    },
+    {
+      "study_id": "denisi-2017",
+      "design": "centennial review",
+      "strength": "理論・測定研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "レビュー",
+        "新しい継続的制度の長期証拠は限定"
+      ]
+    },
+    {
+      "study_id": "kluger-1996",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "多様な課題・標本",
+        "現代の常時評価へ直接適用しない"
+      ]
+    },
+    {
+      "study_id": "anseel-2015",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "相関研究中心",
+        "探索量を成長意欲の代理にしない"
+      ]
+    },
+    {
+      "study_id": "ashford-1983",
+      "design": "conceptual theory",
+      "strength": "理論・測定研究",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "概念論文",
+        "権力・安全・コストを別途確認"
+      ]
+    },
+    {
+      "study_id": "steelman-2004",
+      "design": "measurement and field studies",
+      "strength": "理論・測定研究",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "自己報告",
+        "尺度利用・翻訳条件"
+      ]
+    },
+    {
+      "study_id": "smither-2005",
+      "design": "meta-analysis and review",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "研究・結果の異質性",
+        "少人数の匿名性",
+        "査定利用との混同"
+      ]
+    },
+    {
+      "study_id": "scullen-2005",
+      "design": "simulation study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "シミュレーション",
+        "健康・協働・公平・誤分類を十分扱わない"
+      ]
+    },
+    {
+      "study_id": "jenkins-1998",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "研究年代",
+        "仕事・制度の異質性",
+        "選抜・ゲーム化"
+      ]
+    },
+    {
+      "study_id": "garbers-2014",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "異質性",
+        "業績指標・期間差",
+        "公平・健康を別途確認"
+      ]
+    },
+    {
+      "study_id": "cerasoli-2014",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "相関・実験混在",
+        "因果・制度差",
+        "内外発の二分法を避ける"
+      ]
+    },
+    {
+      "study_id": "deci-1999",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "実験・教育課題を多く含む",
+        "賃金一般の否定ではない"
+      ]
+    },
+    {
+      "study_id": "byron-2012",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "実験を多く含む",
+        "創造性の測定差"
+      ]
+    },
+    {
+      "study_id": "weibel-2010",
+      "design": "meta-analysis and review",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "公共部門中心",
+        "研究の異質性",
+        "国制度差"
+      ]
+    },
+    {
+      "study_id": "lazear-2000",
+      "design": "field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "単一企業・特定仕事",
+        "品質・健康・協働を別途確認"
+      ]
+    },
+    {
+      "study_id": "lazear-1981",
+      "design": "economic theory",
+      "strength": "理論・測定研究",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "理論モデル",
+        "協働・妨害・公平・リスクを別途評価"
+      ]
+    },
+    {
+      "study_id": "shaw-2002",
+      "design": "field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "観察研究",
+        "組織・産業文脈",
+        "因果方向"
+      ]
+    },
+    {
+      "study_id": "colella-2007",
+      "design": "integrative conceptual review",
+      "strength": "理論・測定研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "概念レビュー",
+        "国法・労使制度差"
+      ]
+    },
+    {
+      "study_id": "colquitt-2001",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "相関研究中心",
+        "公正知覚と法的公正を区別"
+      ]
+    },
+    {
+      "study_id": "castilla-2010",
+      "design": "experiments",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "実験シナリオ",
+        "実組織への一般化",
+        "性別二分法"
+      ]
+    },
+    {
+      "study_id": "joshi-2015",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "性別二分法",
+        "職種・国・時代差",
+        "交差性を十分扱わない"
+      ]
+    },
+    {
+      "study_id": "benson-2019",
+      "design": "observational field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "特定職種・企業データ",
+        "観察研究",
+        "管理能力の測定制約"
+      ]
+    },
+    {
+      "study_id": "stajkovic-1997",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "研究年代",
+        "介入パッケージ",
+        "長期・健康・公平を別途確認"
+      ]
+    },
+    {
+      "study_id": "kellogg-2020",
+      "design": "integrative review",
+      "strength": "理論・測定研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "レビュー",
+        "産業・技術差",
+        "効果量統合ではない"
+      ]
+    },
+    {
+      "study_id": "parent-parker-2022",
+      "design": "integrative conceptual review",
+      "strength": "理論・測定研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "概念・統合研究",
+        "長期介入効果は未確立"
+      ]
+    },
+    {
+      "study_id": "nist-ai-100",
+      "design": "official risk management framework",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "米国の自発的枠組み",
+        "法的義務そのものではない",
+        "用途固有評価が必要"
+      ]
+    },
+    {
+      "study_id": "ilo-data",
+      "design": "official code of practice",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "拘束的条約ではない",
+        "国内法を別途確認"
+      ]
+    },
+    {
+      "study_id": "ilo-c100",
+      "design": "international labour convention",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "批准・国内法を確認",
+        "ジェンダー二分法の歴史的文書"
+      ]
+    },
+    {
+      "study_id": "ilo-c111",
+      "design": "international labour convention",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "批准・国内法上の保護事由を確認",
+        "個別案件の法的判断ではない"
+      ]
+    },
+    {
+      "study_id": "eu-pay-2023",
+      "design": "official legal instrument",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "EU法令",
+        "日本へ直接適用されない",
+        "国内実装を確認"
+      ]
+    },
+    {
+      "study_id": "eu-platform-2024",
+      "design": "official legal instrument",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "EUプラットフォーム労働に関する法令",
+        "日本へ直接適用されない"
+      ]
+    },
+    {
+      "study_id": "who-2022",
+      "design": "official evidence-based guideline",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "人事評価専用ではない",
+        "国内制度・個別状況を確認"
+      ]
+    }
+  ]
+}

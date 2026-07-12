@@ -1,0 +1,327 @@
+{
+  "name": "リーダーシップ・管理職行動・フォロワーシップ 用語集",
+  "version": "0.1",
+  "license": "CC BY 4.0",
+  "terms": [
+    {
+      "id": "leadership",
+      "term": "リーダーシップ",
+      "definition": "共通の仕事・目的に関して影響が生じる関係的・社会的過程。"
+    },
+    {
+      "id": "leader",
+      "term": "リーダー",
+      "definition": "公式・非公式に影響や方向づけを担う人。"
+    },
+    {
+      "id": "manager",
+      "term": "管理職",
+      "definition": "制度上の権限と労務・資源・安全等の責任を持つ役割。"
+    },
+    {
+      "id": "follower",
+      "term": "フォロワー",
+      "definition": "リーダーシップ関係で影響を受け、与え、共同生成する構成員。"
+    },
+    {
+      "id": "followership",
+      "term": "フォロワーシップ",
+      "definition": "フォロワー役割・行動・関係がリーダーシップ過程を形づくること。"
+    },
+    {
+      "id": "formal-authority",
+      "term": "公式権限",
+      "definition": "組織制度により付与された決定・評価・資源配分等の権限。"
+    },
+    {
+      "id": "informal-leadership",
+      "term": "非公式リーダーシップ",
+      "definition": "公式地位によらず専門性・関係等から生じる影響。"
+    },
+    {
+      "id": "leadership-emergence",
+      "term": "リーダー出現",
+      "definition": "集団内である人がリーダーとして認識・受容される過程。"
+    },
+    {
+      "id": "leadership-effectiveness",
+      "term": "リーダー有効性",
+      "definition": "成果、健康、安全、公平、学習等に対するリーダーシップの有効性。"
+    },
+    {
+      "id": "romance-of-leadership",
+      "term": "リーダーシップのロマンス",
+      "definition": "組織成果をリーダーへ過度に帰属する認知傾向。"
+    },
+    {
+      "id": "contingency",
+      "term": "条件適合",
+      "definition": "有効な行動が課題・人・環境等の条件に依存する考え方。"
+    },
+    {
+      "id": "path-goal",
+      "term": "パス・ゴール理論",
+      "definition": "目標への経路を明確化・支援するリーダー行動の条件適合理論。"
+    },
+    {
+      "id": "transformational",
+      "term": "変革型リーダーシップ",
+      "definition": "ビジョン、刺激、模範、個別配慮等で価値・動機を変えるとされる行動群。"
+    },
+    {
+      "id": "transactional",
+      "term": "取引型リーダーシップ",
+      "definition": "期待、条件付き報酬、逸脱への対応等を中心とする行動群。"
+    },
+    {
+      "id": "contingent-reward",
+      "term": "条件付き報酬",
+      "definition": "期待と成果に応じた報酬・承認を明確に交換する行動。"
+    },
+    {
+      "id": "management-by-exception",
+      "term": "例外管理",
+      "definition": "基準からの逸脱を監視し対応する管理行動。"
+    },
+    {
+      "id": "laissez-faire",
+      "term": "放任型リーダーシップ",
+      "definition": "必要な判断・支援・責任を回避または遅延する行動。"
+    },
+    {
+      "id": "charismatic-leadership",
+      "term": "カリスマ的リーダーシップ",
+      "definition": "象徴的影響、同一化、感情的結びつきが強いリーダーシップ。"
+    },
+    {
+      "id": "authentic-leadership",
+      "term": "オーセンティック・リーダーシップ",
+      "definition": "自己認識、関係的透明性、道徳、均衡処理等を強調する概念。"
+    },
+    {
+      "id": "servant-leadership",
+      "term": "サーバント・リーダーシップ",
+      "definition": "他者の成長・福祉と共同体への責任を優先する概念。"
+    },
+    {
+      "id": "ethical-leadership",
+      "term": "倫理的リーダーシップ",
+      "definition": "規範的に適切な行為と、意思決定・強化・対話を通じた促進。"
+    },
+    {
+      "id": "empowering-leadership",
+      "term": "エンパワリング・リーダーシップ",
+      "definition": "自律支援、権限移譲、参加、能力開発を促す行動。"
+    },
+    {
+      "id": "inclusive-leadership",
+      "term": "包摂的リーダーシップ",
+      "definition": "所属感と独自性を尊重し実質参加を支える行動。"
+    },
+    {
+      "id": "leader-humility",
+      "term": "リーダーの謙虚さ",
+      "definition": "限界認識、他者の強みの評価、学習可能性を示す行動。"
+    },
+    {
+      "id": "lmx",
+      "term": "LMX",
+      "definition": "リーダーと個々の構成員の交換関係の質を扱う理論。"
+    },
+    {
+      "id": "lmx-differentiation",
+      "term": "LMX差異",
+      "definition": "同一チーム内でリーダーとの関係の質が異なる状態。"
+    },
+    {
+      "id": "employee-voice",
+      "term": "従業員の発言",
+      "definition": "改善提案や問題・危険の指摘を裁量的に表明すること。"
+    },
+    {
+      "id": "promotive-voice",
+      "term": "促進的発言",
+      "definition": "新しい案や改善可能性を提案する発言。"
+    },
+    {
+      "id": "prohibitive-voice",
+      "term": "抑制的発言",
+      "definition": "害、誤り、危険、望ましくない慣行を指摘する発言。"
+    },
+    {
+      "id": "silence",
+      "term": "沈黙",
+      "definition": "関連情報・意見・懸念を意図的に表明しないこと。"
+    },
+    {
+      "id": "psychological-safety",
+      "term": "心理的安全性",
+      "definition": "対人リスクを取っても罰・拒絶・屈辱を受けにくいという認識。"
+    },
+    {
+      "id": "leader-inclusiveness",
+      "term": "リーダー包摂性",
+      "definition": "招待、傾聴、感謝、利用可能性等で発言参加を支える行動。"
+    },
+    {
+      "id": "abusive-supervision",
+      "term": "虐待的監督",
+      "definition": "持続的な敵対的言語・非言語行動に関する部下の知覚。"
+    },
+    {
+      "id": "destructive-leadership",
+      "term": "破壊的リーダーシップ",
+      "definition": "構成員・組織・目的へ反復的・重大な害を与える影響過程。"
+    },
+    {
+      "id": "harassment",
+      "term": "ハラスメント",
+      "definition": "尊厳を侵害し身体・心理・性的・経済的害を生じ得る容認できない行為・慣行。"
+    },
+    {
+      "id": "retaliation",
+      "term": "報復",
+      "definition": "申告、問題提起、協力、権利行使に対する不利益な扱い。"
+    },
+    {
+      "id": "narcissism",
+      "term": "ナルシシズム",
+      "definition": "誇大性、賞賛欲求、権利意識等を含む特性概念。臨床診断とは別。"
+    },
+    {
+      "id": "leader-development",
+      "term": "リーダー開発",
+      "definition": "個人の知識・技能・自己認識・アイデンティティ等を発達させること。"
+    },
+    {
+      "id": "leadership-development",
+      "term": "リーダーシップ開発",
+      "definition": "関係、ネットワーク、共同影響能力を発達させること。"
+    },
+    {
+      "id": "leadership-training",
+      "term": "リーダーシップ訓練",
+      "definition": "知識・技能・行動の学習と仕事への移転を意図した介入。"
+    },
+    {
+      "id": "360-feedback",
+      "term": "360度フィードバック",
+      "definition": "上司、同僚、部下、自己等の複数視点から評定を集める方法。"
+    },
+    {
+      "id": "coaching",
+      "term": "コーチング",
+      "definition": "目標・振り返り・選択・行動を支援する発達的対話。"
+    },
+    {
+      "id": "succession",
+      "term": "後継・継承",
+      "definition": "リーダー交代に伴う権限・知識・関係・責任の移行。"
+    },
+    {
+      "id": "role-congruity",
+      "term": "役割適合性",
+      "definition": "社会的役割期待とリーダー役割期待の一致・不一致。"
+    },
+    {
+      "id": "evaluation-bias",
+      "term": "評価バイアス",
+      "definition": "同じ行動・成果でも属性や期待により評価が体系的に変わること。"
+    },
+    {
+      "id": "safety-leadership",
+      "term": "安全リーダーシップ",
+      "definition": "安全目標、遵守、参加、資源、停止を支える影響行動。"
+    },
+    {
+      "id": "e-leadership",
+      "term": "Eリーダーシップ",
+      "definition": "デジタル技術を介して影響・調整・関係形成を行う過程。"
+    },
+    {
+      "id": "algorithmic-management",
+      "term": "アルゴリズム管理",
+      "definition": "アルゴリズムで配分、監視、評価、報酬、意思決定等を行う管理。"
+    },
+    {
+      "id": "automated-monitoring",
+      "term": "自動監視",
+      "definition": "電子的手段で行動・業績・通信等を継続収集・分析する仕組み。"
+    },
+    {
+      "id": "human-oversight",
+      "term": "人による監督",
+      "definition": "自動システムを理解・監視し介入・停止・訂正できる人の役割。"
+    },
+    {
+      "id": "conflict-of-interest",
+      "term": "利益相反",
+      "definition": "役割上の判断が私的・二次的利益に影響され得る状態。"
+    },
+    {
+      "id": "accountability",
+      "term": "説明責任",
+      "definition": "判断、根拠、結果を説明し、検証・是正を受ける責任。"
+    },
+    {
+      "id": "delegation",
+      "term": "委任",
+      "definition": "権限・仕事・責任の一部を明確な範囲と支援付きで移すこと。"
+    },
+    {
+      "id": "duty-of-care",
+      "term": "注意・配慮責任",
+      "definition": "権限を持つ者が予見可能な害を防ぐため適切に行動する責任。"
+    },
+    {
+      "id": "span-of-control",
+      "term": "管理範囲",
+      "definition": "一人の管理職が直接管理・支援する構成員や業務の範囲。"
+    },
+    {
+      "id": "initiating-structure",
+      "term": "構造づくり",
+      "definition": "目標、役割、方法、基準、調整を明確にするリーダー行動。"
+    },
+    {
+      "id": "consideration",
+      "term": "配慮",
+      "definition": "構成員への尊重、信頼、支援、福祉への関心を示す行動。"
+    },
+    {
+      "id": "shared-leadership",
+      "term": "共有リーダーシップ",
+      "definition": "影響・主導の役割が複数メンバーへ分散する状態。"
+    },
+    {
+      "id": "leadership-substitutes",
+      "term": "リーダーシップ代替要因",
+      "definition": "課題・専門性・チーム・制度が一部のリーダー機能を担う条件。"
+    },
+    {
+      "id": "feedback-intervention",
+      "term": "フィードバック介入",
+      "definition": "過去・現在の遂行情報を示し次の注意・行動へ影響させる介入。"
+    },
+    {
+      "id": "reasonable-accommodation",
+      "term": "合理的配慮",
+      "definition": "障壁を除き平等な就労機会を確保するための必要・適切な変更。"
+    },
+    {
+      "id": "escalation",
+      "term": "エスカレーション",
+      "definition": "権限・専門性を超える問題を上位・専門・独立経路へ移すこと。"
+    },
+    {
+      "id": "collective-voice",
+      "term": "集団的発言",
+      "definition": "労働者が代表・組織を通じて共通の懸念や要求を表明すること。"
+    },
+    {
+      "id": "structured-selection",
+      "term": "構造化選抜",
+      "definition": "職務関連基準と同じ手続・証拠で候補者を比較する選抜方法。"
+    }
+  ]
+}

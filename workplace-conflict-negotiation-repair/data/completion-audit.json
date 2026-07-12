@@ -1,0 +1,82 @@
+{
+  "version": "0.1",
+  "release_decision": "完成条件を満たす（次分野へ移行可）",
+  "dimensions": [
+    {
+      "id": "conflict-types",
+      "status": "complete",
+      "evidence": "課題・関係・過程対立、非対称性、エスカレーション"
+    },
+    {
+      "id": "team-conditions",
+      "status": "complete",
+      "evidence": "信頼、心理的安全性、時期、仕事、業績・満足"
+    },
+    {
+      "id": "negotiation",
+      "status": "complete",
+      "evidence": "協力・競争、情報、アンカー、感情、主観的価値"
+    },
+    {
+      "id": "power-equity",
+      "status": "complete",
+      "evidence": "ジェンダー、地位、報復、代表性、集団交渉"
+    },
+    {
+      "id": "third-party",
+      "status": "complete",
+      "evidence": "仲介、調停、あっせん、仲裁、適合性、自由意思"
+    },
+    {
+      "id": "harm-boundaries",
+      "status": "complete",
+      "evidence": "無礼、いじめ、ハラスメント、暴力、差別を分離"
+    },
+    {
+      "id": "voice-reporting",
+      "status": "complete",
+      "evidence": "発言、沈黙、公益通報、労働者代表、報復防止"
+    },
+    {
+      "id": "investigation",
+      "status": "complete",
+      "evidence": "暫定保護、事実確認、守秘、適正手続、再審"
+    },
+    {
+      "id": "repair",
+      "status": "complete",
+      "evidence": "謝罪、補償、制裁、信頼、赦し、和解、分離"
+    },
+    {
+      "id": "prevention",
+      "status": "complete",
+      "evidence": "仕事量、目標、評価、管理、顧客、デジタル環境の再設計"
+    },
+    {
+      "id": "japan-international",
+      "status": "complete",
+      "evidence": "ILO C190等、日本の個別・集団紛争、ハラスメント、公益通報"
+    },
+    {
+      "id": "privacy-ai",
+      "status": "complete",
+      "evidence": "相談データ目的限定、AI誤分類、人確認、少人数保護"
+    },
+    {
+      "id": "evaluation",
+      "status": "complete",
+      "evidence": "安全、履行、再発、報復、健康、離職、到達、件数解釈"
+    },
+    {
+      "id": "openness",
+      "status": "complete",
+      "evidence": "主張・研究・用語・採否・質・更新・完成監査を公開"
+    }
+  ],
+  "remaining_non_blocking": [
+    "日本の職場調停・オンブズ・修復的実践の比較研究は追加可能",
+    "オンライン・生成AI媒介の職場対立の長期研究は発展途上",
+    "交差的差別とマイクロアグレッションの日本職域研究は追加可能",
+    "小規模事業者・顧客暴力・フリーランスの救済アクセス研究は更新優先"
+  ]
+}

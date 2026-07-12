@@ -1,0 +1,526 @@
+{
+  "name": "意思決定・判断・問題解決・認知バイアス 研究の質と限界",
+  "version": "0.1",
+  "notice": "簡易評価であり正式なRoB評価ではない。",
+  "assessments": [
+    {
+      "study_id": "simon-1955",
+      "design": "theory",
+      "strength": "理論・測定研究",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "古典理論",
+        "組織の権力・感情を十分扱わない"
+      ]
+    },
+    {
+      "study_id": "tversky-1974",
+      "design": "integrative experimental review",
+      "strength": "理論・測定研究",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "実験課題中心",
+        "バイアス一覧を個人診断へ使わない"
+      ]
+    },
+    {
+      "study_id": "kahneman-1979",
+      "design": "theory and experiments",
+      "strength": "理論・測定研究",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "記述理論",
+        "個別選択・高額実務へ直接適用しない"
+      ]
+    },
+    {
+      "study_id": "tversky-1981",
+      "design": "experiments and theory",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "実験シナリオ",
+        "現実の価値・制度を別途確認"
+      ]
+    },
+    {
+      "study_id": "evans-2008",
+      "design": "integrative review",
+      "strength": "理論・測定研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "理論間差",
+        "直観＝悪、分析＝善と単純化しない"
+      ]
+    },
+    {
+      "study_id": "gigerenzer-1996",
+      "design": "theory and simulation",
+      "strength": "理論・測定研究",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "モデル・課題依存",
+        "現実の権力・実装を別途確認"
+      ]
+    },
+    {
+      "study_id": "gigerenzer-2011",
+      "design": "integrative review",
+      "strength": "理論・測定研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "レビュー",
+        "どの環境に適合するか事前確認が必要"
+      ]
+    },
+    {
+      "study_id": "kahneman-klein-2009",
+      "design": "integrative review",
+      "strength": "理論・測定研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "統合論文",
+        "肩書・経験年数だけで熟達を推定しない"
+      ]
+    },
+    {
+      "study_id": "lipshitz-2001",
+      "design": "integrative review",
+      "strength": "理論・測定研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "レビュー",
+        "経験者判断を無批判に正当化しない"
+      ]
+    },
+    {
+      "study_id": "frederick-2005",
+      "design": "measurement and experiments",
+      "strength": "理論・測定研究",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "短い尺度",
+        "知能・人間価値の測定ではない",
+        "文化・教育差"
+      ]
+    },
+    {
+      "study_id": "kunda-1990",
+      "design": "integrative review",
+      "strength": "理論・測定研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "レビュー",
+        "動機を本人の悪意とみなさない"
+      ]
+    },
+    {
+      "study_id": "nickerson-1998",
+      "design": "integrative review",
+      "strength": "理論・測定研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "広い概念",
+        "反証だけを機械的に強制しない"
+      ]
+    },
+    {
+      "study_id": "moore-2008",
+      "design": "theory and experiments",
+      "strength": "理論・測定研究",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "実験課題",
+        "自信の強さだけで能力を評価しない"
+      ]
+    },
+    {
+      "study_id": "lerner-1999",
+      "design": "integrative review",
+      "strength": "理論・測定研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "レビュー",
+        "説明を増やせば常に改善するわけではない"
+      ]
+    },
+    {
+      "study_id": "baron-1988",
+      "design": "experiments",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "実験シナリオ",
+        "結果を無視することを意味しない"
+      ]
+    },
+    {
+      "study_id": "christensen-1991",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "実験中心",
+        "学習と責任追及を区別"
+      ]
+    },
+    {
+      "study_id": "fischhoff-1975",
+      "design": "experiments",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "実験材料",
+        "現実の責任判断へ直接適用しない"
+      ]
+    },
+    {
+      "study_id": "staw-1976",
+      "design": "experiment",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "実験シナリオ",
+        "継続が合理的な案件と区別"
+      ]
+    },
+    {
+      "study_id": "arkes-1985",
+      "design": "experiments",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "実験・学生を含む",
+        "評判・契約等の将来費用と区別"
+      ]
+    },
+    {
+      "study_id": "buehler-1994",
+      "design": "experiments and field studies",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "個人課題中心",
+        "組織の政治・依存を別途確認"
+      ]
+    },
+    {
+      "study_id": "slovic-2007",
+      "design": "integrative review",
+      "strength": "理論・測定研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "レビュー",
+        "感情を排除対象にしない"
+      ]
+    },
+    {
+      "study_id": "hoffrage-2000",
+      "design": "experimental communication research",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "短報・課題依存",
+        "数値理解を個人責任にしない"
+      ]
+    },
+    {
+      "study_id": "milkman-2009",
+      "design": "integrative review",
+      "strength": "理論・測定研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "短いレビュー",
+        "介入効果の網羅統合ではない"
+      ]
+    },
+    {
+      "study_id": "morewedge-2015",
+      "design": "training experiments and review",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "特定課題・参加者",
+        "実務への移転・組織効果を別途確認"
+      ]
+    },
+    {
+      "study_id": "rohrer-2018",
+      "design": "methodological tutorial",
+      "strength": "理論・測定研究",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "方法論チュートリアル",
+        "図を描くだけで因果が確定しない"
+      ]
+    },
+    {
+      "study_id": "mellers-2014",
+      "design": "field forecasting program",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "特殊な予測環境",
+        "選抜効果",
+        "組織判断へ直接一般化しない"
+      ]
+    },
+    {
+      "study_id": "stasser-1985",
+      "design": "group experiments",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "実験課題",
+        "実務の権力・専門性を別途確認"
+      ]
+    },
+    {
+      "study_id": "mesmer-2009",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "相関・実験混在",
+        "量と利用の質を区別"
+      ]
+    },
+    {
+      "study_id": "esser-1998",
+      "design": "integrative review",
+      "strength": "理論・測定研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "レビュー",
+        "失敗した会議へ事後ラベルを貼らない"
+      ]
+    },
+    {
+      "study_id": "diehl-1987",
+      "design": "experiments",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "実験課題",
+        "創造性の質・実装を別途確認"
+      ]
+    },
+    {
+      "study_id": "rowe-1999",
+      "design": "integrative review",
+      "strength": "理論・測定研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "研究の異質性",
+        "匿名性・選定・集約方法に依存"
+      ]
+    },
+    {
+      "study_id": "kerr-2004",
+      "design": "integrative review",
+      "strength": "理論・測定研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "レビュー",
+        "平均人数効果を処方しない"
+      ]
+    },
+    {
+      "study_id": "dedreu-2008",
+      "design": "integrative theory review",
+      "strength": "理論・測定研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "概念統合",
+        "権力・制度を別途確認"
+      ]
+    },
+    {
+      "study_id": "wagner-1994",
+      "design": "meta-analytic review",
+      "strength": "理論・測定研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "古い研究群",
+        "参加の実質・権力差を区別"
+      ]
+    },
+    {
+      "study_id": "isenberg-1986",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "実験中心",
+        "組織の決定権・責任を別途確認"
+      ]
+    },
+    {
+      "study_id": "mertens-2022",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "出版バイアス・文脈差の議論",
+        "効果の再評価が続く",
+        "権利・透明性を別途確認"
+      ]
+    },
+    {
+      "study_id": "chernev-2015",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "消費者研究中心",
+        "職場・権利選択へ直接一般化しない"
+      ]
+    },
+    {
+      "study_id": "dietvorst-2015",
+      "design": "experiments",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "実験課題",
+        "実際の高リスク導入へ直接適用しない"
+      ]
+    },
+    {
+      "study_id": "logg-2019",
+      "design": "experiments",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "実験課題",
+        "対象・専門性・説明で変化",
+        "過信を正当化しない"
+      ]
+    },
+    {
+      "study_id": "skitka-1999",
+      "design": "laboratory experiments",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "実験環境",
+        "現代AIとの差",
+        "訓練・責任設計を別途確認"
+      ]
+    },
+    {
+      "study_id": "parasuraman-2000",
+      "design": "conceptual framework",
+      "strength": "理論・測定研究",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "概念枠組み",
+        "現代AIの学習・生成特性を別途確認"
+      ]
+    },
+    {
+      "study_id": "dzindolet-2003",
+      "design": "experiments",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "実験課題",
+        "信頼と適正依存を区別"
+      ]
+    },
+    {
+      "study_id": "jarrahi-2018",
+      "design": "integrative conceptual review",
+      "strength": "理論・測定研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "概念レビュー",
+        "実証効果の統合ではない"
+      ]
+    },
+    {
+      "study_id": "selbst-2019",
+      "design": "conceptual analysis",
+      "strength": "理論・測定研究",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "概念論文",
+        "具体的な効果量・法的基準ではない"
+      ]
+    },
+    {
+      "study_id": "kellogg-2020",
+      "design": "integrative review",
+      "strength": "理論・測定研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "レビュー",
+        "産業・技術差",
+        "効果量統合ではない"
+      ]
+    },
+    {
+      "study_id": "parent-parker-2022",
+      "design": "integrative conceptual review",
+      "strength": "理論・測定研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "概念・統合研究",
+        "長期介入効果は未確立"
+      ]
+    },
+    {
+      "study_id": "nist-ai-100",
+      "design": "official risk management framework",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "米国の自発的枠組み",
+        "法的義務そのものではない",
+        "用途固有評価が必要"
+      ]
+    },
+    {
+      "study_id": "nist-ai-600",
+      "design": "official risk management profile",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "生成AIプロファイル",
+        "雇用判断専用ではない",
+        "継続更新が必要"
+      ]
+    },
+    {
+      "study_id": "ilo-data",
+      "design": "official code of practice",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "拘束的条約ではない",
+        "国内法を別途確認"
+      ]
+    },
+    {
+      "study_id": "eu-platform-2024",
+      "design": "official legal instrument",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "EUプラットフォーム労働に関する法令",
+        "日本へ直接適用されない",
+        "国内実装を確認"
+      ]
+    },
+    {
+      "study_id": "who-2022",
+      "design": "official evidence-based guideline",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "意思決定専用ではない",
+        "国内制度・個別状況を確認"
+      ]
+    }
+  ]
+}

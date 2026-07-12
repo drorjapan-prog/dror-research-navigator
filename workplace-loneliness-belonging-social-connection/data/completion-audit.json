@@ -1,0 +1,82 @@
+{
+  "version": "0.1",
+  "release_decision": "完成条件を満たす（次分野へ移行可）",
+  "dimensions": [
+    {
+      "id": "construct-boundaries",
+      "status": "complete",
+      "evidence": "孤独、客観的孤立、情緒的・社会的孤独、専門的孤立、排斥、所属を分離"
+    },
+    {
+      "id": "health-boundary",
+      "status": "complete",
+      "evidence": "一般人口の健康関連と職場因果・個人診断を分離"
+    },
+    {
+      "id": "work-outcomes",
+      "status": "complete",
+      "evidence": "業績、態度、離職、情報・学習アクセスと限界"
+    },
+    {
+      "id": "support-relations",
+      "status": "complete",
+      "evidence": "組織・上司・同僚・ピア・メンタリング・関係的エネルギー"
+    },
+    {
+      "id": "networks",
+      "status": "complete",
+      "evidence": "中心性、凝集性、橋渡し、欠測、関係労働、監視リスク"
+    },
+    {
+      "id": "work-arrangements",
+      "status": "complete",
+      "evidence": "遠隔、ハイブリッド、単独、交替、現場、非同期・同期協働"
+    },
+    {
+      "id": "transitions",
+      "status": "complete",
+      "evidence": "新人、異動、再編、休復職、退職時の接続"
+    },
+    {
+      "id": "harm-boundary",
+      "status": "complete",
+      "evidence": "排斥、無礼、いじめ、差別、心理的安全性を分離"
+    },
+    {
+      "id": "intervention",
+      "status": "complete",
+      "evidence": "仕事設計、接点、メンタリング、チーム訓練、評価・中止基準"
+    },
+    {
+      "id": "crisis-support",
+      "status": "complete",
+      "evidence": "相談、守秘、外部資源、危機紹介、支援者保護"
+    },
+    {
+      "id": "equity-accessibility",
+      "status": "complete",
+      "evidence": "勤務形態・雇用形態・言語・障害・ケア・小セル保護"
+    },
+    {
+      "id": "digital-ai-data",
+      "status": "complete",
+      "evidence": "通信メタデータ、ネットワーク分析、AI推定、目的限定、個人判断禁止"
+    },
+    {
+      "id": "law-policy",
+      "status": "complete",
+      "evidence": "日本の孤独・孤立対策推進法・全国調査・相談資源、WHO/ILO、HSE、ISO、安衛・個情法"
+    },
+    {
+      "id": "openness",
+      "status": "complete",
+      "evidence": "主張、研究、用語、採否、質、更新、方法、機械可読データを公開"
+    }
+  ],
+  "remaining_non_blocking": [
+    "日本の職場孤独・排斥の代表性ある縦断調査は追加可能",
+    "組織レベルの孤独予防介入は比較研究が限定",
+    "単独・夜勤・現場・ギグ労働の直接研究は不足",
+    "AI孤独推定・従業員ネットワーク分析の独立監査は発展途上"
+  ]
+}

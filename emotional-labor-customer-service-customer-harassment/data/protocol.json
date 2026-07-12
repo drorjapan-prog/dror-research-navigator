@@ -1,0 +1,76 @@
+{
+  "name": "感情労働・顧客対応・カスタマーハラスメント 迅速エビデンスマップ・プロトコル",
+  "version": "0.1",
+  "review_type": "感情要求、表出戦略、顧客不当扱い、第三者暴力、サービス設計、支援、権利・制度を分離した迅速エビデンスマップ",
+  "research_questions": [
+    {
+      "id": "RQ1",
+      "question": "感情労働、感情調整、表示規則、表層・深層・自然な表出をどう区別するか。"
+    },
+    {
+      "id": "RQ2",
+      "question": "感情労働の健康、態度、業績、顧客結果との関連と限界は何か。"
+    },
+    {
+      "id": "RQ3",
+      "question": "正当な苦情と、無礼、攻撃、暴力、差別・性的嫌がらせをどう区別するか。"
+    },
+    {
+      "id": "RQ4",
+      "question": "顧客等からの危害を、要員、権限、環境、サービス設計からどう予防するか。"
+    },
+    {
+      "id": "RQ5",
+      "question": "初動、退避、報告、報復防止、事後支援、再発防止をどう設計するか。"
+    },
+    {
+      "id": "RQ6",
+      "question": "公共的サービス、合理的配慮、顧客の権利と労働者保護をどう両立するか。"
+    },
+    {
+      "id": "RQ7",
+      "question": "録音、レビュー、プラットフォーム、AI検知・応答支援をどう統治するか。"
+    },
+    {
+      "id": "RQ8",
+      "question": "曝露・重大度・支援・健康・サービス成果をどう測り公開・更新するか。"
+    }
+  ],
+  "query_families": [
+    "emotional labor surface acting deep acting meta-analysis",
+    "display rules autonomy authenticity service employees",
+    "customer mistreatment aggression incivility burnout meta-analysis",
+    "client customer sexual harassment third party violence work",
+    "workplace violence intervention training systematic review",
+    "service climate customer satisfaction employee safety",
+    "customer harassment Japan law Tokyo ordinance guideline",
+    "algorithmic management customer rating gig worker harassment"
+  ],
+  "inclusion": [
+    "査読済み基礎・測定・統合研究",
+    "フィールド、日誌、実験、縦断、質的研究",
+    "顧客不当扱い、無礼、攻撃、暴力、性的嫌がらせ研究",
+    "感情労働、サービス風土、仕事要求・資源研究",
+    "暴力予防・研修・事後影響のレビュー",
+    "日本、東京都、ILO、WHO、OSHAの公式原典"
+  ],
+  "exclusion": [
+    "笑顔・共感・感情知能の万能研修",
+    "顧客属性から危険を予測するプロファイリング",
+    "正当な苦情・合理的配慮・権利行使のカスハラ認定",
+    "暴力・脅迫時にも謝罪と接客継続を強制",
+    "個人の回復力・マインドフルネスだけで危険を管理",
+    "顧客評価だけによる自動処分・契約停止",
+    "録音・顔・声・感情データの無期限・目的外利用"
+  ],
+  "process_limitations": [
+    "単一レビュアーによる迅速整理",
+    "代表文献と公式原典による非網羅整理",
+    "効果量の独自再計算・正式なバイアス評価は未実施",
+    "感情労働研究は自己報告・欧米サービス職が多い",
+    "顧客不当扱い・カスハラの定義は研究・法域・業種で異なる",
+    "介入研究は医療等に偏り訓練の確実性が限定",
+    "日本の事業主のカスタマーハラスメント防止措置義務は2026-10-01施行で、施行後の運用データは未蓄積",
+    "尺度項目、通話・映像、顧客・従業員個票、モデルは収録しない"
+  ]
+}

@@ -1,0 +1,610 @@
+{
+  "name": "柔軟勤務・リモートワーク・働く時間と境界管理 研究の質と限界",
+  "version": "0.1",
+  "notice": "簡易評価であり正式なRoB評価ではない。",
+  "assessments": [
+    {
+      "study_id": "gajendran-2007",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "研究年代",
+        "自己選択・相関研究を含む",
+        "現代ハイブリッドへの一般化"
+      ]
+    },
+    {
+      "study_id": "allen-2015",
+      "design": "systematic integrative review",
+      "strength": "理論・測定研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "レビュー",
+        "研究年代・技術変化",
+        "因果証拠の差"
+      ]
+    },
+    {
+      "study_id": "martin-2012",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "研究数・自己報告",
+        "選抜・因果方向",
+        "技術世代差"
+      ]
+    },
+    {
+      "study_id": "bloom-2015",
+      "design": "randomized field experiment",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "単一企業・職種・国",
+        "完全在宅・特定技術",
+        "一般化制約"
+      ]
+    },
+    {
+      "study_id": "bloom-2024",
+      "design": "randomized field experiment",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "単一企業・国",
+        "週2日モデル",
+        "長期・他職種への一般化"
+      ]
+    },
+    {
+      "study_id": "barrero-2023",
+      "design": "integrative empirical review",
+      "strength": "理論・測定研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "米国中心",
+        "記述・調査",
+        "急速な制度変化"
+      ]
+    },
+    {
+      "study_id": "yang-2022",
+      "design": "observational natural experiment",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "単一企業・パンデミック",
+        "通信ログは協働品質の代理",
+        "因果・一般化制約"
+      ]
+    },
+    {
+      "study_id": "choudhury-2021",
+      "design": "natural experiment",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "特定公的職種",
+        "成果測定・選抜",
+        "協働・健康を別途確認"
+      ]
+    },
+    {
+      "study_id": "golden-2008",
+      "design": "field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "観察・自己報告を含む",
+        "研究年代",
+        "職種差"
+      ]
+    },
+    {
+      "study_id": "charalampous-2019",
+      "design": "systematic review",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "研究の異質性",
+        "自己報告",
+        "技術・制度変化"
+      ]
+    },
+    {
+      "study_id": "oakman-2020",
+      "design": "rapid systematic review",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "迅速レビュー",
+        "パンデミック研究を含む",
+        "研究質・因果制約"
+      ]
+    },
+    {
+      "study_id": "wang-2021",
+      "design": "mixed-method field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "パンデミック・中国",
+        "自己報告",
+        "横断・一般化制約"
+      ]
+    },
+    {
+      "study_id": "shockley-2007",
+      "design": "field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "観察研究",
+        "利用可能性と利用を区別",
+        "職種・家庭差"
+      ]
+    },
+    {
+      "study_id": "kelly-2014",
+      "design": "cluster randomized workplace intervention",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "特定企業・職種",
+        "複合介入",
+        "組織再編の影響"
+      ]
+    },
+    {
+      "study_id": "moen-2016",
+      "design": "cluster randomized workplace intervention",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "特定企業・職種",
+        "複合介入",
+        "組織再編・追跡期間"
+      ]
+    },
+    {
+      "study_id": "baltes-1999",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "古い研究群",
+        "制度・職種差",
+        "健康・長時間日を別途確認"
+      ]
+    },
+    {
+      "study_id": "demenezes-2011",
+      "design": "systematic review",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "観察研究中心",
+        "選抜・逆因果",
+        "業績以外の権利を別途確認"
+      ]
+    },
+    {
+      "study_id": "kelliher-2010",
+      "design": "qualitative and survey study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "観察・質的研究",
+        "自己選択",
+        "英国・特定制度"
+      ]
+    },
+    {
+      "study_id": "leslie-2012",
+      "design": "field studies",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "観察・シナリオ研究",
+        "米国中心",
+        "理由推定・評価者差"
+      ]
+    },
+    {
+      "study_id": "ashforth-2000",
+      "design": "conceptual theory",
+      "strength": "理論・測定研究",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "概念論文",
+        "職場介入効果ではない",
+        "個人差・文化差"
+      ]
+    },
+    {
+      "study_id": "clark-2000",
+      "design": "conceptual theory",
+      "strength": "理論・測定研究",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "概念論文",
+        "家族像・文化差",
+        "介入効果ではない"
+      ]
+    },
+    {
+      "study_id": "kossek-2012",
+      "design": "measurement and field studies",
+      "strength": "理論・測定研究",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "自己報告",
+        "類型の固定化に注意",
+        "文化・職種差"
+      ]
+    },
+    {
+      "study_id": "allen-2014-boundary",
+      "design": "integrative review",
+      "strength": "理論・測定研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "レビュー",
+        "効果量統合ではない",
+        "家庭・文化多様性"
+      ]
+    },
+    {
+      "study_id": "wepfer-2018",
+      "design": "longitudinal field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "自己報告",
+        "観察研究",
+        "個人選好・仕事条件差"
+      ]
+    },
+    {
+      "study_id": "derks-2014",
+      "design": "diary field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "自己報告",
+        "観察研究",
+        "技術世代差"
+      ]
+    },
+    {
+      "study_id": "barber-2015",
+      "design": "measurement and field studies",
+      "strength": "理論・測定研究",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "自己報告・相関",
+        "文化・職種・技術差",
+        "個人特性化に注意"
+      ]
+    },
+    {
+      "study_id": "sonnentag-2007",
+      "design": "measurement and validation studies",
+      "strength": "理論・測定研究",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "自己報告",
+        "回復を個人責任にしない",
+        "文化・翻訳差"
+      ]
+    },
+    {
+      "study_id": "wendsche-2017",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "相関研究中心",
+        "自己報告",
+        "因果方向"
+      ]
+    },
+    {
+      "study_id": "pencavel-2015",
+      "design": "historical field analysis",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "歴史的・特定産業",
+        "現代知識労働への一般化",
+        "健康を直接扱わない"
+      ]
+    },
+    {
+      "study_id": "collewet-2017",
+      "design": "panel field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "単一企業・製造職",
+        "測定された産出中心",
+        "選抜"
+      ]
+    },
+    {
+      "study_id": "pega-2021",
+      "design": "WHO/ILO systematic analysis",
+      "strength": "理論・測定研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "曝露・疾病データの不確実性",
+        "集団推計を個人へ適用しない",
+        "基準・交絡"
+      ]
+    },
+    {
+      "study_id": "virtanen-2012",
+      "design": "prospective cohort study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "観察研究",
+        "特定職域・国",
+        "残余交絡・自己選択"
+      ]
+    },
+    {
+      "study_id": "bannai-2014",
+      "design": "systematic review",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "研究定義・質の差",
+        "観察研究中心",
+        "国・職種差"
+      ]
+    },
+    {
+      "study_id": "kecklund-2016",
+      "design": "clinical and epidemiological review",
+      "strength": "理論・測定研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "レビュー",
+        "職種・シフト設計差",
+        "個人差"
+      ]
+    },
+    {
+      "study_id": "folkard-2003",
+      "design": "integrative review",
+      "strength": "理論・測定研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "研究年代",
+        "職種・シフト差",
+        "レビュー"
+      ]
+    },
+    {
+      "study_id": "schneider-2019",
+      "design": "large-scale observational study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "観察研究",
+        "米国サービス業",
+        "自己報告・因果方向"
+      ]
+    },
+    {
+      "study_id": "lambert-2014",
+      "design": "integrative field review",
+      "strength": "理論・測定研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "米国中心",
+        "因果研究限定",
+        "制度差"
+      ]
+    },
+    {
+      "study_id": "luong-2005",
+      "design": "diary field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "小規模・自己報告",
+        "会議の質・必要性を十分扱わない"
+      ]
+    },
+    {
+      "study_id": "rogelberg-2006",
+      "design": "field studies",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "観察・自己報告",
+        "研究年代",
+        "オンライン会議への一般化"
+      ]
+    },
+    {
+      "study_id": "stutzer-2008",
+      "design": "panel and cross-sectional analysis",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "観察研究",
+        "国・交通・住居選択差",
+        "因果方向"
+      ]
+    },
+    {
+      "study_id": "ilo-c001",
+      "design": "international labour convention",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "批准・国内法・適用産業を確認",
+        "歴史的文書"
+      ]
+    },
+    {
+      "study_id": "ilo-c014",
+      "design": "international labour convention",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "批准・国内法・適用範囲を確認",
+        "歴史的文書"
+      ]
+    },
+    {
+      "study_id": "ilo-c156",
+      "design": "international labour convention",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "批准・国内法を確認",
+        "ケア形態・家族定義の制度差"
+      ]
+    },
+    {
+      "study_id": "ilo-c171",
+      "design": "international labour convention",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "批准・国内法・産業適用を確認"
+      ]
+    },
+    {
+      "study_id": "ilo-c175",
+      "design": "international labour convention",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "批准・国内法・比較対象を確認"
+      ]
+    },
+    {
+      "study_id": "ilo-c177",
+      "design": "international labour convention",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "批准・国内法を確認",
+        "雇用型テレワークと家内労働を区別"
+      ]
+    },
+    {
+      "study_id": "ilo-c190",
+      "design": "international labour convention",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "批准・国内法を確認",
+        "適用範囲・定義は制度差"
+      ]
+    },
+    {
+      "study_id": "ilo-r206",
+      "design": "international labour recommendation",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "勧告であり条約ではない",
+        "国内制度を確認"
+      ]
+    },
+    {
+      "study_id": "eu-working-time-2003",
+      "design": "official legal instrument",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "EU法令",
+        "日本へ直接適用されない",
+        "例外・国内実装を確認"
+      ]
+    },
+    {
+      "study_id": "eu-wlb-2019",
+      "design": "official legal instrument",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "EU法令",
+        "日本へ直接適用されない",
+        "国内実装を確認"
+      ]
+    },
+    {
+      "study_id": "eu-predictable-2019",
+      "design": "official legal instrument",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "EU法令",
+        "日本へ直接適用されない",
+        "国内実装・適用範囲を確認"
+      ]
+    },
+    {
+      "study_id": "eu-disconnect-2021",
+      "design": "official parliamentary resolution",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "欧州議会決議であり直接適用される法律ではない",
+        "EU文脈",
+        "国内制度を確認"
+      ]
+    },
+    {
+      "study_id": "eu-platform-2024",
+      "design": "official legal instrument",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "EUプラットフォーム労働に関する法令",
+        "日本へ直接適用されない",
+        "国内実装を確認"
+      ]
+    },
+    {
+      "study_id": "who-2022",
+      "design": "official evidence-based guideline",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "柔軟勤務専用ではない",
+        "医療・国内制度を確認"
+      ]
+    },
+    {
+      "study_id": "ilo-data",
+      "design": "official code of practice",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "拘束的条約ではない",
+        "国内法を別途確認"
+      ]
+    },
+    {
+      "study_id": "nist-ai-100",
+      "design": "official risk management framework",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "米国の自発的枠組み",
+        "法的義務そのものではない",
+        "用途固有評価が必要"
+      ]
+    }
+  ]
+}

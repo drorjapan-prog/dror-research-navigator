@@ -1,0 +1,1990 @@
+{
+  "name": "職場の孤独・所属感・社会的つながり 主張レジスター",
+  "version": "0.1",
+  "license": "CC BY 4.0",
+  "claims": [
+    {
+      "id": "C01",
+      "claim": "孤独は望む関係と実際の関係の主観的なずれであり、一人でいる時間や人付き合いの少なさそのものではない。",
+      "label": "A",
+      "directness": "基礎・隣接研究",
+      "relationship": "概念境界",
+      "scope": [
+        "職場の孤独・所属感・社会的つながり"
+      ],
+      "sources": [
+        "cacioppo-2009",
+        "russell-1996",
+        "hawkley-2010"
+      ],
+      "limits": [
+        "職場固有性は別評価",
+        "本人の意味づけを確認"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C02",
+      "claim": "社会的孤立は接触・関係・参加の客観的な乏しさを指し、孤独と重なるが同一ではない。",
+      "label": "A",
+      "directness": "基礎・隣接研究",
+      "relationship": "概念境界",
+      "scope": [
+        "職場の孤独・所属感・社会的つながり"
+      ],
+      "sources": [
+        "steptoe-2013",
+        "shankar-2011",
+        "lubben-2006"
+      ],
+      "limits": [
+        "測定する関係範囲で変わる"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C03",
+      "claim": "情緒的孤独と社会的孤独を区別し、親密な理解者の不足とネットワーク・集団参加の不足を一つに潰さない。",
+      "label": "A",
+      "directness": "基礎・隣接研究",
+      "relationship": "孤独の次元",
+      "scope": [
+        "職場の孤独・所属感・社会的つながり"
+      ],
+      "sources": [
+        "gierveld-2006"
+      ],
+      "limits": [
+        "尺度・文化による構造差"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C04",
+      "claim": "職場孤独は仕事上の関係の質・利用可能性への主観的評価であり、一般的孤独や抑うつ、専門的孤立と区別する。",
+      "label": "A",
+      "directness": "職場直接研究",
+      "relationship": "職場孤独の定義",
+      "scope": [
+        "職場の孤独・所属感・社会的つながり"
+      ],
+      "sources": [
+        "ozcelik-2018",
+        "golden-2008",
+        "cacioppo-2006"
+      ],
+      "limits": [
+        "尺度間差",
+        "横断自己報告"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C05",
+      "claim": "専門的孤立は情報、学習、可視性、発達機会から切り離される経験で、親密さの不足だけを意味しない。",
+      "label": "A",
+      "directness": "職場直接研究",
+      "relationship": "専門的孤立",
+      "scope": [
+        "職場の孤独・所属感・社会的つながり"
+      ],
+      "sources": [
+        "cooper-2002",
+        "golden-2008"
+      ],
+      "limits": [
+        "遠隔勤務以外にも生じる"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C06",
+      "claim": "職場排斥は無視、会話・情報・機会からの除外等であり、明示的拒絶や害意が確認できる場合だけに限定しない。",
+      "label": "A",
+      "directness": "職場直接研究",
+      "relationship": "排斥の定義",
+      "scope": [
+        "職場の孤独・所属感・社会的つながり"
+      ],
+      "sources": [
+        "ferris-2008",
+        "robinson-2013"
+      ],
+      "limits": [
+        "意図と影響を区別",
+        "通常の業務境界を確認"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C07",
+      "claim": "所属感は受け入れられ価値ある成員だと感じる経験で、忠誠、服従、組織同一化、エンゲージメントと同一ではない。",
+      "label": "A",
+      "directness": "混合",
+      "relationship": "所属の境界",
+      "scope": [
+        "職場の孤独・所属感・社会的つながり"
+      ],
+      "sources": [
+        "malone-2012",
+        "jena-2018",
+        "riketta-2005",
+        "kahn-1990"
+      ],
+      "limits": [
+        "尺度の職場直接性が異なる"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C08",
+      "claim": "包摂は所属だけでなく独自性を保てることを含み、同化や自己開示を強制して作らない。",
+      "label": "A",
+      "directness": "包摂隣接研究",
+      "relationship": "包摂の境界",
+      "scope": [
+        "職場の孤独・所属感・社会的つながり"
+      ],
+      "sources": [
+        "shore-2011"
+      ],
+      "limits": [
+        "概念モデル",
+        "文化・属性差"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C09",
+      "claim": "心理的安全性は対人的リスクのある発言が罰されにくい認知であり、親しさ、快適さ、孤独の低さとは別である。",
+      "label": "A",
+      "directness": "チーム隣接研究",
+      "relationship": "心理的安全性との境界",
+      "scope": [
+        "職場の孤独・所属感・社会的つながり"
+      ],
+      "sources": [
+        "edmondson-1999",
+        "frazier-2017"
+      ],
+      "limits": [
+        "チーム・個人水準を分ける"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C10",
+      "claim": "組織支援知覚、上司支援、同僚支援、実際に利用できた支援を区別して測る。",
+      "label": "A",
+      "directness": "支援直接研究",
+      "relationship": "支援の発生源",
+      "scope": [
+        "職場の孤独・所属感・社会的つながり"
+      ],
+      "sources": [
+        "chiaburu-2008",
+        "rhoades-2002",
+        "kurtessis-2017"
+      ],
+      "limits": [
+        "知覚と実装の差",
+        "発生源間の重複"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C11",
+      "claim": "一人で集中する選択や低い社交欲求を問題化せず、苦痛、望まない切断、仕事上の不利益、支援への到達を確認する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "選択と苦痛",
+      "scope": [
+        "職場の孤独・所属感・社会的つながり"
+      ],
+      "sources": [
+        "baumeister-1995",
+        "cacioppo-2009"
+      ],
+      "limits": [
+        "個人差・神経多様性・文化差"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C12",
+      "claim": "独居、遠隔勤務、内向性、障害、年齢等から孤独を推定せず、本人の回答と具体的な接続条件を確認する。",
+      "label": "不支持",
+      "directness": "予防原則に基づく推論",
+      "relationship": "属性推定の禁止",
+      "scope": [
+        "職場の孤独・所属感・社会的つながり"
+      ],
+      "sources": [
+        "russell-1996",
+        "steptoe-2013",
+        "japan-appi"
+      ],
+      "limits": [
+        "代理差別・誤分類",
+        "属性は原因でない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C13",
+      "claim": "孤独と孤立を健康診断・人事評価・配置適性の秘密スコアとして利用しない。",
+      "label": "不支持",
+      "directness": "公式指針・制度",
+      "relationship": "用途制限",
+      "scope": [
+        "職場の孤独・所属感・社会的つながり"
+      ],
+      "sources": [
+        "japan-appi",
+        "who-work-2022"
+      ],
+      "limits": [
+        "要配慮情報・雇用判断の適法性を確認"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C14",
+      "claim": "孤独・孤立と死亡、心血管、抑うつ等の関連は重要だが、一般人口の平均関連を個人の予後や職場原因へ直接変換しない。",
+      "label": "A",
+      "directness": "基礎・隣接研究",
+      "relationship": "健康関連の限界",
+      "scope": [
+        "職場の孤独・所属感・社会的つながり"
+      ],
+      "sources": [
+        "holt-2010",
+        "holt-2015",
+        "valtorta-2016",
+        "leigh-hunt-2017"
+      ],
+      "limits": [
+        "観察研究",
+        "職場直接性なし",
+        "個人予測不可"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C15",
+      "claim": "孤独と抑うつ症状は関連するが同じ概念ではなく、孤独尺度で精神疾患を診断しない。",
+      "label": "A",
+      "directness": "基礎・隣接研究",
+      "relationship": "診断境界",
+      "scope": [
+        "職場の孤独・所属感・社会的つながり"
+      ],
+      "sources": [
+        "cacioppo-2006",
+        "hawkley-2010"
+      ],
+      "limits": [
+        "高齢者研究を含む",
+        "診断面接でない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C16",
+      "claim": "客観的孤立と主観的孤独が異なる健康指標と関連し得るため、一方だけで全体を代表させない。",
+      "label": "A",
+      "directness": "基礎・隣接研究",
+      "relationship": "健康経路",
+      "scope": [
+        "職場の孤独・所属感・社会的つながり"
+      ],
+      "sources": [
+        "steptoe-2013",
+        "shankar-2011"
+      ],
+      "limits": [
+        "高齢者・観察研究",
+        "職場原因でない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C17",
+      "claim": "職場孤独は平均的に業績・コミットメント等の不利と関連するが、「孤独な人は低業績」と個人処分に使わない。",
+      "label": "A",
+      "directness": "職場直接研究",
+      "relationship": "仕事結果",
+      "scope": [
+        "職場の孤独・所属感・社会的つながり"
+      ],
+      "sources": [
+        "ozcelik-2018"
+      ],
+      "limits": [
+        "観察研究中心",
+        "逆因果・第三変数",
+        "評価用途禁止"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C18",
+      "claim": "職場排斥は態度、健康、行動の不利と関連するが、被排斥者の性格や反応だけを原因としない。",
+      "label": "A",
+      "directness": "職場直接研究",
+      "relationship": "排斥の結果",
+      "scope": [
+        "職場の孤独・所属感・社会的つながり"
+      ],
+      "sources": [
+        "bedi-2021",
+        "robinson-2013",
+        "balliet-2013"
+      ],
+      "limits": [
+        "自己報告・横断研究が多い",
+        "実験は短期反応",
+        "組織条件を含む"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C19",
+      "claim": "排斥とハラスメントはともに害を持ち得るが、無注意・曖昧な排除と意図的攻撃を同一の調査・対応にしない。",
+      "label": "A",
+      "directness": "職場直接研究",
+      "relationship": "危害類型",
+      "scope": [
+        "職場の孤独・所属感・社会的つながり"
+      ],
+      "sources": [
+        "oreilly-2015",
+        "williams-2007",
+        "nielsen-2012"
+      ],
+      "limits": [
+        "重大度・反復・権力差を確認"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C20",
+      "claim": "無礼、排斥、いじめ、差別、心理的安全性の低さを別項目で測り、件数の足し算だけで職場を順位づけない。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "測定境界",
+      "scope": [
+        "職場の孤独・所属感・社会的つながり"
+      ],
+      "sources": [
+        "cortina-2001",
+        "ferris-2008",
+        "nielsen-2012",
+        "frazier-2017"
+      ],
+      "limits": [
+        "構成概念重複",
+        "重大度を保持"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C21",
+      "claim": "孤独な人が社会的手掛かりを脅威寄りに解釈する可能性を、本人の責任や「考え方の癖」だけに還元しない。",
+      "label": "A",
+      "directness": "基礎・隣接研究",
+      "relationship": "フィードバック過程",
+      "scope": [
+        "職場の孤独・所属感・社会的つながり"
+      ],
+      "sources": [
+        "cacioppo-2009",
+        "hawkley-2010"
+      ],
+      "limits": [
+        "職場直接性なし",
+        "組織の排斥を見逃さない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C22",
+      "claim": "孤独への介入は平均効果が一様でなく、交流回数を増やすだけでなく認知、関係の質、参加障壁、仕事設計を分ける。",
+      "label": "A",
+      "directness": "基礎・隣接研究",
+      "relationship": "介入効果",
+      "scope": [
+        "職場の孤独・所属感・社会的つながり"
+      ],
+      "sources": [
+        "masi-2011"
+      ],
+      "limits": [
+        "職場研究が限定",
+        "小規模・異質性"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C23",
+      "claim": "職場のつながり施策を必須の飲み会・雑談・自己開示へ置き換えない。",
+      "label": "不支持",
+      "directness": "予防原則に基づく推論",
+      "relationship": "強制的社交",
+      "scope": [
+        "職場の孤独・所属感・社会的つながり"
+      ],
+      "sources": [
+        "shore-2011",
+        "who-work-2022"
+      ],
+      "limits": [
+        "宗教・障害・ケア・回復時間・ハラスメント歴への不利益"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C24",
+      "claim": "職場友人の数やチャット量をKPI化すると、関係の演技、監視、排除の固定化を招き得るため採用しない。",
+      "label": "不支持",
+      "directness": "予防原則に基づく推論",
+      "relationship": "関係KPI",
+      "scope": [
+        "職場の孤独・所属感・社会的つながり"
+      ],
+      "sources": [
+        "yang-2022",
+        "japan-appi"
+      ],
+      "limits": [
+        "通信量は関係の質でない",
+        "目的外監視"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C25",
+      "claim": "ネットワーク中心性を価値・協働性・将来性のスコアにせず、仕事構造、地位、在籍期間、勤務形態、ケア責任を併せて読む。",
+      "label": "不支持",
+      "directness": "ネットワーク隣接研究",
+      "relationship": "中心性の悪用",
+      "scope": [
+        "職場の孤独・所属感・社会的つながり"
+      ],
+      "sources": [
+        "brass-1985",
+        "sparrowe-2001",
+        "brass-2004"
+      ],
+      "limits": [
+        "観察データ",
+        "構造的不平等",
+        "再特定"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C26",
+      "claim": "橋渡し役は知識やアイデアをつなぎ得るが、見えない調整負担・中断・燃え尽きを一人へ集中させない。",
+      "label": "A",
+      "directness": "ネットワーク隣接研究",
+      "relationship": "橋渡し",
+      "scope": [
+        "職場の孤独・所属感・社会的つながり"
+      ],
+      "sources": [
+        "burt-2004",
+        "reagans-2003"
+      ],
+      "limits": [
+        "健康負担の直接検証は限定",
+        "役割交代が必要"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C27",
+      "claim": "凝集性の高い集団は知識移転を助け得る一方、外部者排除、同調圧力、情報の偏りを別に点検する。",
+      "label": "A",
+      "directness": "ネットワーク隣接研究",
+      "relationship": "凝集性の両面",
+      "scope": [
+        "職場の孤独・所属感・社会的つながり"
+      ],
+      "sources": [
+        "reagans-2003",
+        "kilduff-2010",
+        "shore-2011"
+      ],
+      "limits": [
+        "成果と権利を分ける"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C28",
+      "claim": "ネットワーク分析では欠測者、周辺者、短時間・夜勤・委託・遠隔者が見えにくいこと自体を結果として扱う。",
+      "label": "実務原則",
+      "directness": "ネットワーク隣接研究",
+      "relationship": "欠測と周辺化",
+      "scope": [
+        "職場の孤独・所属感・社会的つながり"
+      ],
+      "sources": [
+        "brass-2004",
+        "kilduff-2010"
+      ],
+      "limits": [
+        "完全回答圧力を避ける",
+        "小集団再特定"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C29",
+      "claim": "通信メタデータから関係の質、孤独、信頼、感情を秘密推定しない。",
+      "label": "不支持",
+      "directness": "予防原則に基づく推論",
+      "relationship": "デジタル推定",
+      "scope": [
+        "職場の孤独・所属感・社会的つながり"
+      ],
+      "sources": [
+        "yang-2022",
+        "japan-appi"
+      ],
+      "limits": [
+        "妥当性不足",
+        "監視萎縮",
+        "目的限定"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C30",
+      "claim": "遠隔勤務は孤独を一律に生むわけではなく、強度、選択、仕事相互依存、対面・非同期接点、生活状況で経験が変わる。",
+      "label": "A",
+      "directness": "職場直接研究",
+      "relationship": "遠隔勤務の異質性",
+      "scope": [
+        "職場の孤独・所属感・社会的つながり"
+      ],
+      "sources": [
+        "allen-2015",
+        "wang-2021",
+        "cooper-2002"
+      ],
+      "limits": [
+        "パンデミックと平時を分ける",
+        "選択効果"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C31",
+      "claim": "専門的孤立は遠隔勤務の業績・離職意向と関連し得るため、出社日数だけでなく情報・学習・可視性へのアクセスを設計する。",
+      "label": "A",
+      "directness": "職場直接研究",
+      "relationship": "遠隔と専門的孤立",
+      "scope": [
+        "職場の孤独・所属感・社会的つながり"
+      ],
+      "sources": [
+        "golden-2008",
+        "cooper-2002"
+      ],
+      "limits": [
+        "古い技術環境",
+        "観察研究"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C32",
+      "claim": "全社遠隔化後の通信ネットワークのサイロ化という一社研究を、在宅勤務一般の失敗証明にしない。",
+      "label": "A",
+      "directness": "職場直接研究",
+      "relationship": "デジタル協働",
+      "scope": [
+        "職場の孤独・所属感・社会的つながり"
+      ],
+      "sources": [
+        "yang-2022"
+      ],
+      "limits": [
+        "単一企業・パンデミック",
+        "通信量と孤独は別"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C33",
+      "claim": "ハイブリッド勤務の離職低下・業績維持という実験結果を、全職種・完全在宅・孤独対策へ一般化しない。",
+      "label": "A",
+      "directness": "職場直接研究",
+      "relationship": "ハイブリッド制度",
+      "scope": [
+        "職場の孤独・所属感・社会的つながり"
+      ],
+      "sources": [
+        "bloom-2024"
+      ],
+      "limits": [
+        "単一企業・大卒者",
+        "孤独の直接測定でない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C34",
+      "claim": "一律出社は孤独対策ではなく、誰と何のために協働し、遠隔者・現場職・短時間勤務者へどう同等アクセスを作るかを設計する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "勤務場所設計",
+      "scope": [
+        "職場の孤独・所属感・社会的つながり"
+      ],
+      "sources": [
+        "allen-2015",
+        "bloom-2024",
+        "wang-2021"
+      ],
+      "limits": [
+        "職種・障害・ケア・通勤差"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C35",
+      "claim": "出社していても単独配置、サイロ、競争、いじめ、言語・地位差により孤独・孤立は起こり得る。",
+      "label": "A",
+      "directness": "混合",
+      "relationship": "物理的近接の限界",
+      "scope": [
+        "職場の孤独・所属感・社会的つながり"
+      ],
+      "sources": [
+        "robinson-2013",
+        "bedi-2021",
+        "brass-1985"
+      ],
+      "limits": [
+        "直接的な因果比較は限定"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C36",
+      "claim": "単独勤務、夜勤、出張、訪問、現場、ギグ・委託、海外赴任を「遠隔勤務以外の孤立リスク」として点検する。",
+      "label": "実務原則",
+      "directness": "予防原則に基づく推論",
+      "relationship": "対象範囲",
+      "scope": [
+        "職場の孤独・所属感・社会的つながり"
+      ],
+      "sources": [
+        "hse-standards",
+        "who-ilo-2022"
+      ],
+      "limits": [
+        "業種別リスク・契約責任を確認"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C37",
+      "claim": "新人の所属感を歓迎行事だけで測らず、質問先、役割情報、仕事機会、フィードバック、非公式ルールへのアクセスを追う。",
+      "label": "A",
+      "directness": "職場直接研究",
+      "relationship": "新人社会化",
+      "scope": [
+        "職場の孤独・所属感・社会的つながり"
+      ],
+      "sources": [
+        "morrison-1993",
+        "major-1995"
+      ],
+      "limits": [
+        "新人期研究",
+        "過剰同化を避ける"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C38",
+      "claim": "メンタリングは平均的に有益な関連を持つが、マッチング、権力差、守秘、離脱、代替相談先を設計する。",
+      "label": "A",
+      "directness": "職場直接研究",
+      "relationship": "メンタリング",
+      "scope": [
+        "職場の孤独・所属感・社会的つながり"
+      ],
+      "sources": [
+        "eby-2008",
+        "underhill-2006"
+      ],
+      "limits": [
+        "選択効果",
+        "害・失敗の過少報告",
+        "一対一依存"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C39",
+      "claim": "バディ制度を一人の善意へ依存させず、時間・役割・引継ぎ・複数接点を保障する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "バディ設計",
+      "scope": [
+        "職場の孤独・所属感・社会的つながり"
+      ],
+      "sources": [
+        "morrison-1993",
+        "eby-2008"
+      ],
+      "limits": [
+        "直接的比較試験は限定"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C40",
+      "claim": "同僚支援は仕事ストレス過程と関連するが、心理支援だけで過大な仕事要求や排斥を残さない。",
+      "label": "A",
+      "directness": "支援直接研究",
+      "relationship": "支援とストレス",
+      "scope": [
+        "職場の孤独・所属感・社会的つながり"
+      ],
+      "sources": [
+        "viswesvaran-1999",
+        "chiaburu-2008",
+        "cohen-1985",
+        "feeney-2015"
+      ],
+      "limits": [
+        "職場外・相関研究を含む",
+        "一次予防の代替でない",
+        "必要と支援種類の適合"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C41",
+      "claim": "組織支援知覚は公正、上司、仕事条件等と関連するため、感謝メッセージより実際の資源・裁量・保護を整える。",
+      "label": "A",
+      "directness": "支援直接研究",
+      "relationship": "組織支援",
+      "scope": [
+        "職場の孤独・所属感・社会的つながり"
+      ],
+      "sources": [
+        "kurtessis-2017",
+        "rhoades-2002"
+      ],
+      "limits": [
+        "知覚と制度の因果方向"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C42",
+      "claim": "支援は「困ったら声を上げて」だけでなく、相談先の認知、応答時間、利用可能時間、費用、言語、守秘、報復不安を測る。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "支援アクセス",
+      "scope": [
+        "職場の孤独・所属感・社会的つながり"
+      ],
+      "sources": [
+        "mhlw-kokoro",
+        "who-work-2022",
+        "cao-portal"
+      ],
+      "limits": [
+        "利用件数ゼロは安全の証拠でない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C43",
+      "claim": "支援提供者の負荷・技能・監督・二次受傷も管理し、ピアサポーターを無償の治療者にしない。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "支援者保護",
+      "scope": [
+        "職場の孤独・所属感・社会的つながり"
+      ],
+      "sources": [
+        "who-work-2022",
+        "who-ilo-2022"
+      ],
+      "limits": [
+        "専門職との境界",
+        "守秘・緊急対応"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C44",
+      "claim": "危機、自傷他害、虐待、DV、住居・生活困窮等が疑われるときは、職場内の交流施策で抱えず適切な緊急・専門支援へ接続する。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "危機接続",
+      "scope": [
+        "職場の孤独・所属感・社会的つながり"
+      ],
+      "sources": [
+        "cao-portal",
+        "mhlw-kokoro"
+      ],
+      "limits": [
+        "地域・緊急度で窓口が異なる",
+        "本人の安全と選択"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C45",
+      "claim": "相談を受けた管理職は診断・治療をせず、傾聴、安全確認、業務調整、専門窓口への接続、フォローを担う。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "管理職の役割",
+      "scope": [
+        "職場の孤独・所属感・社会的つながり"
+      ],
+      "sources": [
+        "who-work-2022",
+        "mhlw-kokoro"
+      ],
+      "limits": [
+        "緊急時手順",
+        "守秘の限界説明"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C46",
+      "claim": "「孤独」という言葉を使わない人にも、情報から外れる、助けを求めにくい、相談相手がいない等の具体的経験で尋ねる。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "非ラベル測定",
+      "scope": [
+        "職場の孤独・所属感・社会的つながり"
+      ],
+      "sources": [
+        "russell-1996",
+        "ferris-2008",
+        "golden-2008"
+      ],
+      "limits": [
+        "誘導・病理化を避ける"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C47",
+      "claim": "尺度得点だけでなく、いつ・どの仕事・どの関係・どの媒体で起き、本人が何を望むかを確認する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "文脈測定",
+      "scope": [
+        "職場の孤独・所属感・社会的つながり"
+      ],
+      "sources": [
+        "russell-1996",
+        "jena-2018",
+        "ozcelik-2018"
+      ],
+      "limits": [
+        "プライバシー",
+        "面談強制を避ける"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C48",
+      "claim": "測定は匿名集計を原則とし、小集団・ネットワーク名簿・自由記述からの再特定を防ぐ。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "データ保護",
+      "scope": [
+        "職場の孤独・所属感・社会的つながり"
+      ],
+      "sources": [
+        "japan-appi",
+        "kilduff-2010"
+      ],
+      "limits": [
+        "法的根拠・目的・保存期間を確認"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C49",
+      "claim": "孤独調査への回答拒否・未回答を低関与と評価せず、未回答が集中する勤務形態や群を点検する。",
+      "label": "実務原則",
+      "directness": "予防原則に基づく推論",
+      "relationship": "欠測",
+      "scope": [
+        "職場の孤独・所属感・社会的つながり"
+      ],
+      "sources": [
+        "japan-appi",
+        "brass-2004"
+      ],
+      "limits": [
+        "任意性",
+        "小セル保護"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C50",
+      "claim": "個人別孤独スコアを上司へ返さず、本人向け任意フィードバックと組織改善用集計を分ける。",
+      "label": "不支持",
+      "directness": "公式指針・制度",
+      "relationship": "個人フィードバック",
+      "scope": [
+        "職場の孤独・所属感・社会的つながり"
+      ],
+      "sources": [
+        "japan-appi",
+        "who-work-2022"
+      ],
+      "limits": [
+        "同意・利用目的・要配慮情報"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C51",
+      "claim": "相談件数、交流参加率、チャット量の増減を単独の成功指標にしない。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "評価指標",
+      "scope": [
+        "職場の孤独・所属感・社会的つながり"
+      ],
+      "sources": [
+        "cao-survey",
+        "yang-2022"
+      ],
+      "limits": [
+        "認知向上で相談が増える",
+        "量と質を分ける"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C52",
+      "claim": "成果は所属、孤独、排斥、支援アクセス、情報・機会、健康、欠勤・離職、仕事の質を多次元で追う。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "多次元成果",
+      "scope": [
+        "職場の孤独・所属感・社会的つながり"
+      ],
+      "sources": [
+        "ozcelik-2018",
+        "bedi-2021",
+        "kurtessis-2017"
+      ],
+      "limits": [
+        "遠い成果ほど他要因が多い"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C53",
+      "claim": "平均だけでなく勤務形態、時間帯、雇用形態、拠点、職種、在籍期間、介護・障害等によるアクセス差を安全に点検する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "分布と公平性",
+      "scope": [
+        "職場の孤独・所属感・社会的つながり"
+      ],
+      "sources": [
+        "cooper-2002",
+        "shore-2011",
+        "japan-appi"
+      ],
+      "limits": [
+        "属性収集の必要性・任意性",
+        "小セル保護"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C54",
+      "claim": "所属感の上昇と同時に異論、内部告発、境界設定、休暇取得が減っていないかを確認する。",
+      "label": "実務原則",
+      "directness": "チーム隣接研究",
+      "relationship": "同調圧力",
+      "scope": [
+        "職場の孤独・所属感・社会的つながり"
+      ],
+      "sources": [
+        "shore-2011",
+        "edmondson-1999"
+      ],
+      "limits": [
+        "所属と服従を分ける"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C55",
+      "claim": "高い凝集性や組織同一化を無条件に善とせず、外集団排除、沈黙、過剰労働、倫理的逸脱を点検する。",
+      "label": "実務原則",
+      "directness": "基礎・隣接研究",
+      "relationship": "同一化の両面",
+      "scope": [
+        "職場の孤独・所属感・社会的つながり"
+      ],
+      "sources": [
+        "ashforth-1989",
+        "riketta-2005",
+        "reagans-2003"
+      ],
+      "limits": [
+        "直接的な害の効果量は限定"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C56",
+      "claim": "上司部下関係の質に差があるとき、内集団への近さを成果・情報・機会の条件にしない。",
+      "label": "A",
+      "directness": "リーダーシップ隣接研究",
+      "relationship": "関係差別化",
+      "scope": [
+        "職場の孤独・所属感・社会的つながり"
+      ],
+      "sources": [
+        "graen-1995",
+        "dulebohn-2012"
+      ],
+      "limits": [
+        "関係の質とえこひいきを区別"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C57",
+      "claim": "リーダーの包摂的な招請は地位差のある専門職チームの発言を支え得るが、発言後の扱いと資源配分まで追う。",
+      "label": "A",
+      "directness": "チーム隣接研究",
+      "relationship": "包摂的リーダーシップ",
+      "scope": [
+        "職場の孤独・所属感・社会的つながり"
+      ],
+      "sources": [
+        "nembhard-2006",
+        "edmondson-1999",
+        "carmeli-2009"
+      ],
+      "limits": [
+        "医療・観察研究を含む",
+        "声掛けだけでない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C58",
+      "claim": "肯定的相互作用や関係的エネルギーは活力・業績と関連し得るが、明るさや社交性を評価項目にしない。",
+      "label": "A",
+      "directness": "職場直接研究",
+      "relationship": "関係的エネルギー",
+      "scope": [
+        "職場の孤独・所属感・社会的つながり"
+      ],
+      "sources": [
+        "heaphy-2008",
+        "owens-2016"
+      ],
+      "limits": [
+        "観察・概念研究",
+        "感情労働化を避ける"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C59",
+      "claim": "受益者との接触は仕事の意味を高め得るが、第三者対応や感情労働の危険を伴う職務では接触量を一律に増やさない。",
+      "label": "A",
+      "directness": "仕事設計隣接研究",
+      "relationship": "関係的仕事設計",
+      "scope": [
+        "職場の孤独・所属感・社会的つながり"
+      ],
+      "sources": [
+        "grant-2007"
+      ],
+      "limits": [
+        "概念モデル",
+        "安全・回復を別設計"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C60",
+      "claim": "社会関係に基づく自己定義は動機や意味に関わる一方、関係終了、役割変更、境界侵害への備えを持つ。",
+      "label": "A",
+      "directness": "基礎・隣接研究",
+      "relationship": "関係的同一性",
+      "scope": [
+        "職場の孤独・所属感・社会的つながり"
+      ],
+      "sources": [
+        "sluss-2007"
+      ],
+      "limits": [
+        "概念論",
+        "関係依存を美化しない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C61",
+      "claim": "職場でのつながりを家族のような無限定の忠誠や私生活共有として要求しない。",
+      "label": "不支持",
+      "directness": "予防原則に基づく推論",
+      "relationship": "境界侵害",
+      "scope": [
+        "職場の孤独・所属感・社会的つながり"
+      ],
+      "sources": [
+        "sluss-2007",
+        "ashforth-1989"
+      ],
+      "limits": [
+        "雇用関係・権力差",
+        "離職の自由"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C62",
+      "claim": "会議は参加者数でなく、目的、必要役割、情報共有、意思決定、非同期代替、発言分布を設計する。",
+      "label": "実務原則",
+      "directness": "チーム隣接研究",
+      "relationship": "会議・情報共有",
+      "scope": [
+        "職場の孤独・所属感・社会的つながり"
+      ],
+      "sources": [
+        "mesmer-2009"
+      ],
+      "limits": [
+        "情報量と品質を分ける"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C63",
+      "claim": "雑談の代わりに、業務上の相談、学習、レビュー、共同作業など目的のある低負担接点も用意する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "接点ポートフォリオ",
+      "scope": [
+        "職場の孤独・所属感・社会的つながり"
+      ],
+      "sources": [
+        "reagans-2003",
+        "morrison-1993"
+      ],
+      "limits": [
+        "社交を好まない人への配慮"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C64",
+      "claim": "非同期の質問・相談・意思決定記録を整え、時間帯・拠点・言語差で関係資源から外れないようにする。",
+      "label": "実務原則",
+      "directness": "職場直接研究",
+      "relationship": "非同期アクセス",
+      "scope": [
+        "職場の孤独・所属感・社会的つながり"
+      ],
+      "sources": [
+        "yang-2022",
+        "wang-2021"
+      ],
+      "limits": [
+        "情報過多・常時接続を避ける"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C65",
+      "claim": "集中時間と接続時間を両立させ、常時オンラインを所属の証拠にしない。",
+      "label": "実務原則",
+      "directness": "職場直接研究",
+      "relationship": "接続と集中",
+      "scope": [
+        "職場の孤独・所属感・社会的つながり"
+      ],
+      "sources": [
+        "wang-2021",
+        "allen-2015"
+      ],
+      "limits": [
+        "仕事相互依存・時差を考慮"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C66",
+      "claim": "役割・案件・顧客・学習機会の配分を可視化し、非公式な親密さだけで重要機会が決まらないようにする。",
+      "label": "実務原則",
+      "directness": "ネットワーク隣接研究",
+      "relationship": "機会配分",
+      "scope": [
+        "職場の孤独・所属感・社会的つながり"
+      ],
+      "sources": [
+        "brass-1985",
+        "burt-2004",
+        "shore-2011"
+      ],
+      "limits": [
+        "可視化による再特定・ゲーム化"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C67",
+      "claim": "橋渡し・世話・オンボーディング・通訳等の関係労働を記録し、時間・評価・報酬・交代を付ける。",
+      "label": "実務原則",
+      "directness": "ネットワーク隣接研究",
+      "relationship": "関係労働",
+      "scope": [
+        "職場の孤独・所属感・社会的つながり"
+      ],
+      "sources": [
+        "burt-2004",
+        "morrison-1993"
+      ],
+      "limits": [
+        "直接的介入研究は限定"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C68",
+      "claim": "同じ人へ相談が集中する場合、人気の称賛で終えず、制度上の窓口不足と負荷を点検する。",
+      "label": "実務原則",
+      "directness": "予防原則に基づく推論",
+      "relationship": "相談集中",
+      "scope": [
+        "職場の孤独・所属感・社会的つながり"
+      ],
+      "sources": [
+        "owens-2016",
+        "who-work-2022"
+      ],
+      "limits": [
+        "個人関係の秘密を守る"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C69",
+      "claim": "チーム訓練は行動・成果へ平均効果を持ち得るが、孤独や排斥の解消を研修参加だけで保証しない。",
+      "label": "A",
+      "directness": "チーム隣接研究",
+      "relationship": "訓練の限界",
+      "scope": [
+        "職場の孤独・所属感・社会的つながり"
+      ],
+      "sources": [
+        "mcewan-2017"
+      ],
+      "limits": [
+        "孤独の直接測定でない",
+        "実装・持続性"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C70",
+      "claim": "排斥が疑われるときは、単発の仲良しイベントより、情報・発言・仕事・評価・休憩・相談の具体的除外を調べる。",
+      "label": "実務原則",
+      "directness": "職場直接研究",
+      "relationship": "排斥対応",
+      "scope": [
+        "職場の孤独・所属感・社会的つながり"
+      ],
+      "sources": [
+        "ferris-2008",
+        "robinson-2013",
+        "bedi-2021"
+      ],
+      "limits": [
+        "意図を断定しない",
+        "緊急保護と調査を区別"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C71",
+      "claim": "排斥を訴えた人へ「もっと自分から話す」だけを求めず、受け手側・チーム規範・仕事構造・管理行動を調べる。",
+      "label": "不支持",
+      "directness": "職場直接研究",
+      "relationship": "被害者責任化の禁止",
+      "scope": [
+        "職場の孤独・所属感・社会的つながり"
+      ],
+      "sources": [
+        "bedi-2021",
+        "robinson-2013"
+      ],
+      "limits": [
+        "本人が望む技能支援は選択可能"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C72",
+      "claim": "対人トラブルの調整では安全、権力差、差別・いじめの有無を先に確認し、重大事案へ安易な相互和解を強制しない。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "紛争と危害",
+      "scope": [
+        "職場の孤独・所属感・社会的つながり"
+      ],
+      "sources": [
+        "nielsen-2012",
+        "cortina-2001"
+      ],
+      "limits": [
+        "法的・専門的確認",
+        "報復防止"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C73",
+      "claim": "関係修復を行う場合も、事実確認、責任、境界、選択、フォローを明示し、「水に流す」を成果にしない。",
+      "label": "実務原則",
+      "directness": "予防原則に基づく推論",
+      "relationship": "関係修復",
+      "scope": [
+        "職場の孤独・所属感・社会的つながり"
+      ],
+      "sources": [
+        "who-ilo-2022",
+        "hse-standards"
+      ],
+      "limits": [
+        "直接的効果研究は限定"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C74",
+      "claim": "所属感の低い人を強制異動・退職勧奨の対象にせず、仕事・関係・差別・健康・生活の複数要因を確認する。",
+      "label": "不支持",
+      "directness": "公式指針・制度",
+      "relationship": "人事悪用の禁止",
+      "scope": [
+        "職場の孤独・所属感・社会的つながり"
+      ],
+      "sources": [
+        "japan-appi",
+        "who-work-2022"
+      ],
+      "limits": [
+        "個別労務・医療判断は専門確認"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C75",
+      "claim": "職場孤独への対応を福利厚生だけに置かず、要員、配置、監督範囲、仕事相互依存、評価競争、勤務時間を変える。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "組織的介入",
+      "scope": [
+        "職場の孤独・所属感・社会的つながり"
+      ],
+      "sources": [
+        "ozcelik-2018",
+        "who-work-2022",
+        "hse-standards"
+      ],
+      "limits": [
+        "因果介入研究は限定"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C76",
+      "claim": "組織再編・異動・合併・退職・復職では関係喪失と情報断絶を移行リスクとして扱う。",
+      "label": "実務原則",
+      "directness": "基礎・隣接研究",
+      "relationship": "移行期",
+      "scope": [
+        "職場の孤独・所属感・社会的つながり"
+      ],
+      "sources": [
+        "sluss-2007",
+        "morrison-1993"
+      ],
+      "limits": [
+        "直接的比較研究は限定"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C77",
+      "claim": "休職・復職者への接触は本人の希望、治療・制度、守秘を尊重し、状況説明や返信を強制しない。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "復職接続",
+      "scope": [
+        "職場の孤独・所属感・社会的つながり"
+      ],
+      "sources": [
+        "who-work-2022",
+        "mhlw-kokoro"
+      ],
+      "limits": [
+        "医療・労務連携",
+        "緊急時を除く本人選択"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C78",
+      "claim": "退職者・卒業者ネットワークは任意参加とし、現職者評価や再雇用の秘密スクリーニングへ流用しない。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "アルムナイ",
+      "scope": [
+        "職場の孤独・所属感・社会的つながり"
+      ],
+      "sources": [
+        "japan-appi"
+      ],
+      "limits": [
+        "利用目的・保存期間・同意"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C79",
+      "claim": "孤独・孤立対策推進法は社会全体の施策枠組みであり、職場の個別問題を法的義務と断定する根拠にしない。",
+      "label": "A",
+      "directness": "公式指針・制度",
+      "relationship": "国内法の境界",
+      "scope": [
+        "職場の孤独・所属感・社会的つながり"
+      ],
+      "sources": [
+        "japan-loneliness-law"
+      ],
+      "limits": [
+        "個別の労務・安衛義務は別法令確認"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C80",
+      "claim": "内閣府全国調査の一般人口推計を、自社の孤独率や職場原因へそのまま転用しない。",
+      "label": "A",
+      "directness": "公式指針・制度",
+      "relationship": "公的統計の限界",
+      "scope": [
+        "職場の孤独・所属感・社会的つながり"
+      ],
+      "sources": [
+        "cao-survey"
+      ],
+      "limits": [
+        "職場専用でない",
+        "年度・設問・母集団差"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C81",
+      "claim": "全国・地域の相談資源を職場内窓口と接続し、雇用関係に知られず利用できる経路も案内する。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "外部接続",
+      "scope": [
+        "職場の孤独・所属感・社会的つながり"
+      ],
+      "sources": [
+        "cao-portal",
+        "mhlw-kokoro"
+      ],
+      "limits": [
+        "緊急性・所在地・利用条件を確認"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C82",
+      "claim": "職場のつながりを心理社会的リスク管理の一部とし、安全、仕事要求、統制、支援、関係、役割、変化と統合する。",
+      "label": "A",
+      "directness": "公式指針・制度",
+      "relationship": "安全衛生統合",
+      "scope": [
+        "職場の孤独・所属感・社会的つながり"
+      ],
+      "sources": [
+        "who-ilo-2022",
+        "hse-standards",
+        "iso-45003",
+        "japan-osh-act",
+        "hhs-connection-2023",
+        "hhs-workplace-2022"
+      ],
+      "limits": [
+        "制度・法域差",
+        "一般社会と職場の枠組みを区別",
+        "規格認証は効果保証でない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C83",
+      "claim": "従業員支援プログラムの契約有無でなく、認知、待機、費用、守秘、質、継続、職場改善への匿名還元を監査する。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "EAP監査",
+      "scope": [
+        "職場の孤独・所属感・社会的つながり"
+      ],
+      "sources": [
+        "who-work-2022",
+        "mhlw-kokoro"
+      ],
+      "limits": [
+        "サービス品質データが限定",
+        "個人情報保護"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C84",
+      "claim": "所属施策は企画、参加、結果評価に短時間・夜勤・現場・遠隔・派遣・委託・障害のある人を含める。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "参加の公平性",
+      "scope": [
+        "職場の孤独・所属感・社会的つながり"
+      ],
+      "sources": [
+        "shore-2011",
+        "who-ilo-2022"
+      ],
+      "limits": [
+        "雇用責任・契約境界",
+        "小セル保護"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C85",
+      "claim": "言語・聴覚・発話・感覚・認知特性に合わせ、文字、音声、非同期、手話、平易な表現等の複数経路を用意する。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "アクセシビリティ",
+      "scope": [
+        "職場の孤独・所属感・社会的つながり"
+      ],
+      "sources": [
+        "who-work-2022",
+        "japan-loneliness-law"
+      ],
+      "limits": [
+        "個別の必要を本人と確認"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C86",
+      "claim": "少数者向けの集まりは当事者が望む安全な空間として支援し、所属や属性の開示・代表役を強制しない。",
+      "label": "実務原則",
+      "directness": "包摂隣接研究",
+      "relationship": "アフィニティ群",
+      "scope": [
+        "職場の孤独・所属感・社会的つながり"
+      ],
+      "sources": [
+        "shore-2011",
+        "japan-appi"
+      ],
+      "limits": [
+        "組織内権力・守秘",
+        "全社制度の代替でない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C87",
+      "claim": "AIチャットボットやソーシャルロボットを人間関係・専門支援の代替とせず、限界、緊急接続、データ利用、退出を明示する。",
+      "label": "不支持",
+      "directness": "予防原則に基づく推論",
+      "relationship": "AI支援の境界",
+      "scope": [
+        "職場の孤独・所属感・社会的つながり"
+      ],
+      "sources": [
+        "japan-appi",
+        "who-work-2022"
+      ],
+      "limits": [
+        "独立した職場介入証拠が限定",
+        "誤応答・依存・監視"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C88",
+      "claim": "生成AIが会話量や感情語から孤独を検知したとして自動介入・管理職通知・人事判断を行わない。",
+      "label": "不支持",
+      "directness": "予防原則に基づく推論",
+      "relationship": "AI推定禁止",
+      "scope": [
+        "職場の孤独・所属感・社会的つながり"
+      ],
+      "sources": [
+        "japan-appi"
+      ],
+      "limits": [
+        "妥当性・同意・要配慮情報",
+        "誤警報・見逃し"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C89",
+      "claim": "オンラインコミュニティはアクセスを広げ得るが、モデレーション、嫌がらせ、依存、デジタル格差、勤務時間外負担を評価する。",
+      "label": "実務原則",
+      "directness": "予防原則に基づく推論",
+      "relationship": "オンライン接続",
+      "scope": [
+        "職場の孤独・所属感・社会的つながり"
+      ],
+      "sources": [
+        "yang-2022",
+        "who-ilo-2022"
+      ],
+      "limits": [
+        "職場介入の比較研究が限定"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C90",
+      "claim": "公開データは定義、母集団、回答率、欠測、時点、勤務形態、小セル処理、禁止用途を伴わせる。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "オープンデータ",
+      "scope": [
+        "職場の孤独・所属感・社会的つながり"
+      ],
+      "sources": [
+        "cao-survey",
+        "japan-appi"
+      ],
+      "limits": [
+        "再特定・スティグマ化",
+        "比較可能性"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C91",
+      "claim": "施策は事前に対象・仮説・実装・成果・中止条件を定め、望まない効果や不参加者への不利益も評価する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "評価設計",
+      "scope": [
+        "職場の孤独・所属感・社会的つながり"
+      ],
+      "sources": [
+        "masi-2011",
+        "mcewan-2017",
+        "who-work-2022"
+      ],
+      "limits": [
+        "完全な無作為化が難しい",
+        "実装差"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C92",
+      "claim": "短期の好意的満足度だけでなく、3・6・12か月後の関係アクセス、排斥、支援、仕事結果を追う。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "持続性",
+      "scope": [
+        "職場の孤独・所属感・社会的つながり"
+      ],
+      "sources": [
+        "masi-2011",
+        "ozcelik-2018"
+      ],
+      "limits": [
+        "離脱・組織変化",
+        "長期介入研究が限定"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C93",
+      "claim": "新しい施策が効かなければ参加者の「コミュ力不足」とせず、対象、理論、実装、障壁、危害を見直す。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "失敗からの学習",
+      "scope": [
+        "職場の孤独・所属感・社会的つながり"
+      ],
+      "sources": [
+        "masi-2011",
+        "who-work-2022"
+      ],
+      "limits": [
+        "複数要因",
+        "否定的結果も公開"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C94",
+      "claim": "研究根拠、設計仮説、現行制度、当事者の選択を分けて表示し、研究がない実務案を確立効果として宣伝しない。",
+      "label": "実務原則",
+      "directness": "予防原則に基づく推論",
+      "relationship": "エビデンス表示",
+      "scope": [
+        "職場の孤独・所属感・社会的つながり"
+      ],
+      "sources": [
+        "leigh-hunt-2017",
+        "who-work-2022"
+      ],
+      "limits": [
+        "迅速レビューの非網羅性"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C95",
+      "claim": "孤独・所属感の情報を公開するとき、個人名・小集団・関係名簿を開かず、集計と方法・限界・訂正履歴を開く。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "公共性と保護",
+      "scope": [
+        "職場の孤独・所属感・社会的つながり"
+      ],
+      "sources": [
+        "japan-appi",
+        "cao-survey"
+      ],
+      "limits": [
+        "再特定リスク",
+        "本人の尊厳"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    }
+  ]
+}

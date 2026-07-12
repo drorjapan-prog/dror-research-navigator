@@ -1,0 +1,950 @@
+{
+  "name": "チームワーク・協働・対立 主張レジスター",
+  "version": "0.1",
+  "license": "CC BY 4.0",
+  "claims": [
+    {
+      "id": "TW-C01",
+      "claim": "チームは、共通目的だけでなく、成果を生むために仕事・情報・資源が相互依存する複数人の作業単位である。",
+      "label": "A",
+      "directness": "チーム直接研究",
+      "relationship": "定義・統合",
+      "sources": [
+        "ilgen-2005",
+        "mathieu-2008"
+      ],
+      "limits": [
+        "単なる所属集団・会議体と区別"
+      ],
+      "scope": [
+        "定義"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "TW-C02",
+      "claim": "チーム有効性は短期業績だけでなく、品質・安全、構成員の経験、将来の協働能力を分けて評価する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "統合からの設計原則",
+      "sources": [
+        "kozlowski-2006",
+        "mathieu-2008",
+        "who-2022"
+      ],
+      "limits": [
+        "指標間のトレードオフを開示"
+      ],
+      "scope": [
+        "成果"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "TW-C03",
+      "claim": "チームは入力―過程―出力の一方向モデルではなく、結果が次の局面へ戻る動的・循環的システムとして捉える。",
+      "label": "A",
+      "directness": "チーム直接研究",
+      "relationship": "理論・統合",
+      "sources": [
+        "ilgen-2005",
+        "marks-2001"
+      ],
+      "limits": [
+        "局面・時間幅を事前に定義"
+      ],
+      "scope": [
+        "動態"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "TW-C04",
+      "claim": "目標設定、遂行監視、調整、対人関係等のチーム過程は区別でき、複数の過程が有効性と関連する。",
+      "label": "A",
+      "directness": "チーム直接研究",
+      "relationship": "メタ分析上の関連",
+      "sources": [
+        "marks-2001",
+        "lepine-2008"
+      ],
+      "limits": [
+        "自己報告・共通方法",
+        "過程を会議回数で代用しない"
+      ],
+      "scope": [
+        "チーム過程"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "TW-C05",
+      "claim": "「チームワークのビッグ・ファイブ」は有用な整理だが、全チームへ同じチェックリストを当てる処方ではない。",
+      "label": "B",
+      "directness": "チーム直接研究",
+      "relationship": "統合枠組み",
+      "sources": [
+        "salas-2005",
+        "kozlowski-2006"
+      ],
+      "limits": [
+        "課題・リスク・成熟度・技術に合わせる"
+      ],
+      "scope": [
+        "チームワーク"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "TW-C06",
+      "claim": "相互依存が低い仕事を無理にチーム化すると調整コストを増やし得るため、個人作業・作業グループ・チームを使い分ける。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "理論からの設計原則",
+      "sources": [
+        "ilgen-2005",
+        "mathieu-2008",
+        "gully-2002"
+      ],
+      "limits": [
+        "相互依存を課題・成果・報酬に分ける"
+      ],
+      "scope": [
+        "相互依存"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "TW-C07",
+      "claim": "暗黙的調整は共有知識と安定した経験に支えられるが、例外・新規メンバー・高リスク業務では明示的な確認を省かない。",
+      "label": "B",
+      "directness": "チーム直接研究",
+      "relationship": "概念統合",
+      "sources": [
+        "rico-2008",
+        "dechurch-2010"
+      ],
+      "limits": [
+        "沈黙を合意と推定しない"
+      ],
+      "scope": [
+        "調整"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "TW-C08",
+      "claim": "共有メンタルモデルはチーム過程・成果と関連するが、全員が同じ意見になることではない。",
+      "label": "A",
+      "directness": "チーム直接研究",
+      "relationship": "実証・メタ分析上の関連",
+      "sources": [
+        "mathieu-2000",
+        "dechurch-2010"
+      ],
+      "limits": [
+        "課題モデルとチームモデルを区別",
+        "多様な視点を消さない"
+      ],
+      "scope": [
+        "共有認知"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "TW-C09",
+      "claim": "トランザクティブ・メモリーは「誰が何を知るか」の分化、専門性への信頼、調整からなり、全員が全知識を持つことではない。",
+      "label": "A",
+      "directness": "チーム直接研究",
+      "relationship": "測定・実験",
+      "sources": [
+        "lewis-2003",
+        "moreland-2000"
+      ],
+      "limits": [
+        "一人への依存・退職リスクを別途管理"
+      ],
+      "scope": [
+        "知識分業"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "TW-C10",
+      "claim": "情報共有はチーム成果と関連するが、発言量や投稿数ではなく、独自情報が提示・理解・統合・利用されたかを確かめる。",
+      "label": "A",
+      "directness": "チーム直接研究",
+      "relationship": "メタ分析上の関連",
+      "sources": [
+        "mesmer-2009"
+      ],
+      "limits": [
+        "量と質・利用を区別",
+        "逆因果・課題差"
+      ],
+      "scope": [
+        "情報共有"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "TW-C11",
+      "claim": "集合的効力感は成果と関連するが、相互依存と分析水準に左右され、根拠のない自信や反対意見の排除とは異なる。",
+      "label": "A",
+      "directness": "チーム直接研究",
+      "relationship": "メタ分析上の関連",
+      "sources": [
+        "gully-2002"
+      ],
+      "limits": [
+        "因果方向",
+        "過信・集団思考と区別"
+      ],
+      "scope": [
+        "効力感"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "TW-C12",
+      "claim": "結束と成果には関連があるが、課題へのコミットメントと対人好意を区別し、高結束を無条件に最大化しない。",
+      "label": "A",
+      "directness": "チーム直接研究",
+      "relationship": "メタ分析上の関連",
+      "sources": [
+        "beal-2003"
+      ],
+      "limits": [
+        "相関研究",
+        "同調圧力・排除を点検"
+      ],
+      "scope": [
+        "結束"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "TW-C13",
+      "claim": "タスク対立は平均として常に有益ではなく、関係対立へ転化し得るため、目的、信頼、時期、扱い方を確認する。",
+      "label": "A",
+      "directness": "チーム直接研究",
+      "relationship": "メタ分析・実証",
+      "sources": [
+        "dedreu-2003",
+        "dewit-2012",
+        "simons-2000"
+      ],
+      "limits": [
+        "「健全な対立」を強制しない",
+        "高リスク局面では収束が必要"
+      ],
+      "scope": [
+        "対立"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "TW-C14",
+      "claim": "関係対立とプロセス対立は満足・成果等に負の関連を示すことが多いが、ラベルだけで原因や加害を曖昧にしない。",
+      "label": "A",
+      "directness": "チーム直接研究",
+      "relationship": "メタ分析上の関連",
+      "sources": [
+        "dedreu-2003",
+        "dewit-2012"
+      ],
+      "limits": [
+        "測定の相関",
+        "ハラスメントと区別"
+      ],
+      "scope": [
+        "対立"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "TW-C15",
+      "claim": "対立の結果は種類だけでなく、問題解決、感情調整、公平な配分、決定の受容可能性等の管理方略に関係する。",
+      "label": "B",
+      "directness": "チーム直接研究",
+      "relationship": "縦断的関連",
+      "sources": [
+        "behfar-2008",
+        "tjosvold-2008"
+      ],
+      "limits": [
+        "単一研究・統合レビュー",
+        "権力差を別途確認"
+      ],
+      "scope": [
+        "対立管理"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "TW-C16",
+      "claim": "協同目標と開かれた検討は建設的論争を支え得るが、被害を受けた人へ和解・対話を強制しない。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "統合・権利原則",
+      "sources": [
+        "tjosvold-2008",
+        "ilo-c190"
+      ],
+      "limits": [
+        "暴力・ハラスメントは安全確保・正式対応を優先"
+      ],
+      "scope": [
+        "対立・安全"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "TW-C17",
+      "claim": "少数意見は意思決定への実質参加がある条件で革新に関係し得るが、反対役を特定の人へ固定しない。",
+      "label": "B",
+      "directness": "チーム直接研究",
+      "relationship": "観察的関連",
+      "sources": [
+        "dedreu-west-2001"
+      ],
+      "limits": [
+        "観察研究",
+        "報復・孤立を防ぐ"
+      ],
+      "scope": [
+        "異論"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "TW-C18",
+      "claim": "多様性は自動的に成果を高めも下げもせず、情報精緻化と社会的カテゴリー化の両経路、課題・産業・地位構造に依存する。",
+      "label": "A",
+      "directness": "チーム直接研究",
+      "relationship": "理論・メタ分析",
+      "sources": [
+        "vanknippenberg-2004",
+        "joshi-2009",
+        "bell-2011"
+      ],
+      "limits": [
+        "人口統計カテゴリで個人を推定しない"
+      ],
+      "scope": [
+        "多様性"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "TW-C19",
+      "claim": "文化的多様性は創造性等の可能性と対立・社会統合上の負担の双方に関係し得る。",
+      "label": "A",
+      "directness": "チーム直接研究",
+      "relationship": "メタ分析上の関連",
+      "sources": [
+        "stahl-2010"
+      ],
+      "limits": [
+        "国籍＝文化としない",
+        "平均効果を個別チームへ直結しない"
+      ],
+      "scope": [
+        "文化的多様性"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "TW-C20",
+      "claim": "多様性を価値ある資源と捉える信念は情報精緻化を支え得るが、包摂的な権限・発言機会・配分なしにスローガン化しない。",
+      "label": "B",
+      "directness": "チーム直接研究",
+      "relationship": "実験・観察",
+      "sources": [
+        "homan-2007",
+        "vanknippenberg-2004"
+      ],
+      "limits": [
+        "構造的不平等を態度研修だけで扱わない"
+      ],
+      "scope": [
+        "包摂"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "TW-C21",
+      "claim": "心理的安全性は学習行動・情報共有等と関連するが、目標、専門性、品質基準、説明責任、被害是正の代替ではない。",
+      "label": "A",
+      "directness": "チーム直接研究",
+      "relationship": "実証・メタ分析",
+      "sources": [
+        "edmondson-1999",
+        "frazier-2017"
+      ],
+      "limits": [
+        "個人知覚とチーム水準を区別"
+      ],
+      "scope": [
+        "心理的安全性"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "TW-C22",
+      "claim": "共有リーダーシップは平均としてチーム有効性と関連するが、公式責任者、安全責任、最終決定、エスカレーションを消さない。",
+      "label": "A",
+      "directness": "チーム直接研究",
+      "relationship": "メタ分析上の関連",
+      "sources": [
+        "nicolaides-2014",
+        "wang-2014"
+      ],
+      "limits": [
+        "相関研究を含む",
+        "責任の空洞化に注意"
+      ],
+      "scope": [
+        "リーダーシップ"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "TW-C23",
+      "claim": "仮想性は在宅か出社かの二分法ではなく、地理的分散、電子依存、構成変動、時間差等の組合せである。",
+      "label": "A",
+      "directness": "チーム直接研究",
+      "relationship": "実証・統合",
+      "sources": [
+        "gibson-2006",
+        "gilson-2015"
+      ],
+      "limits": [
+        "技術と仕事の更新が速い"
+      ],
+      "scope": [
+        "仮想チーム"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "TW-C24",
+      "claim": "信頼は仮想チームの有効性と関連し、文書化等が条件となるが、信頼を無監督や無記録と同義にしない。",
+      "label": "A",
+      "directness": "チーム直接研究",
+      "relationship": "メタ分析上の関連",
+      "sources": [
+        "breuer-2016"
+      ],
+      "limits": [
+        "相関研究中心",
+        "記録は目的限定"
+      ],
+      "scope": [
+        "仮想チーム"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "TW-C25",
+      "claim": "全社的遠隔勤務への急移行は特定企業で協働ネットワークの静的化・サイロ化と関連したが、遠隔勤務一般の必然的効果ではない。",
+      "label": "B",
+      "directness": "チーム直接研究",
+      "relationship": "自然実験的観察",
+      "sources": [
+        "yang-2022"
+      ],
+      "limits": [
+        "単一大企業",
+        "パンデミック移行",
+        "デジタル痕跡の限界"
+      ],
+      "scope": [
+        "遠隔協働"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "TW-C26",
+      "claim": "チーム革新は多様性だけでなく、ビジョン、課題志向、外部交流、参加、安全等の組合せで評価する。",
+      "label": "A",
+      "directness": "チーム直接研究",
+      "relationship": "メタ分析上の関連",
+      "sources": [
+        "hulsheger-2009",
+        "dedreu-west-2001"
+      ],
+      "limits": [
+        "革新指標の定義差",
+        "新規性だけで安全・公益を判断しない"
+      ],
+      "scope": [
+        "革新"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "TW-C27",
+      "claim": "チーム訓練は平均としてチームワーク行動・成果を改善し得るが、人員不足、役割矛盾、危険な目標、差別を研修で代替しない。",
+      "label": "A",
+      "directness": "チーム直接研究",
+      "relationship": "メタ分析・統制介入",
+      "sources": [
+        "salas-training-2008",
+        "mcewan-2017"
+      ],
+      "limits": [
+        "介入・領域の異質性",
+        "移転・持続を測る"
+      ],
+      "scope": [
+        "訓練"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "TW-C28",
+      "claim": "クロストレーニングは相互の役割理解と調整を支え得るが、全員に全業務を背負わせる多能工化と区別する。",
+      "label": "B",
+      "directness": "チーム直接研究",
+      "relationship": "訓練実験",
+      "sources": [
+        "marks-2002"
+      ],
+      "limits": [
+        "特定訓練文脈",
+        "技能認定・報酬・負荷を確認"
+      ],
+      "scope": [
+        "訓練"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "TW-C29",
+      "claim": "構造化したデブリーフは成果改善に役立ち得るが、事故、ハラスメント、法令違反の正式調査・証拠保全を代替しない。",
+      "label": "A",
+      "directness": "混合",
+      "relationship": "メタ分析・権利原則",
+      "sources": [
+        "tannenbaum-2013",
+        "ilo-c190"
+      ],
+      "limits": [
+        "実施品質・文脈差",
+        "報復防止"
+      ],
+      "scope": [
+        "振り返り"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "TW-C30",
+      "claim": "チーム測定では個人回答を平均する前に、集団内合意、チーム間差、欠測、回答抑制、分析水準を確認する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "測定原則",
+      "sources": [
+        "lewis-2003",
+        "frazier-2017",
+        "gully-2002"
+      ],
+      "limits": [
+        "少人数の再特定",
+        "平均が少数意見を消す"
+      ],
+      "scope": [
+        "測定"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "TW-C31",
+      "claim": "会議数、メッセージ数、発言時間、ネットワーク中心性を、それだけで協働の質・貢献・忠誠心とみなさない。",
+      "label": "不支持",
+      "directness": "予防原則に基づく推論",
+      "relationship": "測定・プライバシー",
+      "sources": [
+        "mesmer-2009",
+        "yang-2022",
+        "ilo-data"
+      ],
+      "limits": [
+        "業務データは欠落・役割差を含む"
+      ],
+      "scope": [
+        "チーム分析"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "TW-C32",
+      "claim": "チーム分析を個人ランキング、懲戒、選別へ転用せず、目的、入力、閲覧者、保存期間、訂正・異議申立てを明示する。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "データ統治",
+      "sources": [
+        "ilo-data"
+      ],
+      "limits": [
+        "国内法・労使協議を確認"
+      ],
+      "scope": [
+        "プライバシー"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "TW-C33",
+      "claim": "感情、信頼、対立、心理的安全性を通信ログや映像から本人に隠れて推定し、人事判断へ用いることを支持しない。",
+      "label": "不支持",
+      "directness": "予防原則に基づく推論",
+      "relationship": "尊厳・妥当性",
+      "sources": [
+        "ilo-data",
+        "who-2022"
+      ],
+      "limits": [
+        "推定誤差・文脈欠落・萎縮効果"
+      ],
+      "scope": [
+        "監視"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "TW-C34",
+      "claim": "暴力・ハラスメント、差別、報復、いじめを「チーム内対立」「相性」「双方のコミュニケーション」として均等化しない。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "権利・安全",
+      "sources": [
+        "ilo-c190",
+        "who-2022"
+      ],
+      "limits": [
+        "事実確認・安全確保・適用制度を確認"
+      ],
+      "scope": [
+        "ハラスメント"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "TW-C35",
+      "claim": "被害申告や安全上の異議には、通常の対立調整とは別に、秘密保持、報復防止、独立した相談・調査・是正経路を設ける。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "権利・安全",
+      "sources": [
+        "ilo-c190",
+        "who-2022"
+      ],
+      "limits": [
+        "緊急性・法的義務を個別確認"
+      ],
+      "scope": [
+        "救済"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "TW-C36",
+      "claim": "協働への参加条件は、言語、障害、勤務帯、雇用形態、拠点、ケア責任を考慮し、同期会議だけを貢献の基準にしない。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "包摂設計",
+      "sources": [
+        "gilson-2015",
+        "who-2022"
+      ],
+      "limits": [
+        "本人の必要以上の自己開示を求めない"
+      ],
+      "scope": [
+        "アクセシビリティ"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "TW-C37",
+      "claim": "議事録・決定ログは、発言の逐語監視でなく、決定、根拠、担当、期限、未解決点、少数意見、更新履歴を残す。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "協働設計",
+      "sources": [
+        "breuer-2016",
+        "ilo-data"
+      ],
+      "limits": [
+        "秘密・安全・個人情報を最小化"
+      ],
+      "scope": [
+        "記録"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "TW-C38",
+      "claim": "チーム変更は、構成、相互依存、目標、権限、道具、評価、報酬を一体で設計し、チームビルディング行事だけに還元しない。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "統合からの設計原則",
+      "sources": [
+        "kozlowski-2006",
+        "mathieu-2008",
+        "salas-training-2008"
+      ],
+      "limits": [
+        "実装度と副作用を測る"
+      ],
+      "scope": [
+        "再設計"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "TW-C39",
+      "claim": "チーム成果の改善が、見えない調整労働、特定メンバーの感情労働・残業・肩代わりで成り立っていないかを確認する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "公平・負荷",
+      "sources": [
+        "who-2022",
+        "marks-2001"
+      ],
+      "limits": [
+        "業務量・配分を職種・属性別に確認"
+      ],
+      "scope": [
+        "公平"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "TW-C40",
+      "claim": "チームの評価・改善では平均だけでなく、品質、安全、学習、包摂、負担、離脱、将来の協働能力を追跡する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "評価設計",
+      "sources": [
+        "kozlowski-2006",
+        "mathieu-2008",
+        "who-2022"
+      ],
+      "limits": [
+        "遠い成果ほど他要因が多い"
+      ],
+      "scope": [
+        "評価"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "TW-C41",
+      "claim": "チームは内部の協力だけで完結せず、外部から情報・資源・支援・正統性を得て、他チームとの依存を調整する境界連携を必要とし得る。",
+      "label": "B",
+      "directness": "チーム直接研究",
+      "relationship": "多水準統合レビュー",
+      "sources": [
+        "marrone-2010"
+      ],
+      "limits": [
+        "境界活動の効果は課題・環境に依存",
+        "特定担当者へ無償で集中させない"
+      ],
+      "scope": [
+        "境界連携"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "TW-C42",
+      "claim": "チーム適応は予想外の変化を検知し、共有理解・計画・役割・行動を更新する循環であり、個人の英雄的な即興ではない。",
+      "label": "B",
+      "directness": "チーム直接研究",
+      "relationship": "概念統合",
+      "sources": [
+        "burke-2006",
+        "marks-2001"
+      ],
+      "limits": [
+        "概念モデル",
+        "安全手順・専門判断の逸脱を正当化しない"
+      ],
+      "scope": [
+        "適応"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "TW-C43",
+      "claim": "共同作業では条件により個人努力が低下し得るが、貢献を通信量や在席時間で監視するのでなく、意味ある役割、識別可能な成果、資源、公平な配分を設計する。",
+      "label": "A",
+      "directness": "混合",
+      "relationship": "メタ分析・設計原則",
+      "sources": [
+        "karau-1993",
+        "ilo-data"
+      ],
+      "limits": [
+        "実験研究を多く含む",
+        "能力差・障害・見えない労働を手抜きと誤認しない"
+      ],
+      "scope": [
+        "社会的手抜き"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "TW-C44",
+      "claim": "チーム設計は対人関係だけでなく、課題、人数、専門性、役割、自律性、相互依存、リーダーシップ、組織支援を一体で扱う。",
+      "label": "A",
+      "directness": "チーム直接研究",
+      "relationship": "メタ分析・統合",
+      "sources": [
+        "stewart-2006",
+        "kozlowski-2006"
+      ],
+      "limits": [
+        "単一の最適構成はない",
+        "課題・環境に合わせる"
+      ],
+      "scope": [
+        "チーム設計"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "TW-C45",
+      "claim": "能力・経験・性格等の構成は一部の課題で成果と関連し得るが、個人を類型化して固定し、保護属性や私生活情報から適性を推定してはならない。",
+      "label": "A",
+      "directness": "混合",
+      "relationship": "メタ分析・権利原則",
+      "sources": [
+        "bell-2007",
+        "ilo-data"
+      ],
+      "limits": [
+        "選抜研究中心",
+        "妥当性・職務関連性・公平性を確認"
+      ],
+      "scope": [
+        "チーム構成"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "TW-C46",
+      "claim": "AIを協働相手のように扱う場合も、能力・限界、入力データ、人間の責任者、検証、訂正・停止、AIなしの代替経路を明示する。",
+      "label": "B",
+      "directness": "混合",
+      "relationship": "研究アジェンダ・データ統治",
+      "sources": [
+        "seeber-2020",
+        "ilo-data"
+      ],
+      "limits": [
+        "実証基盤は発展途上",
+        "擬人化で説明責任を曖昧にしない"
+      ],
+      "scope": [
+        "人間―AI協働"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    }
+  ]
+}

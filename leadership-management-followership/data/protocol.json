@@ -1,0 +1,69 @@
+{
+  "name": "リーダーシップ・管理職行動・フォロワーシップ 迅速エビデンスマップ・プロトコル",
+  "version": "0.1",
+  "review_type": "理論・関係・行動・育成・健康・破壊的影響・権利を分離した迅速エビデンスマップ",
+  "research_questions": [
+    {
+      "id": "RQ1",
+      "question": "リーダーシップ、管理職、フォロワーシップをどう区別するか。"
+    },
+    {
+      "id": "RQ2",
+      "question": "主要リーダーシップ理論・行動はどの結果とどう関連するか。"
+    },
+    {
+      "id": "RQ3",
+      "question": "LMX、発言、包摂、権力差、公平をどう設計するか。"
+    },
+    {
+      "id": "RQ4",
+      "question": "虐待的・破壊的・放任型リーダーシップをどう予防・救済するか。"
+    },
+    {
+      "id": "RQ5",
+      "question": "健康、安全、ジェンダー、文化、遠隔環境をどう扱うか。"
+    },
+    {
+      "id": "RQ6",
+      "question": "リーダー育成・訓練・評価・継承をどう設計・評価するか。"
+    },
+    {
+      "id": "RQ7",
+      "question": "アルゴリズム管理、AI助言、リーダーデータをどう統治するか。"
+    }
+  ],
+  "query_families": [
+    "leadership theory review meta-analysis",
+    "transformational transactional leadership meta-analysis",
+    "LMX meta-analysis culture differentiation",
+    "ethical authentic servant empowering leadership review",
+    "employee voice silence leader openness meta-analysis",
+    "followership theory review",
+    "abusive supervision destructive laissez-faire leadership meta-analysis",
+    "leadership stress mental health safety meta-analysis",
+    "gender leadership effectiveness meta-analysis",
+    "leadership development training meta-analysis",
+    "e-leadership telework algorithmic management",
+    "ILO violence harassment worker data WHO mental health"
+  ],
+  "inclusion": [
+    "主要リーダーシップ理論・測定・実証研究",
+    "メタ分析・システマティックレビュー・主要統合レビュー",
+    "リーダーシップ訓練・育成・安全・健康研究",
+    "暴力・ハラスメント、労働者データ、健康の公式指針・制度"
+  ],
+  "exclusion": [
+    "カリスマ個人の成功談だけ",
+    "妥当性不明な性格診断・リーダー類型",
+    "虐待を厳しい愛として推奨",
+    "発言量・オンライン可視性による個人ランキング",
+    "感情・忠誠心・精神健康の無断AI推定"
+  ],
+  "process_limitations": [
+    "単一レビュアーによる迅速整理",
+    "代表文献と書誌メタデータによる非網羅整理",
+    "効果量の独自再計算・正式なバイアス評価は未実施",
+    "理論・観察・介入・統合・公式資料を直接性ラベルで分離",
+    "法的・医療的・安全上の個別助言ではない"
+  ]
+}

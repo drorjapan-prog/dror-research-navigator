@@ -1,0 +1,1522 @@
+{
+  "name": "仕事と家庭・ケア・ワークライフ境界 主張レジスター",
+  "version": "0.1",
+  "license": "CC BY 4.0",
+  "claims": [
+    {
+      "id": "C001",
+      "claim": "仕事→家庭葛藤と家庭→仕事葛藤は関連するが同一ではなく、方向を分けて測る。",
+      "label": "A",
+      "directness": "直接研究",
+      "relationship": "定義・測定",
+      "sources": [
+        "netemeyer-1996",
+        "carlson-2000",
+        "mesmer-2005"
+      ],
+      "limits": [
+        "一つの総合点で方向を消さない"
+      ],
+      "scope": [
+        "働く人",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C002",
+      "claim": "時間・緊張・行動に基づく葛藤を区別すると、介入先を特定しやすい。",
+      "label": "B",
+      "directness": "混合",
+      "relationship": "理論と測定",
+      "sources": [
+        "greenhaus-1985",
+        "carlson-2000"
+      ],
+      "limits": [
+        "分類は完全な因果モデルではない"
+      ],
+      "scope": [
+        "働く人",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C003",
+      "claim": "仕事家庭葛藤は健康、満足、仕事態度等の不利な結果と平均的に関連する。",
+      "label": "A",
+      "directness": "直接研究",
+      "relationship": "関連",
+      "sources": [
+        "amstad-2011",
+        "allen-2000",
+        "ford-2007"
+      ],
+      "limits": [
+        "平均的関連で個人診断には使えない",
+        "逆因果・共通方法を含む"
+      ],
+      "scope": [
+        "働く人",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C004",
+      "claim": "長い時間、過大要求、役割ストレスは葛藤のリスクで、統制・支援は保護資源となり得る。",
+      "label": "A",
+      "directness": "直接研究",
+      "relationship": "関連",
+      "sources": [
+        "byron-2005",
+        "michel-2011",
+        "kossek-2011"
+      ],
+      "limits": [
+        "職種・家庭構成で差"
+      ],
+      "scope": [
+        "働く人",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C005",
+      "claim": "仕事と家庭の相互促進は葛藤の単なる反対ではなく、別に測る。",
+      "label": "A",
+      "directness": "直接研究",
+      "relationship": "定義・測定",
+      "sources": [
+        "carlson-2006",
+        "greenhaus-2006",
+        "mcnall-2010"
+      ],
+      "limits": [
+        "高い相互促進が葛藤の害を自動的に打ち消すわけではない"
+      ],
+      "scope": [
+        "働く人",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C006",
+      "claim": "技能、肯定感、社会的・物質的資源が領域を越えて利益をもたらすことがある。",
+      "label": "B",
+      "directness": "直接研究",
+      "relationship": "理論・関連",
+      "sources": [
+        "greenhaus-2006",
+        "tenbrummelhuis-2012",
+        "mcnall-2010"
+      ],
+      "limits": [
+        "資源移転は条件依存"
+      ],
+      "scope": [
+        "働く人",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C007",
+      "claim": "ワークライフバランスには満足、関与、適合、効果等の複数の意味があり、定義を明示する。",
+      "label": "B",
+      "directness": "直接研究",
+      "relationship": "定義・測定",
+      "sources": [
+        "wayne-2021",
+        "edwards-2000"
+      ],
+      "limits": [
+        "単一の理想配分を前提にしない"
+      ],
+      "scope": [
+        "働く人",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C008",
+      "claim": "バランスは仕事と家庭を50対50に配分することではなく、価値・役割・状況に対する適合として扱う。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "実務推論",
+      "sources": [
+        "wayne-2021",
+        "clark-2000"
+      ],
+      "limits": [
+        "本人の価値観を代弁しない"
+      ],
+      "scope": [
+        "働く人",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C009",
+      "claim": "分断と統合のどちらが常に優れるわけではなく、選好と実際の統制・環境の適合が重要。",
+      "label": "A",
+      "directness": "直接研究",
+      "relationship": "関連",
+      "sources": [
+        "kossek-2012",
+        "allen-2014",
+        "bulger-2007"
+      ],
+      "limits": [
+        "類型を固定的人格とみなさない"
+      ],
+      "scope": [
+        "働く人",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C010",
+      "claim": "境界をいつ越えるかの統制を、在宅日数や通知設定と別に測る。",
+      "label": "B",
+      "directness": "直接研究",
+      "relationship": "測定・関連",
+      "sources": [
+        "kossek-2012",
+        "allen-2014"
+      ],
+      "limits": [
+        "自己報告中心"
+      ],
+      "scope": [
+        "働く人",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C011",
+      "claim": "心理的離脱は疲労・健康・ウェルビーイングと平均的に関連する。",
+      "label": "A",
+      "directness": "直接研究",
+      "relationship": "関連",
+      "sources": [
+        "wendsche-2017",
+        "sonnentag-2017",
+        "headrick-2022"
+      ],
+      "limits": [
+        "因果方向が双方向の可能性"
+      ],
+      "scope": [
+        "働く人",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C012",
+      "claim": "要求が高く回復が必要なときほど、反すうや長時間化で回復しにくいという逆説がある。",
+      "label": "B",
+      "directness": "直接研究",
+      "relationship": "理論・関連",
+      "sources": [
+        "sonnentag-2018",
+        "sonnentag-2017"
+      ],
+      "limits": [
+        "個人の休み方だけで解決しない"
+      ],
+      "scope": [
+        "働く人",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C013",
+      "claim": "勤務時間外の仕事連絡と即時応答圧力は、葛藤・離脱不足・疲労・睡眠と関連し得る。",
+      "label": "A",
+      "directness": "直接研究",
+      "relationship": "関連",
+      "sources": [
+        "derks-2014",
+        "barber-2015",
+        "butts-2015",
+        "barber-2013"
+      ],
+      "limits": [
+        "連絡の緊急性・頻度・統制で差"
+      ],
+      "scope": [
+        "働く人",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C014",
+      "claim": "勤務外連絡は個人の自制だけでなく、組織期待、業務量、締切、顧客契約を含めて設計する。",
+      "label": "B",
+      "directness": "混合",
+      "relationship": "関連から実務推論",
+      "sources": [
+        "fenner-2009",
+        "barber-2015",
+        "butts-2015"
+      ],
+      "limits": [
+        "設計案自体の効果保証ではない"
+      ],
+      "scope": [
+        "働く人",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C015",
+      "claim": "一般的な上司支援と、仕事家庭に特化した支援を分ける。後者は葛藤低減と関連する。",
+      "label": "A",
+      "directness": "直接研究",
+      "relationship": "関連",
+      "sources": [
+        "kossek-2011",
+        "allen-2001"
+      ],
+      "limits": [
+        "支援の自己報告・選抜を含む"
+      ],
+      "scope": [
+        "働く人",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C016",
+      "claim": "制度の存在だけでなく、利用を安全と感じる文化・同僚規範・管理職運用が利用と結果を左右する。",
+      "label": "A",
+      "directness": "直接研究",
+      "relationship": "関連",
+      "sources": [
+        "allen-2001",
+        "blair-2002",
+        "cech-2014"
+      ],
+      "limits": [
+        "観察研究中心"
+      ],
+      "scope": [
+        "働く人",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C017",
+      "claim": "柔軟制度や家族休暇の利用者が低い献身とみなされるスティグマとキャリア罰を監査する。",
+      "label": "A",
+      "directness": "直接研究",
+      "relationship": "関連・実験",
+      "sources": [
+        "cech-2014",
+        "leslie-2012",
+        "williams-2013",
+        "rudman-2013"
+      ],
+      "limits": [
+        "国・職種・制度差"
+      ],
+      "scope": [
+        "働く人",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C018",
+      "claim": "男性の家族休暇利用にも、男性性規範を介した不利益が生じ得る。",
+      "label": "A",
+      "directness": "直接研究",
+      "relationship": "実験・関連",
+      "sources": [
+        "rudman-2013",
+        "coltrane-2013"
+      ],
+      "limits": [
+        "制度・文化差"
+      ],
+      "scope": [
+        "働く人",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C019",
+      "claim": "母親であることに結びつく採用・賃金上の不利益は、個人の選択だけでは説明できない。",
+      "label": "A",
+      "directness": "直接研究",
+      "relationship": "実験・統合",
+      "sources": [
+        "correll-2007",
+        "cukrowska-2020"
+      ],
+      "limits": [
+        "国・職種・選抜で差"
+      ],
+      "scope": [
+        "働く人",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C020",
+      "claim": "父親であることに結びつく賃金上の利益は一様でなく、組織・階層・男性性規範で配分が異なる。",
+      "label": "B",
+      "directness": "直接研究",
+      "relationship": "関連",
+      "sources": [
+        "hodges-2010"
+      ],
+      "limits": [
+        "観察分析",
+        "交絡可能性"
+      ],
+      "scope": [
+        "働く人",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C021",
+      "claim": "有給家族休暇や母性休暇の労働市場効果は制度期間・給付・雇用保護・利用可能性で異なる。",
+      "label": "B",
+      "directness": "直接研究",
+      "relationship": "準実験",
+      "sources": [
+        "rossin-2012",
+        "schonberg-2014"
+      ],
+      "limits": [
+        "米国州・ドイツ制度から日本への直接一般化不可"
+      ],
+      "scope": [
+        "働く人",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C022",
+      "claim": "休暇導入だけでなく、申請、引継ぎ、代替要員、復帰、評価、再配置まで一つの制度として設計する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "実務推論",
+      "sources": [
+        "rossin-2012",
+        "blair-2002",
+        "jp-childcare-care-law"
+      ],
+      "limits": [
+        "各要素の効果量を示す主張ではない"
+      ],
+      "scope": [
+        "働く人",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C023",
+      "claim": "家族介護者は非介護者より心理・身体健康上の負担が平均的に大きい。",
+      "label": "A",
+      "directness": "直接研究",
+      "relationship": "統合",
+      "sources": [
+        "pinquart-2003",
+        "bauer-2015"
+      ],
+      "limits": [
+        "介護強度・関係・支援で大きく異なる"
+      ],
+      "scope": [
+        "働く人",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C024",
+      "claim": "介護は労働時間、継続就業、所得、家族生活へ影響し得るため、休業だけでなく柔軟性と相談を組み合わせる。",
+      "label": "B",
+      "directness": "直接研究",
+      "relationship": "統合から実務推論",
+      "sources": [
+        "bauer-2015",
+        "mhlw-2024-revision"
+      ],
+      "limits": [
+        "制度効果は条件依存"
+      ],
+      "scope": [
+        "働く人",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C025",
+      "claim": "介護に直面する前の情報提供は、危機時だけの申出に依存しない入口となる。",
+      "label": "制度",
+      "directness": "公式指針・制度",
+      "relationship": "法定措置",
+      "sources": [
+        "mhlw-2024-revision",
+        "jp-childcare-care-law"
+      ],
+      "limits": [
+        "対象・時期・方法は現行法確認"
+      ],
+      "scope": [
+        "働く人",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C026",
+      "claim": "介護対象者の診断・家族関係を過剰に収集せず、必要性とアクセス権を限定する。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "予防原則",
+      "sources": [
+        "jp-appi",
+        "mhlw-care-support"
+      ],
+      "limits": [
+        "個別法務判断ではない"
+      ],
+      "scope": [
+        "働く人",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C027",
+      "claim": "共働き世帯では二人の制度利用と職場条件が相互に作用するため、本人だけの制度利用で評価しない。",
+      "label": "B",
+      "directness": "直接研究",
+      "relationship": "縦断関連",
+      "sources": [
+        "hammer-2005",
+        "shockley-2021"
+      ],
+      "limits": [
+        "異性愛カップル中心研究を含む"
+      ],
+      "scope": [
+        "働く人",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C028",
+      "claim": "家事は実行時間だけでなく、気づく・予測する・決める・監督する認知労働を含む。",
+      "label": "B",
+      "directness": "直接研究",
+      "relationship": "質的・関連",
+      "sources": [
+        "daminger-2019",
+        "ciciolla-2019"
+      ],
+      "limits": [
+        "家庭内測定・文化差"
+      ],
+      "scope": [
+        "働く人",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C029",
+      "claim": "柔軟勤務や在宅勤務が家庭内労働のジェンダー格差を自動的に解消するとは限らない。",
+      "label": "B",
+      "directness": "直接研究",
+      "relationship": "関連・質的",
+      "sources": [
+        "rinaldo-2023",
+        "zamarro-2021",
+        "shockley-2021"
+      ],
+      "limits": [
+        "パンデミック・小標本研究を含む"
+      ],
+      "scope": [
+        "働く人",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C030",
+      "claim": "両立支援を育児中の既婚者だけに限定せず、単身者、子のいない人、友人・地域・自己ケアの役割も扱う。",
+      "label": "B",
+      "directness": "直接研究",
+      "relationship": "測定・関連",
+      "sources": [
+        "casper-2007",
+        "grover-1995"
+      ],
+      "limits": [
+        "全ての非仕事役割を同一視しない"
+      ],
+      "scope": [
+        "働く人",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C031",
+      "claim": "公平は全員に同じ休暇理由を要求することではなく、必要・権利・負担・機会を透明に調整すること。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "実務推論",
+      "sources": [
+        "casper-2007",
+        "grover-1995",
+        "ilo-c156"
+      ],
+      "limits": [
+        "具体的配分は対話と制度条件による"
+      ],
+      "scope": [
+        "働く人",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C032",
+      "claim": "一人の休暇・短時間利用を同僚の無償残業で吸収しない。代替要員と業務削減を測る。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "予防原則",
+      "sources": [
+        "kelliher-2010",
+        "lambert-2012",
+        "mhlw-2024-revision"
+      ],
+      "limits": [
+        "直接介入効果は限定的"
+      ],
+      "scope": [
+        "働く人",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C033",
+      "claim": "柔軟勤務は仕事強化や自己搾取を伴うことがあるため、成果と同時に実労働時間・休息を測る。",
+      "label": "A",
+      "directness": "直接研究",
+      "relationship": "関連",
+      "sources": [
+        "kelliher-2010",
+        "demenezes-2011"
+      ],
+      "limits": [
+        "自己選択・交換認知"
+      ],
+      "scope": [
+        "働く人",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C034",
+      "claim": "雇用者都合の変動性と、労働者が選べる柔軟性を区別する。",
+      "label": "A",
+      "directness": "直接研究",
+      "relationship": "関連",
+      "sources": [
+        "schneider-2019",
+        "lambert-2012",
+        "allen-2013"
+      ],
+      "limits": [
+        "時間給・特定国研究を含む"
+      ],
+      "scope": [
+        "働く人",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C035",
+      "claim": "勤務予定の不安定性は睡眠、心理的苦痛、生活計画の困難と関連する。",
+      "label": "A",
+      "directness": "直接研究",
+      "relationship": "縦断関連",
+      "sources": [
+        "schneider-2019",
+        "lambert-2012"
+      ],
+      "limits": [
+        "観察研究",
+        "米国サービス職中心"
+      ],
+      "scope": [
+        "働く人",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C036",
+      "claim": "時間・場所・量・時期・休暇の柔軟性を一括せず、利用可能性と実利用を分ける。",
+      "label": "A",
+      "directness": "直接研究",
+      "relationship": "統合・関連",
+      "sources": [
+        "shockley-2007",
+        "allen-2013",
+        "joyce-2010"
+      ],
+      "limits": [
+        "制度名だけでは実質的統制を示さない"
+      ],
+      "scope": [
+        "働く人",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C037",
+      "claim": "時間統制と家族支援的管理職行動を組み合わせた組織介入は、葛藤やウェルビーイングを改善し得る。",
+      "label": "A",
+      "directness": "直接研究",
+      "relationship": "クラスター無作為化",
+      "sources": [
+        "kelly-2014",
+        "moen-2016"
+      ],
+      "limits": [
+        "特定企業・職種",
+        "複合介入"
+      ],
+      "scope": [
+        "働く人",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C038",
+      "claim": "労働者の統制を高める柔軟勤務は健康へ有益な可能性があるが、エビデンスは制度・実装で異なる。",
+      "label": "B",
+      "directness": "直接研究",
+      "relationship": "体系的レビュー",
+      "sources": [
+        "joyce-2010",
+        "moen-2016"
+      ],
+      "limits": [
+        "研究数・異質性"
+      ],
+      "scope": [
+        "働く人",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C039",
+      "claim": "両立支援の権利を短期生産性向上が証明できる人だけに限定しない。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "権利と研究の分離",
+      "sources": [
+        "ilo-c156",
+        "jp-childcare-care-law",
+        "demenezes-2011"
+      ],
+      "limits": [
+        "経営効果とは別の規範判断"
+      ],
+      "scope": [
+        "働く人",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C040",
+      "claim": "日本では2025年4月、子の看護等休暇の対象・取得事由等が拡張された。",
+      "label": "制度",
+      "directness": "公式指針・制度",
+      "relationship": "現行制度",
+      "sources": [
+        "mhlw-2024-revision",
+        "jp-childcare-care-law"
+      ],
+      "limits": [
+        "利用時は最新条文・就業規則を確認"
+      ],
+      "scope": [
+        "働く人",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C041",
+      "claim": "日本では2025年4月、所定外労働の制限の対象が小学校就学前の子を養育する労働者へ拡張された。",
+      "label": "制度",
+      "directness": "公式指針・制度",
+      "relationship": "現行制度",
+      "sources": [
+        "mhlw-2024-revision",
+        "jp-childcare-care-law"
+      ],
+      "limits": [
+        "対象要件を最新資料で確認"
+      ],
+      "scope": [
+        "働く人",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C042",
+      "claim": "日本では2025年4月、介護離職防止の雇用環境整備、個別周知・意向確認等が義務化された。",
+      "label": "制度",
+      "directness": "公式指針・制度",
+      "relationship": "現行制度",
+      "sources": [
+        "mhlw-2024-revision",
+        "jp-childcare-care-law"
+      ],
+      "limits": [
+        "実務は最新Q&A・省令を確認"
+      ],
+      "scope": [
+        "働く人",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C043",
+      "claim": "日本では2025年10月、3歳から就学前の子を養育する労働者向けに、事業主が5種から2つ以上の柔軟措置を講ずる仕組みが施行された。",
+      "label": "制度",
+      "directness": "公式指針・制度",
+      "relationship": "現行制度",
+      "sources": [
+        "mhlw-2024-revision",
+        "jp-childcare-care-law"
+      ],
+      "limits": [
+        "選択肢の要件・対象を最新資料で確認"
+      ],
+      "scope": [
+        "働く人",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C044",
+      "claim": "日本では2025年10月、妊娠・出産等の申出時と子が3歳になる前の個別意向聴取・配慮が施行された。",
+      "label": "制度",
+      "directness": "公式指針・制度",
+      "relationship": "現行制度",
+      "sources": [
+        "mhlw-2024-revision",
+        "jp-childcare-care-law"
+      ],
+      "limits": [
+        "個人情報の必要最小化と不利益防止を併記"
+      ],
+      "scope": [
+        "働く人",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C045",
+      "claim": "個別周知・意向確認は、制度利用を控えさせる方法で行わない。",
+      "label": "制度",
+      "directness": "公式指針・制度",
+      "relationship": "現行制度",
+      "sources": [
+        "mhlw-2024-revision"
+      ],
+      "limits": [
+        "最新の省令・指針・Q&Aを確認"
+      ],
+      "scope": [
+        "働く人",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C046",
+      "claim": "治療と仕事の両立では、本人の同意、必要な情報、業務調整、休暇、復職、見直しを扱う。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "公式指針からの設計",
+      "sources": [
+        "mhlw-treatment-work",
+        "who-ilo-mental",
+        "jp-appi"
+      ],
+      "limits": [
+        "疾患名から能力を決めつけない",
+        "医療判断は専門職へ"
+      ],
+      "scope": [
+        "働く人",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C047",
+      "claim": "精神健康上の状態を含む両立支援では、柔軟な時間、職務調整、段階的復帰等を個別に検討する。",
+      "label": "制度",
+      "directness": "公式指針・制度",
+      "relationship": "公式指針",
+      "sources": [
+        "who-ilo-mental",
+        "mhlw-treatment-work"
+      ],
+      "limits": [
+        "法的義務の範囲は法域・個別事情で異なる"
+      ],
+      "scope": [
+        "働く人",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C048",
+      "claim": "家庭内暴力は安全、出勤、連絡、賃金、業績へ影響し得るため、守秘的な相談・安全計画・休暇等の職場対応を検討する。",
+      "label": "B",
+      "directness": "混合",
+      "relationship": "体系的レビュー・国際基準",
+      "sources": [
+        "adhia-2019",
+        "ilo-c190"
+      ],
+      "limits": [
+        "危険時は専門機関・緊急支援を優先",
+        "一律開示を求めない"
+      ],
+      "scope": [
+        "働く人",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C049",
+      "claim": "在宅勤務を育児・介護・療養の代替と決めつけず、仕事とケアを同時に担える前提を置かない。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "予防原則",
+      "sources": [
+        "shockley-2021",
+        "mhlw-2024-revision",
+        "mhlw-treatment-work"
+      ],
+      "limits": [
+        "本人希望と安全な代替を確認"
+      ],
+      "scope": [
+        "働く人",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C050",
+      "claim": "制度利用、労働時間、評価、賃金、家事・ケア時間をジェンダー別・親状態別等に分解して監査する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "研究から実務推論",
+      "sources": [
+        "correll-2007",
+        "cukrowska-2020",
+        "hodges-2010",
+        "zamarro-2021"
+      ],
+      "limits": [
+        "小集団の再識別を防ぐ"
+      ],
+      "scope": [
+        "働く人",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C051",
+      "claim": "申請前後の案件、研修、評価、昇進、報酬、雇用継続を追い、利用者への不利益を検出する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "研究から実務推論",
+      "sources": [
+        "leslie-2012",
+        "cech-2014",
+        "correll-2007"
+      ],
+      "limits": [
+        "因果推論には比較設計が必要"
+      ],
+      "scope": [
+        "働く人",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C052",
+      "claim": "認知→適格→申請→承認→利用→継続→復帰の各段階を分けて測る。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "設計原則",
+      "sources": [
+        "blair-2002",
+        "allen-2001",
+        "mhlw-2024-revision"
+      ],
+      "limits": [
+        "利用率単独では障壁を特定できない"
+      ],
+      "scope": [
+        "働く人",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C053",
+      "claim": "制度申請の拒否・変更理由を分類し、職種・契約・上司別の偏りを監査する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "公平性推論",
+      "sources": [
+        "williams-2013",
+        "jp-childcare-care-law"
+      ],
+      "limits": [
+        "個人特定・報復を防ぐ"
+      ],
+      "scope": [
+        "働く人",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C054",
+      "claim": "管理職研修は制度知識だけでなく、応答、仕事再設計、守秘、不利益防止、同僚負担調整を含める。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "設計原則",
+      "sources": [
+        "kossek-2011",
+        "kelly-2014",
+        "mhlw-2024-revision"
+      ],
+      "limits": [
+        "研修単独の効果保証ではない"
+      ],
+      "scope": [
+        "働く人",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C055",
+      "claim": "チームで緊急の定義、応答期限、引継ぎ、代理、休暇中の連絡、復帰後の仕事量を合意する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "設計原則",
+      "sources": [
+        "barber-2015",
+        "butts-2015",
+        "kelly-2014"
+      ],
+      "limits": [
+        "個別事情を公開させない"
+      ],
+      "scope": [
+        "働く人",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C056",
+      "claim": "復帰日だけでなく、業務量、勤務時間、評価期間、情報アクセス、再調整日を決める。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "設計原則",
+      "sources": [
+        "rossin-2012",
+        "schonberg-2014",
+        "mhlw-treatment-work"
+      ],
+      "limits": [
+        "一律な復帰速度を求めない"
+      ],
+      "scope": [
+        "働く人",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C057",
+      "claim": "有償労働、通勤、勤務外連絡、睡眠、家事、育児、介護を別々に測る。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "測定原則",
+      "sources": [
+        "daminger-2019",
+        "zamarro-2021",
+        "schneider-2019"
+      ],
+      "limits": [
+        "監視的な常時計測を避ける"
+      ],
+      "scope": [
+        "働く人",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C058",
+      "claim": "親・介護者という属性だけでなく、頻度、予測不能性、代替可能性、費用、支援を測る。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "測定原則",
+      "sources": [
+        "bauer-2015",
+        "pinquart-2003",
+        "michel-2011"
+      ],
+      "limits": [
+        "開示は任意・必要最小限"
+      ],
+      "scope": [
+        "働く人",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C059",
+      "claim": "異性愛・婚姻・同居・二親世帯を標準とせず、多様な家族・支援関係を選択肢に含める。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "包摂設計",
+      "sources": [
+        "casper-2007",
+        "ilo-c156"
+      ],
+      "limits": [
+        "法的家族定義は制度ごとに確認"
+      ],
+      "scope": [
+        "働く人",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C060",
+      "claim": "非利用者・現場職・同僚への負担移転を測り、制度への反感を個人間対立にしない。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "分配影響",
+      "sources": [
+        "grover-1995",
+        "lambert-2012",
+        "kelliher-2010"
+      ],
+      "limits": [
+        "便益と負担を職務設計までたどる"
+      ],
+      "scope": [
+        "働く人",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C061",
+      "claim": "家庭事情、返信速度、在席、休暇利用を献身度ランキングへ流用しない。",
+      "label": "不支持",
+      "directness": "予防原則に基づく推論",
+      "relationship": "権利・予防",
+      "sources": [
+        "cech-2014",
+        "barber-2015",
+        "jp-appi"
+      ],
+      "limits": [
+        "個人評価への妥当性がない"
+      ],
+      "scope": [
+        "働く人",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C062",
+      "claim": "家族・妊娠・介護・治療情報は目的、必要項目、閲覧者、保存期間、訂正方法を限定する。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "プライバシー設計",
+      "sources": [
+        "jp-appi",
+        "mhlw-treatment-work",
+        "mhlw-2024-revision"
+      ],
+      "limits": [
+        "法務確認が必要な場合あり"
+      ],
+      "scope": [
+        "働く人",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C063",
+      "claim": "支援のための情報提供を、私生活の詳細な開示義務に変えない。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "予防原則",
+      "sources": [
+        "jp-appi",
+        "ilo-c156"
+      ],
+      "limits": [
+        "適格確認に必要な範囲は制度差"
+      ],
+      "scope": [
+        "働く人",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C064",
+      "claim": "制度設計と改定に、利用者・非利用者・現場職・管理職・労働者代表の声を入れる。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "実装原則",
+      "sources": [
+        "kelly-2014",
+        "mhlw-2024-revision",
+        "ilo-r165"
+      ],
+      "limits": [
+        "参加だけで代表性は保証されない"
+      ],
+      "scope": [
+        "働く人",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C065",
+      "claim": "試行では利用可能性、実利用、葛藤、相互促進、時間、健康、キャリア、公平、負担移転を追い、修正・停止条件を定める。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "評価設計",
+      "sources": [
+        "kelly-2014",
+        "moen-2016",
+        "joyce-2010"
+      ],
+      "limits": [
+        "短期平均効果だけで判断しない"
+      ],
+      "scope": [
+        "働く人",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C066",
+      "claim": "横断相関、縦断関連、実験、準実験、メタ分析、法的要件を同じ強さの因果主張として扱わない。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "エビデンス原則",
+      "sources": [
+        "amstad-2011",
+        "kelly-2014",
+        "rossin-2012"
+      ],
+      "limits": [
+        "各研究の設計と限界を併記"
+      ],
+      "scope": [
+        "働く人",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C067",
+      "claim": "日本の制度案内は改正で変わるため、公開時・利用時に厚労省とe-Govの現行資料を確認する。",
+      "label": "制度",
+      "directness": "公式指針・制度",
+      "relationship": "更新原則",
+      "sources": [
+        "mhlw-2024-revision",
+        "jp-childcare-care-law"
+      ],
+      "limits": [
+        "本データの確認日は2026-07-12"
+      ],
+      "scope": [
+        "働く人",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C068",
+      "claim": "ILO条約・勧告は国際基準として読み、日本国内の直接適用法と同一視しない。",
+      "label": "制度",
+      "directness": "公式指針・制度",
+      "relationship": "法源区別",
+      "sources": [
+        "ilo-c156",
+        "ilo-r165",
+        "ilo-c183"
+      ],
+      "limits": [
+        "批准状況・国内実施を別途確認"
+      ],
+      "scope": [
+        "働く人",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C069",
+      "claim": "両立困難を時間管理能力や家族の選択だけに帰さず、仕事量、勤務制度、賃金、ケア基盤、差別を含むシステムとして扱う。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "統合推論",
+      "sources": [
+        "michel-2011",
+        "schneider-2019",
+        "cukrowska-2020",
+        "bauer-2015"
+      ],
+      "limits": [
+        "個人支援も必要に応じ併用"
+      ],
+      "scope": [
+        "働く人",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C070",
+      "claim": "ナビは研究・制度への入口であり、個別の法的判断、診断、治療、危機対応を代替しない。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "適用範囲",
+      "sources": [
+        "mhlw-treatment-work",
+        "mhlw-2024-revision",
+        "who-ilo-mental"
+      ],
+      "limits": [
+        "緊急時は専門窓口を利用"
+      ],
+      "scope": [
+        "働く人",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "name": "バーンアウト 研究の質と限界",
+  "version": "0.1",
+  "notice": "簡易評価であり正式なRoB評価ではない。",
+  "assessments": [
+    {
+      "id": "lee-ashforth-1996",
+      "design": "meta-analysis",
+      "confidence": "moderate",
+      "strengths": [
+        "三次元を分離",
+        "61研究"
+      ],
+      "limitations": [
+        "古い研究群",
+        "横断研究中心"
+      ]
+    },
+    {
+      "id": "alarcon-2011",
+      "design": "meta-analysis",
+      "confidence": "moderate",
+      "strengths": [
+        "要求・資源・態度を統合",
+        "次元別分析"
+      ],
+      "limitations": [
+        "観察研究中心",
+        "異質性"
+      ]
+    },
+    {
+      "id": "aronsson-2017",
+      "design": "systematic review and meta-analysis",
+      "confidence": "moderate",
+      "strengths": [
+        "前向き研究を重視",
+        "労働環境要因"
+      ],
+      "limitations": [
+        "自己報告",
+        "残余交絡"
+      ]
+    },
+    {
+      "id": "salvagioni-2017",
+      "design": "systematic review of prospective studies",
+      "confidence": "moderate",
+      "strengths": [
+        "61研究を採用",
+        "品質基準を満たす36研究を主分析",
+        "二者選定"
+      ],
+      "limitations": [
+        "メタ分析なし",
+        "結果・尺度が多様"
+      ]
+    },
+    {
+      "id": "koutsimani-2019",
+      "design": "systematic review and meta-analysis",
+      "confidence": "moderate",
+      "strengths": [
+        "67研究",
+        "抑うつ・不安を同時評価"
+      ],
+      "limitations": [
+        "横断研究中心",
+        "尺度項目の重複"
+      ]
+    },
+    {
+      "id": "rotenstein-2018",
+      "design": "systematic review",
+      "confidence": "high-for-heterogeneity",
+      "strengths": [
+        "182研究",
+        "109,628人",
+        "定義を詳細比較"
+      ],
+      "limitations": [
+        "医師限定",
+        "単一有病率を推定できない"
+      ]
+    },
+    {
+      "id": "west-2016",
+      "design": "systematic review and meta-analysis",
+      "confidence": "moderate",
+      "strengths": [
+        "RCTとコホートを分離",
+        "個人・組織介入"
+      ],
+      "limitations": [
+        "医師中心",
+        "異質性",
+        "効果小"
+      ]
+    },
+    {
+      "id": "haslam-2024",
+      "design": "systematic review and meta-analysis of RCTs",
+      "confidence": "moderate-low",
+      "strengths": [
+        "RCT限定",
+        "誇大解釈を抑制"
+      ],
+      "limitations": [
+        "医師中心",
+        "研究数・長期追跡不足"
+      ]
+    },
+    {
+      "id": "debeer-2024",
+      "design": "measurement systematic review",
+      "confidence": "moderate",
+      "strengths": [
+        "多国データ",
+        "測定特性を統合"
+      ],
+      "limitations": [
+        "一次研究品質に依存",
+        "利用権は別問題"
+      ]
+    },
+    {
+      "id": "kitaoka-2004",
+      "design": "Japanese scale validation",
+      "confidence": "moderate",
+      "strengths": [
+        "日本の職域標本",
+        "因子・妥当性検討"
+      ],
+      "limitations": [
+        "研究版",
+        "基準値ではない"
+      ]
+    },
+    {
+      "id": "kubo-2014",
+      "design": "Japanese scale validation",
+      "confidence": "moderate",
+      "strengths": [
+        "日本のサービス職",
+        "構成概念妥当性"
+      ],
+      "limitations": [
+        "職種限定",
+        "他尺度と非互換"
+      ]
+    },
+    {
+      "id": "sakakibara-2020",
+      "design": "Japanese scale validation",
+      "confidence": "moderate",
+      "strengths": [
+        "適格解析982人",
+        "1か月再検査485人",
+        "複数妥当性指標"
+      ],
+      "limitations": [
+        "オンライン標本",
+        "診断閾値ではない"
+      ]
+    }
+  ]
+}

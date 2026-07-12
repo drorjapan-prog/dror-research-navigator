@@ -1,0 +1,496 @@
+{
+  "name": "心理的安全性 研究メタデータ",
+  "version": "0.4",
+  "notice": "論文本文は含みません。各出版社・著者・権利者の条件に従ってください。",
+  "studies": [
+    {
+      "id": "kahn-1990",
+      "authors": "Kahn, W. A.",
+      "year": 1990,
+      "title": "Psychological Conditions of Personal Engagement and Disengagement at Work",
+      "journal": "Academy of Management Journal, 33(4), 692–724",
+      "doi": "10.5465/256287",
+      "type": "qualitative theory-building",
+      "status": "peer-reviewed",
+      "population": "米国のサマーキャンプ職員と建築事務所員",
+      "sample": "2つの職場事例。詳細な分析人数は原文参照",
+      "method": "インタビューと観察による質的理論構築",
+      "finding": "個人が仕事へ自己を投入する条件の一つとして心理的安全性を提示",
+      "limitations": [
+        "現代のチーム尺度とは概念レベルが異なる",
+        "小規模で探索的"
+      ],
+      "source_url": "https://doi.org/10.5465/256287",
+      "last_human_verified": "2026-07-11"
+    },
+    {
+      "id": "edmondson-1999",
+      "authors": "Edmondson, A. C.",
+      "year": 1999,
+      "title": "Psychological Safety and Learning Behavior in Work Teams",
+      "journal": "Administrative Science Quarterly, 44(2), 350–383",
+      "doi": "10.2307/2666999",
+      "type": "multimethod field study",
+      "status": "peer-reviewed",
+      "population": "米国製造企業の実作業チーム",
+      "sample": "51チーム",
+      "method": "質問紙、観察、インタビュー、業績データを組み合わせたフィールド研究",
+      "finding": "チーム心理的安全性と学習行動の関係を検討",
+      "limitations": [
+        "単一企業",
+        "主要変数に自己報告を含む"
+      ],
+      "source_url": "https://doi.org/10.2307/2666999",
+      "last_human_verified": "2026-07-11"
+    },
+    {
+      "id": "nembhard-edmondson-2006",
+      "authors": "Nembhard, I. M., & Edmondson, A. C.",
+      "year": 2006,
+      "title": "Making It Safe: The Effects of Leader Inclusiveness and Professional Status on Psychological Safety and Improvement Efforts in Health Care Teams",
+      "journal": "Journal of Organizational Behavior, 27(7), 941–966",
+      "doi": "10.1002/job.413",
+      "type": "field study",
+      "status": "peer-reviewed",
+      "population": "新生児集中治療チームの専門職",
+      "sample": "23病院のチーム",
+      "method": "職位とリーダー包摂性を扱う多施設フィールド研究",
+      "finding": "包摂的なリーダー行動が職位差と心理的安全性の関係に関与",
+      "limitations": [
+        "医療専門職に限定",
+        "観察研究で因果は確定しない"
+      ],
+      "source_url": "https://doi.org/10.1002/job.413",
+      "last_human_verified": "2026-07-11"
+    },
+    {
+      "id": "detert-burris-2007",
+      "authors": "Detert, J. R., & Burris, E. R.",
+      "year": 2007,
+      "title": "Leadership Behavior and Employee Voice: Is the Door Really Open?",
+      "journal": "Academy of Management Journal, 50(4), 869–884",
+      "doi": "10.5465/amj.2007.26279183",
+      "type": "field study of employee voice",
+      "status": "peer-reviewed",
+      "population": "米国レストランチェーンの従業員と管理職",
+      "sample": "複数拠点の従業員・管理職データ",
+      "method": "リーダー行動、心理的安全性、改善志向の発言を分けたフィールド研究",
+      "finding": "心理的安全性を発言の媒介要因として扱い、両概念を区別",
+      "limitations": [
+        "単一企業・業界",
+        "発言の評価に管理職評定を含む"
+      ],
+      "source_url": "https://doi.org/10.5465/amj.2007.26279183",
+      "last_human_verified": "2026-07-11"
+    },
+    {
+      "id": "dollard-bakker-2010",
+      "authors": "Dollard, M. F., & Bakker, A. B.",
+      "year": 2010,
+      "title": "Psychosocial Safety Climate as a Precursor to Conducive Work Environments, Psychological Health Problems, and Employee Engagement",
+      "journal": "Journal of Occupational and Organizational Psychology, 83(3), 579–599",
+      "doi": "10.1348/096317909X470690",
+      "type": "multilevel longitudinal field study",
+      "status": "peer-reviewed",
+      "population": "オーストラリアの学校職員",
+      "sample": "18校にネストした209〜288人、12か月間隔の反復測定",
+      "method": "心理社会的安全風土、仕事要求・資源、健康・エンゲージメントの多層縦断分析",
+      "finding": "心理的健康を守る組織方針・実践の風土を、チーム内対人リスク概念とは別に提示",
+      "limitations": [
+        "特定セクター",
+        "自己報告を含む",
+        "心理的安全性そのものの研究ではない"
+      ],
+      "source_url": "https://doi.org/10.1348/096317909X470690",
+      "last_human_verified": "2026-07-11"
+    },
+    {
+      "id": "pearsall-ellis-2011",
+      "authors": "Pearsall, M. J., & Ellis, A. P. J.",
+      "year": 2011,
+      "title": "Thick as Thieves: The Effects of Ethical Orientation and Psychological Safety on Unethical Team Behavior",
+      "journal": "Journal of Applied Psychology, 96(2), 401–411",
+      "doi": "10.1037/a0021503",
+      "type": "team experiment",
+      "status": "peer-reviewed",
+      "population": "実験チーム",
+      "sample": "複数チームの実験データ。正確な人数は原文参照",
+      "method": "倫理的志向、心理的安全性、非倫理的チーム行動を操作・測定",
+      "finding": "安全に相互作用できることが倫理的行動を自動保証しない境界条件を提示",
+      "limitations": [
+        "実験課題から実組織への一般化",
+        "倫理的志向との組合せに依存"
+      ],
+      "source_url": "https://doi.org/10.1037/a0021503",
+      "last_human_verified": "2026-07-11"
+    },
+    {
+      "id": "edmondson-lei-2014",
+      "authors": "Edmondson, A. C., & Lei, Z.",
+      "year": 2014,
+      "title": "Psychological Safety: The History, Renaissance, and Future of an Interpersonal Construct",
+      "journal": "Annual Review of Organizational Psychology and Organizational Behavior, 1, 23–43",
+      "doi": "10.1146/annurev-orgpsych-031413-091305",
+      "type": "narrative review",
+      "status": "peer-reviewed",
+      "population": "個人・チーム・組織研究",
+      "sample": "1960年代以降の主要文献",
+      "method": "歴史的・概念的ナラティブレビュー",
+      "finding": "心理的安全性を特定文脈の対人リスク認識として統合",
+      "limitations": [
+        "系統的レビューではない",
+        "検索・採否の完全な再現性はない"
+      ],
+      "source_url": "https://doi.org/10.1146/annurev-orgpsych-031413-091305",
+      "last_human_verified": "2026-07-11"
+    },
+    {
+      "id": "newman-2017",
+      "authors": "Newman, A., Donohue, R., & Eva, N.",
+      "year": 2017,
+      "title": "Psychological Safety: A Systematic Review of the Literature",
+      "journal": "Human Resource Management Review, 27(3), 521–535",
+      "doi": "10.1016/j.hrmr.2017.01.001",
+      "type": "systematic review",
+      "status": "peer-reviewed",
+      "population": "複数産業・国の職場研究",
+      "sample": "83研究",
+      "method": "システマティックレビュー",
+      "finding": "先行要因、成果、測定上の課題を整理",
+      "limitations": [
+        "検索時点が古い",
+        "一次研究の横断・自己報告の弱さを引き継ぐ"
+      ],
+      "source_url": "https://doi.org/10.1016/j.hrmr.2017.01.001",
+      "last_human_verified": "2026-07-11"
+    },
+    {
+      "id": "frazier-2017",
+      "authors": "Frazier, M. L., Fainshmidt, S., Klinger, R. L., Pezeshkan, A., & Vracheva, V.",
+      "year": 2017,
+      "title": "Psychological Safety: A Meta-Analytic Review and Extension",
+      "journal": "Personnel Psychology, 70(1), 113–165",
+      "doi": "10.1111/peps.12183",
+      "type": "meta-analysis",
+      "status": "peer-reviewed",
+      "population": "職場の個人とグループ",
+      "sample": "136独立サンプル、2.2万人超、約5,000グループ",
+      "method": "メタ分析",
+      "finding": "学習、情報共有、発言、成果等との平均的関連を統合",
+      "limitations": [
+        "因果推論は限定的",
+        "出版バイアスと異質性",
+        "主観的成果で関連が強い傾向"
+      ],
+      "source_url": "https://doi.org/10.1111/peps.12183",
+      "last_human_verified": "2026-07-11"
+    },
+    {
+      "id": "odonovan-interventions-2020",
+      "authors": "O’Donovan, R., & McAuliffe, E.",
+      "year": 2020,
+      "title": "A Systematic Review Exploring the Content and Outcomes of Interventions to Improve Psychological Safety, Speaking Up and Voice Behaviour",
+      "journal": "BMC Health Services Research, 20, 101",
+      "doi": "10.1186/s12913-020-4931-2",
+      "type": "systematic review",
+      "status": "peer-reviewed",
+      "population": "主に医療チーム",
+      "sample": "14介入",
+      "method": "介入のシステマティックレビュー",
+      "finding": "教育・非教育介入の結果は混在",
+      "limitations": [
+        "客観指標不足",
+        "医療領域中心",
+        "介入要素を分離しにくい"
+      ],
+      "source_url": "https://doi.org/10.1186/s12913-020-4931-2",
+      "last_human_verified": "2026-07-11"
+    },
+    {
+      "id": "ochiai-otsuka-2022",
+      "authors": "Ochiai, Y., & Otsuka, Y.",
+      "year": 2022,
+      "title": "Reliability and Validity of the Japanese Version of the Psychological Safety Scale for Workers",
+      "journal": "Industrial Health, 60(5), 436–446",
+      "doi": "10.2486/indhealth.2021-0130",
+      "type": "scale validation",
+      "status": "peer-reviewed",
+      "population": "日本の労働者",
+      "sample": "オンライン労働者標本。各解析人数は原文参照",
+      "method": "翻訳、因子構造、信頼性、妥当性の検証",
+      "finding": "日本語版心理的安全性尺度の測定根拠を提示",
+      "limitations": [
+        "オンライン標本",
+        "全国基準値ではない"
+      ],
+      "source_url": "https://doi.org/10.2486/indhealth.2021-0130",
+      "last_human_verified": "2026-07-11"
+    },
+    {
+      "id": "edmondson-bransby-2023",
+      "authors": "Edmondson, A. C., & Bransby, D. P.",
+      "year": 2023,
+      "title": "Psychological Safety Comes of Age: Observed Themes in an Established Literature",
+      "journal": "Annual Review of Organizational Psychology and Organizational Behavior, 10, 55–78",
+      "doi": "10.1146/annurev-orgpsych-120920-055217",
+      "type": "review",
+      "status": "peer-reviewed",
+      "population": "2013〜2021年を中心とする職場研究",
+      "sample": "近年文献のテーマ別統合",
+      "method": "ナラティブレビュー",
+      "finding": "概念の成熟、複数レベル、課題を整理",
+      "limitations": [
+        "系統的採否ではない",
+        "一次研究の弱さを引き継ぐ"
+      ],
+      "source_url": "https://doi.org/10.1146/annurev-orgpsych-120920-055217",
+      "last_human_verified": "2026-07-11"
+    },
+    {
+      "id": "eldor-2023",
+      "authors": "Eldor, L., Hodor, M., & Cappelli, P.",
+      "year": 2023,
+      "title": "The Limits of Psychological Safety: Nonlinear Relationships with Performance",
+      "journal": "Organizational Behavior and Human Decision Processes, 177, 104255",
+      "doi": "10.1016/j.obhdp.2023.104255",
+      "type": "five-study boundary-condition test",
+      "status": "peer-reviewed",
+      "population": "複数組織・複数レベルの従業員とチーム",
+      "sample": "5研究",
+      "method": "定型性と説明責任を含む境界条件検証",
+      "finding": "定型的役割内成果で非線形関係を報告",
+      "limitations": [
+        "追試が必要",
+        "全職務・成果へ一般化できない"
+      ],
+      "source_url": "https://doi.org/10.1016/j.obhdp.2023.104255",
+      "last_human_verified": "2026-07-11"
+    },
+    {
+      "id": "matsuo-2024",
+      "authors": "Matsuo, A., Tsujita, M., Kita, K., Ayaya, S., & Kumagaya, S.",
+      "year": 2024,
+      "title": "Developing and Validating Japanese Versions of Psychological Safety Scale, Knowledge Sharing Scale and Expressed Humility Scale",
+      "journal": "Management and Labour Studies, 49(3), 375–388",
+      "doi": "10.1177/0258042X231191871",
+      "type": "scale validation",
+      "status": "peer-reviewed",
+      "population": "日本の労働者",
+      "sample": "複数の日本語尺度検証標本。人数は原文参照",
+      "method": "翻訳、因子構造、内的一貫性、収束妥当性の検討",
+      "finding": "心理的安全性等の日本語版尺度を検証",
+      "limitations": [
+        "尺度間相関中心",
+        "産業横断の不変性は未確定"
+      ],
+      "source_url": "https://doi.org/10.1177/0258042X231191871",
+      "last_human_verified": "2026-07-11"
+    },
+    {
+      "id": "sasaki-2022",
+      "authors": "Sasaki, N., Inoue, A., Asaoka, H., Sekiya, Y., Nishi, D., Tsutsumi, A., & Imamura, K.",
+      "year": 2022,
+      "title": "The Survey Measure of Psychological Safety and Its Association with Mental Health and Job Performance: A Validation Study and Cross-Sectional Analysis",
+      "journal": "International Journal of Environmental Research and Public Health, 19(16), 9879",
+      "doi": "10.3390/ijerph19169879",
+      "type": "scale validation and cross-sectional analysis",
+      "status": "peer-reviewed",
+      "population": "日本の労働者",
+      "sample": "職域オンライン標本。人数は原文参照",
+      "method": "尺度検証と横断的関連分析",
+      "finding": "心理的安全性とメンタルヘルス・職務成果指標の関連を報告",
+      "limitations": [
+        "横断研究",
+        "自己報告",
+        "臨床診断には使えない"
+      ],
+      "source_url": "https://doi.org/10.3390/ijerph19169879",
+      "last_human_verified": "2026-07-11"
+    },
+    {
+      "id": "castro-2025",
+      "authors": "Castro, S., Englmaier, F., & Guadalupe, M.",
+      "year": 2025,
+      "title": "Fostering Psychological Safety in Teams: Evidence from an RCT",
+      "journal": "CEPR Discussion Paper No. 20218",
+      "url": "https://cepr.org/publications/dp20218",
+      "type": "randomized field experiment",
+      "status": "discussion-paper",
+      "population": "単一企業の管理職・従業員",
+      "sample": "大規模フィールド標本。版により表現が異なるため原文参照",
+      "method": "ランダム化フィールド実験",
+      "finding": "1on1の会話内容を変える介入の効果を検討",
+      "limitations": [
+        "査読前",
+        "単一企業",
+        "版更新を要追跡"
+      ],
+      "source_url": "https://cepr.org/publications/dp20218",
+      "last_human_verified": "2026-07-11"
+    },
+    {
+      "id": "capezio-2023",
+      "authors": "Capezio, A., Barends, E., Rousseau, D., & Wietrak, E.",
+      "year": 2023,
+      "title": "Psychological Safety: An Evidence Review. Scientific Summary",
+      "journal": "Chartered Institute of Personnel and Development / CEBMa",
+      "url": "https://www.cipd.org/globalassets/media/knowledge/knowledge-hub/evidence-reviews/2024-pdfs/8550-psychological-safety-scientific-summary.pdf",
+      "type": "rapid evidence assessment",
+      "status": "evidence-review-report",
+      "population": "職場の心理的安全性研究",
+      "sample": "89研究",
+      "method": "迅速エビデンス評価",
+      "finding": "多くの研究が横断的で、質の高い因果研究が少ないと評価",
+      "limitations": [
+        "非西洋研究等を除外",
+        "迅速レビューとして範囲を制限"
+      ],
+      "source_url": "https://www.cipd.org/globalassets/media/knowledge/knowledge-hub/evidence-reviews/2024-pdfs/8550-psychological-safety-scientific-summary.pdf",
+      "last_human_verified": "2026-07-11"
+    },
+    {
+      "id": "odonovan-enablers-2020",
+      "authors": "O’Donovan, R., & McAuliffe, E.",
+      "year": 2020,
+      "title": "A Systematic Review of Factors That Enable Psychological Safety in Healthcare Teams",
+      "journal": "International Journal for Quality in Health Care, 32(4), 240–250",
+      "doi": "10.1093/intqhc/mzaa025",
+      "type": "systematic review",
+      "status": "peer-reviewed",
+      "population": "医療チーム",
+      "sample": "採用研究群。件数は原文参照",
+      "method": "促進要因のシステマティックレビュー",
+      "finding": "リーダー、チーム関係、組織支援等を整理",
+      "limitations": [
+        "医療中心",
+        "観察研究が多い"
+      ],
+      "source_url": "https://doi.org/10.1093/intqhc/mzaa025",
+      "last_human_verified": "2026-07-11"
+    },
+    {
+      "id": "dong-2024",
+      "authors": "Dong, R. K., Li, X., & Roxas, H.",
+      "year": 2024,
+      "title": "Psychological Safety and Psychosocial Safety Climate in Workplace: A Bibliometric Analysis and Systematic Review Towards a Research Agenda",
+      "journal": "Journal of Safety Research, 91, 1–19",
+      "doi": "10.1016/j.jsr.2024.08.001",
+      "type": "bibliometric analysis and systematic review",
+      "status": "peer-reviewed",
+      "population": "心理的安全性・心理社会的安全風土の文献",
+      "sample": "990文献のマッピング",
+      "method": "書誌計量分析とシステマティックレビュー",
+      "finding": "隣接する二概念の研究領域と今後の課題を整理",
+      "limitations": [
+        "書誌計量は個別研究の因果的質を保証しない",
+        "二概念を同時に扱う"
+      ],
+      "source_url": "https://doi.org/10.1016/j.jsr.2024.08.001",
+      "last_human_verified": "2026-07-11"
+    },
+    {
+      "id": "kobayashi-2025",
+      "authors": "Kobayashi, M.",
+      "year": 2025,
+      "title": "Effectiveness of a Group-Based Psychological Safety Intervention to Prevent Workplace Bullying and Sustain Work Engagement: A Cluster Randomized Controlled Trial",
+      "journal": "Behavioral Sciences, 15(10), 1302",
+      "doi": "10.3390/bs15101302",
+      "type": "cluster randomized controlled trial",
+      "status": "peer-reviewed",
+      "population": "日本の製薬工場の従業員",
+      "sample": "分析368人（介入163、対照205）",
+      "method": "部署単位クラスターRCT、3時点自己報告",
+      "finding": "上司・チームへの心理的安全性に小さい改善（報告値 d=.22、.20）",
+      "limitations": [
+        "単一企業・拠点",
+        "自己報告",
+        "短期追跡",
+        "盲検化困難"
+      ],
+      "source_url": "https://doi.org/10.3390/bs15101302",
+      "last_human_verified": "2026-07-11"
+    },
+    {
+      "id": "peddie-2025",
+      "authors": "Peddie, N., Hoegh, J., Rice, G., Shetty, S., Ure, A., & Cogan, N.",
+      "year": 2025,
+      "title": "Health and Social Care Professionals’ Experience of Psychological Safety Within Their Occupational Setting: A Thematic Synthesis Review",
+      "journal": "Nursing Reports, 15(4), 131",
+      "doi": "10.3390/nursrep15040131",
+      "type": "thematic synthesis review",
+      "status": "peer-reviewed",
+      "population": "医療・社会ケア専門職",
+      "sample": "質的研究の統合。採用件数は原文参照",
+      "method": "テーマ統合レビュー",
+      "finding": "心理的安全性の経験と関係・組織要因を統合",
+      "limitations": [
+        "セクター限定",
+        "質的研究の文脈依存性"
+      ],
+      "source_url": "https://doi.org/10.3390/nursrep15040131",
+      "last_human_verified": "2026-07-11"
+    },
+    {
+      "id": "sato-2025",
+      "authors": "Sato, T., Kakuda, K., Sekiguchi, E., Ishiseki, M., Iwanami, M., Akamatsu, Y., & Taito, S.",
+      "year": 2025,
+      "title": "Psychological Safety and Burnout in Nurses: A Scoping Review",
+      "journal": "Cureus, 17(9), e92411",
+      "doi": "10.7759/cureus.92411",
+      "type": "scoping review",
+      "status": "peer-reviewed",
+      "population": "看護師",
+      "sample": "スコーピングレビュー採用研究群",
+      "method": "心理的安全性とバーンアウト研究の範囲整理",
+      "finding": "関連研究の傾向と不足を整理",
+      "limitations": [
+        "因果統合ではない",
+        "看護職中心"
+      ],
+      "source_url": "https://doi.org/10.7759/cureus.92411",
+      "last_human_verified": "2026-07-11"
+    },
+    {
+      "id": "gonzalez-2026",
+      "authors": "Gonzalez, M., Chowdhury, F., Kee, M., MacLeod, B., Skidmore, B., & Woodgate, R. L.",
+      "year": 2026,
+      "title": "An Umbrella Review of Relational Enablers of Psychological Safety and Identity-Related Gaps in the Evidence",
+      "journal": "Journal of Healthcare Leadership, 18",
+      "doi": "10.2147/JHL.S569934",
+      "type": "umbrella review",
+      "status": "peer-reviewed",
+      "population": "医療を中心とする心理的安全性レビュー",
+      "sample": "11レビュー",
+      "method": "アンブレラレビュー",
+      "finding": "4群の関係的促進要因と、人種・民族・文化等の研究ギャップを整理",
+      "limitations": [
+        "医療領域の比重",
+        "一次研究の弱さを引き継ぐ",
+        "アイデンティティ研究が少ない"
+      ],
+      "source_url": "https://doi.org/10.2147/JHL.S569934",
+      "last_human_verified": "2026-07-11"
+    },
+    {
+      "id": "liu-measures-2024",
+      "authors": "Liu, J., Ein, N., et al.",
+      "year": 2024,
+      "title": "Meta-Analysis and Systematic Review of the Measures of Psychological Safety",
+      "journal": "medRxiv preprint",
+      "doi": "10.1101/2024.02.09.24302562",
+      "type": "measurement meta-analysis and systematic review",
+      "status": "preprint",
+      "population": "心理的安全性を測る研究",
+      "sample": "217研究",
+      "method": "尺度のメタ分析・システマティックレビュー",
+      "finding": "尺度利用と信頼性・構成概念上の課題を整理",
+      "limitations": [
+        "プレプリント",
+        "異質性が高い",
+        "査読後の更新を要確認"
+      ],
+      "source_url": "https://doi.org/10.1101/2024.02.09.24302562",
+      "last_human_verified": "2026-07-11"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "version": "0.1",
+  "release_decision": "完成条件を満たす（次分野へ移行可）",
+  "dimensions": [
+    {
+      "id": "diversity-effects",
+      "status": "complete",
+      "evidence": "属性・文化・職務関連多様性、課題・文脈・過程の境界"
+    },
+    {
+      "id": "inclusion-belonging",
+      "status": "complete",
+      "evidence": "所属・独自性・真正性・包摂風土・同化圧力"
+    },
+    {
+      "id": "voice-ostracism",
+      "status": "complete",
+      "evidence": "地位差、発言、心理的安全性、排斥、無礼"
+    },
+    {
+      "id": "discrimination",
+      "status": "complete",
+      "evidence": "直接・間接、微妙・明白、採用・処遇・退出"
+    },
+    {
+      "id": "identity-groups",
+      "status": "complete",
+      "evidence": "人種・民族、ジェンダー、年齢、障害、宗教・性的指向、ケア、言語"
+    },
+    {
+      "id": "intersectionality",
+      "status": "complete",
+      "evidence": "同時性、カテゴリ内差、小セル、再特定"
+    },
+    {
+      "id": "harassment-remedy",
+      "status": "complete",
+      "evidence": "暴力・ハラスメント、通報、保護、報復、実効的救済"
+    },
+    {
+      "id": "interventions",
+      "status": "complete",
+      "evidence": "研修、偏見低減、説明責任、透明性、ERG・当事者参加"
+    },
+    {
+      "id": "pay-opportunity",
+      "status": "complete",
+      "evidence": "機会・柔軟勤務・配置・昇進・同一価値報酬"
+    },
+    {
+      "id": "data",
+      "status": "complete",
+      "evidence": "任意性、自己認識、目的限定、最小セル、欠測"
+    },
+    {
+      "id": "ai",
+      "status": "complete",
+      "evidence": "社会技術、公平性、雇用AI、感情認識、人の監督、異議"
+    },
+    {
+      "id": "openness",
+      "status": "complete",
+      "evidence": "主張・研究・用語・採否・質・更新を公開"
+    }
+  ],
+  "remaining_non_blocking": [
+    "日本の雇用慣行・非正規雇用・障害・ハラスメントに関する介入研究は追加可能",
+    "トランスジェンダー、ノンバイナリー、宗教、カースト、先住民、移民の職場研究は地域差が大きく更新優先",
+    "ERG・アライシップ・スポンサーシップの長期因果研究は限定",
+    "生成AIを含む雇用AIの交差的公平性と救済研究は発展途上"
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "name": "離職・定着研究 迅速エビデンスマップ・プロトコル",
+  "version": "0.1",
+  "review_type": "公開前蓄積のための迅速エビデンスマップ（システマティックレビューではない）",
+  "research_questions": [
+    {
+      "id": "RQ1",
+      "question": "離職をどう分類し、離職意向と実際の退職をどう区別するか。"
+    },
+    {
+      "id": "RQ2",
+      "question": "態度、仕事条件、関係、報酬、外部機会等はどの程度予測するか。"
+    },
+    {
+      "id": "RQ3",
+      "question": "ショック、意思決定経路、仕事への埋め込みは何を説明するか。"
+    },
+    {
+      "id": "RQ4",
+      "question": "集団離職率は組織成果とどう関係し、どの離職を減らすべきか。"
+    },
+    {
+      "id": "RQ5",
+      "question": "採用、現実的職務情報、オンボーディング、仕事設計等の定着施策に何の根拠があるか。"
+    },
+    {
+      "id": "RQ6",
+      "question": "個人予測、監視、引き止め圧力、退職妨害、属性差別をどう防ぐか。"
+    }
+  ],
+  "query_families": [
+    "employee voluntary turnover meta-analysis antecedents",
+    "turnover intention actual turnover meta-analysis",
+    "job embeddedness turnover meta-analysis",
+    "unfolding model shock voluntary turnover",
+    "collective turnover organizational performance meta-analysis",
+    "realistic job preview onboarding socialization retention meta-analysis",
+    "Japan employment turnover survey MHLW",
+    "AI employee attrition prediction employment law ethics"
+  ],
+  "inclusion": [
+    "査読済み基礎・統合研究",
+    "実離職を追跡した研究を優先",
+    "個人・集団レベルを区別",
+    "日本の公的統計",
+    "AI・雇用に関する公式制度資料"
+  ],
+  "exclusion": [
+    "離職意向を実離職率として扱う資料",
+    "出典不明の退職コスト倍率",
+    "ベンダー独自AIの精度宣伝",
+    "退職を忠誠心不足・性格だけで説明する資料"
+  ],
+  "process_limitations": [
+    "単一レビュアーによる迅速整理",
+    "データベース全件の二重スクリーニングではない",
+    "効果量の独自再計算・正式なバイアス評価は未実施",
+    "日本の個別産業・若年者研究は網羅していない",
+    "法的助言ではない"
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "name": "離職・定着 用語集",
+  "version": "0.1",
+  "license": "CC BY 4.0",
+  "terms": [
+    {
+      "id": "turnover",
+      "term": "離職",
+      "definition": "雇用関係が終了し組織から退出すること。"
+    },
+    {
+      "id": "retention",
+      "term": "定着",
+      "definition": "一定期間、雇用関係が継続すること。"
+    },
+    {
+      "id": "voluntary-turnover",
+      "term": "自発的離職",
+      "definition": "主に本人の意思で雇用関係を終えること。"
+    },
+    {
+      "id": "involuntary-turnover",
+      "term": "非自発的離職",
+      "definition": "解雇・雇止め等、主に組織側決定による離職。"
+    },
+    {
+      "id": "turnover-intention",
+      "term": "離職意向",
+      "definition": "将来辞めたい、辞めるつもりという自己報告意向。"
+    },
+    {
+      "id": "actual-turnover",
+      "term": "実離職",
+      "definition": "追跡・人事記録で確認される実際の退出。"
+    },
+    {
+      "id": "avoidable-turnover",
+      "term": "回避可能離職",
+      "definition": "組織の行動で防げた可能性がある離職。"
+    },
+    {
+      "id": "unavoidable-turnover",
+      "term": "回避困難離職",
+      "definition": "退職、転居、健康等、組織施策では防ぎにくい離職。"
+    },
+    {
+      "id": "functional-turnover",
+      "term": "機能的離職",
+      "definition": "特定視点で組織に利益があると評価される離職。"
+    },
+    {
+      "id": "dysfunctional-turnover",
+      "term": "非機能的離職",
+      "definition": "重要能力・関係等を失うと評価される離職。"
+    },
+    {
+      "id": "regrettable-turnover",
+      "term": "惜しまれる離職",
+      "definition": "組織が避けたかったと分類する離職。"
+    },
+    {
+      "id": "collective-turnover",
+      "term": "集団離職",
+      "definition": "組織・事業単位の一定期間の離職集合。"
+    },
+    {
+      "id": "turnover-rate",
+      "term": "離職率",
+      "definition": "定義した期間・対象の離職者数を分母で割る率。"
+    },
+    {
+      "id": "survival-analysis",
+      "term": "生存時間分析",
+      "definition": "離職までの時間と打切りを扱う統計手法。"
+    },
+    {
+      "id": "withdrawal-cognition",
+      "term": "離脱認知",
+      "definition": "辞めたい、探索する等の退出に近い認知。"
+    },
+    {
+      "id": "job-search",
+      "term": "求職探索",
+      "definition": "外部の仕事情報を探し応募する行動。"
+    },
+    {
+      "id": "alternative-opportunity",
+      "term": "代替機会",
+      "definition": "現在の職場以外に利用可能と認知される選択肢。"
+    },
+    {
+      "id": "shock",
+      "term": "ショック",
+      "definition": "退職経路を開始し得る予期・非予期の出来事。"
+    },
+    {
+      "id": "script",
+      "term": "スクリプト",
+      "definition": "特定の出来事が起きたら辞める等の既成判断。"
+    },
+    {
+      "id": "image-violation",
+      "term": "イメージ違反",
+      "definition": "価値・目標・将来像との不一致。"
+    },
+    {
+      "id": "job-embeddedness",
+      "term": "仕事への埋め込み",
+      "definition": "適合、つながり、離れる犠牲からなる職場・地域への結びつき。"
+    },
+    {
+      "id": "fit",
+      "term": "適合",
+      "definition": "自分の価値・能力・希望と仕事・組織・地域の一致。"
+    },
+    {
+      "id": "links",
+      "term": "つながり",
+      "definition": "人、チーム、活動、地域との結びつき。"
+    },
+    {
+      "id": "sacrifice",
+      "term": "犠牲",
+      "definition": "離職で失う便益・関係・機会。"
+    },
+    {
+      "id": "realistic-job-preview",
+      "term": "現実的職務情報",
+      "definition": "採用前に仕事の良い面・難しい面を具体的に示すこと。"
+    },
+    {
+      "id": "organizational-socialization",
+      "term": "組織社会化",
+      "definition": "新人が役割・関係・文化を学び適応する過程。"
+    },
+    {
+      "id": "onboarding",
+      "term": "オンボーディング",
+      "definition": "入社前後の受入れ・役割明確化・支援・学習の仕組み。"
+    },
+    {
+      "id": "exit-interview",
+      "term": "退職面談",
+      "definition": "退職決定後に理由・経験を聞く面談。"
+    },
+    {
+      "id": "stay-interview",
+      "term": "ステイ・インタビュー",
+      "definition": "在籍者へ残る理由・改善点を聞く面談。"
+    },
+    {
+      "id": "survivorship-bias",
+      "term": "生存者バイアス",
+      "definition": "残った人だけを見ることで判断が歪むこと。"
+    },
+    {
+      "id": "attrition-prediction",
+      "term": "離職予測",
+      "definition": "個人または集団の将来離職を統計・AIで推定すること。"
+    }
+  ]
+}

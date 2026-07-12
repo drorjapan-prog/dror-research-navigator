@@ -1,0 +1,1672 @@
+{
+  "name": "雇用不安・組織再編・レイオフ・公正な移行 主張レジスター",
+  "version": "0.1",
+  "license": "CC BY 4.0",
+  "claims": [
+    {
+      "id": "RS-C01",
+      "claim": "雇用不安は、客観的な雇用状態そのものではなく、望まない職・雇用条件の喪失可能性と対抗力に関する知覚を含む。",
+      "label": "A",
+      "directness": "雇用不安直接研究",
+      "relationship": "概念定義",
+      "scope": [
+        "組織・労働者"
+      ],
+      "sources": [
+        "greenhalgh-1984",
+        "shoss-2017"
+      ],
+      "limits": [
+        "契約形態や解雇予告とは別に測る"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "RS-C02",
+      "claim": "職そのものを失う量的雇用不安と、賃金・役割・昇進等の重要条件を失う質的雇用不安は区別できる。",
+      "label": "A",
+      "directness": "雇用不安直接研究",
+      "relationship": "概念分離",
+      "scope": [
+        "組織・労働者"
+      ],
+      "sources": [
+        "hellgren-1999",
+        "lee-2018"
+      ],
+      "limits": [
+        "両者は併存し得る"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "RS-C03",
+      "claim": "失職可能性の認知と、それに対する恐れ・心配は関連するが同一ではない。",
+      "label": "A",
+      "directness": "雇用不安直接研究",
+      "relationship": "認知・感情",
+      "scope": [
+        "組織・労働者"
+      ],
+      "sources": [
+        "jiang-lavaysse-2018"
+      ],
+      "limits": [
+        "自己報告・尺度差"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "RS-C04",
+      "claim": "雇用不安は仕事満足、組織コミットメント、精神健康等の不良と平均的に関連する。",
+      "label": "A",
+      "directness": "雇用不安直接研究",
+      "relationship": "メタ分析関連",
+      "scope": [
+        "組織・労働者"
+      ],
+      "sources": [
+        "sverke-2002",
+        "cheng-chan-2008",
+        "de-witte-1999",
+        "kim-2016"
+      ],
+      "limits": [
+        "観察研究中心",
+        "個人診断に使わない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "RS-C05",
+      "claim": "雇用不安と身体健康・冠動脈疾患との関連が報告されるが、交絡を含む観察研究であり個別因果を断定できない。",
+      "label": "B",
+      "directness": "雇用不安直接研究",
+      "relationship": "健康関連",
+      "scope": [
+        "組織・労働者"
+      ],
+      "sources": [
+        "ferrie-2002",
+        "virtanen-2013"
+      ],
+      "limits": [
+        "自己報告曝露",
+        "残余交絡",
+        "医療診断ではない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "RS-C06",
+      "claim": "慢性的な雇用不安と、一時的な組織変更の不確実性は時間軸を分けて測る必要がある。",
+      "label": "B",
+      "directness": "混合",
+      "relationship": "時間過程",
+      "scope": [
+        "組織・労働者"
+      ],
+      "sources": [
+        "ferrie-2002",
+        "rafferty-griffin-2006"
+      ],
+      "limits": [
+        "測定間隔依存"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "RS-C07",
+      "claim": "客観的な契約不安定性、組織の人員削減、失業率等は雇用不安の背景になり得るが、個人の知覚と一対一には対応しない。",
+      "label": "A",
+      "directness": "混合",
+      "relationship": "多層先行要因",
+      "scope": [
+        "組織・労働者"
+      ],
+      "sources": [
+        "shoss-2017",
+        "lee-2018"
+      ],
+      "limits": [
+        "国・制度・情報差"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "RS-C08",
+      "claim": "雇用不安への反応を性格やレジリエンスだけへ還元せず、意思決定、情報、仕事量、代替機会、所得保障を調べる必要がある。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "システム診断",
+      "scope": [
+        "組織・労働者"
+      ],
+      "sources": [
+        "shoss-2017",
+        "sverke-2002"
+      ],
+      "limits": [
+        "個人支援と構造対策を併用"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "RS-C09",
+      "claim": "不確実な情報を隠すことと、未確定事項を事実のように断定することの両方を避ける。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "リスクコミュニケーション",
+      "scope": [
+        "組織・労働者"
+      ],
+      "sources": [
+        "oreg-2011",
+        "lewis-1999"
+      ],
+      "limits": [
+        "機密・市場規制等を別途確認"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "RS-C10",
+      "claim": "組織変更の頻度、計画性、影響、不確実性を一つの「変化量」にまとめない。",
+      "label": "A",
+      "directness": "再編・離職直接研究",
+      "relationship": "変革測定",
+      "scope": [
+        "組織・労働者"
+      ],
+      "sources": [
+        "rafferty-griffin-2006"
+      ],
+      "limits": [
+        "特定研究の尺度を無断転載しない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "RS-C11",
+      "claim": "変革への疑問や反対を、適応力不足や抵抗性という個人欠陥だけで説明してはならない。",
+      "label": "不支持",
+      "directness": "混合",
+      "relationship": "権力・異議",
+      "scope": [
+        "組織・労働者"
+      ],
+      "sources": [
+        "oreg-2011"
+      ],
+      "limits": [
+        "代替案、利害、過去経験、実質的不利益を確認"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "RS-C12",
+      "claim": "参加は説明会への出席ではなく、決定前の情報、代表性、代替案への影響、回答、修正可能性で評価する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "参加設計",
+      "scope": [
+        "組織・労働者"
+      ],
+      "sources": [
+        "lewis-1999",
+        "oreg-2011"
+      ],
+      "limits": [
+        "すべての提案採用とは異なる"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "RS-C13",
+      "claim": "ダウンサイジングは自動的に財務成果を改善する普遍策ではない。",
+      "label": "A",
+      "directness": "再編・離職直接研究",
+      "relationship": "企業成果",
+      "scope": [
+        "組織・労働者"
+      ],
+      "sources": [
+        "cascio-1997",
+        "love-nohria-2005",
+        "datta-2010"
+      ],
+      "limits": [
+        "企業レベル観察",
+        "削減理由・景気・余剰の条件差"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "RS-C14",
+      "claim": "人員削減の影響は、人数だけでなく、選定、通知、説明、支援、仕事再設計、削減反復、事後の要員で変わる。",
+      "label": "A",
+      "directness": "混合",
+      "relationship": "実装過程",
+      "scope": [
+        "組織・労働者"
+      ],
+      "sources": [
+        "datta-2010",
+        "brockner-1987",
+        "oreg-2011"
+      ],
+      "limits": [
+        "効果量は施策ごとに異なる"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "RS-C15",
+      "claim": "削減後に残る人は安堵するとは限らず、罪悪感、怒り、不安、仕事量増加、信頼低下など異なる反応を示し得る。",
+      "label": "A",
+      "directness": "再編・離職直接研究",
+      "relationship": "残留者反応",
+      "scope": [
+        "組織・労働者"
+      ],
+      "sources": [
+        "brockner-1987",
+        "mishra-spreitzer-1998",
+        "datta-2010"
+      ],
+      "limits": [
+        "個人差・文脈差",
+        "臨床診断ではない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "RS-C16",
+      "claim": "人員削減後に残留者の自発的離職が増える場合がある。",
+      "label": "A",
+      "directness": "再編・離職直接研究",
+      "relationship": "後続離職",
+      "scope": [
+        "組織・労働者"
+      ],
+      "sources": [
+        "trevor-nyberg-2008",
+        "datta-2010"
+      ],
+      "limits": [
+        "組織レベル観察",
+        "全組織で同じではない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "RS-C17",
+      "claim": "削減後の生産性を、少ない人数による短期の総労働時間・過重労働で維持していないか確認する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "業務量再設計",
+      "scope": [
+        "組織・労働者"
+      ],
+      "sources": [
+        "datta-2010",
+        "trevor-nyberg-2008"
+      ],
+      "limits": [
+        "投入・品質・安全・健康を同時評価"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "RS-C18",
+      "claim": "「サバイバー」という呼称を、残った人の特権・忠誠・罪悪感を当然視するラベルとして用いない。",
+      "label": "実務原則",
+      "directness": "予防原則に基づく推論",
+      "relationship": "非スティグマ化",
+      "scope": [
+        "組織・労働者"
+      ],
+      "sources": [
+        "mishra-spreitzer-1998"
+      ],
+      "limits": [
+        "本人の自己理解を尊重"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "RS-C19",
+      "claim": "説明の丁寧さは重要だが、実質的に不当な選定・不足する補償・権利侵害を正当化しない。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "説明と正当性",
+      "scope": [
+        "組織・労働者"
+      ],
+      "sources": [
+        "brockner-1990",
+        "eu-collective-1998",
+        "ilo-c158"
+      ],
+      "limits": [
+        "適法性は地域別に確認"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "RS-C20",
+      "claim": "選定基準は決定前に定義し、職務上必要な根拠、一貫性、属性別影響、利益相反、再審を監査する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "選定統治",
+      "scope": [
+        "組織・労働者"
+      ],
+      "sources": [
+        "eu-collective-1998",
+        "ilo-c158"
+      ],
+      "limits": [
+        "差別法・労働協約・国内法を確認"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "RS-C21",
+      "claim": "業績評価を削減選定へ転用する場合、元の目的、評価誤差、近接性・ケア・障害等のバイアスを再検証する。",
+      "label": "実務原則",
+      "directness": "予防原則に基づく推論",
+      "relationship": "目的外利用",
+      "scope": [
+        "組織・労働者"
+      ],
+      "sources": [
+        "datta-2010"
+      ],
+      "limits": [
+        "個人データ・差別リスク監査"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "RS-C22",
+      "claim": "AIに削減対象の決定を委ね、理由・データ・誤りを本人が争えない制度を本ナビは支持しない。",
+      "label": "不支持",
+      "directness": "予防原則に基づく推論",
+      "relationship": "高重要度自動決定",
+      "scope": [
+        "組織・労働者"
+      ],
+      "sources": [
+        "oecd-ai-2023",
+        "ilo-genai-2023"
+      ],
+      "limits": [
+        "適用法は地域・用途で確認",
+        "人による実質的再審が必要"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "RS-C23",
+      "claim": "生成AIへの職務曝露推計は、実際の導入率、仕事消失、個人の解雇確率を意味しない。",
+      "label": "A",
+      "directness": "公式指針・制度",
+      "relationship": "予測境界",
+      "scope": [
+        "組織・労働者"
+      ],
+      "sources": [
+        "ilo-genai-2023",
+        "oecd-ai-2023"
+      ],
+      "limits": [
+        "技術・価格・制度・需要で変化"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "RS-C24",
+      "claim": "技術導入では職種名だけでなく、タスクの自動化・補完、仕事量、技能、監視、品質責任を分けて評価する。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "職務再設計",
+      "scope": [
+        "組織・労働者"
+      ],
+      "sources": [
+        "ilo-genai-2023",
+        "oecd-ai-2023"
+      ],
+      "limits": [
+        "労働者参加を含める"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "RS-C25",
+      "claim": "再訓練を提示しただけで公正な移行とは言えず、受講時間・所得、参加可能性、実際の求人、仕事の質、配置結果を追う。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "訓練実装",
+      "scope": [
+        "組織・労働者"
+      ],
+      "sources": [
+        "card-2018",
+        "ilo-just-transition-2015"
+      ],
+      "limits": [
+        "訓練が雇用需要を単独で作らない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "RS-C26",
+      "claim": "公正な移行は脱炭素に限らず、技術・事業転換でも応用できるが、元文書の適用範囲を明示する。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "概念移用",
+      "scope": [
+        "組織・労働者"
+      ],
+      "sources": [
+        "ilo-just-transition-2015",
+        "eu-fair-transition-2022"
+      ],
+      "limits": [
+        "法的地位・分野差を明示"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "RS-C27",
+      "claim": "公正な移行は、失職回避だけでなく、良質な仕事、所得保障、社会保護、技能、地域投資、社会対話を含む。",
+      "label": "A",
+      "directness": "公式指針・制度",
+      "relationship": "政策統合",
+      "scope": [
+        "組織・労働者"
+      ],
+      "sources": [
+        "ilo-just-transition-2015",
+        "ilo-just-transition-2023",
+        "eu-fair-transition-2022",
+        "unfccc-paris-2015"
+      ],
+      "limits": [
+        "実施は国・地域制度依存",
+        "パリ協定では前文の考慮事項"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "RS-C28",
+      "claim": "事業所閉鎖は労働者個人だけでなく、世帯、取引先、自治体財政、地域サービスへ影響し得る。",
+      "label": "A",
+      "directness": "混合",
+      "relationship": "地域波及",
+      "scope": [
+        "組織・労働者"
+      ],
+      "sources": [
+        "brand-2015",
+        "worldbank-displacement-2021"
+      ],
+      "limits": [
+        "地域経済構造で異なる"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "RS-C29",
+      "claim": "閉鎖・縮小の計画は、発表直前ではなく、代替事業、技能、財源、土地・環境、公共サービスを扱える時期から始める。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "事前計画",
+      "scope": [
+        "組織・労働者"
+      ],
+      "sources": [
+        "worldbank-displacement-2021",
+        "ilo-just-transition-2015"
+      ],
+      "limits": [
+        "機密管理と早期参加を両立"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "RS-C30",
+      "claim": "事業売却・外注化・会社分割は、単なる雇用継続の有無だけでなく、賃金・勤続・年金・労働協約・安全・異議を確認する。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "事業移転",
+      "scope": [
+        "組織・労働者"
+      ],
+      "sources": [
+        "eu-transfer-2001",
+        "ilo-c158"
+      ],
+      "limits": [
+        "適用法・移転該当性を確認"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "RS-C31",
+      "claim": "倒産時には未払賃金・退職給付等の保護制度と申請期限を、通常の再就職支援と分けて案内する。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "倒産保護",
+      "scope": [
+        "組織・労働者"
+      ],
+      "sources": [
+        "ilo-c173",
+        "eu-insolvency-2008",
+        "japan-wage-payment"
+      ],
+      "limits": [
+        "国別要件・上限・手続を確認"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "RS-C32",
+      "claim": "失職は平均して所得の大きく持続的な低下と関連し得る。",
+      "label": "A",
+      "directness": "再編・離職直接研究",
+      "relationship": "所得影響",
+      "scope": [
+        "組織・労働者"
+      ],
+      "sources": [
+        "jacobson-1993",
+        "couch-placzek-2010"
+      ],
+      "limits": [
+        "国・時代・勤続・景気で異なる"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "RS-C33",
+      "claim": "非自発的失職は精神健康不良と関連し、再就職により平均的改善が見られるが全員が回復するとは限らない。",
+      "label": "A",
+      "directness": "混合",
+      "relationship": "精神健康",
+      "scope": [
+        "組織・労働者"
+      ],
+      "sources": [
+        "paul-moser-2009",
+        "brand-2008",
+        "wanberg-2012"
+      ],
+      "limits": [
+        "選択・交絡",
+        "診断や個人予測ではない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "RS-C34",
+      "claim": "大量解雇後の死亡リスク上昇を示す研究があり、失職対応を単なるキャリア課題に限定しない。",
+      "label": "A",
+      "directness": "再編・離職直接研究",
+      "relationship": "長期健康",
+      "scope": [
+        "組織・労働者"
+      ],
+      "sources": [
+        "sullivan-wachter-2009",
+        "eliason-storrie-2009"
+      ],
+      "limits": [
+        "歴史的・特定集団",
+        "機序未確定",
+        "恐怖を煽らない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "RS-C35",
+      "claim": "失職の影響はパートナーや家族へ波及し得る。",
+      "label": "B",
+      "directness": "再編・離職直接研究",
+      "relationship": "世帯波及",
+      "scope": [
+        "組織・労働者"
+      ],
+      "sources": [
+        "mendolia-2014",
+        "brand-2015"
+      ],
+      "limits": [
+        "家族形態・ジェンダー規範・制度差"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "RS-C36",
+      "claim": "解雇通知の場で健康リスクを一般論として断定せず、本人の選択で利用できる医療・心理・生活相談を提示する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "支援設計",
+      "scope": [
+        "組織・労働者"
+      ],
+      "sources": [
+        "paul-moser-2009",
+        "brand-2015"
+      ],
+      "limits": [
+        "緊急リスク時は地域の専門経路へ"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "RS-C37",
+      "claim": "失職者に前向きさ・自己責任・即時求職を強制せず、悲嘆、休息、ケア、障害、在留資格等に応じた選択肢を用意する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "尊厳・包摂",
+      "scope": [
+        "組織・労働者"
+      ],
+      "sources": [
+        "wanberg-2012",
+        "ilo-c168"
+      ],
+      "limits": [
+        "個別支援と構造対策を両立"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "RS-C38",
+      "claim": "求職支援介入は平均的に有効な場合があるが、雇用需要不足や差別、交通、ケア、健康、資格障壁を単独では解消しない。",
+      "label": "A",
+      "directness": "混合",
+      "relationship": "介入境界",
+      "scope": [
+        "組織・労働者"
+      ],
+      "sources": [
+        "vinokur-1995",
+        "liu-2014",
+        "card-2018",
+        "kluve-2019"
+      ],
+      "limits": [
+        "施策・対象・景気の異質性",
+        "若年者等の対象差"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "RS-C39",
+      "claim": "求職支援は応募件数だけでなく、就職の質、賃金、安定性、健康、持続、本人希望を評価する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "成果評価",
+      "scope": [
+        "組織・労働者"
+      ],
+      "sources": [
+        "liu-2014",
+        "card-2018",
+        "wanberg-2012"
+      ],
+      "limits": [
+        "長期追跡が必要"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "RS-C40",
+      "claim": "再就職支援の利用を退職合意、権利放棄、守秘への同意と不必要に抱き合わせない。",
+      "label": "実務原則",
+      "directness": "予防原則に基づく推論",
+      "relationship": "選択・権利",
+      "scope": [
+        "組織・労働者"
+      ],
+      "sources": [
+        "ilo-c158",
+        "ilo-r166"
+      ],
+      "limits": [
+        "契約の法的助言は専門家へ"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "RS-C41",
+      "claim": "社内公募・配置転換・労働時間短縮・自然減・採用停止等を、解雇回避案として影響とともに比較する。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "代替案",
+      "scope": [
+        "組織・労働者"
+      ],
+      "sources": [
+        "ilo-r166",
+        "eu-collective-1998"
+      ],
+      "limits": [
+        "負担移転・賃下げ・安全を監査"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "RS-C42",
+      "claim": "配置転換は雇用維持という利益だけでなく、通勤、ケア、障害、賃金、技能適合、本人同意への影響を評価する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "再配置公平性",
+      "scope": [
+        "組織・労働者"
+      ],
+      "sources": [
+        "ilo-r166",
+        "ilo-just-transition-2015"
+      ],
+      "limits": [
+        "強制転居・実質退職強要を防ぐ"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "RS-C43",
+      "claim": "希望退職は名称だけで自発的とは判断せず、圧力、情報、検討時間、代替案、撤回、対象選別を確認する。",
+      "label": "実務原則",
+      "directness": "予防原則に基づく推論",
+      "relationship": "実質的自発性",
+      "scope": [
+        "組織・労働者"
+      ],
+      "sources": [
+        "ilo-c158",
+        "japan-labor-contract"
+      ],
+      "limits": [
+        "国内法・判例・個別事実を確認"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "RS-C44",
+      "claim": "離職理由の会社都合・自己都合等の記録は、給付・評判・権利に影響し得るため、正確性、証拠、訂正経路を設ける。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "記録統治",
+      "scope": [
+        "組織・労働者"
+      ],
+      "sources": [
+        "japan-employment-insurance",
+        "ilo-c168"
+      ],
+      "limits": [
+        "国別分類・認定主体を確認"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "RS-C45",
+      "claim": "解雇対象者を即日システム遮断する場合も、個人データ、私物、給与明細、職歴証明、連絡先、異議の安全な取得経路を残す。",
+      "label": "実務原則",
+      "directness": "予防原則に基づく推論",
+      "relationship": "オフボーディング",
+      "scope": [
+        "組織・労働者"
+      ],
+      "sources": [
+        "japan-labor-standards",
+        "ilo-c158"
+      ],
+      "limits": [
+        "情報セキュリティと権利を両立"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "RS-C46",
+      "claim": "通知は、尊厳とプライバシーを守る場で、決定主体、理由、基準、日程、金銭、福利厚生、データ、相談・異議を文書でも示す。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "通知設計",
+      "scope": [
+        "組織・労働者"
+      ],
+      "sources": [
+        "brockner-1990",
+        "ilo-c158",
+        "eu-collective-1998"
+      ],
+      "limits": [
+        "虚偽の個別化説明をしない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "RS-C47",
+      "claim": "管理職へ通知役だけを委ねる場合も、経営・人事・法務・健康・ITの責任と即時支援経路を明確にする。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "役割設計",
+      "scope": [
+        "組織・労働者"
+      ],
+      "sources": [
+        "datta-2010",
+        "oreg-2011"
+      ],
+      "limits": [
+        "管理職自身の雇用不安・負担も支援"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "RS-C48",
+      "claim": "同日に全員へ同じ説明をすることと、公平な情報アクセスは同一ではない。勤務帯、言語、障害、休職、出張等への到達を確認する。",
+      "label": "実務原則",
+      "directness": "予防原則に基づく推論",
+      "relationship": "情報公平性",
+      "scope": [
+        "組織・労働者"
+      ],
+      "sources": [
+        "eu-collective-1998",
+        "ilo-just-transition-2015"
+      ],
+      "limits": [
+        "個人情報を漏らさない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "RS-C49",
+      "claim": "うわさの件数ではなく、未回答の重要質問、矛盾、情報空白、更新頻度、信頼できる窓口を測る。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "コミュニケーション評価",
+      "scope": [
+        "組織・労働者"
+      ],
+      "sources": [
+        "lewis-1999",
+        "rafferty-griffin-2006"
+      ],
+      "limits": [
+        "監視や発言者特定に使わない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "RS-C50",
+      "claim": "不確実性調査を、削減対象を予測・選別する個人データとして転用しない。",
+      "label": "不支持",
+      "directness": "予防原則に基づく推論",
+      "relationship": "目的限定",
+      "scope": [
+        "組織・労働者"
+      ],
+      "sources": [
+        "probst-2003",
+        "vander-elst-2014"
+      ],
+      "limits": [
+        "匿名性・小集団保護・禁止用途を明示"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "RS-C51",
+      "claim": "雇用不安尺度は医療診断、忠誠度、将来業績、個人の退職確率を測るものではない。",
+      "label": "不支持",
+      "directness": "雇用不安直接研究",
+      "relationship": "測定境界",
+      "scope": [
+        "組織・労働者"
+      ],
+      "sources": [
+        "probst-2003",
+        "vander-elst-2014",
+        "jiang-lavaysse-2018"
+      ],
+      "limits": [
+        "尺度の目的・妥当性を限定"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "RS-C52",
+      "claim": "平均的な不安得点だけでなく、職種、契約、拠点、年齢、障害、ケア、在留資格、勤務帯別の制度曝露と結果を確認する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "分配監査",
+      "scope": [
+        "組織・労働者"
+      ],
+      "sources": [
+        "cheng-chan-2008",
+        "ilo-just-transition-2015"
+      ],
+      "limits": [
+        "少人数の再特定を防ぐ"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "RS-C53",
+      "claim": "非正規・派遣・委託・子会社だけへ移行負担を集中させていないか、組織境界を越えて監査する。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "境界公平性",
+      "scope": [
+        "組織・労働者"
+      ],
+      "sources": [
+        "ilo-just-transition-2015",
+        "eu-fair-transition-2022"
+      ],
+      "limits": [
+        "法的雇用主と実質的意思決定を区別"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "RS-C54",
+      "claim": "再編の成功を、人員数・株価・コストだけで評価しない。",
+      "label": "不支持",
+      "directness": "混合",
+      "relationship": "成果境界",
+      "scope": [
+        "組織・労働者"
+      ],
+      "sources": [
+        "cascio-1997",
+        "datta-2010"
+      ],
+      "limits": [
+        "品質、安全、健康、顧客、能力、地域を含める"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "RS-C55",
+      "claim": "評価では計画された制度だけでなく、実際の到達、参加、利用、実装忠実度、逸脱、文脈を記録する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "プロセス評価",
+      "scope": [
+        "組織・労働者"
+      ],
+      "sources": [
+        "nielsen-randall-2013",
+        "nielsen-miraglia-2017"
+      ],
+      "limits": [
+        "施策効果と実装失敗を区別"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "RS-C56",
+      "claim": "平均効果に加え、誰に、どの条件で、どの機序を通じて便益・害が生じたかを検討する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "異質性評価",
+      "scope": [
+        "組織・労働者"
+      ],
+      "sources": [
+        "nielsen-miraglia-2017"
+      ],
+      "limits": [
+        "事後的な都合のよい部分群分析を避ける"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "RS-C57",
+      "claim": "M&Aでは文化差を固定的な国民性へ還元せず、権力、統合方式、職務、言語、制度、資源配分を調べる。",
+      "label": "実務原則",
+      "directness": "再編・離職直接研究",
+      "relationship": "文化・統合",
+      "scope": [
+        "組織・労働者"
+      ],
+      "sources": [
+        "stahl-voigt-2008",
+        "cartwright-schoenberg-2006"
+      ],
+      "limits": [
+        "文化差の平均効果は文脈依存"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "RS-C58",
+      "claim": "合併後の「一つの文化」形成を、旧組織の知識・異議・アイデンティティ消去として運用しない。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "統合倫理",
+      "scope": [
+        "組織・労働者"
+      ],
+      "sources": [
+        "cartwright-schoenberg-2006",
+        "oreg-2011"
+      ],
+      "limits": [
+        "共通化が必要な領域と多様性を分ける"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "RS-C59",
+      "claim": "事業移転・合併では、誰が雇用主・データ管理者・意思決定者・異議受付者になるかを明示する。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "責任連鎖",
+      "scope": [
+        "組織・労働者"
+      ],
+      "sources": [
+        "eu-transfer-2001",
+        "eu-collective-1998"
+      ],
+      "limits": [
+        "地域別法人・共同決定制度を確認"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "RS-C60",
+      "claim": "集団的解雇の協議は、人数を告げる儀式ではなく、回避、人数削減、影響緩和を検討できる時期に行う。",
+      "label": "A",
+      "directness": "公式指針・制度",
+      "relationship": "協議目的",
+      "scope": [
+        "組織・労働者"
+      ],
+      "sources": [
+        "eu-collective-1998",
+        "ilo-c158"
+      ],
+      "limits": [
+        "適用法・閾値・代表制度を確認"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "RS-C61",
+      "claim": "労働者代表へは理由、人数・区分、期間、選定基準、給付計算等の検討に必要な情報を適時提供する。",
+      "label": "A",
+      "directness": "公式指針・制度",
+      "relationship": "情報・協議",
+      "scope": [
+        "組織・労働者"
+      ],
+      "sources": [
+        "eu-collective-1998"
+      ],
+      "limits": [
+        "EU最低線であり国内法・協約が上乗せし得る"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "RS-C62",
+      "claim": "異議申立ては、通知担当者と独立した再審者、証拠へのアクセス、期限、報復禁止、暫定保護を含める。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "救済設計",
+      "scope": [
+        "組織・労働者"
+      ],
+      "sources": [
+        "ilo-c158",
+        "eu-collective-1998"
+      ],
+      "limits": [
+        "司法・行政・労使経路は国別確認"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "RS-C63",
+      "claim": "解雇の妥当性、予告、補償、協議、給付を一つのチェック欄で代替しない。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "権利分解",
+      "scope": [
+        "組織・労働者"
+      ],
+      "sources": [
+        "ilo-c158",
+        "japan-labor-contract",
+        "japan-labor-standards"
+      ],
+      "limits": [
+        "それぞれ要件・例外・救済が異なる"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "RS-C64",
+      "claim": "日本での解雇は労働契約法第16条等の現行法・判例・個別事情を確認し、一般的な経営判断だけで適法性を断定しない。",
+      "label": "A",
+      "directness": "公式指針・制度",
+      "relationship": "日本法境界",
+      "scope": [
+        "組織・労働者"
+      ],
+      "sources": [
+        "japan-labor-contract"
+      ],
+      "limits": [
+        "法的助言ではない",
+        "有期・整理解雇等の論点を専門家へ"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "RS-C65",
+      "claim": "日本で多数の離職が見込まれる場合、再就職援助計画や大量雇用変動届等の現行要件を早期に公的窓口で確認する。",
+      "label": "A",
+      "directness": "公式指針・制度",
+      "relationship": "行政連携",
+      "scope": [
+        "組織・労働者"
+      ],
+      "sources": [
+        "japan-labor-policy-act"
+      ],
+      "limits": [
+        "人数・期間・期限・様式は更新確認"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "RS-C66",
+      "claim": "失業給付・再就職支援の案内は、離職理由、加入、求職、年齢等で異なるため個別確認経路を示す。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "所得・手続",
+      "scope": [
+        "組織・労働者"
+      ],
+      "sources": [
+        "japan-employment-insurance",
+        "ilo-c168"
+      ],
+      "limits": [
+        "給付を会社が確約しない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "RS-C67",
+      "claim": "事業再編で仕事が残っても、賃金低下、時間不安定化、通勤増、監視増、技能陳腐化が起きれば移行の質は低い可能性がある。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "仕事の質",
+      "scope": [
+        "組織・労働者"
+      ],
+      "sources": [
+        "ilo-just-transition-2015",
+        "oecd-ai-2023"
+      ],
+      "limits": [
+        "雇用人数だけで評価しない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "RS-C68",
+      "claim": "再編後に必要な仕事を、残留者の善意・無償残業・ケアの犠牲で埋めない。",
+      "label": "不支持",
+      "directness": "混合",
+      "relationship": "負担移転",
+      "scope": [
+        "組織・労働者"
+      ],
+      "sources": [
+        "datta-2010",
+        "trevor-nyberg-2008"
+      ],
+      "limits": [
+        "要員・優先順位・停止業務を明示"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "RS-C69",
+      "claim": "削減対象者と残留者を競わせ、知識移転や支援を忠誠心テストにしない。",
+      "label": "不支持",
+      "directness": "予防原則に基づく推論",
+      "relationship": "関係保護",
+      "scope": [
+        "組織・労働者"
+      ],
+      "sources": [
+        "brockner-1987",
+        "mishra-spreitzer-1998"
+      ],
+      "limits": [
+        "安全な引継ぎと適正な時間・対価"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "RS-C70",
+      "claim": "削減発表後のハラスメント、退職強要、情報遮断、評判毀損を監視し、安全な外部相談経路を示す。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "危害防止",
+      "scope": [
+        "組織・労働者"
+      ],
+      "sources": [
+        "ilo-c158",
+        "japan-labor-contract"
+      ],
+      "limits": [
+        "適用法・緊急性に応じ専門機関へ"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "RS-C71",
+      "claim": "経営層の報酬・株主還元・外注費と削減必要性の関係を説明可能にし、負担配分を監査する。",
+      "label": "実務原則",
+      "directness": "予防原則に基づく推論",
+      "relationship": "分配公正",
+      "scope": [
+        "組織・労働者"
+      ],
+      "sources": [
+        "datta-2010",
+        "ilo-just-transition-2015"
+      ],
+      "limits": [
+        "企業秘密を理由に検討不能にしない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "RS-C72",
+      "claim": "公正な移行の計画には、影響を受ける労働者・代表・地域・少数者が意思決定前から参加する必要がある。",
+      "label": "A",
+      "directness": "公式指針・制度",
+      "relationship": "社会対話",
+      "scope": [
+        "組織・労働者"
+      ],
+      "sources": [
+        "ilo-just-transition-2015",
+        "ilo-just-transition-2023",
+        "worldbank-displacement-2021"
+      ],
+      "limits": [
+        "代表性と発言安全性を確認"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "RS-C73",
+      "claim": "支援予算は一人当たり平均だけでなく、到達率、必要、利用障壁、結果、地域・属性別分布を公開する。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "公開性",
+      "scope": [
+        "組織・労働者"
+      ],
+      "sources": [
+        "eu-egf-2021",
+        "eu-fair-transition-2022"
+      ],
+      "limits": [
+        "個人再特定を防ぐ"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "RS-C74",
+      "claim": "外部再就職会社へ委託しても、支援の質、データ利用、苦情、差別、成果の説明責任は発注組織から消えない。",
+      "label": "実務原則",
+      "directness": "予防原則に基づく推論",
+      "relationship": "委託統治",
+      "scope": [
+        "組織・労働者"
+      ],
+      "sources": [
+        "liu-2014",
+        "ilo-c168"
+      ],
+      "limits": [
+        "契約・監査・本人の選択を設計"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "RS-C75",
+      "claim": "再編完了日は学習完了日ではなく、少なくとも中長期の健康、所得、仕事の質、離職、地域影響を追跡する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "長期評価",
+      "scope": [
+        "組織・労働者"
+      ],
+      "sources": [
+        "brand-2015",
+        "datta-2010",
+        "nielsen-randall-2013"
+      ],
+      "limits": [
+        "追跡同意・プライバシー・比較可能性"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "RS-C76",
+      "claim": "解雇回避だけを成功にすると、不健全な仕事、賃金未払い、危険な延命を見落とし得る。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "多次元成果",
+      "scope": [
+        "組織・労働者"
+      ],
+      "sources": [
+        "ilo-c173",
+        "ilo-just-transition-2015"
+      ],
+      "limits": [
+        "事業継続可能性と権利・安全を同時評価"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "RS-C77",
+      "claim": "失職研究の平均影響を用いて、特定個人の将来の健康・所得・再就職を予言してはならない。",
+      "label": "不支持",
+      "directness": "再編・離職直接研究",
+      "relationship": "個人推論境界",
+      "scope": [
+        "組織・労働者"
+      ],
+      "sources": [
+        "brand-2015",
+        "paul-moser-2009"
+      ],
+      "limits": [
+        "集団平均と個人予測を区別"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "RS-C78",
+      "claim": "公開する再編データは、定義、分母、期間、改訂、欠測、少人数保護、決定への使用範囲を伴う。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "オープンデータ統治",
+      "scope": [
+        "組織・労働者"
+      ],
+      "sources": [
+        "nielsen-randall-2013",
+        "ilo-just-transition-2015"
+      ],
+      "limits": [
+        "透明性とプライバシーを両立"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "RS-C79",
+      "claim": "労組加入・代表活動、苦情申立て、差別禁止事由、妊娠・出産、保護される休業等を、直接または代理指標で削減対象選定へ使わない。",
+      "label": "A",
+      "directness": "公式指針・制度",
+      "relationship": "禁止理由・差別防止",
+      "scope": [
+        "組織・労働者"
+      ],
+      "sources": [
+        "ilo-c158"
+      ],
+      "limits": [
+        "国内法の保護範囲・立証・救済を確認"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "RS-C80",
+      "claim": "労働時間短縮、一時休業、ジョブシェア等を解雇回避策とする場合も、所得減、予測可能性、健康、ケア、給付、期間、終了条件を評価する。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "一時的代替策",
+      "scope": [
+        "組織・労働者"
+      ],
+      "sources": [
+        "ilo-r166",
+        "ilo-c168"
+      ],
+      "limits": [
+        "負担を低賃金層へ集中させない",
+        "国内の休業制度を確認"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "RS-C81",
+      "claim": "事業所閉鎖・大量失職の追跡では、子どもの教育・健康、住宅、地域の医療・交通・税収等への波及も検討する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "世代・公共サービス波及",
+      "scope": [
+        "組織・労働者"
+      ],
+      "sources": [
+        "brand-2015",
+        "worldbank-displacement-2021"
+      ],
+      "limits": [
+        "個人再特定を防ぐ",
+        "地域差・長期追跡が必要"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "RS-C82",
+      "claim": "雇用不安と業績・欠勤の関係は一方向・一様ではなく、同一視、動機づけ、健康、職務、測定方法等で異なり得る。",
+      "label": "B",
+      "directness": "雇用不安直接研究",
+      "relationship": "業績・行動",
+      "scope": [
+        "組織・労働者"
+      ],
+      "sources": [
+        "staufenbiel-konig-2010",
+        "piccoli-2017",
+        "sverke-2002"
+      ],
+      "limits": [
+        "観察研究中心",
+        "不安を動機づけ手段として意図的に使わない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    }
+  ]
+}

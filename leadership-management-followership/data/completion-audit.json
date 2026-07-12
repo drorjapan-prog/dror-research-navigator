@@ -1,0 +1,61 @@
+{
+  "version": "0.1",
+  "release_decision": "完成条件を満たす（次分野へ移行可）",
+  "dimensions": [
+    {
+      "id": "definition-context",
+      "status": "complete",
+      "evidence": "リーダーシップ・管理職・フォロワー・条件適合・帰属"
+    },
+    {
+      "id": "major-theories",
+      "status": "complete",
+      "evidence": "変革型・取引型・LMX・倫理・真正・奉仕・権限付与"
+    },
+    {
+      "id": "voice-inclusion",
+      "status": "complete",
+      "evidence": "発言・沈黙・謙虚さ・包摂・地位差"
+    },
+    {
+      "id": "followership-power",
+      "status": "complete",
+      "evidence": "共同生成と公式権限の非対称、カリスマ依存"
+    },
+    {
+      "id": "destructive",
+      "status": "complete",
+      "evidence": "虐待的・破壊的・放任、報復、独立救済"
+    },
+    {
+      "id": "health-safety",
+      "status": "complete",
+      "evidence": "ストレス・精神健康・管理職負荷・安全行動"
+    },
+    {
+      "id": "equity",
+      "status": "complete",
+      "evidence": "ジェンダー・文化・評価バイアス・個人推定禁止"
+    },
+    {
+      "id": "development",
+      "status": "complete",
+      "evidence": "リーダー／リーダーシップ開発、訓練、評価、継承"
+    },
+    {
+      "id": "digital-ai",
+      "status": "complete",
+      "evidence": "遠隔、監視、アルゴリズム管理、AI助言、人の責任"
+    },
+    {
+      "id": "openness",
+      "status": "complete",
+      "evidence": "主張・研究・用語・採否・質・更新を公開"
+    }
+  ],
+  "remaining_non_blocking": [
+    "日本の中小組織・公共部門・交代勤務管理職の介入研究は追加可能",
+    "人間とAIが共同で管理判断する長期研究は発展途上",
+    "交差性・非二元的ジェンダー・障害のリーダー研究は今後の優先領域"
+  ]
+}

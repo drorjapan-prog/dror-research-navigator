@@ -1,0 +1,357 @@
+{
+  "name": "キャリア形成・能力開発・職場学習・リスキリング 用語集",
+  "version": "0.1",
+  "license": "CC BY 4.0",
+  "terms": [
+    {
+      "id": "career-development",
+      "term": "キャリア形成",
+      "definition": "人生と仕事の時間軸で、役割、能力、選択、移動、意味を形成する過程。"
+    },
+    {
+      "id": "learning-development",
+      "term": "能力開発",
+      "definition": "知識・技能・態度・判断・関係等を形成し、仕事や将来の役割へつなぐ活動。"
+    },
+    {
+      "id": "training",
+      "term": "研修",
+      "definition": "意図された学習目標と設計を持つ正式な学習活動。"
+    },
+    {
+      "id": "needs-analysis",
+      "term": "ニーズ分析",
+      "definition": "組織、仕事、個人の必要と現状を調べ、学習介入の必要性を判断する過程。"
+    },
+    {
+      "id": "learning-objective",
+      "term": "学習目標",
+      "definition": "学習後に理解・実行・判断できる状態を示す目標。"
+    },
+    {
+      "id": "training-transfer",
+      "term": "研修転移",
+      "definition": "研修で得た知識・技能を仕事へ一般化し、維持すること。"
+    },
+    {
+      "id": "transfer-climate",
+      "term": "転移気候",
+      "definition": "研修内容を仕事で使うことを促進・抑制する職場の手掛かりと結果。"
+    },
+    {
+      "id": "opportunity-to-apply",
+      "term": "適用機会",
+      "definition": "学んだ知識・技能を仕事で実際に使える機会。"
+    },
+    {
+      "id": "active-learning",
+      "term": "能動的学習",
+      "definition": "探索、練習、選択、フィードバック、自己調整を伴う学習。"
+    },
+    {
+      "id": "error-management-training",
+      "term": "誤り管理訓練",
+      "definition": "誤りから学ぶ方略・態度を含む訓練。"
+    },
+    {
+      "id": "spaced-practice",
+      "term": "分散学習",
+      "definition": "学習を一度に集中させず、時間を空けて複数回行うこと。"
+    },
+    {
+      "id": "retrieval-practice",
+      "term": "想起練習",
+      "definition": "答えを読み返すだけでなく、記憶から取り出して使う練習。"
+    },
+    {
+      "id": "learning-style",
+      "term": "学習スタイル",
+      "definition": "好みの学習方法等を型として表す考え方。型への適合効果は別途検証が必要。"
+    },
+    {
+      "id": "formal-learning",
+      "term": "正式学習",
+      "definition": "研修、講座、資格等、目標・内容・構造が明示された学習。"
+    },
+    {
+      "id": "informal-learning",
+      "term": "非公式学習",
+      "definition": "日常の仕事・関係の中で生じる、必ずしも体系化されない学習。"
+    },
+    {
+      "id": "incidental-learning",
+      "term": "偶発的学習",
+      "definition": "学習を主目的としない活動から生じる学習。"
+    },
+    {
+      "id": "reflection",
+      "term": "振り返り",
+      "definition": "経験、判断、結果を検討し、理解や次の行動を更新する過程。"
+    },
+    {
+      "id": "learning-culture",
+      "term": "学習文化",
+      "definition": "問い、対話、実験、知識共有、支援、制度化を促す組織的条件。"
+    },
+    {
+      "id": "learning-organization",
+      "term": "学習する組織",
+      "definition": "個人・集団の学習を組織の知識・実践・制度へつなげる組織。"
+    },
+    {
+      "id": "developmental-assignment",
+      "term": "発達的配置",
+      "definition": "新しい責任・関係・不確実性を通じて能力を伸ばす仕事配置。"
+    },
+    {
+      "id": "stretch-assignment",
+      "term": "ストレッチアサインメント",
+      "definition": "現在能力を超える挑戦を含む期間限定等の仕事課題。"
+    },
+    {
+      "id": "mentoring",
+      "term": "メンタリング",
+      "definition": "経験のある人がキャリア・心理社会的支援を提供する関係。"
+    },
+    {
+      "id": "sponsorship",
+      "term": "スポンサーシップ",
+      "definition": "機会・可視性・資源へのアクセスを権限ある人が積極的に支える機能。"
+    },
+    {
+      "id": "developmental-network",
+      "term": "開発ネットワーク",
+      "definition": "学習・キャリア支援を得る複数の関係の集合。"
+    },
+    {
+      "id": "workplace-coaching",
+      "term": "職場コーチング",
+      "definition": "目標と対話を通じ、学習・行動・成果を支援する職場上の介入。"
+    },
+    {
+      "id": "career-counseling",
+      "term": "キャリア相談",
+      "definition": "本人がキャリア情報・価値・選択肢を検討する専門的支援。"
+    },
+    {
+      "id": "career-success",
+      "term": "キャリア成功",
+      "definition": "本人または他者の基準で評価されるキャリア上の達成・状態。"
+    },
+    {
+      "id": "objective-career-success",
+      "term": "客観的キャリア成功",
+      "definition": "給与、役職、昇進等の外部から観察しやすいキャリア成果。"
+    },
+    {
+      "id": "subjective-career-success",
+      "term": "主観的キャリア成功",
+      "definition": "満足、意味、成長、均衡等に関する本人の評価。"
+    },
+    {
+      "id": "sustainable-career",
+      "term": "持続可能なキャリア",
+      "definition": "時間を通じて健康、幸福、生産性等を支える個人と文脈の動的な関係。"
+    },
+    {
+      "id": "career-adaptability",
+      "term": "キャリア適応性",
+      "definition": "将来課題や変化へ対処する関心、統制、好奇心、自信等の心理社会的資源。"
+    },
+    {
+      "id": "career-shock",
+      "term": "キャリアショック",
+      "definition": "キャリアについて意図的な再考を促す、予期せぬ重要な出来事。"
+    },
+    {
+      "id": "employability",
+      "term": "雇用可能性",
+      "definition": "仕事を得て維持し移行する能力・資源・文脈に関する多次元概念。"
+    },
+    {
+      "id": "career-identity",
+      "term": "キャリア・アイデンティティ",
+      "definition": "仕事・役割・価値に関する自己理解。"
+    },
+    {
+      "id": "human-capital",
+      "term": "人的資本",
+      "definition": "知識、技能、経験等を資源として捉える概念。人の価値全体ではない。"
+    },
+    {
+      "id": "social-capital",
+      "term": "社会関係資本",
+      "definition": "関係やネットワークから得られる情報・支援・機会等の資源。"
+    },
+    {
+      "id": "vocational-interest",
+      "term": "職業興味",
+      "definition": "活動・課題・環境への好みや関心。"
+    },
+    {
+      "id": "person-job-fit",
+      "term": "人―仕事適合",
+      "definition": "本人の能力・ニーズと仕事の要求・供給の適合。"
+    },
+    {
+      "id": "learning-goal-orientation",
+      "term": "学習目標志向",
+      "definition": "能力を伸ばし課題を習得することへ向かう志向。"
+    },
+    {
+      "id": "proactive-behavior",
+      "term": "プロアクティブ行動",
+      "definition": "将来を見越して本人や環境に変化を起こす行動。"
+    },
+    {
+      "id": "job-crafting",
+      "term": "ジョブ・クラフティング",
+      "definition": "働く人が仕事の課題・関係・捉え方等を変える行動・過程。"
+    },
+    {
+      "id": "developmental-work-design",
+      "term": "発達的仕事設計",
+      "definition": "仕事を通じて知識・技能・自己効力感等が育つようにする設計。"
+    },
+    {
+      "id": "lifelong-learning",
+      "term": "生涯学習",
+      "definition": "人生全体にわたり行われる正式・非公式・偶発的な学習。"
+    },
+    {
+      "id": "adult-learning",
+      "term": "成人学習",
+      "definition": "成人期に行われる教育・訓練・学習。"
+    },
+    {
+      "id": "upskilling",
+      "term": "アップスキリング",
+      "definition": "現在または近接する仕事で必要な能力を高めること。"
+    },
+    {
+      "id": "reskilling",
+      "term": "リスキリング",
+      "definition": "異なる仕事・役割への移行等に必要な能力を形成すること。"
+    },
+    {
+      "id": "skills-gap",
+      "term": "スキルギャップ",
+      "definition": "必要と定義された能力と現状との差。要件自体の妥当性も検討する。"
+    },
+    {
+      "id": "skills-taxonomy",
+      "term": "スキル分類体系",
+      "definition": "スキルの名称、定義、関係、段階等を整理した体系。"
+    },
+    {
+      "id": "skills-inference",
+      "term": "スキル推定",
+      "definition": "行動・実績・文書等から保有スキルを推定すること。"
+    },
+    {
+      "id": "learning-recommendation",
+      "term": "学習推薦",
+      "definition": "データや判断により学習内容・経路を勧めること。"
+    },
+    {
+      "id": "individual-learning-account",
+      "term": "個人学習口座",
+      "definition": "個人に付与される学習権利・資金等を記録・利用する制度。"
+    },
+    {
+      "id": "training-leave",
+      "term": "訓練休暇",
+      "definition": "教育・訓練参加のために仕事を離れることを認める制度。"
+    },
+    {
+      "id": "micro-credential",
+      "term": "マイクロクレデンシャル",
+      "definition": "小規模な学習成果を評価・記録した資格・証明。"
+    },
+    {
+      "id": "credential-portability",
+      "term": "資格の携帯性",
+      "definition": "資格・学習記録を組織・地域・制度を越えて提示・利用できる性質。"
+    },
+    {
+      "id": "recognition-of-prior-learning",
+      "term": "既修得学習の認定",
+      "definition": "過去の正式・非公式・経験学習を評価し資格等へ認定すること。"
+    },
+    {
+      "id": "apprenticeship",
+      "term": "徒弟制度",
+      "definition": "仕事を通じた体系的学習と教育を組み合わせる制度。"
+    },
+    {
+      "id": "work-based-learning",
+      "term": "就業を通じた学習",
+      "definition": "実際または模擬の仕事を主要な学習環境とする学習。"
+    },
+    {
+      "id": "open-educational-resources",
+      "term": "オープン教材",
+      "definition": "公開ライセンス等によりアクセス、再利用、改変、再配布できる教材。"
+    },
+    {
+      "id": "accessibility",
+      "term": "アクセシビリティ",
+      "definition": "障害、言語、技術、環境等にかかわらず情報・学習へアクセスできる性質。"
+    },
+    {
+      "id": "digital-divide",
+      "term": "デジタル格差",
+      "definition": "端末、通信、技能、支援、利用条件等の差による不平等。"
+    },
+    {
+      "id": "learning-analytics",
+      "term": "ラーニングアナリティクス",
+      "definition": "学習データを収集・分析して学習・制度を理解・改善する活動。"
+    },
+    {
+      "id": "secondary-use",
+      "term": "二次利用",
+      "definition": "当初の学習目的と異なる査定・研究・AI訓練等へデータを用いること。"
+    },
+    {
+      "id": "contestability",
+      "term": "異議申立て可能性",
+      "definition": "推薦・評価・認定の理由を知り、争い、訂正・再審査を求められる性質。"
+    },
+    {
+      "id": "self-directed-learning",
+      "term": "自己主導学習",
+      "definition": "本人が目標、資源、方法、評価を主体的に調整する学習。自己負担と同義ではない。"
+    },
+    {
+      "id": "career-mobility",
+      "term": "キャリア移動",
+      "definition": "職務、部門、組織、職業、就業状態等の間を移ること。"
+    },
+    {
+      "id": "lateral-move",
+      "term": "横移動",
+      "definition": "階層上の昇進を伴わず、別の職務・部門等へ移ること。"
+    },
+    {
+      "id": "internal-mobility",
+      "term": "社内移動",
+      "definition": "同一組織内で職務・役割・部門等を移ること。"
+    },
+    {
+      "id": "learning-equity",
+      "term": "学習機会の公平",
+      "definition": "必要と障壁に応じて学習への実質的アクセスと成果機会が確保されること。"
+    },
+    {
+      "id": "transfer-evaluation",
+      "term": "転移評価",
+      "definition": "学習した内容が仕事で使われ、維持されているかを評価すること。"
+    },
+    {
+      "id": "70-20-10",
+      "term": "70-20-10",
+      "definition": "経験・他者・正式学習を固定比率で示す慣行。普遍的な科学法則ではない。"
+    }
+  ]
+}

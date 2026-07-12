@@ -1,0 +1,77 @@
+{
+  "version": "0.1",
+  "release_decision": "完成条件を満たす（次分野へ移行可）",
+  "dimensions": [
+    {
+      "id": "definitions",
+      "status": "complete",
+      "evidence": "文化、風土、価値、規範、実践、人工物を分離"
+    },
+    {
+      "id": "levels",
+      "status": "complete",
+      "evidence": "心理的風土、組織風土、集約、合意、風土強度"
+    },
+    {
+      "id": "subcultures",
+      "status": "complete",
+      "evidence": "統合・分化・断片化、下位文化、曖昧性"
+    },
+    {
+      "id": "culture-outcomes",
+      "status": "complete",
+      "evidence": "文化類型と態度・運用・財務成果の限定的関連"
+    },
+    {
+      "id": "focused-climates",
+      "status": "complete",
+      "evidence": "安全、サービス、包摂、革新、倫理、発言"
+    },
+    {
+      "id": "fit-selection",
+      "status": "complete",
+      "evidence": "適合次元、態度、採用妥当性、文化的マッチング"
+    },
+    {
+      "id": "leadership-identity",
+      "status": "complete",
+      "evidence": "CEO・創業期、同一視、家族比喩、退出の自由"
+    },
+    {
+      "id": "national-culture",
+      "status": "complete",
+      "evidence": "国平均、タイトネス、文化ステレオタイプの境界"
+    },
+    {
+      "id": "change-process",
+      "status": "complete",
+      "evidence": "制度整合、順応、副作用、準備性、継続変化"
+    },
+    {
+      "id": "rights-health",
+      "status": "complete",
+      "evidence": "心理社会的リスク、安全衛生、ハラスメント、通報"
+    },
+    {
+      "id": "measurement-privacy",
+      "status": "complete",
+      "evidence": "調査倫理、欠測、三角測量、AI、少人数保護"
+    },
+    {
+      "id": "evaluation",
+      "status": "complete",
+      "evidence": "多層・多次元・群別・長期・例外処理の評価"
+    },
+    {
+      "id": "openness",
+      "status": "complete",
+      "evidence": "主張・研究・用語・採否・質・更新を公開"
+    }
+  ],
+  "remaining_non_blocking": [
+    "日本企業の文化変革を長期追跡する比較研究は追加可能",
+    "生成AIによる文化・自由記述分析の妥当性と差別影響は発展途上",
+    "非正規・夜勤・地方・多国籍の下位文化を交差的に扱う研究は更新優先",
+    "文化変革の失敗・撤回・有害事象を公開する研究は限定的"
+  ]
+}

@@ -1,0 +1,569 @@
+{
+  "name": "ワーク・エンゲージメント 研究メタデータ",
+  "version": "0.1",
+  "notice": "論文本文・尺度項目は含みません。各権利者の条件に従ってください。",
+  "studies": [
+    {
+      "id": "kahn-1990",
+      "authors": "Kahn, W. A.",
+      "year": 1990,
+      "title": "Psychological Conditions of Personal Engagement and Disengagement at Work",
+      "journal": "Academy of Management Journal, 33(4), 692–724",
+      "doi": "10.2307/256287",
+      "type": "qualitative theory-building",
+      "status": "peer-reviewed",
+      "population": "サマーキャンプ職員と建築事務所員",
+      "sample": "2つの職場事例、インタビュー中心",
+      "method": "役割への自己投入・引き離しを質的に分析",
+      "finding": "有意味感、安全性、利用可能性を個人的エンゲージメントの条件として提示",
+      "limitations": [
+        "現代のUWES型ワーク・エンゲージメントとは概念系譜が異なる",
+        "小規模・探索的"
+      ],
+      "source_url": "https://doi.org/10.2307/256287",
+      "last_human_verified": "2026-07-11"
+    },
+    {
+      "id": "schaufeli-2002",
+      "authors": "Schaufeli, W. B., Salanova, M., González-Romá, V., & Bakker, A. B.",
+      "year": 2002,
+      "title": "The Measurement of Engagement and Burnout: A Two Sample Confirmatory Factor Analytic Approach",
+      "journal": "Journal of Happiness Studies, 3, 71–92",
+      "doi": "10.1023/A:1015630930326",
+      "type": "measure development and validation",
+      "status": "peer-reviewed",
+      "population": "大学生と労働者",
+      "sample": "2標本。詳細は原文参照",
+      "method": "活力・熱意・没頭とバーンアウトの因子構造を検討",
+      "finding": "UWESの三次元モデルとバーンアウトとの弁別を提示",
+      "limitations": [
+        "初期尺度開発",
+        "学生標本を含む",
+        "文化間不変性は別途検証"
+      ],
+      "source_url": "https://doi.org/10.1023/A:1015630930326",
+      "last_human_verified": "2026-07-11"
+    },
+    {
+      "id": "harter-2002",
+      "authors": "Harter, J. K., Schmidt, F. L., & Hayes, T. L.",
+      "year": 2002,
+      "title": "Business-Unit-Level Relationship Between Employee Satisfaction, Employee Engagement, and Business Outcomes: A Meta-Analysis",
+      "journal": "Journal of Applied Psychology, 87(2), 268–279",
+      "doi": "10.1037/0021-9010.87.2.268",
+      "type": "business-unit meta-analysis",
+      "status": "peer-reviewed",
+      "population": "複数企業の事業単位",
+      "sample": "7,939事業単位、36社",
+      "method": "独自の満足・エンゲージメント指標と顧客、利益、生産性、離職、安全の関係を統合",
+      "finding": "事業単位レベルで望ましい成果との関連を報告",
+      "limitations": [
+        "UWESとは異なる独自指標",
+        "企業提供データ",
+        "因果を確定しない"
+      ],
+      "source_url": "https://doi.org/10.1037/0021-9010.87.2.268",
+      "last_human_verified": "2026-07-11"
+    },
+    {
+      "id": "schaufeli-bakker-2004",
+      "authors": "Schaufeli, W. B., & Bakker, A. B.",
+      "year": 2004,
+      "title": "Job Demands, Job Resources, and Their Relationship with Burnout and Engagement",
+      "journal": "Journal of Organizational Behavior, 25(3), 293–315",
+      "doi": "10.1002/job.248",
+      "type": "multisample field study",
+      "status": "peer-reviewed",
+      "population": "4つの労働者標本",
+      "sample": "合計1,698人",
+      "method": "JD-R、バーンアウト、エンゲージメント、健康、離職意図の構造モデル",
+      "finding": "仕事資源は主にエンゲージメント、仕事要求は主に消耗と関連",
+      "limitations": [
+        "横断データ中心",
+        "自己報告",
+        "因果方向は確定しない"
+      ],
+      "source_url": "https://doi.org/10.1002/job.248",
+      "last_human_verified": "2026-07-11"
+    },
+    {
+      "id": "saks-2006",
+      "authors": "Saks, A. M.",
+      "year": 2006,
+      "title": "Antecedents and Consequences of Employee Engagement",
+      "journal": "Journal of Managerial Psychology, 21(7), 600–619",
+      "doi": "10.1108/02683940610690169",
+      "type": "cross-sectional field study",
+      "status": "peer-reviewed",
+      "population": "カナダの多様な職種の従業員",
+      "sample": "102人",
+      "method": "職務・組織エンゲージメントを社会的交換理論から分析",
+      "finding": "支援、公正、仕事特性等との関連を報告",
+      "limitations": [
+        "小規模横断研究",
+        "独自尺度",
+        "自己報告"
+      ],
+      "source_url": "https://doi.org/10.1108/02683940610690169",
+      "last_human_verified": "2026-07-11"
+    },
+    {
+      "id": "macey-schneider-2008",
+      "authors": "Macey, W. H., & Schneider, B.",
+      "year": 2008,
+      "title": "The Meaning of Employee Engagement",
+      "journal": "Industrial and Organizational Psychology, 1(1), 3–30",
+      "doi": "10.1111/j.1754-9434.2007.0002.x",
+      "type": "conceptual review",
+      "status": "peer-reviewed",
+      "population": "従業員エンゲージメント研究",
+      "sample": "概念文献の統合",
+      "method": "特性・状態・行動エンゲージメントを区別",
+      "finding": "employee engagementという語の多義性を整理",
+      "limitations": [
+        "実証メタ分析ではない",
+        "UWES型概念と商業指標を含む広い整理"
+      ],
+      "source_url": "https://doi.org/10.1111/j.1754-9434.2007.0002.x",
+      "last_human_verified": "2026-07-11"
+    },
+    {
+      "id": "shimazu-2008",
+      "authors": "Shimazu, A., Schaufeli, W. B., Kosugi, S., et al.",
+      "year": 2008,
+      "title": "Work Engagement in Japan: Validation of the Japanese Version of the Utrecht Work Engagement Scale",
+      "journal": "Applied Psychology, 57(3), 510–523",
+      "doi": "10.1111/j.1464-0597.2008.00333.x",
+      "type": "Japanese scale validation",
+      "status": "peer-reviewed",
+      "population": "日本の労働者",
+      "sample": "3つの独立標本、合計2,334人",
+      "method": "UWES日本語版の因子構造・信頼性・妥当性を検証",
+      "finding": "日本語版UWESの測定根拠を提示",
+      "limitations": [
+        "自己報告",
+        "全国診断基準ではない",
+        "項目利用条件を確認"
+      ],
+      "source_url": "https://doi.org/10.1111/j.1464-0597.2008.00333.x",
+      "last_human_verified": "2026-07-11"
+    },
+    {
+      "id": "shimazu-2009",
+      "authors": "Shimazu, A., & Schaufeli, W. B.",
+      "year": 2009,
+      "title": "Is Workaholism Good or Bad for Employee Well-being? The Distinctiveness of Workaholism and Work Engagement among Japanese Employees",
+      "journal": "Industrial Health, 47(5), 495–502",
+      "doi": "10.2486/indhealth.47.495",
+      "type": "Japanese cross-sectional field study",
+      "status": "peer-reviewed",
+      "population": "日本の労働者",
+      "sample": "776人",
+      "method": "ワーカホリズム、エンゲージメント、ウェルビーイングを比較",
+      "finding": "長時間・高投資でも強迫性を伴うワーカホリズムと肯定的状態を区別",
+      "limitations": [
+        "横断研究",
+        "自己報告",
+        "因果は不明"
+      ],
+      "source_url": "https://doi.org/10.2486/indhealth.47.495",
+      "last_human_verified": "2026-07-11"
+    },
+    {
+      "id": "crawford-2010",
+      "authors": "Crawford, E. R., LePine, J. A., & Rich, B. L.",
+      "year": 2010,
+      "title": "Linking Job Demands and Resources to Employee Engagement and Burnout: A Theoretical Extension and Meta-Analytic Test",
+      "journal": "Journal of Applied Psychology, 95(5), 834–848",
+      "doi": "10.1037/a0019364",
+      "type": "meta-analysis",
+      "status": "peer-reviewed",
+      "population": "職場研究",
+      "sample": "64独立標本",
+      "method": "挑戦的要求・阻害的要求・資源とエンゲージメントを統合",
+      "finding": "挑戦的要求は正、阻害的要求は負、資源は正の関連を示す傾向",
+      "limitations": [
+        "要求分類の文脈依存",
+        "観察研究中心",
+        "過重負荷を正当化できない"
+      ],
+      "source_url": "https://doi.org/10.1037/a0019364",
+      "last_human_verified": "2026-07-11"
+    },
+    {
+      "id": "shimazu-2010",
+      "authors": "Shimazu, A., Schaufeli, W. B., Miyanaka, D., & Iwata, N.",
+      "year": 2010,
+      "title": "Why Japanese Workers Show Low Work Engagement: An Item Response Theory Analysis of the Utrecht Work Engagement Scale",
+      "journal": "BioPsychoSocial Medicine, 4, 17",
+      "doi": "10.1186/1751-0759-4-17",
+      "type": "cross-cultural measurement analysis",
+      "status": "peer-reviewed",
+      "population": "日本とオランダの労働者",
+      "sample": "日本2,339人、オランダ13,406人",
+      "method": "項目反応理論で国間得点差を分析",
+      "finding": "回答傾向・項目機能が平均差へ影響する可能性を提示",
+      "limitations": [
+        "国は文化の代理にすぎない",
+        "平均差を国民性へ還元できない",
+        "横断データ"
+      ],
+      "source_url": "https://doi.org/10.1186/1751-0759-4-17",
+      "last_human_verified": "2026-07-11"
+    },
+    {
+      "id": "rich-2010",
+      "authors": "Rich, B. L., LePine, J. A., & Crawford, E. R.",
+      "year": 2010,
+      "title": "Job Engagement: Antecedents and Effects on Job Performance",
+      "journal": "Academy of Management Journal, 53(3), 617–635",
+      "doi": "10.5465/amj.2010.51468988",
+      "type": "field study",
+      "status": "peer-reviewed",
+      "population": "米国の消防士",
+      "sample": "245人と上司",
+      "method": "身体・認知・情緒的な職務エンゲージメントと業績を分析",
+      "finding": "価値適合、心理的安全性、利用可能性と業績の関係を検討",
+      "limitations": [
+        "単一職種",
+        "独自尺度",
+        "観察研究"
+      ],
+      "source_url": "https://doi.org/10.5465/amj.2010.51468988",
+      "last_human_verified": "2026-07-11"
+    },
+    {
+      "id": "christian-2011",
+      "authors": "Christian, M. S., Garza, A. S., & Slaughter, J. E.",
+      "year": 2011,
+      "title": "Work Engagement: A Quantitative Review and Test of Its Relations with Task and Contextual Performance",
+      "journal": "Personnel Psychology, 64(1), 89–136",
+      "doi": "10.1111/j.1744-6570.2010.01203.x",
+      "type": "meta-analysis",
+      "status": "peer-reviewed",
+      "population": "複数職種の労働者",
+      "sample": "91研究",
+      "method": "概念・先行要因・タスク/文脈的業績との関連を統合",
+      "finding": "仕事特性・リーダーシップ等と関連し、業績へ独自の関連を示す",
+      "limitations": [
+        "横断研究を多く含む",
+        "共通方法バイアス",
+        "因果確定ではない"
+      ],
+      "source_url": "https://doi.org/10.1111/j.1744-6570.2010.01203.x",
+      "last_human_verified": "2026-07-11"
+    },
+    {
+      "id": "bakker-2011",
+      "authors": "Bakker, A. B., Albrecht, S. L., & Leiter, M. P.",
+      "year": 2011,
+      "title": "Key Questions Regarding Work Engagement",
+      "journal": "European Journal of Work and Organizational Psychology, 20(1), 4–28",
+      "doi": "10.1080/1359432X.2010.485352",
+      "type": "conceptual review",
+      "status": "peer-reviewed",
+      "population": "ワーク・エンゲージメント研究",
+      "sample": "主要研究のテーマ別統合",
+      "method": "定義、測定、先行要因、成果、介入課題を整理",
+      "finding": "状態性、日内変動、チーム、介入などの研究課題を提示",
+      "limitations": [
+        "系統的レビューではない",
+        "当時の研究に限定"
+      ],
+      "source_url": "https://doi.org/10.1080/1359432X.2010.485352",
+      "last_human_verified": "2026-07-11"
+    },
+    {
+      "id": "bailey-2017",
+      "authors": "Bailey, C., Madden, A., Alfes, K., & Fletcher, L.",
+      "year": 2017,
+      "title": "The Meaning, Antecedents and Outcomes of Employee Engagement: A Narrative Synthesis",
+      "journal": "International Journal of Management Reviews, 19(1), 31–53",
+      "doi": "10.1111/ijmr.12077",
+      "type": "systematic narrative synthesis",
+      "status": "peer-reviewed",
+      "population": "employee engagement研究",
+      "sample": "214研究",
+      "method": "概念、測定、先行要因、成果を体系的に統合",
+      "finding": "定義と尺度の断片化、因果研究不足を指摘",
+      "limitations": [
+        "異質性のため効果量統合なし",
+        "employee engagementの広い概念を含む"
+      ],
+      "source_url": "https://doi.org/10.1111/ijmr.12077",
+      "last_human_verified": "2026-07-11"
+    },
+    {
+      "id": "knight-2017",
+      "authors": "Knight, C., Patterson, M., & Dawson, J.",
+      "year": 2017,
+      "title": "Building Work Engagement: A Systematic Review and Meta-Analysis Investigating the Effectiveness of Work Engagement Interventions",
+      "journal": "Journal of Organizational Behavior, 38(6), 792–812",
+      "doi": "10.1002/job.2167",
+      "type": "systematic review and meta-analysis",
+      "status": "peer-reviewed",
+      "population": "職場介入参加者",
+      "sample": "適格20研究、効果量統合14研究",
+      "method": "個人資源、仕事資源、リーダー研修、健康促進介入を統合",
+      "finding": "全体として小さい肯定的効果（Hedges g=0.29）を報告",
+      "limitations": [
+        "研究数が少ない",
+        "自己報告中心",
+        "介入・追跡の異質性と高い異質性"
+      ],
+      "source_url": "https://doi.org/10.1002/job.2167",
+      "last_human_verified": "2026-07-11"
+    },
+    {
+      "id": "inamizu-2018",
+      "authors": "Inamizu, N., & Makishima, M.",
+      "year": 2018,
+      "title": "Job Performance Explains Work Engagement",
+      "journal": "Annals of Business Administrative Science, 17, 163–169",
+      "doi": "10.7880/abas.0180712a",
+      "type": "Japanese longitudinal analysis",
+      "status": "peer-reviewed",
+      "population": "日本企業の従業員",
+      "sample": "2時点職域データ。詳細は原文参照",
+      "method": "交差遅延的にエンゲージメントと業績認識の方向を検討",
+      "finding": "成果が後のエンゲージメントを説明する逆方向の可能性を提示",
+      "limitations": [
+        "自己報告業績",
+        "単一組織文脈",
+        "短期縦断"
+      ],
+      "source_url": "https://doi.org/10.7880/abas.0180712a",
+      "last_human_verified": "2026-07-11"
+    },
+    {
+      "id": "lesener-2019",
+      "authors": "Lesener, T., Gusy, B., & Wolter, C.",
+      "year": 2019,
+      "title": "The Job Demands–Resources Model: A Meta-Analytic Review of Longitudinal Studies",
+      "journal": "Work & Stress, 33(1), 76–103",
+      "doi": "10.1080/02678373.2018.1529065",
+      "type": "longitudinal meta-analysis",
+      "status": "peer-reviewed",
+      "population": "複数職種の縦断研究",
+      "sample": "74研究",
+      "method": "JD-Rの時間的関係をメタ分析",
+      "finding": "要求・資源とバーンアウト・エンゲージメントの時間的関連を支持",
+      "limitations": [
+        "効果は小さい",
+        "測定間隔と尺度が異質",
+        "双方向性"
+      ],
+      "source_url": "https://doi.org/10.1080/02678373.2018.1529065",
+      "last_human_verified": "2026-07-11"
+    },
+    {
+      "id": "virga-2019",
+      "authors": "Vîrgă, D., Maricuțoiu, L. P., & Iancu, A.",
+      "year": 2019,
+      "title": "The Efficacy of Work Engagement Interventions: A Meta-Analysis of Controlled Trials",
+      "journal": "Current Psychology, 40, 5863–5880",
+      "doi": "10.1007/s12144-019-00438-z",
+      "type": "meta-analysis of controlled trials",
+      "status": "peer-reviewed",
+      "population": "職場介入研究",
+      "sample": "14比較研究",
+      "method": "対照群のある介入に限定して統合",
+      "finding": "小さい効果を報告するが研究品質で変動",
+      "limitations": [
+        "研究数が少ない",
+        "追跡期間が短い",
+        "介入の異質性"
+      ],
+      "source_url": "https://doi.org/10.1007/s12144-019-00438-z",
+      "last_human_verified": "2026-07-11"
+    },
+    {
+      "id": "schaufeli-2019",
+      "authors": "Schaufeli, W. B., Shimazu, A., Hakanen, J., Salanova, M., & De Witte, H.",
+      "year": 2019,
+      "title": "An Ultra-Short Measure for Work Engagement: The UWES-3 Validation Across Five Countries",
+      "journal": "European Journal of Psychological Assessment, 35(4), 577–591",
+      "doi": "10.1027/1015-5759/a000430",
+      "type": "cross-national scale validation",
+      "status": "peer-reviewed",
+      "population": "5か国の労働者",
+      "sample": "複数の大規模職域標本",
+      "method": "3項目版の構造・信頼性・妥当性・不変性を検討",
+      "finding": "短い測定の実用性を提示",
+      "limitations": [
+        "3次元を各1項目で測る",
+        "個人の高重要度判断には不向き",
+        "国別代表性に差"
+      ],
+      "source_url": "https://doi.org/10.1027/1015-5759/a000430",
+      "last_human_verified": "2026-07-11"
+    },
+    {
+      "id": "eguchi-2020",
+      "authors": "Eguchi, H., Inoue, A., Kachi, Y., Miyaki, K., & Tsutsumi, A.",
+      "year": 2020,
+      "title": "Work Engagement and Work Performance Among Japanese Workers",
+      "journal": "Journal of Occupational and Environmental Medicine, 62(12), 993–997",
+      "doi": "10.1097/JOM.0000000000001977",
+      "type": "Japanese prospective cohort",
+      "status": "peer-reviewed",
+      "population": "日本の労働者",
+      "sample": "職域コホート。詳細は原文参照",
+      "method": "エンゲージメントと後続の職務遂行を縦断分析",
+      "finding": "日本の職場でも時間を隔てた業績との関連を検討",
+      "limitations": [
+        "自己報告指標を含む",
+        "特定職域",
+        "効果の一般化に注意"
+      ],
+      "source_url": "https://doi.org/10.1097/JOM.0000000000001977",
+      "last_human_verified": "2026-07-11"
+    },
+    {
+      "id": "frederick-2020",
+      "authors": "Frederick, D. E., & VanderWeele, T. J.",
+      "year": 2020,
+      "title": "Longitudinal Meta-Analysis of Job Crafting Shows Positive Association with Work Engagement",
+      "journal": "Cogent Psychology, 7(1), 1746733",
+      "doi": "10.1080/23311908.2020.1746733",
+      "type": "longitudinal meta-analysis",
+      "status": "peer-reviewed",
+      "population": "職場のジョブ・クラフティング研究",
+      "sample": "縦断研究群",
+      "method": "ジョブ・クラフティングと後続エンゲージメントを統合",
+      "finding": "小さい正の縦断関連を報告",
+      "limitations": [
+        "介入効果とは限らない",
+        "自己報告",
+        "研究数の制約"
+      ],
+      "source_url": "https://doi.org/10.1080/23311908.2020.1746733",
+      "last_human_verified": "2026-07-11"
+    },
+    {
+      "id": "toth-kiraly-2020",
+      "authors": "Tóth-Király, I., Morin, A. J. S., & Salmela-Aro, K.",
+      "year": 2021,
+      "title": "A Longitudinal Perspective on the Associations Between Work Engagement and Workaholism",
+      "journal": "Work & Stress, 35(1), 27–56",
+      "doi": "10.1080/02678373.2020.1801888",
+      "type": "longitudinal person-centered study",
+      "status": "peer-reviewed",
+      "population": "労働者",
+      "sample": "3時点縦断標本",
+      "method": "エンゲージメントとワーカホリズムのプロファイル・変化を分析",
+      "finding": "両者が併存し得るが同一でないことを示す",
+      "limitations": [
+        "特定国標本",
+        "自己報告",
+        "プロファイル解釈に注意"
+      ],
+      "source_url": "https://doi.org/10.1080/02678373.2020.1801888",
+      "last_human_verified": "2026-07-11"
+    },
+    {
+      "id": "neuber-2021",
+      "authors": "Neuber, L., Englitz, C., Schulte, N., Forthmann, B., & Holling, H.",
+      "year": 2022,
+      "title": "How Work Engagement Relates to Performance and Absenteeism: A Meta-Analysis",
+      "journal": "European Journal of Work and Organizational Psychology, 31(2), 292–315",
+      "doi": "10.1080/1359432X.2021.1953989",
+      "type": "meta-analysis",
+      "status": "peer-reviewed",
+      "population": "複数職種の労働者",
+      "sample": "複数の独立標本。詳細は原文参照",
+      "method": "タスク・文脈的・適応的業績と欠勤の関連を統合",
+      "finding": "業績と正、欠勤と弱い負の関連を報告",
+      "limitations": [
+        "主観業績で関連が強い可能性",
+        "因果確定ではない",
+        "出版バイアスの検討に限界"
+      ],
+      "source_url": "https://doi.org/10.1080/1359432X.2021.1953989",
+      "last_human_verified": "2026-07-11"
+    },
+    {
+      "id": "lee-2021",
+      "authors": "Lee, Y., Lee, J. Y., & Lee, J.",
+      "year": 2022,
+      "title": "The Relationship Between Work Engagement and Workaholism: A Systematic Review and Meta-Analysis",
+      "journal": "European Journal of Training and Development, 46(9), 996–1020",
+      "doi": "10.1108/EJTD-03-2021-0036",
+      "type": "systematic review and meta-analysis",
+      "status": "peer-reviewed",
+      "population": "労働者",
+      "sample": "研究群。件数は原文参照",
+      "method": "エンゲージメントとワーカホリズムの関連・境界を統合",
+      "finding": "正の関連があり得るが、動機・健康結果の違いから区別が必要",
+      "limitations": [
+        "横断研究が多い",
+        "尺度の異質性",
+        "長時間労働の扱いが不均一"
+      ],
+      "source_url": "https://doi.org/10.1108/EJTD-03-2021-0036",
+      "last_human_verified": "2026-07-11"
+    },
+    {
+      "id": "bjork-2021",
+      "authors": "Björk, J. M., Bolander, P., & Forsman, A. K.",
+      "year": 2021,
+      "title": "Bottom-Up Interventions Effective in Promoting Work Engagement: A Systematic Review and Meta-Analysis",
+      "journal": "Frontiers in Psychology, 12, 730421",
+      "doi": "10.3389/fpsyg.2021.730421",
+      "type": "systematic review and meta-analysis",
+      "status": "peer-reviewed",
+      "population": "職場のボトムアップ介入",
+      "sample": "系統的レビュー31研究、メタ分析24研究",
+      "method": "ジョブ・クラフティング、強み、資源構築等を統合",
+      "finding": "小さい改善（SMD=0.22相当）の可能性を報告",
+      "limitations": [
+        "自己選択・自己報告",
+        "組織条件を直接変えない介入が多い",
+        "長期追跡不足"
+      ],
+      "source_url": "https://doi.org/10.3389/fpsyg.2021.730421",
+      "last_human_verified": "2026-07-11"
+    },
+    {
+      "id": "mazzetti-2021",
+      "authors": "Mazzetti, G., Robledo, E., Vignoli, M., Topa, G., Guglielmi, D., & Schaufeli, W. B.",
+      "year": 2023,
+      "title": "Work Engagement: A Meta-Analysis Using the Job Demands–Resources Model",
+      "journal": "Psychological Reports, 126(3), 1069–1107",
+      "doi": "10.1177/00332941211051988",
+      "type": "meta-analysis",
+      "status": "peer-reviewed",
+      "population": "複数職種・国",
+      "sample": "533相関、113独立標本（メタ分析 k=94、n=119,420）",
+      "method": "JD-Rに基づく先行要因・成果・ウェルビーイング相関を統合",
+      "finding": "仕事・個人資源と正、成果と正、要求の種類で関係が異なる",
+      "limitations": [
+        "横断研究が多い",
+        "異質性が高い",
+        "因果を直接確定しない"
+      ],
+      "source_url": "https://doi.org/10.1177/00332941211051988",
+      "last_human_verified": "2026-07-11"
+    },
+    {
+      "id": "who-2022",
+      "authors": "World Health Organization",
+      "year": 2022,
+      "title": "WHO Guidelines on Mental Health at Work",
+      "journal": "World Health Organization, ISBN 9789240053052",
+      "url": "https://www.who.int/publications/i/item/9789240053052",
+      "type": "official evidence-based guideline",
+      "status": "official guideline",
+      "population": "働く人と職場",
+      "sample": "組織介入、管理職・労働者研修、個人介入、復職等のエビデンス",
+      "method": "ガイドライン開発手続に基づく推奨",
+      "finding": "職場のメンタルヘルス促進・予防・就労参加のため組織介入等を推奨",
+      "limitations": [
+        "ワーク・エンゲージメント専用ガイドラインではない",
+        "各国制度への適用が必要"
+      ],
+      "source_url": "https://www.who.int/publications/i/item/9789240053052",
+      "last_human_verified": "2026-07-11"
+    }
+  ]
+}

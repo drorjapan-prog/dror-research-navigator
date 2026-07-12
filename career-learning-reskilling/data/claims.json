@@ -1,0 +1,1388 @@
+{
+  "name": "キャリア形成・能力開発・職場学習・リスキリング 主張レジスター",
+  "version": "0.1",
+  "license": "CC BY 4.0",
+  "claims": [
+    {
+      "id": "CD-C01",
+      "claim": "能力開発は研修受講だけでなく、仕事設計、実践、振り返り、関係、フィードバック、配置、移動、資格・認証、権利を結ぶ制度である。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "統合からの定義",
+      "sources": [
+        "salas-2012",
+        "noe-2014",
+        "parker-2014"
+      ],
+      "limits": [
+        "組織・職種・人生段階で構成が異なる"
+      ],
+      "scope": [
+        "定義"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CD-C02",
+      "claim": "研修は平均として知識・技能・行動・結果を改善し得るが、受講完了や満足だけでは有効性を判断できない。",
+      "label": "A",
+      "directness": "能力開発直接研究",
+      "relationship": "メタ分析・統合",
+      "sources": [
+        "arthur-2003",
+        "aguinis-2009",
+        "bell-2017"
+      ],
+      "limits": [
+        "研修・評価方法の異質性",
+        "長期維持を別途確認"
+      ],
+      "scope": [
+        "研修効果"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CD-C03",
+      "claim": "研修はニーズ分析、明確な学習目標、練習、フィードバック、保持、職場適用、評価までを一続きに設計する。",
+      "label": "実務原則",
+      "directness": "能力開発直接研究",
+      "relationship": "統合レビュー",
+      "sources": [
+        "salas-2012",
+        "baldwin-1988"
+      ],
+      "limits": [
+        "実装資源と職務固有性が必要"
+      ],
+      "scope": [
+        "研修設計"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CD-C04",
+      "claim": "学習成果、職場行動、組織結果を分け、各段階の測定時点・情報源・比較条件を定める。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "評価設計",
+      "sources": [
+        "arthur-2003",
+        "salas-2012"
+      ],
+      "limits": [
+        "遠い結果ほど他要因が多い"
+      ],
+      "scope": [
+        "研修評価"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CD-C05",
+      "claim": "研修転移は本人の意欲だけでなく、上司・同僚支援、適用機会、仕事設計、道具、時間、報酬・評価制度に依存する。",
+      "label": "A",
+      "directness": "能力開発直接研究",
+      "relationship": "メタ分析・統合",
+      "sources": [
+        "blume-2010",
+        "tracey-1995",
+        "grossman-2011"
+      ],
+      "limits": [
+        "相関研究中心",
+        "転移測定・期間差"
+      ],
+      "scope": [
+        "研修転移"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CD-C06",
+      "claim": "学んだ技能を使う機会がないとき、転移不足を本人の能力・動機不足とみなさない。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "機会と転移",
+      "sources": [
+        "baldwin-1988",
+        "grossman-2011"
+      ],
+      "limits": [
+        "職務・配置の個別分析が必要"
+      ],
+      "scope": [
+        "適用機会"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CD-C07",
+      "claim": "対面・オンライン・混合という媒体名だけで効果を推定せず、内容、相互作用、練習、支援、アクセス、離脱を比較する。",
+      "label": "A",
+      "directness": "能力開発直接研究",
+      "relationship": "メタ分析",
+      "sources": [
+        "sitzmann-2006",
+        "salas-2012"
+      ],
+      "limits": [
+        "技術世代差",
+        "自己選択・デジタル格差"
+      ],
+      "scope": [
+        "学習媒体"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CD-C08",
+      "claim": "研修参加の動機を性格や忠誠心の得点にせず、価値、自己効力感、時間、費用、上司支援、キャリア上の効用を確認する。",
+      "label": "A",
+      "directness": "能力開発直接研究",
+      "relationship": "メタ分析・統合",
+      "sources": [
+        "colquitt-2000",
+        "gegenfurtner-2011"
+      ],
+      "limits": [
+        "相関・自己報告を含む",
+        "動機の強制に注意"
+      ],
+      "scope": [
+        "学習動機"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CD-C09",
+      "claim": "複雑技能では、説明だけでなく練習、試行、具体的フィードバック、自己調整を組み込む。",
+      "label": "A",
+      "directness": "能力開発直接研究",
+      "relationship": "実験・統合",
+      "sources": [
+        "bell-2008",
+        "salas-2012"
+      ],
+      "limits": [
+        "実験課題から職場への一般化",
+        "安全領域は監督が必要"
+      ],
+      "scope": [
+        "能動学習"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CD-C10",
+      "claim": "誤り管理訓練は平均的に有効でも、重大事故につながる課題では誤り予防、シミュレーション、監督、停止権を優先する。",
+      "label": "A",
+      "directness": "混合",
+      "relationship": "メタ分析と予防原則",
+      "sources": [
+        "keith-2008",
+        "salas-2012"
+      ],
+      "limits": [
+        "安全重要領域へ無監督で一般化しない"
+      ],
+      "scope": [
+        "誤り学習"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CD-C11",
+      "claim": "学習内容を間隔を空けて再訪し、想起・応用する機会を設けることは長期保持を支え得る。",
+      "label": "A",
+      "directness": "能力開発隣接研究",
+      "relationship": "メタ分析・統合",
+      "sources": [
+        "cepeda-2006",
+        "dunlosky-2013"
+      ],
+      "limits": [
+        "教育・記憶課題中心",
+        "職場行動への直接性制約"
+      ],
+      "scope": [
+        "学習技法"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CD-C12",
+      "claim": "自己申告の視覚型・聴覚型等へ教授法を合わせれば学習が高まるという「学習スタイル適合」を標準施策として支持しない。",
+      "label": "不支持",
+      "directness": "能力開発隣接研究",
+      "relationship": "体系的証拠レビュー",
+      "sources": [
+        "pashler-2008"
+      ],
+      "limits": [
+        "学習上の好み・障害へのアクセシビリティは尊重"
+      ],
+      "scope": [
+        "学習スタイル"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CD-C13",
+      "claim": "非公式学習は、試行、観察、質問、情報探索、振り返り、他者との共同作業など日常の仕事に埋め込まれる。",
+      "label": "A",
+      "directness": "能力開発直接研究",
+      "relationship": "メタ分析・統合",
+      "sources": [
+        "cerasoli-2018",
+        "noe-2014",
+        "tynjala-2008"
+      ],
+      "limits": [
+        "定義・尺度の異質性",
+        "不可視労働化に注意"
+      ],
+      "scope": [
+        "非公式学習"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CD-C14",
+      "claim": "非公式学習を「自主性」の名で無給の時間外学習へ押し出さず、勤務時間、道具、相談、実践機会を設ける。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "制度設計",
+      "sources": [
+        "kyndt-2013",
+        "ilo-r195",
+        "unesco-rale"
+      ],
+      "limits": [
+        "労働時間・賃金・訓練義務は国内法を確認"
+      ],
+      "scope": [
+        "学習時間"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CD-C15",
+      "claim": "学習文化は、研修本数でなく、問い、対話、協働、知識共有、実験、支援、制度への反映で評価する。",
+      "label": "B",
+      "directness": "能力開発直接研究",
+      "relationship": "測定・統合",
+      "sources": [
+        "marsick-2003",
+        "tynjala-2008"
+      ],
+      "limits": [
+        "自己報告",
+        "文化得点を個人査定に使わない"
+      ],
+      "scope": [
+        "学習文化"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CD-C16",
+      "claim": "学習参加を本人の意欲だけで説明せず、仕事量、裁量、契約形態、勤務帯、言語、障害、ケア、費用、選抜基準を調べる。",
+      "label": "A",
+      "directness": "混合",
+      "relationship": "体系的レビューと公式原則",
+      "sources": [
+        "kyndt-2013",
+        "ilo-r195",
+        "unesco-rale"
+      ],
+      "limits": [
+        "群別データの再特定",
+        "国内制度差"
+      ],
+      "scope": [
+        "参加格差"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CD-C17",
+      "claim": "挑戦的配置は発達を促し得る一方、過大な難度・支援不足では学習と健康を損ない得るため、段階、支援、停止条件を設ける。",
+      "label": "B",
+      "directness": "能力開発直接研究",
+      "relationship": "観察研究",
+      "sources": [
+        "derue-2009",
+        "dragoni-2009"
+      ],
+      "limits": [
+        "管理職中心",
+        "選抜・交絡",
+        "健康効果の直接研究限定"
+      ],
+      "scope": [
+        "挑戦的経験"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CD-C18",
+      "claim": "発達的配置へのアクセスを上司の好み・非公式ネットワークだけで決めず、基準、候補、本人希望、結果差を監査する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "機会配分",
+      "sources": [
+        "dragoni-2009",
+        "seibert-2001",
+        "ilo-r195"
+      ],
+      "limits": [
+        "ネットワーク測定・プライバシー",
+        "国内制度差"
+      ],
+      "scope": [
+        "発達機会"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CD-C19",
+      "claim": "ストレッチアサインメントを、権限・時間・報酬のない追加負担や失敗時の一方的責任にしない。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "権力・仕事設計",
+      "sources": [
+        "derue-2009",
+        "parker-2014"
+      ],
+      "limits": [
+        "具体的職務・労働条件を確認"
+      ],
+      "scope": [
+        "挑戦的配置"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CD-C20",
+      "claim": "メンタリングは平均的にキャリア・心理社会的成果と関連するが、効果は概して万能ではなく、自己選択と関係の質を考慮する。",
+      "label": "A",
+      "directness": "能力開発直接研究",
+      "relationship": "メタ分析",
+      "sources": [
+        "allen-2004",
+        "eby-2008",
+        "underhill-2006"
+      ],
+      "limits": [
+        "相関研究中心",
+        "公式・非公式の異質性",
+        "負の経験を別途確認"
+      ],
+      "scope": [
+        "メンタリング"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CD-C21",
+      "claim": "メンターの割当では、目的、期間、守秘、利害関係、変更・退出、評価への利用、報復防止を先に決める。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "関係統治",
+      "sources": [
+        "eby-2008",
+        "ilo-data"
+      ],
+      "limits": [
+        "メンタリング固有の介入効果証明ではない"
+      ],
+      "scope": [
+        "メンタリング"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CD-C22",
+      "claim": "単一の有力者との関係だけをキャリア資源にせず、複数の相談先、同僚、専門共同体、スポンサー機能への公平なアクセスを作る。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "社会関係資本と機会",
+      "sources": [
+        "seibert-2001",
+        "allen-2004"
+      ],
+      "limits": [
+        "ネットワークの質・権力差",
+        "スポンサー制度の直接証拠限定"
+      ],
+      "scope": [
+        "開発ネットワーク"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CD-C23",
+      "claim": "職場コーチングは平均的に学習・業績・ウェルビーイング等を改善し得るが、目的、提供者、守秘、期間、利益相反を明示する。",
+      "label": "A",
+      "directness": "能力開発直接研究",
+      "relationship": "メタ分析",
+      "sources": [
+        "jones-2016",
+        "theeboom-2014"
+      ],
+      "limits": [
+        "研究数・質の差",
+        "自己報告",
+        "スポンサー利益相反"
+      ],
+      "scope": [
+        "コーチング"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CD-C24",
+      "claim": "コーチングを、治療、懲戒、査定通知、組織問題の個人化の代替にしない。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "境界設定",
+      "sources": [
+        "theeboom-2014",
+        "parker-2014"
+      ],
+      "limits": [
+        "医療・心理支援は適格専門家へ",
+        "直接比較研究限定"
+      ],
+      "scope": [
+        "コーチング境界"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CD-C25",
+      "claim": "キャリア成功を給与・役職だけに限定せず、本人が重視する学習、健康、意味、関係、自律、安定、社会貢献等を含める。",
+      "label": "B",
+      "directness": "能力開発直接研究",
+      "relationship": "統合・概念",
+      "sources": [
+        "ng-2005",
+        "heslin-2005",
+        "devos-2020"
+      ],
+      "limits": [
+        "価値・文化・人生段階差",
+        "尺度選択"
+      ],
+      "scope": [
+        "キャリア成功"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CD-C26",
+      "claim": "客観的キャリア成功と主観的キャリア成功は区別し、組織の昇進数を本人の持続可能性と同一視しない。",
+      "label": "A",
+      "directness": "能力開発直接研究",
+      "relationship": "メタ分析・統合",
+      "sources": [
+        "ng-2005",
+        "heslin-2005"
+      ],
+      "limits": [
+        "相関研究中心",
+        "給与・昇進の制度差"
+      ],
+      "scope": [
+        "キャリア成功"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CD-C27",
+      "claim": "キャリア適応性は関心、統制、好奇心、自信等と関連するが、雇用喪失・差別・地域需要・ケア制約を個人の適応力不足へ還元しない。",
+      "label": "A",
+      "directness": "混合",
+      "relationship": "メタ分析と制度的限定",
+      "sources": [
+        "rudolph-2017-career",
+        "johnston-2018",
+        "ilo-r195"
+      ],
+      "limits": [
+        "相関研究中心",
+        "尺度・文化差",
+        "構造要因を別途測定"
+      ],
+      "scope": [
+        "キャリア適応"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CD-C28",
+      "claim": "キャリアショック後の進路変更を常に成長物語として評価せず、損失、回復時間、選択肢、支援、本人の意味づけを扱う。",
+      "label": "B",
+      "directness": "能力開発直接研究",
+      "relationship": "概念統合",
+      "sources": [
+        "akkermans-2018",
+        "devos-2020"
+      ],
+      "limits": [
+        "概念研究中心",
+        "出来事・時間・文化差"
+      ],
+      "scope": [
+        "キャリアショック"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CD-C29",
+      "claim": "雇用可能性は多次元であり、単一スキル得点や「市場価値」で人の価値・雇用責任を置き換えない。",
+      "label": "B",
+      "directness": "能力開発直接研究",
+      "relationship": "概念・測定",
+      "sources": [
+        "fugate-2004",
+        "vanderheijde-2006"
+      ],
+      "limits": [
+        "雇用需要・差別・地域条件を含まない場合",
+        "自己報告"
+      ],
+      "scope": [
+        "雇用可能性"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CD-C30",
+      "claim": "能力開発とキャリア成果の関係は、学習機会、職務、雇用需要、認証、移動機会、差別等に左右され、修了証だけで保証されない。",
+      "label": "B",
+      "directness": "混合",
+      "relationship": "観察・公式原則",
+      "sources": [
+        "devos-2011",
+        "ilo-r195",
+        "eu-microcred-2022"
+      ],
+      "limits": [
+        "因果方向",
+        "国・労働市場差"
+      ],
+      "scope": [
+        "能力と機会"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CD-C31",
+      "claim": "職業興味は進路探索の一情報になり得るが、固定された適性・能力・可能性の上限として扱わない。",
+      "label": "A",
+      "directness": "能力開発隣接研究",
+      "relationship": "メタ分析",
+      "sources": [
+        "nye-2012"
+      ],
+      "limits": [
+        "相関研究",
+        "職種・測定差",
+        "本人の選択と機会を確保"
+      ],
+      "scope": [
+        "職業興味"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CD-C32",
+      "claim": "人と仕事の適合を「組織に似ている人」の選抜に使わず、仕事・役割・支援・環境を変える選択肢も検討する。",
+      "label": "A",
+      "directness": "混合",
+      "relationship": "メタ分析と包摂的設計",
+      "sources": [
+        "kristofbrown-2005",
+        "parker-2014"
+      ],
+      "limits": [
+        "知覚適合と客観適合",
+        "同質化・差別リスク"
+      ],
+      "scope": [
+        "適合"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CD-C33",
+      "claim": "学習目標志向を固定的人格ラベルや昇進条件にせず、課題ごとに学習を選べる環境と支援を設ける。",
+      "label": "A",
+      "directness": "能力開発隣接研究",
+      "relationship": "メタ分析",
+      "sources": [
+        "payne-2007",
+        "derue-2009"
+      ],
+      "limits": [
+        "特性・状態測定差",
+        "自己報告",
+        "機会差"
+      ],
+      "scope": [
+        "学習志向"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CD-C34",
+      "claim": "プロアクティブ行動やジョブ・クラフティングを奨励する場合、裁量、調整権、同僚への影響、安全、正式な仕事再設計を伴わせる。",
+      "label": "A",
+      "directness": "混合",
+      "relationship": "メタ分析・測定",
+      "sources": [
+        "parker-2010",
+        "rudolph-2017-crafting",
+        "wrzesniewski-2001"
+      ],
+      "limits": [
+        "相関研究中心",
+        "権限差",
+        "要求増大"
+      ],
+      "scope": [
+        "能動的キャリア"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CD-C35",
+      "claim": "ジョブ・クラフティングを、人員不足、過重労働、不明確な役割を本人が工夫して埋める制度にしない。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "仕事設計と予防原則",
+      "sources": [
+        "rudolph-2017-crafting",
+        "parker-2014"
+      ],
+      "limits": [
+        "職務固有の評価が必要"
+      ],
+      "scope": [
+        "仕事再設計"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CD-C36",
+      "claim": "仕事そのものの自律性、技能多様性、完全性、フィードバック、他者との関係を能力開発の基盤として設計する。",
+      "label": "A",
+      "directness": "能力開発直接研究",
+      "relationship": "統合レビュー",
+      "sources": [
+        "parker-2014",
+        "noe-2014"
+      ],
+      "limits": [
+        "職種・安全制約",
+        "因果研究の異質性"
+      ],
+      "scope": [
+        "発達的仕事設計"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CD-C37",
+      "claim": "学習予算だけでなく、使える時間、代替要員、上司承認、受講条件、移動・端末・言語・アクセシビリティを含む実質アクセスを監査する。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "包摂的アクセス",
+      "sources": [
+        "ilo-r195",
+        "unesco-rale",
+        "eu-ila-2022"
+      ],
+      "limits": [
+        "国内制度・財源差",
+        "個人データ保護"
+      ],
+      "scope": [
+        "学習アクセス"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CD-C38",
+      "claim": "年齢から学習意欲、適応力、技術能力、変化への抵抗を推定せず、本人の希望、経験、職務、支援を確認する。",
+      "label": "A",
+      "directness": "混合",
+      "relationship": "メタ分析と非固定化",
+      "sources": [
+        "kooij-2011",
+        "ng-2012-age",
+        "maurer-2003"
+      ],
+      "limits": [
+        "平均差を個人へ適用しない",
+        "コホート・職種差"
+      ],
+      "scope": [
+        "年齢と学習"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CD-C39",
+      "claim": "能力開発の対象選定では、正規・非正規、短時間、派遣、請負、夜勤、遠隔、休職・復職、ケア責任、障害等による参加差を監査する。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "機会均等",
+      "sources": [
+        "ilo-r195",
+        "unesco-rale",
+        "eu-ila-2022"
+      ],
+      "limits": [
+        "法的適用範囲・契約関係は国内法を確認",
+        "少人数の再特定"
+      ],
+      "scope": [
+        "包摂"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CD-C40",
+      "claim": "学習の自己責任化を避け、個人、管理職、組織、教育提供者、労使、公共制度の責任・資源を明示する。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "責任分配",
+      "sources": [
+        "ilo-c142",
+        "ilo-r195",
+        "unesco-rale"
+      ],
+      "limits": [
+        "国内制度・労使関係差"
+      ],
+      "scope": [
+        "責任"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CD-C41",
+      "claim": "リスキリングは将来職務・需要・移動経路・賃金・選考との接続を示し、単に大量受講を促す施策にしない。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "訓練とキャリア接続",
+      "sources": [
+        "salas-2012",
+        "ilo-r195",
+        "eu-ila-2022"
+      ],
+      "limits": [
+        "需要予測の不確実性",
+        "雇用保証ではない"
+      ],
+      "scope": [
+        "リスキリング"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CD-C42",
+      "claim": "スキルギャップを本人の欠陥として示さず、職務要件の妥当性、仕事再設計、採用・配置・チーム能力、技術変更を含めて検討する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "社会技術的設計",
+      "sources": [
+        "parker-2014",
+        "bell-2017",
+        "nist-ai-100"
+      ],
+      "limits": [
+        "職務分析と将来予測の不確実性"
+      ],
+      "scope": [
+        "スキルギャップ"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CD-C43",
+      "claim": "スキル分類・スキル隣接性・推奨学習を使う場合、定義、根拠、更新日、適用範囲、不確実性、人による訂正を示す。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "AI・分類統治",
+      "sources": [
+        "nist-ai-100",
+        "ilo-data"
+      ],
+      "limits": [
+        "分類体系・モデルの妥当性を用途別に確認"
+      ],
+      "scope": [
+        "スキル分類"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CD-C44",
+      "claim": "通信、文書、会議、クリック履歴から本人に隠れてスキル・潜在能力・学習意欲を推定し、高不利益判断へ用いることを支持しない。",
+      "label": "不支持",
+      "directness": "予防原則に基づく推論",
+      "relationship": "妥当性・尊厳",
+      "sources": [
+        "ilo-data",
+        "nist-ai-100"
+      ],
+      "limits": [
+        "推定誤差",
+        "文脈欠落",
+        "萎縮効果",
+        "国内法を確認"
+      ],
+      "scope": [
+        "秘密推定"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CD-C45",
+      "claim": "学習・キャリアデータは目的限定し、推薦、査定、昇進、配置、AI訓練、研究への二次利用を分け、アクセス・訂正・保存期限を設ける。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "個人データ統治",
+      "sources": [
+        "ilo-data",
+        "nist-ai-100"
+      ],
+      "limits": [
+        "国内法を確認",
+        "匿名化後の再特定"
+      ],
+      "scope": [
+        "学習データ"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CD-C46",
+      "claim": "AI学習推薦を必須経路にせず、推薦理由、代替案、非利用の選択、人による相談、訂正、異議を用意する。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "AI統治",
+      "sources": [
+        "nist-ai-100",
+        "ilo-data"
+      ],
+      "limits": [
+        "AI推薦の職場長期効果は発展途上",
+        "国内制度を確認"
+      ],
+      "scope": [
+        "AI推薦"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CD-C47",
+      "claim": "マイクロクレデンシャルは発行者、学習成果、評価方法、量、質保証、レベル、取得日、携帯性を示し、バッジの所持だけを能力証明にしない。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "認証透明性",
+      "sources": [
+        "eu-microcred-2022"
+      ],
+      "limits": [
+        "EU勧告",
+        "雇用者・資格制度による認知差",
+        "学習成果の独立検証が必要"
+      ],
+      "scope": [
+        "マイクロクレデンシャル"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CD-C48",
+      "claim": "資格・修了証の取得数を能力開発の主要KPIにせず、実際の知識・技能、適用、公平、移動、仕事・賃金の改善を追う。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "評価設計",
+      "sources": [
+        "arthur-2003",
+        "eu-microcred-2022",
+        "ilo-r195"
+      ],
+      "limits": [
+        "遠い成果ほど他要因が多い"
+      ],
+      "scope": [
+        "資格評価"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CD-C49",
+      "claim": "質の高い徒弟制度では、構造化された学習、熟練指導、報酬、労働条件、安全、社会保障、評価・認証、相談・救済を一体にする。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "徒弟制度",
+      "sources": [
+        "ilo-r208"
+      ],
+      "limits": [
+        "ILO勧告",
+        "国内の雇用・教育制度を確認"
+      ],
+      "scope": [
+        "徒弟制度"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CD-C50",
+      "claim": "インターン・徒弟・研修生という名称で、教育目的・指導・権利・報酬のない通常労働へ置き換えない。",
+      "label": "不支持",
+      "directness": "公式指針・制度",
+      "relationship": "権利・搾取防止",
+      "sources": [
+        "ilo-r208",
+        "ilo-r195"
+      ],
+      "limits": [
+        "雇用関係・最低賃金・教育要件は国内法を確認"
+      ],
+      "scope": [
+        "就業学習"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CD-C51",
+      "claim": "公開教材はアクセスと再利用を広げ得るが、教材の質、言語、アクセシビリティ、指導、評価、端末・通信を別途整える。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "オープン学習",
+      "sources": [
+        "unesco-oer",
+        "unesco-rale"
+      ],
+      "limits": [
+        "オープンであるだけで効果は保証されない",
+        "デジタル格差"
+      ],
+      "scope": [
+        "OER"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CD-C52",
+      "claim": "教材・学習データ・能力枠組みを公開するとき、著作権、個人情報、機密、アクセシビリティ、版管理を明示する。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "オープン統治",
+      "sources": [
+        "unesco-oer",
+        "ilo-data"
+      ],
+      "limits": [
+        "国内知的財産・個人情報法を確認"
+      ],
+      "scope": [
+        "オープンデータ"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CD-C53",
+      "claim": "キャリア相談では、組織が望む配置へ誘導する前に、本人の価値、制約、選択肢、情報の不確実性、相談内容の利用範囲を確認する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "自己決定・守秘",
+      "sources": [
+        "heslin-2005",
+        "ilo-c142",
+        "ilo-data"
+      ],
+      "limits": [
+        "相談専門職・国内制度を確認"
+      ],
+      "scope": [
+        "キャリア相談"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CD-C54",
+      "claim": "本人が社内昇進、専門深化、横移動、休止、復職、社外移動の複数経路を比較できる情報と相談を用意する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "キャリア選択",
+      "sources": [
+        "devos-2020",
+        "ilo-c142",
+        "eu-ila-2022"
+      ],
+      "limits": [
+        "空席・地域・契約条件に依存",
+        "雇用保証ではない"
+      ],
+      "scope": [
+        "キャリア経路"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CD-C55",
+      "claim": "能力開発の成果を平均だけでなく、職種、契約、年齢、ジェンダー、障害、勤務帯、拠点、受講前水準別に監査する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "分配評価",
+      "sources": [
+        "kyndt-2013",
+        "ilo-r195",
+        "unesco-rale"
+      ],
+      "limits": [
+        "少人数の再特定",
+        "交差性",
+        "法的保護事由は国内法を確認"
+      ],
+      "scope": [
+        "分配"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CD-C56",
+      "claim": "学習施策の副作用として、時間外負担、仕事量増加、失敗の罰、資格競争、機会格差、監視、離職圧力を追跡する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "副作用評価",
+      "sources": [
+        "salas-2012",
+        "parker-2014",
+        "ilo-data"
+      ],
+      "limits": [
+        "副作用指標自体の萎縮効果に注意"
+      ],
+      "scope": [
+        "副作用"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CD-C57",
+      "claim": "学習機会を与えたことを、雇用保障、適正配置、賃金、公正な選考、合理的配慮の代替にしない。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "権利境界",
+      "sources": [
+        "ilo-r195",
+        "unesco-rale"
+      ],
+      "limits": [
+        "国内法・労使制度を確認"
+      ],
+      "scope": [
+        "権利"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CD-C58",
+      "claim": "研修・キャリア施策は小さく試し、参加、学習、転移、維持、仕事結果、健康、公平、費用、離脱、異議を確認して修正・撤回する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "反復評価",
+      "sources": [
+        "salas-2012",
+        "bell-2017",
+        "nist-ai-100"
+      ],
+      "limits": [
+        "比較条件・実装度・長期追跡が必要"
+      ],
+      "scope": [
+        "改善"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CD-C59",
+      "claim": "効果が出なかったとき、受講者を責める前に、ニーズ、内容、設計、指導、練習、支援、適用機会、仕事制度のどこで連鎖が切れたかを調べる。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "失敗分析",
+      "sources": [
+        "baldwin-1988",
+        "blume-2010",
+        "salas-2012"
+      ],
+      "limits": [
+        "複数要因の因果分離が難しい"
+      ],
+      "scope": [
+        "評価"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CD-C60",
+      "claim": "「70-20-10」等の固定比率を普遍則として配分せず、職務、技能、リスク、学習者、証拠に応じて正式学習・経験・関係学習を設計する。",
+      "label": "不支持",
+      "directness": "予防原則に基づく推論",
+      "relationship": "比率処方の非一般化",
+      "sources": [
+        "noe-2014",
+        "tynjala-2008",
+        "salas-2012"
+      ],
+      "limits": [
+        "比率自体を直接比較した強い証拠は限定",
+        "経験学習の否定ではない"
+      ],
+      "scope": [
+        "学習ポートフォリオ"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CD-C61",
+      "claim": "一度の修了を永続的能力とみなさず、技能の使用頻度、危険度、変化速度に応じて保持確認・再練習・更新を設ける。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "保持と再学習",
+      "sources": [
+        "cepeda-2006",
+        "baldwin-1988",
+        "salas-2012"
+      ],
+      "limits": [
+        "技能別の低下速度を確認",
+        "安全重要領域は専門基準を優先"
+      ],
+      "scope": [
+        "技能維持"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CD-C62",
+      "claim": "既修得学習の認定では、学校歴だけでなく職務・地域・家庭・市民活動等で得た能力を、透明な基準と複数証拠で評価する。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "認定と包摂",
+      "sources": [
+        "ilo-r195",
+        "eu-microcred-2022",
+        "unesco-rale"
+      ],
+      "limits": [
+        "資格制度・評価者能力・国内制度を確認",
+        "家庭責任の自己開示を強制しない"
+      ],
+      "scope": [
+        "既修得学習"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CD-C63",
+      "claim": "法令・安全・業務上の必須研修では、目的、勤務時間扱い、費用、アクセシビリティ、到達支援、未修了時の手続を事前に明示する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "必須学習の統治",
+      "sources": [
+        "salas-2012",
+        "ilo-r195",
+        "ilo-r208"
+      ],
+      "limits": [
+        "義務・労働時間・不利益手続は国内法を確認"
+      ],
+      "scope": [
+        "必須研修"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CD-C64",
+      "claim": "配置転換、職務消滅、離職を伴う能力転換では、学習提供だけでなく、所得・時間・相談、実習、選考、配置、移動後支援を設ける。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "公正な移行",
+      "sources": [
+        "ilo-c142",
+        "ilo-r195",
+        "eu-ila-2022"
+      ],
+      "limits": [
+        "雇用・社会保障・訓練制度は国により異なる",
+        "移動成功を保証しない"
+      ],
+      "scope": [
+        "キャリア移行"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CD-C65",
+      "claim": "生成AI等を学習支援に使う場合、出力の正確性・出典・機密性・偏り・アクセシビリティを確認し、重要技能では人の指導と実技評価を残す。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "AI学習支援",
+      "sources": [
+        "nist-ai-100",
+        "ilo-data",
+        "salas-2012"
+      ],
+      "limits": [
+        "生成AI固有の職場長期効果は発展途上",
+        "用途・モデル更新ごとに再評価"
+      ],
+      "scope": [
+        "AI学習支援"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    }
+  ]
+}

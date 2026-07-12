@@ -1,0 +1,56 @@
+{
+  "version": "0.1",
+  "release_decision": "完成条件を満たす（次分野へ移行可）",
+  "dimensions": [
+    {
+      "id": "levels",
+      "status": "complete",
+      "evidence": "個人・チーム・組織と制度化を区別"
+    },
+    {
+      "id": "knowledge-processes",
+      "status": "complete",
+      "evidence": "創造・共有・移転・保持・利用を分離"
+    },
+    {
+      "id": "exploration-use",
+      "status": "complete",
+      "evidence": "探索・活用・吸収能力・両利き性"
+    },
+    {
+      "id": "team-learning",
+      "status": "complete",
+      "evidence": "学習行動、情報共有、心理的安全性、リーダーシップ"
+    },
+    {
+      "id": "failure-error",
+      "status": "complete",
+      "evidence": "予防、管理、AAR、報告・是正を区別"
+    },
+    {
+      "id": "memory",
+      "status": "complete",
+      "evidence": "ルーティン、TMS、リポジトリ、版・失効"
+    },
+    {
+      "id": "hiding-power",
+      "status": "complete",
+      "evidence": "知識隠匿、守秘、拒否権、強制抽出を区別"
+    },
+    {
+      "id": "ai-governance",
+      "status": "complete",
+      "evidence": "来歴、検証、アクセス、訂正・削除"
+    },
+    {
+      "id": "openness",
+      "status": "complete",
+      "evidence": "主張・研究・用語・採否・質・更新を公開"
+    }
+  ],
+  "remaining_non_blocking": [
+    "職種・産業別の実装効果は追加可能",
+    "日本企業の縦断・比較研究は今後追加可能",
+    "生成AI知識基盤の長期的な実証研究は未成熟"
+  ]
+}

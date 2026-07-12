@@ -1,0 +1,78 @@
+{
+  "name": "組織的公正 採用・除外記録",
+  "version": "0.1",
+  "screening": [
+    {
+      "id": "S01",
+      "decision": "include",
+      "reason": "分配理論の基礎",
+      "source": "adams-1965"
+    },
+    {
+      "id": "S02",
+      "decision": "include",
+      "reason": "手続き基準の基礎",
+      "source": "leventhal-1980"
+    },
+    {
+      "id": "S03",
+      "decision": "include",
+      "reason": "4次元尺度",
+      "source": "colquitt-2001-scale"
+    },
+    {
+      "id": "S04",
+      "decision": "include",
+      "reason": "25年メタ分析",
+      "source": "colquitt-2001-meta"
+    },
+    {
+      "id": "S05",
+      "decision": "include",
+      "reason": "10年後メタ分析",
+      "source": "colquitt-2013"
+    },
+    {
+      "id": "S06",
+      "decision": "include",
+      "reason": "健康メタ分析",
+      "source": "robbins-2012"
+    },
+    {
+      "id": "S07",
+      "decision": "include",
+      "reason": "前向き健康レビュー",
+      "source": "ndjaboue-2012"
+    },
+    {
+      "id": "S08",
+      "decision": "include",
+      "reason": "日本語尺度検証",
+      "source": "inoue-2009-scale"
+    },
+    {
+      "id": "S09",
+      "decision": "include",
+      "reason": "日本の前向き研究",
+      "source": "inoue-2013-prospective"
+    },
+    {
+      "id": "S10",
+      "decision": "include",
+      "reason": "介入追試",
+      "source": "skarlicki-latham-1997"
+    },
+    {
+      "id": "S11",
+      "decision": "exclude",
+      "reason": "尺度・次元・標本が不明な企業ランキング",
+      "source": "vendor-ranking"
+    },
+    {
+      "id": "S12",
+      "decision": "exclude",
+      "reason": "公正感を法令順守の証拠とする資料",
+      "source": "compliance-by-perception"
+    }
+  ]
+}

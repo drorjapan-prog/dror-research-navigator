@@ -1,0 +1,76 @@
+{
+  "name": "採用・選抜・オンボーディング・組織社会化 迅速エビデンスマップ・プロトコル",
+  "version": "0.1",
+  "review_type": "仕事分析、募集、選抜、候補者公正、差別、AI採用、条件提示、試用、社会化を分離した迅速エビデンスマップ",
+  "research_questions": [
+    {
+      "id": "RQ1",
+      "question": "仕事・要件・基準をどう定義し、変化する仕事へ更新するか。"
+    },
+    {
+      "id": "RQ2",
+      "question": "面接、検査、職務サンプル、経歴情報の妥当性と限界は何か。"
+    },
+    {
+      "id": "RQ3",
+      "question": "予測妥当性、群別影響、合理的配慮、候補者公正をどう両立するか。"
+    },
+    {
+      "id": "RQ4",
+      "question": "募集情報、現実的職務情報、紹介、SNS・背景確認をどう統治するか。"
+    },
+    {
+      "id": "RQ5",
+      "question": "AI採用のデータ、ラベル、代理変数、人の監督、説明・異議をどう設計するか。"
+    },
+    {
+      "id": "RQ6",
+      "question": "内定・条件提示・試用期間で双方の理解と訂正可能性をどう守るか。"
+    },
+    {
+      "id": "RQ7",
+      "question": "オンボーディング・組織社会化の近位結果と複数主体の役割は何か。"
+    },
+    {
+      "id": "RQ8",
+      "question": "採用・新人データをどう評価・公開・更新し、個人情報を守るか。"
+    }
+  ],
+  "query_families": [
+    "personnel selection validity meta-analysis interview work sample SJT",
+    "job analysis competency modeling work analysis",
+    "applicant reactions selection fairness meta-analysis",
+    "adverse impact subgroup differences selection validity",
+    "recruitment applicant attraction realistic job preview meta-analysis",
+    "cultural matching referrals discrimination hiring field experiment",
+    "algorithmic hiring fairness validity applicant reactions",
+    "newcomer adjustment organizational socialization onboarding meta-analysis"
+  ],
+  "inclusion": [
+    "査読済み基礎・測定・統合研究",
+    "実採用・フィールド実験・縦断・質的研究",
+    "仕事分析、募集、選抜、応募者反応、差別研究",
+    "AI採用、プライバシー、合理的配慮研究",
+    "新人調整・社会化・心理的契約研究",
+    "ILO、国連、EU、日本の公式原典"
+  ],
+  "exclusion": [
+    "万能の選抜手法ランキング",
+    "顔・声・感情から人格・誠実性を秘密推定",
+    "文化適合・地頭・コミュ力の無定義採点",
+    "公開SNS情報の無制限な採用利用",
+    "候補者の私生活・保護属性・組合支持スコア",
+    "無償の実務成果を選考課題として利用",
+    "オンボーディングを忠誠・同化・退出抑制へ利用"
+  ],
+  "process_limitations": [
+    "単一レビュアーによる迅速整理",
+    "代表文献と公式原典による非網羅整理",
+    "効果量の独自再計算・正式なバイアス評価は未実施",
+    "古典的選抜研究は米国・欧米・過去の職務を多く含む",
+    "妥当性推定は基準・母集団・補正仮定で変わる",
+    "AI採用・リモートオンボーディングは技術変化が速く長期研究が限定",
+    "法的地位・個別事案は現行国内法・専門窓口を確認",
+    "尺度項目、応募者データ、モデル、個人記録は収録しない"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "version": "0.1",
+  "cadence": "少なくとも年1回、および重要な統合研究・尺度改訂・撤回・訂正・制度変更時に臨時更新する。",
+  "immediate_update_triggers": [
+    "主要メタ分析・系統的レビューの公開",
+    "日本語尺度または利用条件の変更",
+    "収録論文の訂正・撤回",
+    "雇用・差別・個人情報に関する重大な制度変更",
+    "利用者から再現可能な誤り報告"
+  ],
+  "change_log_fields": [
+    "date",
+    "before",
+    "after",
+    "reason",
+    "source",
+    "affected_claim_ids"
+  ]
+}

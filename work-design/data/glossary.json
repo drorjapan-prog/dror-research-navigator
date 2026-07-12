@@ -1,0 +1,242 @@
+{
+  "name": "仕事の設計・裁量・役割 用語集",
+  "version": "0.1",
+  "license": "CC BY 4.0",
+  "terms": [
+    {
+      "id": "work-design",
+      "term": "仕事設計",
+      "definition": "課題、責任、関係、知識、環境、技術、時間を組み合わせて仕事を形づくること。"
+    },
+    {
+      "id": "job-design",
+      "term": "職務設計",
+      "definition": "特定職務の内容・方法・責任・関係を設計すること。"
+    },
+    {
+      "id": "task-variety",
+      "term": "技能多様性",
+      "definition": "仕事に複数の技能・活動が必要な程度。"
+    },
+    {
+      "id": "task-identity",
+      "term": "タスク完結性",
+      "definition": "仕事のまとまりを最初から最後まで担える程度。"
+    },
+    {
+      "id": "task-significance",
+      "term": "タスク重要性",
+      "definition": "仕事が他者や社会へ重要な影響を与える程度。"
+    },
+    {
+      "id": "autonomy",
+      "term": "自律性・裁量",
+      "definition": "仕事の順序、方法、時間、判断等を選べる程度。"
+    },
+    {
+      "id": "feedback-from-job",
+      "term": "仕事からのフィードバック",
+      "definition": "仕事そのものから結果の正確な情報が得られる程度。"
+    },
+    {
+      "id": "knowledge-characteristics",
+      "term": "知識特性",
+      "definition": "複雑性、情報処理、問題解決、技能多様性等。"
+    },
+    {
+      "id": "social-characteristics",
+      "term": "社会特性",
+      "definition": "相互依存、支援、外部との接触、他者からのフィードバック等。"
+    },
+    {
+      "id": "contextual-characteristics",
+      "term": "文脈特性",
+      "definition": "人間工学、身体要求、設備、利用条件等。"
+    },
+    {
+      "id": "job-demand",
+      "term": "仕事要求度",
+      "definition": "持続的努力を必要とし身体・心理コストを伴う仕事側面。"
+    },
+    {
+      "id": "job-resource",
+      "term": "仕事資源",
+      "definition": "目標達成、要求度の軽減、学習・成長を支える仕事側面。"
+    },
+    {
+      "id": "job-control",
+      "term": "仕事のコントロール",
+      "definition": "仕事上の意思決定や技能使用を統制できる程度。"
+    },
+    {
+      "id": "decision-latitude",
+      "term": "意思決定自由度",
+      "definition": "意思決定権限と技能裁量を含む概念。"
+    },
+    {
+      "id": "workload",
+      "term": "仕事量",
+      "definition": "一定時間に処理すべき量・速度・複雑性・変動。"
+    },
+    {
+      "id": "quantitative-demands",
+      "term": "量的要求度",
+      "definition": "時間内に処理する仕事量・速度に関する要求。"
+    },
+    {
+      "id": "cognitive-demands",
+      "term": "認知的要求度",
+      "definition": "注意、記憶、判断、問題解決等に必要な負荷。"
+    },
+    {
+      "id": "emotional-demands",
+      "term": "感情的要求度",
+      "definition": "感情調整や他者の苦痛・怒り等への対応要求。"
+    },
+    {
+      "id": "work-intensification",
+      "term": "仕事強化",
+      "definition": "仕事量・計画・学習・意思決定等が加速・高度化すること。"
+    },
+    {
+      "id": "role-clarity",
+      "term": "役割明確性",
+      "definition": "目的、期待、責任、権限、優先順位が理解できる状態。"
+    },
+    {
+      "id": "role-ambiguity",
+      "term": "役割曖昧性",
+      "definition": "期待、責任、方法、評価基準等が不明確な状態。"
+    },
+    {
+      "id": "role-conflict",
+      "term": "役割葛藤",
+      "definition": "両立しにくい期待・要求が同時に存在する状態。"
+    },
+    {
+      "id": "interdependence",
+      "term": "相互依存",
+      "definition": "自分の仕事が他者の入力・出力・調整に依存する程度。"
+    },
+    {
+      "id": "relational-job-design",
+      "term": "関係的仕事設計",
+      "definition": "仕事が他者へ及ぼす影響や接点を設計する考え方。"
+    },
+    {
+      "id": "psychological-needs",
+      "term": "基本的心理欲求",
+      "definition": "自律性・有能感・関係性に関する基本的欲求。"
+    },
+    {
+      "id": "job-crafting",
+      "term": "ジョブ・クラフティング",
+      "definition": "従業員が課題・関係・認知・要求度・資源を能動的に変えること。"
+    },
+    {
+      "id": "promotion-crafting",
+      "term": "促進的クラフティング",
+      "definition": "資源・挑戦・機会を増やす方向の仕事変更。"
+    },
+    {
+      "id": "prevention-crafting",
+      "term": "予防的クラフティング",
+      "definition": "要求回避・負担低減を重視する仕事変更。"
+    },
+    {
+      "id": "work-redesign",
+      "term": "仕事再設計",
+      "definition": "既存の仕事構造・役割・過程・条件を意図的に変更すること。"
+    },
+    {
+      "id": "participatory-design",
+      "term": "参加型設計",
+      "definition": "仕事をする人が問題定義・設計・評価に実質参加する方法。"
+    },
+    {
+      "id": "flexible-work",
+      "term": "柔軟な働き方",
+      "definition": "時間・場所・勤務形態等に選択肢を持たせる働き方。"
+    },
+    {
+      "id": "telework",
+      "term": "テレワーク",
+      "definition": "情報通信技術を使い通常の職場以外で働くこと。"
+    },
+    {
+      "id": "hybrid-work",
+      "term": "ハイブリッド勤務",
+      "definition": "遠隔と出社を組み合わせる勤務形態。"
+    },
+    {
+      "id": "work-interruption",
+      "term": "仕事中の割込み",
+      "definition": "進行中の仕事を中断し注意・行動の切替を求める出来事。"
+    },
+    {
+      "id": "recovery",
+      "term": "回復",
+      "definition": "仕事による負荷反応が休息等で基準へ戻る過程。"
+    },
+    {
+      "id": "detachment",
+      "term": "心理的切り離し",
+      "definition": "非勤務時間に仕事から心理的距離を取ること。"
+    },
+    {
+      "id": "shift-work",
+      "term": "交代勤務",
+      "definition": "勤務時間帯を交代する、または通常の昼間以外に働く勤務形態。"
+    },
+    {
+      "id": "circadian-rhythm",
+      "term": "概日リズム",
+      "definition": "約24時間周期で変化する睡眠・覚醒等の生体リズム。"
+    },
+    {
+      "id": "algorithmic-management",
+      "term": "アルゴリズム管理",
+      "definition": "アルゴリズムで仕事配分、監視、評価、報酬、意思決定等を行う管理。"
+    },
+    {
+      "id": "automated-monitoring",
+      "term": "自動監視システム",
+      "definition": "電子的手段で行動・業績・通信等を継続収集・分析する仕組み。"
+    },
+    {
+      "id": "automated-decision",
+      "term": "自動意思決定システム",
+      "definition": "労働条件へ影響する判断を自動で行う・支援する仕組み。"
+    },
+    {
+      "id": "human-oversight",
+      "term": "人による監督",
+      "definition": "自動システムを理解・監視し介入・停止・訂正できる人の役割。"
+    },
+    {
+      "id": "reasonable-accommodation",
+      "term": "合理的配慮",
+      "definition": "障壁を除き平等な就労機会を確保するための必要・適切な変更。"
+    },
+    {
+      "id": "psychosocial-risk",
+      "term": "心理社会的リスク",
+      "definition": "仕事設計・管理・社会環境から健康へ害を及ぼし得る要因。"
+    },
+    {
+      "id": "work-family-conflict",
+      "term": "仕事家庭葛藤",
+      "definition": "仕事と家庭の要求が相互に両立しにくい状態。"
+    },
+    {
+      "id": "job-demands-resources",
+      "term": "JD-R",
+      "definition": "仕事要求度と仕事資源から消耗・動機づけ過程を捉える枠組み。"
+    },
+    {
+      "id": "job-characteristics-model",
+      "term": "仕事特性モデル",
+      "definition": "中核的仕事特性、心理状態、個人・仕事結果を結ぶモデル。"
+    }
+  ]
+}

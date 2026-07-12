@@ -1,0 +1,21 @@
+{
+  "version": "0.1",
+  "cadence": "少なくとも年1回、文化・風土・適合・変革の主要研究、ISO・WHO・ILO・国内制度変更時に臨時更新する。",
+  "immediate_update_triggers": [
+    "文化・風土・適合の主要メタ分析",
+    "文化変革の比較・長期研究",
+    "安全・包摂・倫理・発言風土の介入研究",
+    "ISO 45003の改訂・確認・廃止",
+    "WHO・ILO・日本の関連制度変更",
+    "文化サーベイ・生成AI利用の制度・実証研究",
+    "収録研究の訂正・撤回"
+  ],
+  "change_log_fields": [
+    "date",
+    "before",
+    "after",
+    "reason",
+    "source",
+    "affected_claim_ids"
+  ]
+}

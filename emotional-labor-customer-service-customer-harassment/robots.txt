@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://research.dror.co.jp/emotional-labor-customer-service-customer-harassment/sitemap.xml

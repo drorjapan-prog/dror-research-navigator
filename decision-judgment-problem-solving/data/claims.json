@@ -1,0 +1,1088 @@
+{
+  "name": "意思決定・判断・問題解決・認知バイアス 主張レジスター",
+  "version": "0.1",
+  "license": "CC BY 4.0",
+  "claims": [
+    {
+      "id": "DM-C01",
+      "claim": "意思決定は、目的、選択肢、情報、不確実性、価値、権限、実行、検証を結ぶ過程であり、選んだ瞬間だけではない。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "統合からの定義",
+      "sources": [
+        "simon-1955",
+        "kerr-2004"
+      ],
+      "limits": [
+        "決定主体・水準を明示"
+      ],
+      "scope": [
+        "定義"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DM-C02",
+      "claim": "人は情報、時間、注意、計算能力が限られるため、完全最適化ではなく満足化や簡便法を使う。",
+      "label": "A",
+      "directness": "意思決定直接研究",
+      "relationship": "限定合理性理論",
+      "sources": [
+        "simon-1955",
+        "gigerenzer-1996"
+      ],
+      "limits": [
+        "古典理論",
+        "制約を個人能力不足としない"
+      ],
+      "scope": [
+        "限定合理性"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DM-C03",
+      "claim": "ヒューリスティックは常に誤りではなく、環境構造に適合すれば迅速で頑健になり得る。",
+      "label": "A",
+      "directness": "意思決定直接研究",
+      "relationship": "理論・レビュー",
+      "sources": [
+        "gigerenzer-1996",
+        "gigerenzer-2011"
+      ],
+      "limits": [
+        "適用環境と失敗条件を事前定義"
+      ],
+      "scope": [
+        "ヒューリスティック"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DM-C04",
+      "claim": "代表性、利用可能性、係留等は判断の体系的偏りを生み得るが、バイアス名を人への診断・非難ラベルに使わない。",
+      "label": "A",
+      "directness": "意思決定直接研究",
+      "relationship": "実験・統合",
+      "sources": [
+        "tversky-1974"
+      ],
+      "limits": [
+        "実験課題中心",
+        "構造・インセンティブも確認"
+      ],
+      "scope": [
+        "バイアス"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DM-C05",
+      "claim": "高速な直観と低速な分析の区別は有用だが、直観＝悪、分析＝善という二分法ではない。",
+      "label": "A",
+      "directness": "意思決定直接研究",
+      "relationship": "理論レビュー",
+      "sources": [
+        "evans-2008",
+        "kahneman-klein-2009"
+      ],
+      "limits": [
+        "複数の二重過程理論",
+        "課題差"
+      ],
+      "scope": [
+        "認知過程"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DM-C06",
+      "claim": "直観的熟達は、規則性の高い環境と十分で迅速なフィードバックがある場合に成立しやすく、肩書や経験年数だけでは判断できない。",
+      "label": "A",
+      "directness": "意思決定直接研究",
+      "relationship": "統合レビュー",
+      "sources": [
+        "kahneman-klein-2009",
+        "lipshitz-2001"
+      ],
+      "limits": [
+        "環境の予測可能性",
+        "フィードバックの質"
+      ],
+      "scope": [
+        "熟達"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DM-C07",
+      "claim": "時間圧・高リスクの現場判断は実験室の選択課題だけで評価せず、状況認識、経験、チーム、手順、資源、可逆性から検討する。",
+      "label": "B",
+      "directness": "意思決定直接研究",
+      "relationship": "自然主義的研究レビュー",
+      "sources": [
+        "lipshitz-2001"
+      ],
+      "limits": [
+        "レビュー",
+        "経験者判断の無条件正当化ではない"
+      ],
+      "scope": [
+        "現場判断"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DM-C08",
+      "claim": "認知的熟考尺度の得点を、知能、人間価値、昇進適性の単独指標にしない。",
+      "label": "B",
+      "directness": "意思決定直接研究",
+      "relationship": "測定研究・予防原則",
+      "sources": [
+        "frederick-2005",
+        "ilo-data"
+      ],
+      "limits": [
+        "短い尺度",
+        "文化・教育・言語差"
+      ],
+      "scope": [
+        "測定"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DM-C09",
+      "claim": "動機づけられた推論は望ましい結論へ情報探索・解釈を方向づけ得るため、利益相反と評価・報酬を意思決定設計に含める。",
+      "label": "A",
+      "directness": "意思決定直接研究",
+      "relationship": "統合レビュー",
+      "sources": [
+        "kunda-1990"
+      ],
+      "limits": [
+        "本人の悪意と決めつけない",
+        "制度要因を確認"
+      ],
+      "scope": [
+        "動機"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DM-C10",
+      "claim": "確認バイアスへの対策は「反対意見を言え」だけでなく、反証条件、代替仮説、独立情報、探索停止規則を設ける。",
+      "label": "A",
+      "directness": "混合",
+      "relationship": "レビューからの設計原則",
+      "sources": [
+        "nickerson-1998"
+      ],
+      "limits": [
+        "反証の儀式化",
+        "無限探索を避ける"
+      ],
+      "scope": [
+        "確認バイアス"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DM-C11",
+      "claim": "過信は自己の絶対精度、他者との相対順位、確信幅の狭さで異なり、自信の強さだけを能力とみなさない。",
+      "label": "A",
+      "directness": "意思決定直接研究",
+      "relationship": "理論・実験",
+      "sources": [
+        "moore-2008"
+      ],
+      "limits": [
+        "実験課題",
+        "領域別に較正"
+      ],
+      "scope": [
+        "過信"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DM-C12",
+      "claim": "説明責任は熟考を促す場合も、特定相手への迎合を促す場合もあるため、誰に、いつ、何を説明するかを設計する。",
+      "label": "A",
+      "directness": "意思決定直接研究",
+      "relationship": "統合レビュー",
+      "sources": [
+        "lerner-1999"
+      ],
+      "limits": [
+        "事前・事後で効果が異なる",
+        "権力差"
+      ],
+      "scope": [
+        "説明責任"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DM-C13",
+      "claim": "良い結果になったことと、当時利用可能な情報に基づく良い意思決定だったことを分けて評価する。",
+      "label": "A",
+      "directness": "意思決定直接研究",
+      "relationship": "実験",
+      "sources": [
+        "baron-1988"
+      ],
+      "limits": [
+        "結果を無視しない",
+        "過程と結果を両方評価"
+      ],
+      "scope": [
+        "結果バイアス"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DM-C14",
+      "claim": "結果を知った後は予見可能性を過大評価しやすいため、事前予測、想定範囲、判断根拠、更新時点を記録する。",
+      "label": "A",
+      "directness": "意思決定直接研究",
+      "relationship": "メタ分析・実験",
+      "sources": [
+        "christensen-1991",
+        "fischhoff-1975"
+      ],
+      "limits": [
+        "学習と責任追及を区別",
+        "記録の監視転用を防ぐ"
+      ],
+      "scope": [
+        "後知恵"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DM-C15",
+      "claim": "失敗した選択への自己責任や既投入資源は追加投資を促し得るため、継続判断を元の提案者だけに委ねない。",
+      "label": "A",
+      "directness": "意思決定直接研究",
+      "relationship": "実験",
+      "sources": [
+        "staw-1976",
+        "arkes-1985"
+      ],
+      "limits": [
+        "継続が合理的な案件と区別",
+        "将来費用・便益で判断"
+      ],
+      "scope": [
+        "エスカレーション"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DM-C16",
+      "claim": "サンクコストは回収不能費用であり、将来の評判、契約、学習、撤退費用とは分けて評価する。",
+      "label": "A",
+      "directness": "意思決定直接研究",
+      "relationship": "実験・設計原則",
+      "sources": [
+        "arkes-1985"
+      ],
+      "limits": [
+        "単純な撤退推奨ではない"
+      ],
+      "scope": [
+        "サンクコスト"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DM-C17",
+      "claim": "計画では内部シナリオだけでなく、類似案件の所要時間・失敗率・分布を参照し、依存関係と余裕を含める。",
+      "label": "A",
+      "directness": "意思決定直接研究",
+      "relationship": "実験・フィールド",
+      "sources": [
+        "buehler-1994"
+      ],
+      "limits": [
+        "個人課題中心",
+        "参照クラスの選び方"
+      ],
+      "scope": [
+        "計画錯誤"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DM-C18",
+      "claim": "感情はリスク・便益判断へ影響するが、排除対象ではなく、価値・危険の信号と偏りの双方として扱う。",
+      "label": "A",
+      "directness": "意思決定直接研究",
+      "relationship": "統合レビュー",
+      "sources": [
+        "slovic-2007"
+      ],
+      "limits": [
+        "感情を不合理と決めつけない"
+      ],
+      "scope": [
+        "感情"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DM-C19",
+      "claim": "確率・リスクは割合だけでなく自然頻度、分母、期間、比較基準、最悪・最良範囲を示す。",
+      "label": "B",
+      "directness": "意思決定直接研究",
+      "relationship": "実験・設計原則",
+      "sources": [
+        "hoffrage-2000"
+      ],
+      "limits": [
+        "表現効果は課題依存",
+        "理解責任を受け手だけへ負わせない"
+      ],
+      "scope": [
+        "リスク伝達"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DM-C20",
+      "claim": "デバイアスは個人研修だけでなく、情報・選択肢・順序・役割・インセンティブ・記録を変える意思決定環境の設計を含む。",
+      "label": "A",
+      "directness": "意思決定直接研究",
+      "relationship": "レビュー・介入",
+      "sources": [
+        "milkman-2009",
+        "morewedge-2015"
+      ],
+      "limits": [
+        "訓練から実務への移転",
+        "バイアス間差"
+      ],
+      "scope": [
+        "デバイアス"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DM-C21",
+      "claim": "短い訓練で一部の判断バイアスが低減した研究はあるが、全バイアス・全職場への持続的効果とはみなさない。",
+      "label": "B",
+      "directness": "意思決定直接研究",
+      "relationship": "訓練実験",
+      "sources": [
+        "morewedge-2015"
+      ],
+      "limits": [
+        "特定課題・参加者",
+        "組織成果・長期移転"
+      ],
+      "scope": [
+        "訓練"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DM-C22",
+      "claim": "確率予測は点予測だけでなく確率・期限・解決条件を明記し、結果後に較正・識別力・更新を評価する。",
+      "label": "B",
+      "directness": "意思決定直接研究",
+      "relationship": "フィールド予測研究",
+      "sources": [
+        "mellers-2014"
+      ],
+      "limits": [
+        "特殊な予測環境",
+        "選抜効果"
+      ],
+      "scope": [
+        "予測"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DM-C23",
+      "claim": "選択アーキテクチャ介入には平均効果が報告されるが異質性が大きく、透明性、撤回可能性、分配影響、代替策を検討する。",
+      "label": "A",
+      "directness": "混合",
+      "relationship": "メタ分析・倫理原則",
+      "sources": [
+        "mertens-2022"
+      ],
+      "limits": [
+        "効果推定の再検討が続く",
+        "文脈・出版バイアス"
+      ],
+      "scope": [
+        "ナッジ"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DM-C24",
+      "claim": "集団討議は共有済み情報へ偏り、各人だけが持つ独自情報を十分統合しない場合がある。",
+      "label": "A",
+      "directness": "意思決定直接研究",
+      "relationship": "実験・メタ分析",
+      "sources": [
+        "stasser-1985",
+        "mesmer-2009"
+      ],
+      "limits": [
+        "実験課題を含む",
+        "情報の質・権力差"
+      ],
+      "scope": [
+        "集団判断"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DM-C25",
+      "claim": "情報共有は量ではなく、独自・反証情報が提示、理解、検討、意思決定へ反映されたかで評価する。",
+      "label": "A",
+      "directness": "意思決定直接研究",
+      "relationship": "メタ分析上の関連",
+      "sources": [
+        "mesmer-2009"
+      ],
+      "limits": [
+        "相関・実験混在",
+        "発言量を貢献とみなさない"
+      ],
+      "scope": [
+        "情報共有"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DM-C26",
+      "claim": "「集団思考」は失敗した会議への万能な事後ラベルではなく、孤立、指示的リーダー、同調圧力、代替案探索等を個別に測る。",
+      "label": "B",
+      "directness": "意思決定直接研究",
+      "relationship": "研究レビュー",
+      "sources": [
+        "esser-1998"
+      ],
+      "limits": [
+        "モデル支持は部分的",
+        "後知恵バイアス"
+      ],
+      "scope": [
+        "集団思考"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DM-C27",
+      "claim": "対面ブレインストーミングは発話待ち等でアイデア数を失う場合があるため、個別発散と共同評価を分ける。",
+      "label": "A",
+      "directness": "意思決定直接研究",
+      "relationship": "実験",
+      "sources": [
+        "diehl-1987"
+      ],
+      "limits": [
+        "実験課題",
+        "アイデアの質・実装を別途評価"
+      ],
+      "scope": [
+        "発散"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DM-C28",
+      "claim": "デルファイ法は匿名・反復・集約・フィードバックを用いるが、専門家選定、質問、脱落、集約規則、偽の合意を監査する。",
+      "label": "B",
+      "directness": "意思決定直接研究",
+      "relationship": "統合レビュー",
+      "sources": [
+        "rowe-1999"
+      ],
+      "limits": [
+        "研究の異質性",
+        "権力が消えるわけではない"
+      ],
+      "scope": [
+        "専門家判断"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DM-C29",
+      "claim": "集団は構成・課題・情報分布・組合せ規則により個人を上回りも下回りもするため、人数や多数決を品質の代理にしない。",
+      "label": "A",
+      "directness": "意思決定直接研究",
+      "relationship": "統合レビュー",
+      "sources": [
+        "kerr-2004"
+      ],
+      "limits": [
+        "課題と決定規則を明示"
+      ],
+      "scope": [
+        "集団判断"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DM-C30",
+      "claim": "精緻な集団情報処理には正確さを求める認識的動機と、協同・個人志向等の社会的動機が関係する。",
+      "label": "B",
+      "directness": "意思決定直接研究",
+      "relationship": "理論統合",
+      "sources": [
+        "dedreu-2008"
+      ],
+      "limits": [
+        "概念モデル",
+        "権力・評価制度を別途確認"
+      ],
+      "scope": [
+        "動機"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DM-C31",
+      "claim": "集団討議は平均意見をより極端へ動かす場合があるため、討議前の独立判断と分布を保存する。",
+      "label": "A",
+      "directness": "意思決定直接研究",
+      "relationship": "メタ分析",
+      "sources": [
+        "isenberg-1986"
+      ],
+      "limits": [
+        "実験中心",
+        "極端化が常に誤りではない"
+      ],
+      "scope": [
+        "分極化"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DM-C32",
+      "claim": "意思決定への参加は平均として小さな効果にとどまり得るため、意見聴取、情報提供、共同決定、拒否権を区別する。",
+      "label": "A",
+      "directness": "意思決定隣接研究",
+      "relationship": "メタ分析的レビュー",
+      "sources": [
+        "wagner-1994"
+      ],
+      "limits": [
+        "古い研究群",
+        "実質参加・権力差"
+      ],
+      "scope": [
+        "参加"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DM-C33",
+      "claim": "影響を受ける人の参加は効果向上だけでなく、権利、知識、正当性、分配のために設計し、参加しない選択と代表経路を持たせる。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "権利・設計原則",
+      "sources": [
+        "wagner-1994",
+        "eu-platform-2024"
+      ],
+      "limits": [
+        "形だけの参加を避ける",
+        "国内制度を確認"
+      ],
+      "scope": [
+        "参加・権利"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DM-C34",
+      "claim": "意思決定権、助言権、拒否・停止権、実行責任、監査権を分け、最終責任者を明示する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "ガバナンス設計",
+      "sources": [
+        "lerner-1999",
+        "nist-ai-100"
+      ],
+      "limits": [
+        "責任を一人へ過度集中しない"
+      ],
+      "scope": [
+        "決定権"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DM-C35",
+      "claim": "可逆な決定は小さく試し、不可逆・高被害の決定は証拠・参加・独立確認・停止条件を厚くする。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "リスク比例原則",
+      "sources": [
+        "simon-1955",
+        "nist-ai-100"
+      ],
+      "limits": [
+        "高リスク定義を用途別に設定"
+      ],
+      "scope": [
+        "可逆性"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DM-C36",
+      "claim": "継続・撤退・拡大の基準、期限、責任者を事前に定め、基準変更は理由と履歴を残す。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "事前コミットメント",
+      "sources": [
+        "staw-1976",
+        "baron-1988"
+      ],
+      "limits": [
+        "硬直化せず新情報で更新"
+      ],
+      "scope": [
+        "停止規則"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DM-C37",
+      "claim": "意思決定記録には当時の目的、選択肢、情報、反証、予測、不確実性、参加者、利益相反、決定、更新条件を残す。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "監査・学習設計",
+      "sources": [
+        "christensen-1991",
+        "lerner-1999"
+      ],
+      "limits": [
+        "個人監視・責任転嫁へ転用しない"
+      ],
+      "scope": [
+        "決定記録"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DM-C38",
+      "claim": "アルゴリズムの誤りを見ると過度に回避する場合も、条件により人より高く評価する場合もあり、好き嫌いで採否しない。",
+      "label": "A",
+      "directness": "意思決定直接研究",
+      "relationship": "実験",
+      "sources": [
+        "dietvorst-2015",
+        "logg-2019"
+      ],
+      "limits": [
+        "実験課題",
+        "用途・性能・専門性に依存"
+      ],
+      "scope": [
+        "アルゴリズム助言"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DM-C39",
+      "claim": "自動化は見落とし・誤助言への追従を生み得るため、人を承認ボタンにせず、独立情報、時間、権限、技能、代替経路を与える。",
+      "label": "A",
+      "directness": "意思決定直接研究",
+      "relationship": "実験・設計枠組み",
+      "sources": [
+        "skitka-1999",
+        "parasuraman-2000"
+      ],
+      "limits": [
+        "古い自動化研究",
+        "現代AIへ用途別評価"
+      ],
+      "scope": [
+        "自動化バイアス"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DM-C40",
+      "claim": "自動化への信頼は高ければよいのでなく、能力・限界・誤り率へ較正された適正依存を目指す。",
+      "label": "A",
+      "directness": "意思決定直接研究",
+      "relationship": "実験",
+      "sources": [
+        "dzindolet-2003"
+      ],
+      "limits": [
+        "実験課題",
+        "信頼と利用を区別"
+      ],
+      "scope": [
+        "信頼較正"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DM-C41",
+      "claim": "人とAIの相補性は自動的に生じず、誰が何を得意とし、どこで検証・異議・停止するかを仕事単位で設計する。",
+      "label": "B",
+      "directness": "意思決定隣接研究",
+      "relationship": "概念レビュー",
+      "sources": [
+        "jarrahi-2018",
+        "parent-parker-2022"
+      ],
+      "limits": [
+        "実証効果の統合ではない",
+        "技術更新"
+      ],
+      "scope": [
+        "人間AI協働"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DM-C42",
+      "claim": "AIリスク管理は組織統治、用途・影響の把握、測定、管理を継続し、導入時の一回審査で終えない。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "リスク管理",
+      "sources": [
+        "nist-ai-100",
+        "nist-ai-600"
+      ],
+      "limits": [
+        "自発的枠組み",
+        "法的義務を別途確認"
+      ],
+      "scope": [
+        "AI統治"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DM-C43",
+      "claim": "アルゴリズム管理は配分・監視・評価・報酬を変えるため、モデル性能だけでなく仕事の質、権力、健康、公平を評価する。",
+      "label": "A",
+      "directness": "意思決定隣接研究",
+      "relationship": "統合レビュー",
+      "sources": [
+        "kellogg-2020",
+        "parent-parker-2022"
+      ],
+      "limits": [
+        "概念・レビュー",
+        "長期効果は未確立"
+      ],
+      "scope": [
+        "アルゴリズム管理"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DM-C44",
+      "claim": "自動判断では入力データ、目的、論理・主要要因、影響、人の責任者、訂正、異議申立て、停止、記録を示す。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "透明性・救済",
+      "sources": [
+        "eu-platform-2024",
+        "ilo-data",
+        "nist-ai-100"
+      ],
+      "limits": [
+        "EU指令の適用範囲を限定",
+        "国内制度を確認"
+      ],
+      "scope": [
+        "自動意思決定"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DM-C45",
+      "claim": "労働者データを目的外利用せず、感情、忠誠心、精神健康、将来能力を本人に隠れて推定し、雇用判断へ用いることを支持しない。",
+      "label": "不支持",
+      "directness": "予防原則に基づく推論",
+      "relationship": "尊厳・プライバシー",
+      "sources": [
+        "ilo-data",
+        "who-2022"
+      ],
+      "limits": [
+        "推定誤差・文脈欠落・萎縮効果"
+      ],
+      "scope": [
+        "個人データ"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DM-C46",
+      "claim": "人による監督は名目配置でなく、理解、独立検討、介入・覆し・停止の権限と時間を持たせる。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "人の監督",
+      "sources": [
+        "eu-platform-2024",
+        "nist-ai-100"
+      ],
+      "limits": [
+        "自動化バイアス",
+        "責任の空洞化"
+      ],
+      "scope": [
+        "人の監督"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DM-C47",
+      "claim": "高リスク判断では、専門家、影響を受ける人、独立監査、労働者代表等の異なる知識と権限を組み合わせる。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "多元的統治",
+      "sources": [
+        "kerr-2004",
+        "eu-platform-2024",
+        "who-2022"
+      ],
+      "limits": [
+        "参加者の安全・秘密保持",
+        "最終責任を明示"
+      ],
+      "scope": [
+        "高リスク"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DM-C48",
+      "claim": "意思決定改善は正解率だけでなく、過程、較正、時間、費用、健康、安全、公平、異議、実装、学習を追跡し、修正・撤回する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "評価設計",
+      "sources": [
+        "baron-1988",
+        "nist-ai-100",
+        "who-2022"
+      ],
+      "limits": [
+        "遠い成果ほど他要因が多い"
+      ],
+      "scope": [
+        "評価"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DM-C49",
+      "claim": "同じ結果でも利得・損失、参照点、既定状態等の表現で選好が変わり得るため、絶対数と複数の等価な表現を併記する。",
+      "label": "A",
+      "directness": "意思決定直接研究",
+      "relationship": "実験・理論",
+      "sources": [
+        "tversky-1981",
+        "kahneman-1979"
+      ],
+      "limits": [
+        "実験シナリオ",
+        "複数表現も中立とは限らない"
+      ],
+      "scope": [
+        "フレーミング"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DM-C50",
+      "claim": "観察データの相関だけから施策効果を断定せず、時間順序、交絡、選択、測定、想定する因果経路を明示する。",
+      "label": "A",
+      "directness": "意思決定隣接研究",
+      "relationship": "方法論",
+      "sources": [
+        "rohrer-2018"
+      ],
+      "limits": [
+        "因果図は仮定の可視化で証明ではない",
+        "設計・データに応じた専門確認"
+      ],
+      "scope": [
+        "因果推論"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DM-C51",
+      "claim": "評価指標、重み、閾値、拒否条件は価値判断を含むため、誰の価値と便益・負担を反映するかを公開し、単一スコアへ隠さない。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "価値・分配統治",
+      "sources": [
+        "nist-ai-100",
+        "who-2022"
+      ],
+      "limits": [
+        "測れない価値・権利を残す",
+        "重みの感度分析"
+      ],
+      "scope": [
+        "評価基準"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DM-C52",
+      "claim": "AIの公平性は単一の精度・格差指標だけでなく、問題定義、データ生成、制度、利用方法、人の対応、分配、異議・救済を含む社会技術システムとして評価する。",
+      "label": "B",
+      "directness": "意思決定隣接研究",
+      "relationship": "概念分析・公式枠組み",
+      "sources": [
+        "selbst-2019",
+        "nist-ai-100"
+      ],
+      "limits": [
+        "概念論文",
+        "適用法・用途別基準を別途確認"
+      ],
+      "scope": [
+        "AI公平性"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "DM-C53",
+      "claim": "選択肢は多いほど常に良くも悪くもなく、目的・選好の明確さ、比較難度、時間、既定値、支援、撤回可能性に合わせて構造化する。",
+      "label": "A",
+      "directness": "意思決定隣接研究",
+      "relationship": "メタ分析・設計原則",
+      "sources": [
+        "chernev-2015",
+        "mertens-2022"
+      ],
+      "limits": [
+        "消費者研究中心",
+        "権利上必要な選択肢を削らない"
+      ],
+      "scope": [
+        "選択過多"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    }
+  ]
+}

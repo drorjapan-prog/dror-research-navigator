@@ -1,0 +1,77 @@
+{
+  "version": "0.1",
+  "release_decision": "完成条件を満たす（次分野へ移行可）",
+  "dimensions": [
+    {
+      "id": "definitions",
+      "status": "complete",
+      "evidence": "権力、権限、影響、地位、階層、依存を分離"
+    },
+    {
+      "id": "power-effects",
+      "status": "complete",
+      "evidence": "視点取得、過信、対象化の限定的研究と制度的牽制"
+    },
+    {
+      "id": "politics",
+      "status": "complete",
+      "evidence": "政治知覚、政治的スキル、事実認定との境界"
+    },
+    {
+      "id": "voice-silence",
+      "status": "complete",
+      "evidence": "促進・抑制発言、沈黙動機、組織的沈黙、応答"
+    },
+    {
+      "id": "whistleblowing",
+      "status": "complete",
+      "evidence": "通報実効性、報復、匿名、国内制度"
+    },
+    {
+      "id": "participation",
+      "status": "complete",
+      "evidence": "情報、協議、共同決定、委任、直接・代表参加"
+    },
+    {
+      "id": "empowerment",
+      "status": "complete",
+      "evidence": "心理・構造・チーム、責任転嫁の境界"
+    },
+    {
+      "id": "collective-rights",
+      "status": "complete",
+      "evidence": "団結、代表保護、団体交渉、国内制度"
+    },
+    {
+      "id": "networks-status",
+      "status": "complete",
+      "evidence": "中心性、ゲートキーピング、専門性、地位対立、格差"
+    },
+    {
+      "id": "justice-minority",
+      "status": "complete",
+      "evidence": "発言機会、説明、再審査、少数者保護"
+    },
+    {
+      "id": "algorithmic-power",
+      "status": "complete",
+      "evidence": "自動配分・監視・評価、人の再審査、データ目的限定"
+    },
+    {
+      "id": "evaluation",
+      "status": "complete",
+      "evidence": "段階別権限、応答、群別負担・報復・退出の評価"
+    },
+    {
+      "id": "openness",
+      "status": "complete",
+      "evidence": "主張・研究・用語・採否・質・更新を公開"
+    }
+  ],
+  "remaining_non_blocking": [
+    "日本の従業員代表・労使協議の実装を比較する研究は追加可能",
+    "非正規・委託・移民・夜勤・小規模事業所の発言権研究は更新優先",
+    "生成AIが議題設定・評価・組合活動へ及ぼす長期影響は発展途上",
+    "参加制度の失敗・報復・参加疲労を公開する研究は限定的"
+  ]
+}

@@ -1,0 +1,491 @@
+{
+  "name": "チームワーク・協働・対立 研究の質と限界",
+  "version": "0.1",
+  "notice": "簡易評価であり正式なRoB評価ではない。",
+  "assessments": [
+    {
+      "study_id": "marks-2001",
+      "design": "conceptual taxonomy",
+      "strength": "理論・測定研究",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "概念論文",
+        "効果量の推定ではない"
+      ]
+    },
+    {
+      "study_id": "ilgen-2005",
+      "design": "integrative review",
+      "strength": "理論・測定研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "レビュー",
+        "チーム種別・時間幅が多様"
+      ]
+    },
+    {
+      "study_id": "salas-2005",
+      "design": "integrative framework",
+      "strength": "理論・測定研究",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "統合枠組み",
+        "五要素だけで全チームを説明しない"
+      ]
+    },
+    {
+      "study_id": "kozlowski-2006",
+      "design": "evidence review",
+      "strength": "理論・測定研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "レビュー時点の文献",
+        "単一処方ではない"
+      ]
+    },
+    {
+      "study_id": "mathieu-2008",
+      "design": "decade review",
+      "strength": "理論・測定研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "レビュー",
+        "急速に変わる仮想化等は更新が必要"
+      ]
+    },
+    {
+      "study_id": "lepine-2008",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "相関研究を含む",
+        "過程測定の異質性"
+      ]
+    },
+    {
+      "study_id": "mesmer-2009",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "相関・実験研究混在",
+        "共有量と利用の質を区別"
+      ]
+    },
+    {
+      "study_id": "dechurch-2010",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "構成概念と測定の異質性",
+        "因果方向に注意"
+      ]
+    },
+    {
+      "study_id": "mathieu-2000",
+      "design": "field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "特定文脈",
+        "共有＝完全一致ではない"
+      ]
+    },
+    {
+      "study_id": "lewis-2003",
+      "design": "measurement and field study",
+      "strength": "理論・測定研究",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "自己報告を含む",
+        "尺度利用・翻訳条件を確認"
+      ]
+    },
+    {
+      "study_id": "moreland-2000",
+      "design": "laboratory experiment",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "実験課題",
+        "職場への一般化に注意"
+      ]
+    },
+    {
+      "study_id": "marks-2002",
+      "design": "team training experiment",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "訓練・課題文脈",
+        "全員に全技能を求めない"
+      ]
+    },
+    {
+      "study_id": "gully-2002",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "因果方向",
+        "過信と区別"
+      ]
+    },
+    {
+      "study_id": "beal-2003",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "相関研究",
+        "高結束の副作用を直接保証しない"
+      ]
+    },
+    {
+      "study_id": "dedreu-2003",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "研究時期・文脈",
+        "タスク対立を常に有益と断定しない"
+      ]
+    },
+    {
+      "study_id": "simons-2000",
+      "design": "field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "経営チーム",
+        "観察研究"
+      ]
+    },
+    {
+      "study_id": "dewit-2012",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "高い異質性",
+        "因果方向",
+        "有益条件は限定"
+      ]
+    },
+    {
+      "study_id": "behfar-2008",
+      "design": "longitudinal field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "特定プロジェクト文脈",
+        "観察研究"
+      ]
+    },
+    {
+      "study_id": "tjosvold-2008",
+      "design": "integrative review",
+      "strength": "理論・測定研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "ナラティブ統合",
+        "権力差・被害事案へ直結しない"
+      ]
+    },
+    {
+      "study_id": "jehn-1999",
+      "design": "field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "観察研究",
+        "時代・組織文脈"
+      ]
+    },
+    {
+      "study_id": "vanknippenberg-2004",
+      "design": "integrative theory review",
+      "strength": "理論・測定研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "概念統合",
+        "効果量推定ではない"
+      ]
+    },
+    {
+      "study_id": "joshi-2009",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "観察研究中心",
+        "カテゴリの粗さ"
+      ]
+    },
+    {
+      "study_id": "stahl-2010",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "文脈・測定の異質性",
+        "国籍を文化そのものとしない"
+      ]
+    },
+    {
+      "study_id": "bell-2011",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "カテゴリ内差を捨象",
+        "不平等・差別を直接測らない"
+      ]
+    },
+    {
+      "study_id": "homan-2007",
+      "design": "laboratory and field studies",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "実験・特定文脈",
+        "スローガンだけでは足りない"
+      ]
+    },
+    {
+      "study_id": "edmondson-1999",
+      "design": "field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "観察研究",
+        "高基準・説明責任の代替ではない"
+      ]
+    },
+    {
+      "study_id": "frazier-2017",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "相関研究中心",
+        "集団水準と個人知覚を区別"
+      ]
+    },
+    {
+      "study_id": "dedreu-west-2001",
+      "design": "field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "観察研究",
+        "反対意見を強制しない"
+      ]
+    },
+    {
+      "study_id": "nicolaides-2014",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "相関研究を含む",
+        "責任の所在を曖昧にしない"
+      ]
+    },
+    {
+      "study_id": "wang-2014",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "測定差",
+        "公式リーダー不要を意味しない"
+      ]
+    },
+    {
+      "study_id": "gibson-2006",
+      "design": "field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "観察研究",
+        "特定企業・時代の技術"
+      ]
+    },
+    {
+      "study_id": "gilson-2015",
+      "design": "integrative review",
+      "strength": "理論・測定研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "レビュー",
+        "技術更新が速い"
+      ]
+    },
+    {
+      "study_id": "breuer-2016",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "相関研究中心",
+        "信頼を監視で代替しない"
+      ]
+    },
+    {
+      "study_id": "yang-2022",
+      "design": "observational natural experiment",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "単一大企業",
+        "デジタル痕跡は協働の全体でない",
+        "パンデミック移行"
+      ]
+    },
+    {
+      "study_id": "seeber-2020",
+      "design": "integrative research agenda",
+      "strength": "理論・測定研究",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "研究アジェンダ中心",
+        "介入効果の統合ではない",
+        "技術更新が速い"
+      ]
+    },
+    {
+      "study_id": "hulsheger-2009",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "相関研究を含む",
+        "革新の定義差"
+      ]
+    },
+    {
+      "study_id": "rico-2008",
+      "design": "conceptual theory review",
+      "strength": "理論・測定研究",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "概念論文",
+        "明示的調整の不要を意味しない"
+      ]
+    },
+    {
+      "study_id": "salas-training-2008",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "訓練内容・評価時点の異質性",
+        "構造問題の代替ではない"
+      ]
+    },
+    {
+      "study_id": "tannenbaum-2013",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "実施品質・文脈差",
+        "正式調査の代替ではない"
+      ]
+    },
+    {
+      "study_id": "mcewan-2017",
+      "design": "systematic review and meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "領域混在",
+        "介入・測定の異質性"
+      ]
+    },
+    {
+      "study_id": "burke-2006",
+      "design": "conceptual model and review",
+      "strength": "理論・測定研究",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "概念モデル",
+        "英雄的即興を推奨しない"
+      ]
+    },
+    {
+      "study_id": "stewart-2006",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "観察研究を含む",
+        "平均関連を固定的な最適人数へ直結しない"
+      ]
+    },
+    {
+      "study_id": "bell-2007",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "選抜研究中心",
+        "個人診断・差別的推定へ使わない",
+        "課題・集計方法の異質性"
+      ]
+    },
+    {
+      "study_id": "marrone-2010",
+      "design": "multilevel integrative review",
+      "strength": "理論・測定研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "統合レビュー",
+        "境界担当者の負担・権限を個別評価"
+      ]
+    },
+    {
+      "study_id": "karau-1993",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "実験研究を多く含む",
+        "貢献を監視量だけで判定しない"
+      ]
+    },
+    {
+      "study_id": "who-2022",
+      "design": "official evidence-based guideline",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "チームワーク専用ではない",
+        "国内制度・個別状況を確認"
+      ]
+    },
+    {
+      "study_id": "ilo-c190",
+      "design": "international labour convention",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "批准・国内法を確認",
+        "通常の意見対立と被害行為を同一視しない"
+      ]
+    },
+    {
+      "study_id": "ilo-data",
+      "design": "official code of practice",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "拘束的条約ではない",
+        "国内法を別途確認"
+      ]
+    }
+  ]
+}

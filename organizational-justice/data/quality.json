@@ -1,0 +1,311 @@
+{
+  "name": "組織的公正 研究の質と限界",
+  "version": "0.1",
+  "notice": "簡易評価であり正式なRoB評価ではない。",
+  "assessments": [
+    {
+      "study_id": "adams-1965",
+      "design": "foundational theory chapter",
+      "strength": "概念または観察研究",
+      "key_limits": [
+        "分配中心",
+        "現代の4次元モデルより狭い",
+        "規範的に何が正しいかを決定しない"
+      ]
+    },
+    {
+      "study_id": "leventhal-1980",
+      "design": "foundational theory chapter",
+      "strength": "概念または観察研究",
+      "key_limits": [
+        "実証メタ分析ではない",
+        "基準間の衝突を自動解決しない"
+      ]
+    },
+    {
+      "study_id": "greenberg-1987",
+      "design": "conceptual taxonomy",
+      "strength": "概念または観察研究",
+      "key_limits": [
+        "概念整理",
+        "後の対人・情報的公正の発展前"
+      ]
+    },
+    {
+      "study_id": "greenberg-1990-review",
+      "design": "narrative review",
+      "strength": "概念または観察研究",
+      "key_limits": [
+        "系統的レビューではない",
+        "1990年までの研究"
+      ]
+    },
+    {
+      "study_id": "greenberg-1990-theft",
+      "design": "quasi-field experiment",
+      "strength": "時間順序または比較を検討",
+      "key_limits": [
+        "特定の現場・時代",
+        "窃盗測定と一般化に注意",
+        "説明が不公正な結果を正当化するわけではない"
+      ]
+    },
+    {
+      "study_id": "moorman-1991",
+      "design": "field study",
+      "strength": "概念または観察研究",
+      "key_limits": [
+        "観察研究",
+        "単一組織",
+        "尺度構成は後の4次元と異なる"
+      ]
+    },
+    {
+      "study_id": "greenberg-1993",
+      "design": "field experiment",
+      "strength": "時間順序または比較を検討",
+      "key_limits": [
+        "古典的特定状況",
+        "操作と現在の職場実装は異なる",
+        "悪い決定の免罪符ではない"
+      ]
+    },
+    {
+      "study_id": "skarlicki-latham-1996",
+      "design": "field experiment",
+      "strength": "時間順序または比較を検討",
+      "key_limits": [
+        "小規模・特定組織",
+        "観察者評価",
+        "長期持続性に限界"
+      ]
+    },
+    {
+      "study_id": "skarlicki-latham-1997",
+      "design": "field experiment replication",
+      "strength": "時間順序または比較を検討",
+      "key_limits": [
+        "労働組合に限定",
+        "介入要素の切り分けに限界",
+        "大規模組織変更ではない"
+      ]
+    },
+    {
+      "study_id": "skarlicki-folger-1997",
+      "design": "field study",
+      "strength": "概念または観察研究",
+      "key_limits": [
+        "横断的関連",
+        "報復の自己・他者報告",
+        "因果確定ではない"
+      ]
+    },
+    {
+      "study_id": "colquitt-2001-scale",
+      "design": "measure development and validation",
+      "strength": "測定根拠",
+      "key_limits": [
+        "英語圏中心",
+        "自己報告",
+        "項目利用・翻訳条件を確認"
+      ]
+    },
+    {
+      "study_id": "colquitt-2001-meta",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "key_limits": [
+        "観察研究が中心",
+        "共通方法バイアス",
+        "2000年以前の研究"
+      ]
+    },
+    {
+      "study_id": "cohen-charash-2001",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "key_limits": [
+        "横断研究中心",
+        "尺度と結果の異質性",
+        "因果確定ではない",
+        "2002年の出版社訂正記事も参照"
+      ]
+    },
+    {
+      "study_id": "cohen-charash-erratum-2002",
+      "design": "published erratum",
+      "strength": "概念または観察研究",
+      "key_limits": [
+        "訂正本文と原論文を合わせて参照する"
+      ]
+    },
+    {
+      "study_id": "colquitt-noe-2002",
+      "design": "team-level field study",
+      "strength": "概念または観察研究",
+      "key_limits": [
+        "単一企業文脈",
+        "集約条件が必要",
+        "個人得点を単純平均できない"
+      ]
+    },
+    {
+      "study_id": "tyler-blader-2003",
+      "design": "integrative theory review",
+      "strength": "概念または観察研究",
+      "key_limits": [
+        "因果効果量の統合ではない",
+        "所属の強調が異論抑制にならない注意"
+      ]
+    },
+    {
+      "study_id": "kivimaki-2005",
+      "design": "prospective cohort",
+      "strength": "時間順序または比較を検討",
+      "key_limits": [
+        "男性公務員に限定",
+        "観察研究",
+        "残余交絡",
+        "単一研究で因果確定できない"
+      ]
+    },
+    {
+      "study_id": "ambrose-schminke-2009",
+      "design": "two-study field research",
+      "strength": "概念または観察研究",
+      "key_limits": [
+        "観察研究",
+        "全体判断は具体的改善箇所を隠し得る"
+      ]
+    },
+    {
+      "study_id": "inoue-2009-scale",
+      "design": "Japanese scale validation",
+      "strength": "測定根拠",
+      "key_limits": [
+        "単一工場・小規模",
+        "女性標本で因子構造差",
+        "4次元尺度ではない"
+      ]
+    },
+    {
+      "study_id": "inoue-2010-cross",
+      "design": "Japanese cross-sectional study",
+      "strength": "概念または観察研究",
+      "key_limits": [
+        "横断研究",
+        "単一工場",
+        "因果・媒介方向を確定しない"
+      ]
+    },
+    {
+      "study_id": "ndjaboue-2012",
+      "design": "systematic review of prospective studies",
+      "strength": "統合研究",
+      "key_limits": [
+        "研究数が少ない",
+        "尺度・調整変数の異質性",
+        "DCS/ERIからの独立性は研究により異なる"
+      ]
+    },
+    {
+      "study_id": "robbins-2012",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "key_limits": [
+        "自己報告と横断研究が多い",
+        "健康指標が異質",
+        "因果確定ではない"
+      ]
+    },
+    {
+      "study_id": "inoue-2013-prospective",
+      "design": "Japanese prospective cohort",
+      "strength": "時間順序または比較を検討",
+      "key_limits": [
+        "一企業",
+        "下位群で検出力不足",
+        "全雇用群に一様な結果ではない"
+      ]
+    },
+    {
+      "study_id": "colquitt-2013",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "key_limits": [
+        "観察研究が多い",
+        "媒介メタ分析は因果の証明ではない",
+        "研究間異質性"
+      ]
+    },
+    {
+      "study_id": "rupp-2014",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "key_limits": [
+        "一次研究の焦点ラベルが異質",
+        "因果確定ではない"
+      ]
+    },
+    {
+      "study_id": "nakagawa-2015",
+      "design": "Japanese prospective cohort",
+      "strength": "時間順序または比較を検討",
+      "key_limits": [
+        "一企業",
+        "自己報告業績",
+        "変化の二分法",
+        "相互作用的公正では有意差なし"
+      ]
+    },
+    {
+      "study_id": "hayashi-2017",
+      "design": "Japanese prospective cohort",
+      "strength": "時間順序または比較を検討",
+      "key_limits": [
+        "自己報告",
+        "調整後に一部関連が非有意",
+        "観察研究"
+      ]
+    },
+    {
+      "study_id": "inoue-2019-care",
+      "design": "Japanese prospective cohort",
+      "strength": "時間順序または比較を検討",
+      "key_limits": [
+        "二工場",
+        "受診控えは単一項目",
+        "医療アクセス等の残余交絡"
+      ]
+    },
+    {
+      "study_id": "scalabrin-2022",
+      "design": "systematic review",
+      "strength": "統合研究",
+      "key_limits": [
+        "採用研究8件",
+        "観察研究",
+        "アウトカム・尺度の異質性",
+        "因果確定ではない"
+      ]
+    },
+    {
+      "study_id": "ilo-c111",
+      "design": "international labour standard",
+      "strength": "概念または観察研究",
+      "key_limits": [
+        "各国の批准状況・国内法を別途確認",
+        "個別案件の法的助言ではない"
+      ]
+    },
+    {
+      "study_id": "who-2022",
+      "design": "official evidence-based guideline",
+      "strength": "概念または観察研究",
+      "key_limits": [
+        "組織的公正専用ガイドラインではない",
+        "各国制度への適用が必要"
+      ]
+    }
+  ]
+}

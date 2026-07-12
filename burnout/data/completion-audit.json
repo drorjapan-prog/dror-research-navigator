@@ -1,0 +1,60 @@
+{
+  "version": "0.1",
+  "audited_on": "2026-07-11",
+  "scope": "公開前の分野基盤としての職業性バーンアウトナビ。正式なシステマティックレビューまたは医療診断を意味しない。",
+  "dimensions": [
+    {
+      "id": "definition-boundaries",
+      "status": "closed",
+      "evidence": "WHO定義、日常的疲労、ストレス、抑うつ、エンゲージメント、疾患との境界を明示"
+    },
+    {
+      "id": "multidimensionality",
+      "status": "closed",
+      "evidence": "MBI・BAT等の次元差と単純合算の問題を明示"
+    },
+    {
+      "id": "antecedents-outcomes",
+      "status": "closed",
+      "evidence": "要求・資源・前向きアウトカムを関連と因果に分けて整理"
+    },
+    {
+      "id": "interventions",
+      "status": "closed",
+      "evidence": "個人・組織・複合・第三次介入と医療職偏重を明示"
+    },
+    {
+      "id": "measurement-prevalence",
+      "status": "closed",
+      "evidence": "尺度、カットオフ、142定義、日本語尺度を整理"
+    },
+    {
+      "id": "power-ethics",
+      "status": "closed",
+      "evidence": "個人責任化、査定、退職勧奨、無断AI監視を禁止"
+    },
+    {
+      "id": "claim-traceability",
+      "status": "closed",
+      "evidence": "全主張に研究ID、全研究に対象・方法・知見・限界を付与"
+    },
+    {
+      "id": "open-reuse-rights",
+      "status": "closed",
+      "evidence": "JSON/CSV/BibTeX/RIS/Schemaと尺度著作権境界を公開"
+    },
+    {
+      "id": "maintenance-corrections",
+      "status": "closed",
+      "evidence": "更新頻度・即時更新条件・訂正規則を機械判読可能化"
+    }
+  ],
+  "declared_limitations": [
+    "購読データベースの完全な検索結果をエクスポートしていない",
+    "二者独立スクリーニングを行っていない",
+    "正式なPRISMA準拠レビューではない",
+    "正式なRoB 2・ROBINS-I・AMSTAR 2評価ではない",
+    "英語・日本語以外を含む全言語・全一次研究を網羅していない"
+  ],
+  "release_decision": "field-foundation-complete"
+}

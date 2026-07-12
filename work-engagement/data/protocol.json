@@ -1,0 +1,59 @@
+{
+  "name": "ワーク・エンゲージメント迅速エビデンスマップ・プロトコル",
+  "version": "0.1",
+  "review_type": "公開前蓄積のための迅速エビデンスマップ（システマティックレビューではない）",
+  "research_questions": [
+    {
+      "id": "RQ1",
+      "question": "ワーク・エンゲージメントをどう定義し、近接概念と区別するか。"
+    },
+    {
+      "id": "RQ2",
+      "question": "仕事要求・資源・個人資源はエンゲージメントとどう関係するか。"
+    },
+    {
+      "id": "RQ3",
+      "question": "業績、欠勤、健康等の結果とどの程度・どの方向に関係するか。"
+    },
+    {
+      "id": "RQ4",
+      "question": "介入はエンゲージメントを改善するか、効果は持続するか。"
+    },
+    {
+      "id": "RQ5",
+      "question": "UWES、日本語版、短縮版、文化間比較をどう扱うか。"
+    },
+    {
+      "id": "RQ6",
+      "question": "熱意の強制、監視、人事評価、長時間労働をどう防ぐか。"
+    }
+  ],
+  "query_families": [
+    "\"work engagement\" definition measurement review",
+    "\"work engagement\" meta-analysis performance absenteeism",
+    "\"work engagement\" intervention meta-analysis",
+    "UWES Japanese validation measurement invariance",
+    "work engagement workaholism burnout distinction",
+    "employee engagement ethics surveillance performance management"
+  ],
+  "inclusion": [
+    "査読済み原著・統合研究",
+    "概念・測定の基礎論文",
+    "縦断・介入研究を優先",
+    "日本語測定・日本の労働者研究",
+    "直接DOIまたは恒久URLを確認できる"
+  ],
+  "exclusion": [
+    "出典不明の企業ブログ・宣伝資料",
+    "尺度名・定義が不明なランキング",
+    "論文本文・尺度項目の無断転載",
+    "エンゲージメントと満足・忠誠を区別しない断定"
+  ],
+  "process_limitations": [
+    "単一レビュアーによる迅速整理",
+    "データベース全件の二重スクリーニングではない",
+    "効果量の独自再計算・正式なバイアス評価は未実施",
+    "非英語・未公刊研究の網羅性に限界",
+    "書誌・数値は公開メタデータと原典情報で照合するが出版社全文へ常時アクセスできるとは限らない"
+  ]
+}

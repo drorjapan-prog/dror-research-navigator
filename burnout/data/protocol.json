@@ -1,0 +1,70 @@
+{
+  "version": "0.1",
+  "title": "バーンアウト 迅速エビデンス更新プロトコル",
+  "review_type": "rapid evidence update with scoping elements",
+  "notice": "システマティックレビューではない。単独レビュアーによる公開情報源ベースの迅速更新である。",
+  "search_date": "2026-07-11",
+  "coverage_end": "2026-07-11",
+  "research_questions": [
+    {
+      "id": "RQ1",
+      "question": "バーンアウトをどう定義し、日常的疲労・ストレス・抑うつ・ワークエンゲージメントとどう区別するか"
+    },
+    {
+      "id": "RQ2",
+      "question": "仕事要求、資源、組織・対人・個人要因はバーンアウトとどう関連するか"
+    },
+    {
+      "id": "RQ3",
+      "question": "心理・身体・職業上の結果に関する前向きエビデンスは何か"
+    },
+    {
+      "id": "RQ4",
+      "question": "個人介入、組織介入、複合介入の効果と限界は何か"
+    },
+    {
+      "id": "RQ5",
+      "question": "尺度、カットオフ、有病率、日本語版の測定上の課題は何か"
+    },
+    {
+      "id": "RQ6",
+      "question": "権力差、職種・文化、健康情報、監視・査定利用に関する倫理的境界は何か"
+    }
+  ],
+  "sources_searched": [
+    "WHO official publications",
+    "Crossref bibliographic records",
+    "PubMed/PubMed Central indexed records",
+    "Publisher and DOI landing pages",
+    "J-STAGE indexed records"
+  ],
+  "query_families": [
+    "burnout AND (systematic review OR meta-analysis)",
+    "burnout AND (intervention OR randomized OR organizational)",
+    "burnout AND (longitudinal OR prospective OR consequences)",
+    "burnout AND (measurement OR scale OR prevalence OR cut-off)",
+    "burnout AND (depression OR work engagement OR stress)",
+    "burnout AND (Japanese OR Japan OR validation)",
+    "burnout AND (ethics OR surveillance OR discrimination OR privacy)"
+  ],
+  "inclusion": [
+    "職場のバーンアウトを主要概念として扱う",
+    "主要レビュー・メタ分析・縦断研究・介入研究・尺度検証・概念形成原著",
+    "対象・方法・結果・限界を確認できる",
+    "主張の強さと研究デザインが対応する"
+  ],
+  "exclusion": [
+    "学生・スポーツ・親介護等、職業以外のバーンアウトだけを扱う",
+    "出典のない商業調査・一般解説",
+    "測定法が不明な有病率ランキング",
+    "重複版または査読版へ置換済みのプレプリント",
+    "本分野の研究質問に直接対応しない"
+  ],
+  "process_limitations": [
+    "購読データベースの完全な検索結果をエクスポートしていない",
+    "二者独立スクリーニングを行っていない",
+    "正式なPRISMA準拠レビューではない",
+    "正式なRoB 2・ROBINS-I・AMSTAR 2評価ではない",
+    "英語・日本語以外を含む全言語・全一次研究を網羅していない"
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "name": "組織的公正 用語集",
+  "version": "0.1",
+  "license": "CC BY 4.0",
+  "terms": [
+    {
+      "id": "organizational-justice",
+      "term": "組織的公正",
+      "definition": "職場の結果、手続き、対人扱い、説明に関する公正判断。"
+    },
+    {
+      "id": "fairness",
+      "term": "公平・公正感",
+      "definition": "日常語としてのfairness。研究上のjusticeと重なるが文脈依存。"
+    },
+    {
+      "id": "distributive-justice",
+      "term": "分配的公正",
+      "definition": "賃金、評価、機会、負担等の結果配分に関する公正。"
+    },
+    {
+      "id": "procedural-justice",
+      "term": "手続き的公正",
+      "definition": "意思決定に至る規則と過程に関する公正。"
+    },
+    {
+      "id": "interpersonal-justice",
+      "term": "対人的公正",
+      "definition": "尊厳、礼節、不適切発言の回避等の扱い。"
+    },
+    {
+      "id": "informational-justice",
+      "term": "情報的公正",
+      "definition": "説明の十分さ、真実性、適時性、具体性。"
+    },
+    {
+      "id": "interactional-justice",
+      "term": "相互作用的公正",
+      "definition": "研究系譜により対人的・情報的公正を含む上位概念。"
+    },
+    {
+      "id": "equity",
+      "term": "衡平",
+      "definition": "投入や貢献に比例して結果を配分する規則。"
+    },
+    {
+      "id": "equality",
+      "term": "平等",
+      "definition": "各人へ同じ結果・機会等を配分する規則。"
+    },
+    {
+      "id": "need",
+      "term": "必要原則",
+      "definition": "必要の大きさに応じて資源を配分する規則。"
+    },
+    {
+      "id": "voice",
+      "term": "ボイス",
+      "definition": "意思決定前後に意見を述べる機会。"
+    },
+    {
+      "id": "representation",
+      "term": "代表性",
+      "definition": "影響を受ける人々の関心が手続きに反映されること。"
+    },
+    {
+      "id": "consistency",
+      "term": "一貫性",
+      "definition": "人と時間をまたいで規則が安定して適用されること。"
+    },
+    {
+      "id": "bias-suppression",
+      "term": "偏り抑制",
+      "definition": "利害・先入観の影響を抑えること。"
+    },
+    {
+      "id": "accuracy",
+      "term": "正確性",
+      "definition": "良質で十分な情報に基づくこと。"
+    },
+    {
+      "id": "correctability",
+      "term": "修正可能性",
+      "definition": "誤りを訂正し決定を見直せること。"
+    },
+    {
+      "id": "ethicality",
+      "term": "倫理性",
+      "definition": "基本的な倫理・道徳基準と両立すること。"
+    },
+    {
+      "id": "overall-justice",
+      "term": "全体的公正",
+      "definition": "個別次元を越えた職場・主体への総合的判断。"
+    },
+    {
+      "id": "justice-source",
+      "term": "公正の主体",
+      "definition": "上司、組織、チーム等、扱いや決定を行う主体。"
+    },
+    {
+      "id": "justice-focus",
+      "term": "公正の焦点",
+      "definition": "どの主体について公正を判断しているか。"
+    },
+    {
+      "id": "justice-climate",
+      "term": "公正風土",
+      "definition": "チーム内で共有された公正認知。"
+    },
+    {
+      "id": "climate-strength",
+      "term": "風土の強さ",
+      "definition": "成員の公正認知がどれだけ一致しているか。"
+    },
+    {
+      "id": "social-exchange",
+      "term": "社会的交換",
+      "definition": "相互の資源・支援・義務の交換関係。"
+    },
+    {
+      "id": "group-engagement-model",
+      "term": "集団エンゲージメントモデル",
+      "definition": "手続きが尊重・所属を介し協力へ関係する枠組み。"
+    },
+    {
+      "id": "organizational-citizenship",
+      "term": "組織市民行動",
+      "definition": "中核職務を越えて組織・他者を助ける裁量的行動。"
+    },
+    {
+      "id": "counterproductive-behavior",
+      "term": "反生産的行動",
+      "definition": "組織や成員に害を与える行動。"
+    },
+    {
+      "id": "common-method-bias",
+      "term": "共通方法バイアス",
+      "definition": "同じ回答者・方法・時点が関連を歪めること。"
+    },
+    {
+      "id": "measurement-invariance",
+      "term": "測定不変性",
+      "definition": "集団間で尺度が同じ意味・構造で機能する程度。"
+    },
+    {
+      "id": "discrimination",
+      "term": "差別",
+      "definition": "保護属性等に基づく不利益扱い。公正認知だけでは検出できない。"
+    },
+    {
+      "id": "grievance",
+      "term": "異議申立て",
+      "definition": "決定・扱いへ安全に異議を述べ、見直しを求める仕組み。"
+    }
+  ]
+}

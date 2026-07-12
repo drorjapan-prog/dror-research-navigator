@@ -1,0 +1,56 @@
+{
+  "version": "0.1",
+  "release_decision": "完成条件を満たす（次分野へ移行可）",
+  "dimensions": [
+    {
+      "id": "dimensions",
+      "status": "complete",
+      "evidence": "動機づけ・知識・社会・文脈特性"
+    },
+    {
+      "id": "demands-resources",
+      "status": "complete",
+      "evidence": "要求度・資源・裁量・回復を分離"
+    },
+    {
+      "id": "roles",
+      "status": "complete",
+      "evidence": "曖昧性・葛藤・権限・相互依存"
+    },
+    {
+      "id": "workload-time",
+      "status": "complete",
+      "evidence": "仕事量・長時間・割込み・強化"
+    },
+    {
+      "id": "crafting-redesign",
+      "status": "complete",
+      "evidence": "個人クラフティングと組織再設計を区別"
+    },
+    {
+      "id": "flexible-work",
+      "status": "complete",
+      "evidence": "テレワーク・柔軟勤務と選択可能性"
+    },
+    {
+      "id": "health-inclusion",
+      "status": "complete",
+      "evidence": "心理社会的リスク・合理的配慮・自己開示境界"
+    },
+    {
+      "id": "algorithmic-management",
+      "status": "complete",
+      "evidence": "監視・説明・人の監督・異議申立て"
+    },
+    {
+      "id": "openness",
+      "status": "complete",
+      "evidence": "主張・研究・用語・採否・質・更新を公開"
+    }
+  ],
+  "remaining_non_blocking": [
+    "日本企業・職種別の縦断介入研究は追加可能",
+    "生成AIを用いる仕事配分・評価の直接研究は未成熟",
+    "身体・交代勤務・現場職の詳細は今後の優先更新領域"
+  ]
+}

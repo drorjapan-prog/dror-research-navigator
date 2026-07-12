@@ -1,0 +1,1670 @@
+{
+  "name": "職場の対立・コンフリクト・交渉・関係修復 主張レジスター",
+  "version": "0.1",
+  "license": "CC BY 4.0",
+  "claims": [
+    {
+      "id": "CF-C01",
+      "claim": "職場の対立は、課題内容、対人関係、役割・手順・資源配分などの過程対立に分けて扱う必要がある。",
+      "label": "A",
+      "directness": "対立直接研究",
+      "relationship": "概念分類",
+      "scope": [
+        "職場・組織"
+      ],
+      "sources": [
+        "jehn-1995",
+        "jehn-1997",
+        "de-wit-2012"
+      ],
+      "limits": [
+        "種類は重なり、時系列で変化する"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CF-C02",
+      "claim": "課題対立は常に創造性や業績を高めるわけではなく、平均的には負の関連も報告される。",
+      "label": "A",
+      "directness": "対立直接研究",
+      "relationship": "メタ分析",
+      "scope": [
+        "職場・組織"
+      ],
+      "sources": [
+        "de-dreu-weingart-2003",
+        "de-wit-2012"
+      ],
+      "limits": [
+        "仕事、時期、安全性、関係対立との混在で変わる"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CF-C03",
+      "claim": "関係対立と過程対立は、チーム業績・満足等に概して不利な関連を持つ。",
+      "label": "A",
+      "directness": "対立直接研究",
+      "relationship": "メタ分析",
+      "scope": [
+        "職場・組織"
+      ],
+      "sources": [
+        "de-dreu-weingart-2003",
+        "de-wit-2012"
+      ],
+      "limits": [
+        "因果方向・測定の重なり"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CF-C04",
+      "claim": "課題対立が有益になり得る条件として、心理的安全性、信頼、低い関係対立、適切な時期等が示唆される。",
+      "label": "B",
+      "directness": "対立直接研究",
+      "relationship": "条件付き関連",
+      "scope": [
+        "職場・組織"
+      ],
+      "sources": [
+        "simons-peterson-2000",
+        "bradley-2012",
+        "de-wit-2012"
+      ],
+      "limits": [
+        "対立を意図的に増やす効果証明ではない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CF-C05",
+      "claim": "同じチームでも、誰がどれほど対立を経験しているかは一致しない。",
+      "label": "A",
+      "directness": "対立直接研究",
+      "relationship": "認知非対称",
+      "scope": [
+        "職場・組織"
+      ],
+      "sources": [
+        "greer-2008"
+      ],
+      "limits": [
+        "平均値で少数者の経験を消さない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CF-C06",
+      "claim": "会議で反論が出ないことは、合意、納得、対立不存在の証拠ではない。",
+      "label": "A",
+      "directness": "混合",
+      "relationship": "沈黙境界",
+      "scope": [
+        "職場・組織"
+      ],
+      "sources": [
+        "morrison-2014",
+        "detert-edmondson-2011"
+      ],
+      "limits": [
+        "恐れ、無力感、関係保護、時間不足を確認"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CF-C07",
+      "claim": "「健全な対立」を掲げても、地位差、報復、差別、過重労働があれば自由な異議とは言えない。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "権力・発言安全",
+      "scope": [
+        "職場・組織"
+      ],
+      "sources": [
+        "tjosvold-2008",
+        "morrison-2014",
+        "kish-gephart-2009",
+        "burris-2012"
+      ],
+      "limits": [
+        "協力的目標だけで権力濫用を解消しない",
+        "形式的発言機会と実質的影響を区別"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CF-C08",
+      "claim": "対立処理スタイルを固定的な性格タイプや優劣ランキングとして使わない。",
+      "label": "不支持",
+      "directness": "対立直接研究",
+      "relationship": "測定境界",
+      "scope": [
+        "職場・組織"
+      ],
+      "sources": [
+        "rahim-1983"
+      ],
+      "limits": [
+        "場面、目的、権力、安全で行動は変わる",
+        "尺度権利を確認"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CF-C09",
+      "claim": "回避は常に悪ではなく、危険、感情高揚、情報不足、権力差の下では一時停止や外部支援が安全な場合がある。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "状況適合",
+      "scope": [
+        "職場・組織"
+      ],
+      "sources": [
+        "rahim-1983",
+        "ilo-c190"
+      ],
+      "limits": [
+        "長期放置・報復・証拠消失を防ぐ"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CF-C10",
+      "claim": "対立の早期対応は、非公式対話を強制することではなく、選択肢と安全な入口を早く提供することである。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "早期解決",
+      "scope": [
+        "職場・組織"
+      ],
+      "sources": [
+        "saundry-2013",
+        "latreille-2012",
+        "ilo-r206"
+      ],
+      "limits": [
+        "重大事案は直ちに正式・外部経路へ"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CF-C11",
+      "claim": "無礼、いじめ、ハラスメント、暴力、差別、労働争議、公益通報を一つの「人間関係トラブル」にまとめない。",
+      "label": "A",
+      "directness": "混合",
+      "relationship": "境界分類",
+      "scope": [
+        "職場・組織"
+      ],
+      "sources": [
+        "andersson-pearson-1999",
+        "nielsen-einarsen-2012",
+        "willness-2007",
+        "ilo-c190",
+        "japan-whistleblower"
+      ],
+      "limits": [
+        "定義・権利・対応が異なる"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CF-C12",
+      "claim": "行為者の意図が不明でも、無礼や反復する排除の影響と組織条件を調べる価値がある。",
+      "label": "A",
+      "directness": "対立直接研究",
+      "relationship": "意図・影響",
+      "scope": [
+        "職場・組織"
+      ],
+      "sources": [
+        "andersson-pearson-1999",
+        "cortina-2001"
+      ],
+      "limits": [
+        "意図を推定で断定しない",
+        "法的要件とは別"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CF-C13",
+      "claim": "無礼を受けたり目撃したりすることは、短期的な認知・業績・創造性を損なう可能性がある。",
+      "label": "A",
+      "directness": "対立直接研究",
+      "relationship": "実験効果",
+      "scope": [
+        "職場・組織"
+      ],
+      "sources": [
+        "porath-erez-2007"
+      ],
+      "limits": [
+        "実験中心",
+        "長期・実職場への一般化"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CF-C14",
+      "claim": "職場いじめ曝露は、精神健康、身体症状、仕事満足、離職意向等の不良と関連する。",
+      "label": "A",
+      "directness": "対立直接研究",
+      "relationship": "メタ分析健康",
+      "scope": [
+        "職場・組織"
+      ],
+      "sources": [
+        "nielsen-einarsen-2012",
+        "verkuil-2015"
+      ],
+      "limits": [
+        "自己報告・観察研究中心",
+        "医療診断ではない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CF-C15",
+      "claim": "セクシュアルハラスメントは、寛容な組織風土等と関連し、健康・仕事態度に不利な結果を持つ。",
+      "label": "A",
+      "directness": "対立直接研究",
+      "relationship": "メタ分析",
+      "scope": [
+        "職場・組織"
+      ],
+      "sources": [
+        "willness-2007"
+      ],
+      "limits": [
+        "法的定義・性別多様性・交差性を別途確認"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CF-C16",
+      "claim": "権力の強い主体からの攻撃は、同じ行為名でも影響・対処可能性が異なり得る。",
+      "label": "A",
+      "directness": "対立直接研究",
+      "relationship": "主体・権力",
+      "scope": [
+        "職場・組織"
+      ],
+      "sources": [
+        "hershcovis-barling-2010"
+      ],
+      "limits": [
+        "主体分類だけで個別影響を確定しない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CF-C17",
+      "claim": "被害を訴えた人へ、先にコミュニケーション能力・レジリエンス・赦しを求めることを支持しない。",
+      "label": "不支持",
+      "directness": "混合",
+      "relationship": "被害者非難防止",
+      "scope": [
+        "職場・組織"
+      ],
+      "sources": [
+        "nielsen-einarsen-2012",
+        "fehr-2010",
+        "ilo-c190"
+      ],
+      "limits": [
+        "本人が選ぶ支援と組織の危害停止を優先"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CF-C18",
+      "claim": "双方に言い分があることと、責任・権力・危害が同程度であることは同じではない。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "偽の対称性",
+      "scope": [
+        "職場・組織"
+      ],
+      "sources": [
+        "hershcovis-barling-2010",
+        "ilo-c190"
+      ],
+      "limits": [
+        "事実調査と権力・反復性・影響を確認"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CF-C19",
+      "claim": "暴力・ハラスメントの申立てに、共同面談や対面謝罪を一律に要求してはならない。",
+      "label": "不支持",
+      "directness": "公式指針・制度",
+      "relationship": "安全・非強制",
+      "scope": [
+        "職場・組織"
+      ],
+      "sources": [
+        "ilo-c190",
+        "ilo-r206"
+      ],
+      "limits": [
+        "分離、安全計画、代理・書面、正式調査等を選べるようにする"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CF-C20",
+      "claim": "緊急の安全確保、証拠保全、医療・心理支援、報復防止は、関係修復より先に置く場合がある。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "対応優先順位",
+      "scope": [
+        "職場・組織"
+      ],
+      "sources": [
+        "ilo-c190",
+        "ilo-r206"
+      ],
+      "limits": [
+        "緊急性・適用制度に応じ専門機関へ"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CF-C21",
+      "claim": "相談件数が少ないことは、対立・ハラスメントが少ない証拠ではない。",
+      "label": "A",
+      "directness": "混合",
+      "relationship": "報告バイアス",
+      "scope": [
+        "職場・組織"
+      ],
+      "sources": [
+        "morrison-2014",
+        "kish-gephart-2009",
+        "willness-2007"
+      ],
+      "limits": [
+        "恐れ、無力感、窓口不信、定義不足を確認"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CF-C22",
+      "claim": "発言や通報をした人が、価値ある情報を持っていても不利益評価を受ける可能性がある。",
+      "label": "A",
+      "directness": "混合",
+      "relationship": "発言リスク",
+      "scope": [
+        "職場・組織"
+      ],
+      "sources": [
+        "burris-2012",
+        "miceli-2008"
+      ],
+      "limits": [
+        "内容・経路・法的保護を区別"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CF-C23",
+      "claim": "公益通報を、上司との相性問題や守秘義務違反だけとして処理しない。",
+      "label": "A",
+      "directness": "公式指針・制度",
+      "relationship": "通報保護",
+      "scope": [
+        "職場・組織"
+      ],
+      "sources": [
+        "japan-whistleblower",
+        "miceli-2008"
+      ],
+      "limits": [
+        "通報対象・要件・証拠・外部経路を確認"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CF-C24",
+      "claim": "労組加入・代表活動・団体交渉を、個人の協調性不足や通常の対人葛藤と扱わない。",
+      "label": "A",
+      "directness": "公式指針・制度",
+      "relationship": "集団的権利",
+      "scope": [
+        "職場・組織"
+      ],
+      "sources": [
+        "ilo-c98",
+        "ilo-c135",
+        "ilo-c154"
+      ],
+      "limits": [
+        "批准・国内労使制度を確認"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CF-C25",
+      "claim": "個人間の利害調整と、労働条件を扱う集団的団体交渉は区別する。",
+      "label": "A",
+      "directness": "公式指針・制度",
+      "relationship": "交渉レベル",
+      "scope": [
+        "職場・組織"
+      ],
+      "sources": [
+        "ilo-c154",
+        "japan-labor-adjustment"
+      ],
+      "limits": [
+        "代表性・交渉権限・法的効果が異なる"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CF-C26",
+      "claim": "分配交渉における強硬・柔軟戦術の効果は、経済結果と社会心理的結果、相手・条件によって異なる。",
+      "label": "A",
+      "directness": "交渉直接研究",
+      "relationship": "メタ分析",
+      "scope": [
+        "職場・組織"
+      ],
+      "sources": [
+        "huffmeier-2014"
+      ],
+      "limits": [
+        "分配交渉・実験研究が多い",
+        "強硬さや譲歩を万能戦略にしない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CF-C27",
+      "claim": "立場ではなく優先順位・制約・利益を交換することは、両立可能な条件の発見に役立ち得る。",
+      "label": "A",
+      "directness": "交渉直接研究",
+      "relationship": "情報交換",
+      "scope": [
+        "職場・組織"
+      ],
+      "sources": [
+        "thompson-1991",
+        "weingart-1990"
+      ],
+      "limits": [
+        "機密・安全・情報格差を考慮"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CF-C28",
+      "claim": "交渉で最初の提示はアンカーになり得るが、極端・虚偽・威圧的提示を正当化しない。",
+      "label": "A",
+      "directness": "交渉直接研究",
+      "relationship": "アンカリング",
+      "scope": [
+        "職場・組織"
+      ],
+      "sources": [
+        "galinsky-2001"
+      ],
+      "limits": [
+        "実験中心",
+        "関係・規範・評判への副作用"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CF-C29",
+      "claim": "怒り表出は相手の譲歩へ影響し得るが、威圧・ハラスメント・差別的ステレオタイプを戦術化してはならない。",
+      "label": "A",
+      "directness": "交渉直接研究",
+      "relationship": "感情情報",
+      "scope": [
+        "職場・組織"
+      ],
+      "sources": [
+        "van-kleef-2004"
+      ],
+      "limits": [
+        "実験・文化・権力差",
+        "安全を優先"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CF-C30",
+      "claim": "交渉成果は金銭・条件だけでなく、手続、尊厳、関係、自己評価、将来の実行可能性を含めて評価する。",
+      "label": "A",
+      "directness": "交渉直接研究",
+      "relationship": "主観的価値",
+      "scope": [
+        "職場・組織"
+      ],
+      "sources": [
+        "curhan-2006",
+        "pruitt-1993"
+      ],
+      "limits": [
+        "満足だけで権利・公平を証明しない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CF-C31",
+      "claim": "交渉結果の性別差を固定的能力差として説明せず、役割、情報、交渉範囲、社会的反応を調べる。",
+      "label": "A",
+      "directness": "交渉直接研究",
+      "relationship": "ジェンダー・構造",
+      "scope": [
+        "職場・組織"
+      ],
+      "sources": [
+        "mazei-2015",
+        "bowles-2007"
+      ],
+      "limits": [
+        "二元的性別研究中心",
+        "交差性・制度差"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CF-C32",
+      "claim": "「交渉すればよい」という個人助言だけでは、報復・評価・情報・賃金透明性等の構造格差を解消できない。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "個人化防止",
+      "scope": [
+        "職場・組織"
+      ],
+      "sources": [
+        "mazei-2015",
+        "bowles-2007"
+      ],
+      "limits": [
+        "組織側の基準・監査・救済を設計"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CF-C33",
+      "claim": "交渉能力を単一スコアにして昇進・報酬・削減対象へ使うことを支持しない。",
+      "label": "不支持",
+      "directness": "交渉直接研究",
+      "relationship": "測定倫理",
+      "scope": [
+        "職場・組織"
+      ],
+      "sources": [
+        "elfenbein-2008",
+        "curhan-2006"
+      ],
+      "limits": [
+        "相手・課題・情報との相互作用が大きい"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CF-C34",
+      "claim": "BATNAなどの代替案は、退職・法的申立て・安全確保を含み得るが、相手を脅す道具ではなく選択可能性として扱う。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "代替案設計",
+      "scope": [
+        "職場・組織"
+      ],
+      "sources": [
+        "huffmeier-2014",
+        "ilo-c190"
+      ],
+      "limits": [
+        "権利行使・法的助言を別途確認"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CF-C35",
+      "claim": "合意案は、担当、期限、資源、例外、確認方法、違反時の経路を文書化する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "合意実装",
+      "scope": [
+        "職場・組織"
+      ],
+      "sources": [
+        "pruitt-1993",
+        "behfar-2008"
+      ],
+      "limits": [
+        "文書化が安全を損なう場合はアクセス制御"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CF-C36",
+      "claim": "合意成立と、長期履行・関係修復・危害停止は同じではない。",
+      "label": "A",
+      "directness": "混合",
+      "relationship": "持続評価",
+      "scope": [
+        "職場・組織"
+      ],
+      "sources": [
+        "pruitt-1993",
+        "lewicki-brinsfield-2017"
+      ],
+      "limits": [
+        "追跡と再協議を設ける"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CF-C37",
+      "claim": "仲介・調停は中立な場を自動的に保証せず、第三者の権限、利益相反、守秘、強制性、適合性を確認する。",
+      "label": "A",
+      "directness": "混合",
+      "relationship": "第三者統治",
+      "scope": [
+        "職場・組織"
+      ],
+      "sources": [
+        "wall-2001",
+        "latreille-2012"
+      ],
+      "limits": [
+        "制度・事案の異質性"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CF-C38",
+      "claim": "調停への参加・合意・謝罪・守秘を、雇用継続や評価の条件として不当に強制しない。",
+      "label": "実務原則",
+      "directness": "予防原則に基づく推論",
+      "relationship": "自由意思",
+      "scope": [
+        "職場・組織"
+      ],
+      "sources": [
+        "bingham-1997",
+        "ilo-c190"
+      ],
+      "limits": [
+        "法定・協約上の手続は別途確認"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CF-C39",
+      "claim": "重大な権利侵害、継続的危険、証拠争い、強い権力差では、調停より調査・保護・裁定が適切な場合がある。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "適合判断",
+      "scope": [
+        "職場・組織"
+      ],
+      "sources": [
+        "latreille-2012",
+        "ilo-r206",
+        "acas-code-2015"
+      ],
+      "limits": [
+        "本人の選択と法的義務を確認"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CF-C40",
+      "claim": "非公式解決を選んでも、相談記録、反復パターン、報復、安全リスクを適切に保持・監視する。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "記録・再発防止",
+      "scope": [
+        "職場・組織"
+      ],
+      "sources": [
+        "saundry-2013",
+        "ilo-r206"
+      ],
+      "limits": [
+        "目的限定・アクセス・保存期間を定める"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CF-C41",
+      "claim": "正式調査は、申立人・被申立人双方への先入観のない通知、聴取、証拠、反論機会、理由、再審を設計する。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "調査手続",
+      "scope": [
+        "職場・組織"
+      ],
+      "sources": [
+        "acas-code-2015",
+        "colquitt-scale-2001"
+      ],
+      "limits": [
+        "安全・守秘・法的要件を調整"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CF-C42",
+      "claim": "「中立」は危害や差別について価値判断を避けることではなく、事実・基準・権利を一貫して扱うことである。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "中立性境界",
+      "scope": [
+        "職場・組織"
+      ],
+      "sources": [
+        "colquitt-scale-2001",
+        "rupp-2014",
+        "ilo-c190"
+      ],
+      "limits": [
+        "偽の対称性を避ける"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CF-C43",
+      "claim": "調査担当者と支援担当者、決定者、再審者は役割と情報アクセスを分ける。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "役割分離",
+      "scope": [
+        "職場・組織"
+      ],
+      "sources": [
+        "acas-code-2015",
+        "ilo-r206"
+      ],
+      "limits": [
+        "小規模組織では外部独立性を検討"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CF-C44",
+      "claim": "秘密保持は必要最小限とし、「誰にも話すな」という全面的沈黙命令で相談・代表・医療・法的支援を妨げない。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "守秘境界",
+      "scope": [
+        "職場・組織"
+      ],
+      "sources": [
+        "ilo-c190",
+        "japan-whistleblower"
+      ],
+      "limits": [
+        "証拠保全・個人情報・名誉への配慮"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CF-C45",
+      "claim": "匿名申立ては即時棄却せず、具体性、裏付け、パターン、安全、反論可能性を評価する。",
+      "label": "実務原則",
+      "directness": "予防原則に基づく推論",
+      "relationship": "匿名情報",
+      "scope": [
+        "職場・組織"
+      ],
+      "sources": [
+        "ilo-r206",
+        "morrison-2014"
+      ],
+      "limits": [
+        "匿名性の限界を説明",
+        "処分判断には十分な手続"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CF-C46",
+      "claim": "申立てが立証されなかったことは、虚偽申立てであることを意味しない。",
+      "label": "実務原則",
+      "directness": "予防原則に基づく推論",
+      "relationship": "立証境界",
+      "scope": [
+        "職場・組織"
+      ],
+      "sources": [
+        "acas-code-2015",
+        "ilo-c190"
+      ],
+      "limits": [
+        "故意の虚偽と証拠不足を区別"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CF-C47",
+      "claim": "結果通知は、個人情報を守りつつ、調査完了、判断基準、取った措置の種類、再審・相談経路を可能な範囲で示す。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "説明責任",
+      "scope": [
+        "職場・組織"
+      ],
+      "sources": [
+        "acas-code-2015",
+        "colquitt-meta-2001"
+      ],
+      "limits": [
+        "懲戒詳細等の開示範囲は法・規程で確認"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CF-C48",
+      "claim": "処分だけで終わらず、仕事量、目標、役割、評価、管理職行動、顧客対応、物理・デジタル環境を再設計する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "一次予防",
+      "scope": [
+        "職場・組織"
+      ],
+      "sources": [
+        "escartin-2016",
+        "ilo-r206"
+      ],
+      "limits": [
+        "被害者の配置転換だけで解決しない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CF-C49",
+      "claim": "被害を受けた人の配置転換・退職だけで危害を消したことにしない。",
+      "label": "不支持",
+      "directness": "公式指針・制度",
+      "relationship": "負担移転",
+      "scope": [
+        "職場・組織"
+      ],
+      "sources": [
+        "ilo-c190",
+        "ilo-r206"
+      ],
+      "limits": [
+        "本人の希望する保護措置は尊重"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CF-C50",
+      "claim": "謝罪は、何が起きたか、責任、影響、再発防止、補償を具体化しなければ信頼修復を保証しない。",
+      "label": "A",
+      "directness": "混合",
+      "relationship": "謝罪・修復",
+      "scope": [
+        "職場・組織"
+      ],
+      "sources": [
+        "kim-2004",
+        "tomlinson-mayer-2009",
+        "lewicki-brinsfield-2017"
+      ],
+      "limits": [
+        "違反種類・証拠・法的助言",
+        "謝罪受領を強制しない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CF-C51",
+      "claim": "説明、謝罪、補償、制裁、構造改革は異なる修復機能を持ち、どれか一つで代替できない場合がある。",
+      "label": "A",
+      "directness": "混合",
+      "relationship": "多層修復",
+      "scope": [
+        "職場・組織"
+      ],
+      "sources": [
+        "dirks-2009",
+        "lewicki-brinsfield-2017",
+        "wenzel-2008"
+      ],
+      "limits": [
+        "直接職場介入研究は限定"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CF-C52",
+      "claim": "赦し、和解、信頼回復、再び一緒に働くことは別々の選択である。",
+      "label": "A",
+      "directness": "混合",
+      "relationship": "概念分離",
+      "scope": [
+        "職場・組織"
+      ],
+      "sources": [
+        "fehr-2010",
+        "lewicki-brinsfield-2017"
+      ],
+      "limits": [
+        "被害者にいずれも義務づけない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CF-C53",
+      "claim": "謝罪したから被害者は赦すべき、という運用を支持しない。",
+      "label": "不支持",
+      "directness": "混合",
+      "relationship": "非強制",
+      "scope": [
+        "職場・組織"
+      ],
+      "sources": [
+        "fehr-2010",
+        "kim-2004"
+      ],
+      "limits": [
+        "安全・権利・距離を置く選択を尊重"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CF-C54",
+      "claim": "関係修復は、言葉だけでなく、危害停止、行動の一貫性、制度変更、補償、時間による検証を含む。",
+      "label": "A",
+      "directness": "混合",
+      "relationship": "信頼修復",
+      "scope": [
+        "職場・組織"
+      ],
+      "sources": [
+        "dirks-2009",
+        "lewicki-brinsfield-2017"
+      ],
+      "limits": [
+        "修復不能・不適切な場合もある"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CF-C55",
+      "claim": "被害側と加害側で必要とする承認・地位・受容が異なる可能性があるが、役割を固定化しない。",
+      "label": "B",
+      "directness": "隣接研究",
+      "relationship": "和解ニーズ",
+      "scope": [
+        "職場・組織"
+      ],
+      "sources": [
+        "shnabel-nadler-2008"
+      ],
+      "limits": [
+        "集団間実験",
+        "職場への直接性限定"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CF-C56",
+      "claim": "制裁と修復は二者択一ではなく、安全確保・規範確認・責任・再統合の目的を分けて設計する。",
+      "label": "B",
+      "directness": "隣接研究",
+      "relationship": "応報・修復",
+      "scope": [
+        "職場・組織"
+      ],
+      "sources": [
+        "wenzel-2008",
+        "okimoto-wenzel-2009"
+      ],
+      "limits": [
+        "社会心理実験中心",
+        "法的・懲戒義務を別途確認"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CF-C57",
+      "claim": "修復的対話は、事実認定・法的救済・処分の代替として自動適用しない。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "修復的実践境界",
+      "scope": [
+        "職場・組織"
+      ],
+      "sources": [
+        "wenzel-2008",
+        "ilo-c190"
+      ],
+      "limits": [
+        "自由意思、安全、準備、第三者能力を確認"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CF-C58",
+      "claim": "組織の評判回復より、影響を受けた人の安全・回復・権利と再発防止を優先する。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "優先順位",
+      "scope": [
+        "職場・組織"
+      ],
+      "sources": [
+        "ilo-c190",
+        "ilo-r206"
+      ],
+      "limits": [
+        "危機広報で事実・相談を抑圧しない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CF-C59",
+      "claim": "対立件数ゼロを目標にすると、沈黙、隠蔽、退出、報告抑制を成功と誤認し得る。",
+      "label": "不支持",
+      "directness": "混合",
+      "relationship": "指標境界",
+      "scope": [
+        "職場・組織"
+      ],
+      "sources": [
+        "morrison-2014",
+        "kish-gephart-2009"
+      ],
+      "limits": [
+        "安全な異議、解決時間、再発、健康等を併記"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CF-C60",
+      "claim": "苦情・申立て件数の増加は、問題増加だけでなく、認知・信頼・アクセス改善を表す場合がある。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "指標解釈",
+      "scope": [
+        "職場・組織"
+      ],
+      "sources": [
+        "morrison-2014",
+        "ilo-r206"
+      ],
+      "limits": [
+        "内容・重大性・到達・再発と合わせる"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CF-C61",
+      "claim": "対立解決の平均満足度だけで、少数者の安全、権利、報復、格差を判断しない。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "分配監査",
+      "scope": [
+        "職場・組織"
+      ],
+      "sources": [
+        "colquitt-meta-2001",
+        "rupp-2014"
+      ],
+      "limits": [
+        "少人数再特定を防ぐ"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CF-C62",
+      "claim": "紛争対応は、結果の公正、手続の公正、尊重ある扱い、十分な説明を分けて評価する。",
+      "label": "A",
+      "directness": "混合",
+      "relationship": "公正4次元",
+      "scope": [
+        "職場・組織"
+      ],
+      "sources": [
+        "colquitt-scale-2001",
+        "colquitt-meta-2001",
+        "tyler-blader-2003"
+      ],
+      "limits": [
+        "公正認知は適法性そのものではない",
+        "協力を忠誠義務にしない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CF-C63",
+      "claim": "説明が丁寧でも、差別・未払い・暴力等の実質的問題を正当化できない。",
+      "label": "A",
+      "directness": "混合",
+      "relationship": "説明限界",
+      "scope": [
+        "職場・組織"
+      ],
+      "sources": [
+        "greenberg-1993",
+        "ilo-c190"
+      ],
+      "limits": [
+        "権利・分配・是正を別途評価"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CF-C64",
+      "claim": "対立対応のルールは、役職・雇用形態・売上貢献・人気にかかわらず一貫させ、必要な合理的配慮は別に行う。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "一貫性・衡平",
+      "scope": [
+        "職場・組織"
+      ],
+      "sources": [
+        "colquitt-scale-2001",
+        "ilo-c190"
+      ],
+      "limits": [
+        "同一扱いと実質的公平を区別"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CF-C65",
+      "claim": "顧客・取引先・オンライン・出張・通勤等で起きる暴力・ハラスメントも、仕事の世界のリスクとして検討する。",
+      "label": "A",
+      "directness": "公式指針・制度",
+      "relationship": "適用範囲",
+      "scope": [
+        "職場・組織"
+      ],
+      "sources": [
+        "ilo-c190"
+      ],
+      "limits": [
+        "批准・国内法の範囲を確認"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CF-C66",
+      "claim": "家庭内暴力が仕事へ影響する場合、本人の同意と安全を中心に、休暇・勤務・連絡・紹介等の支援を検討する。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "家庭内暴力影響",
+      "scope": [
+        "職場・組織"
+      ],
+      "sources": [
+        "ilo-r206"
+      ],
+      "limits": [
+        "本人を調査・監視しない",
+        "緊急時は専門支援へ"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CF-C67",
+      "claim": "日本のパワーハラスメント、セクシュアルハラスメント、妊娠・出産等ハラスメントは、それぞれ現行法・指針で確認する。",
+      "label": "A",
+      "directness": "公式指針・制度",
+      "relationship": "日本制度",
+      "scope": [
+        "職場・組織"
+      ],
+      "sources": [
+        "japan-labor-policy",
+        "japan-equal-opportunity",
+        "mhlw-harassment-guidance"
+      ],
+      "limits": [
+        "個別該当性を一般論で断定しない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CF-C68",
+      "claim": "日本の個別労働紛争には、社内窓口以外に労働局の相談、助言・指導、あっせん等の制度がある。",
+      "label": "A",
+      "directness": "公式指針・制度",
+      "relationship": "外部救済",
+      "scope": [
+        "職場・組織"
+      ],
+      "sources": [
+        "japan-individual-disputes"
+      ],
+      "limits": [
+        "適用・時効・他制度を確認"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CF-C69",
+      "claim": "日本の集団的労使紛争と個別労働紛争では、調整制度・代表・法的効果が異なる。",
+      "label": "A",
+      "directness": "公式指針・制度",
+      "relationship": "制度境界",
+      "scope": [
+        "職場・組織"
+      ],
+      "sources": [
+        "japan-labor-adjustment",
+        "japan-individual-disputes"
+      ],
+      "limits": [
+        "事案に応じ専門窓口へ"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CF-C70",
+      "claim": "相談者へ、どの情報が誰へ共有され、どこまで秘密にでき、次に何が起きるかを事前に説明する。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "インフォームド選択",
+      "scope": [
+        "職場・組織"
+      ],
+      "sources": [
+        "ilo-r206",
+        "acas-code-2015"
+      ],
+      "limits": [
+        "完全な秘密を約束しない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CF-C71",
+      "claim": "窓口利用を本人の直属上司経由に限定せず、複数の内部・外部・代表経路を用意する。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "アクセス",
+      "scope": [
+        "職場・組織"
+      ],
+      "sources": [
+        "ilo-r206",
+        "japan-individual-disputes"
+      ],
+      "limits": [
+        "言語・障害・勤務帯・雇用形態に対応"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CF-C72",
+      "claim": "調査・仲介担当者の件数、専門性、独立性、時間、二次受傷を含む実施能力を確保する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "実装能力",
+      "scope": [
+        "職場・組織"
+      ],
+      "sources": [
+        "wall-2001",
+        "saundry-2013",
+        "ilo-r206"
+      ],
+      "limits": [
+        "形式的窓口だけにしない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CF-C73",
+      "claim": "管理職研修だけでなく、目標・報酬・要員・評価・顧客契約など対立を生む構造を変える。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "システム介入",
+      "scope": [
+        "職場・組織"
+      ],
+      "sources": [
+        "escartin-2016",
+        "hershcovis-2007"
+      ],
+      "limits": [
+        "個人研修の満足度だけで評価しない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CF-C74",
+      "claim": "対立・ハラスメント調査データを、感情・忠誠心・将来トラブルの個人予測へ転用しない。",
+      "label": "不支持",
+      "directness": "予防原則に基づく推論",
+      "relationship": "データ目的限定",
+      "scope": [
+        "職場・組織"
+      ],
+      "sources": [
+        "morrison-2014",
+        "ilo-r206"
+      ],
+      "limits": [
+        "アクセス、保存、削除、訂正を設計"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CF-C75",
+      "claim": "生成AIによる相談要約・分類を使う場合も、秘密情報、誤分類、幻覚、アクセス権、人による確認を管理する。",
+      "label": "実務原則",
+      "directness": "予防原則に基づく推論",
+      "relationship": "AI相談支援",
+      "scope": [
+        "職場・組織"
+      ],
+      "sources": [
+        "ilo-r206"
+      ],
+      "limits": [
+        "AIへ最終判断を委ねない",
+        "個人情報・適用法を確認"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CF-C76",
+      "claim": "匿名化した事例共有でも、部署・役職・時期・少人数属性の組合せによる再特定を防ぐ。",
+      "label": "実務原則",
+      "directness": "予防原則に基づく推論",
+      "relationship": "プライバシー",
+      "scope": [
+        "職場・組織"
+      ],
+      "sources": [
+        "ilo-r206"
+      ],
+      "limits": [
+        "学習目的と当事者保護を両立"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CF-C77",
+      "claim": "対応速度は重要だが、早期終結件数を優先して聴取・証拠・安全・再審を省略しない。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "速度・公正",
+      "scope": [
+        "職場・組織"
+      ],
+      "sources": [
+        "acas-code-2015",
+        "colquitt-scale-2001"
+      ],
+      "limits": [
+        "緊急保護と十分な調査を並行"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CF-C78",
+      "claim": "未解決を失敗と決めつけず、安全な距離、役割分離、異動、契約変更、外部裁定が適切な終結の場合もある。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "複数の終結",
+      "scope": [
+        "職場・組織"
+      ],
+      "sources": [
+        "latreille-2012",
+        "ilo-c190"
+      ],
+      "limits": [
+        "本人の自由意思と権利を尊重"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CF-C79",
+      "claim": "紛争対応後は、合意履行、報復、再発、健康、仕事量、離職、チームへの波及を追跡する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "長期評価",
+      "scope": [
+        "職場・組織"
+      ],
+      "sources": [
+        "pruitt-1993",
+        "nielsen-einarsen-2012",
+        "lewicki-brinsfield-2017"
+      ],
+      "limits": [
+        "追跡が監視にならないよう同意・目的限定"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CF-C80",
+      "claim": "再発率が低くても、被害者が退職・異動して観察されなくなった可能性を確認する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "生存者バイアス",
+      "scope": [
+        "職場・組織"
+      ],
+      "sources": [
+        "morrison-2014",
+        "nielsen-einarsen-2012"
+      ],
+      "limits": [
+        "人事記録・匿名追跡・退出理由を組み合わせる"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CF-C81",
+      "claim": "公開する紛争データは、定義、分母、重大性、処理経路、期間、欠測、再特定防止、改訂履歴を伴う。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "オープンデータ統治",
+      "scope": [
+        "職場・組織"
+      ],
+      "sources": [
+        "ilo-r206",
+        "colquitt-meta-2001"
+      ],
+      "limits": [
+        "透明性で当事者の安全を損なわない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "CF-C82",
+      "claim": "組織は「対立をなくす」のではなく、異議を安全に扱い、危害を止め、権利を守り、必要な関係だけを修復できる能力を評価する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "完成原則",
+      "scope": [
+        "職場・組織"
+      ],
+      "sources": [
+        "de-wit-2012",
+        "ilo-c190",
+        "morrison-2014",
+        "lewicki-brinsfield-2017"
+      ],
+      "limits": [
+        "すべての関係継続を目的にしない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    }
+  ]
+}

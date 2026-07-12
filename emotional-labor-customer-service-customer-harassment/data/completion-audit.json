@@ -1,0 +1,77 @@
+{
+  "version": "0.1",
+  "release_decision": "完成条件を満たす（次分野へ移行可）",
+  "dimensions": [
+    {
+      "id": "construct-boundaries",
+      "status": "complete",
+      "evidence": "感情労働、表示規則、表層・深層・自然な表出、不協和"
+    },
+    {
+      "id": "worker-outcomes",
+      "status": "complete",
+      "evidence": "消耗、満足、撤退、健康、回復、業績の限界"
+    },
+    {
+      "id": "customer-outcomes",
+      "status": "complete",
+      "evidence": "顧客感情、品質知覚、真正性知覚、正当な苦情"
+    },
+    {
+      "id": "mistreatment-spectrum",
+      "status": "complete",
+      "evidence": "無礼、不公正、暴言、脅迫、暴力、性的・差別的言動"
+    },
+    {
+      "id": "rights-boundary",
+      "status": "complete",
+      "evidence": "正当な申出、合理的配慮、公益的発言、サービス継続"
+    },
+    {
+      "id": "primary-prevention",
+      "status": "complete",
+      "evidence": "要員、待ち時間、情報、権限、設備、上流誘因"
+    },
+    {
+      "id": "incident-response",
+      "status": "complete",
+      "evidence": "停止、交代、退避、緊急連絡、記録、組織間協力"
+    },
+    {
+      "id": "reporting-retaliation",
+      "status": "complete",
+      "evidence": "複数相談経路、守秘、報復防止、異議・再審査"
+    },
+    {
+      "id": "aftercare",
+      "status": "complete",
+      "evidence": "休息、勤務調整、専門支援、再接触防止、非診断的支援"
+    },
+    {
+      "id": "intersectionality",
+      "status": "complete",
+      "evidence": "性、人種化、障害、言語、雇用形態、権限差"
+    },
+    {
+      "id": "digital-platform",
+      "status": "complete",
+      "evidence": "オンライン危害、顧客評価、録音、AI検知・応答支援"
+    },
+    {
+      "id": "law-policy",
+      "status": "complete",
+      "evidence": "日本改正法の2026-10-01施行・告示第51号、東京都条例、ILO、WHO、OSHA、安衛・個人情報・障害法"
+    },
+    {
+      "id": "openness",
+      "status": "complete",
+      "evidence": "主張、研究、用語、採否、質、更新、機械可読データを公開"
+    }
+  ],
+  "remaining_non_blocking": [
+    "日本の業種別・交差的なカスハラ曝露と介入効果研究は追加可能",
+    "第三者暴力予防介入は医療以外の比較研究が限定",
+    "顧客評価・AI暴言検知・生成AI応答支援の独立監査は発展途上",
+    "2026年10月1日施行後の指針運用、通達・Q&A・裁判例は即時更新対象"
+  ]
+}

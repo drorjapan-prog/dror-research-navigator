@@ -1,0 +1,190 @@
+{
+  "name": "心理的安全性 研究の質と限界",
+  "version": "0.4",
+  "notice": "簡易評価であり、正式なRoB 2・ROBINS-I・AMSTAR 2評価ではない。",
+  "assessments": [
+    {
+      "id": "frazier-2017",
+      "design": "meta-analysis",
+      "confidence_for_association": "moderate",
+      "confidence_for_causality": "low",
+      "strengths": [
+        "136独立サンプル",
+        "個人・グループを分離",
+        "モデレーターと出版バイアスを検討"
+      ],
+      "limitations": [
+        "横断研究が多い",
+        "自己報告・共通方法バイアス",
+        "一部で出版バイアス",
+        "異質性が高い項目"
+      ]
+    },
+    {
+      "id": "newman-2017",
+      "design": "systematic review",
+      "confidence_for_synthesis": "moderate",
+      "strengths": [
+        "83研究を整理",
+        "測定課題を明示"
+      ],
+      "limitations": [
+        "検索時点が古い",
+        "研究デザインの弱さを引き継ぐ",
+        "介入根拠が少ない"
+      ]
+    },
+    {
+      "id": "odonovan-interventions-2020",
+      "design": "systematic review of interventions",
+      "confidence_for_intervention": "low-to-moderate",
+      "strengths": [
+        "PRISMA準拠",
+        "プロトコル登録",
+        "教育・非教育介入を整理"
+      ],
+      "limitations": [
+        "14介入",
+        "医療領域中心",
+        "結果が混在",
+        "客観的指標不足"
+      ]
+    },
+    {
+      "id": "capezio-2023",
+      "design": "rapid evidence assessment",
+      "confidence_for_synthesis": "moderate",
+      "strengths": [
+        "二者評価",
+        "明示的な質評価",
+        "検索式・除外・研究表を公開"
+      ],
+      "limitations": [
+        "多くの研究が低品質",
+        "因果確認不可",
+        "非西洋・仮想チーム等を除外",
+        "迅速レビューとして検索範囲を制限"
+      ]
+    },
+    {
+      "id": "gonzalez-2026",
+      "design": "umbrella review",
+      "confidence_for_relational_enablers": "moderate",
+      "strengths": [
+        "5データベースとGoogle Scholar",
+        "11レビューを統合",
+        "批判的吟味",
+        "文化・人種・民族の欠落を検討"
+      ],
+      "limitations": [
+        "レビュー間で透明性に差",
+        "医療領域の比重",
+        "一次研究の弱さを引き継ぐ",
+        "アイデンティティ研究が少ない"
+      ]
+    },
+    {
+      "id": "kobayashi-2025",
+      "design": "cluster randomized controlled trial",
+      "confidence_for_intervention": "moderate-low",
+      "strengths": [
+        "部署単位の無作為割付",
+        "3時点",
+        "クラスター効果を調整",
+        "日本の実組織"
+      ],
+      "limitations": [
+        "単一企業・単一拠点",
+        "自己報告",
+        "短期追跡",
+        "盲検化困難",
+        "クラスター内相関と群間不均衡",
+        "データ非公開"
+      ]
+    },
+    {
+      "id": "castro-2025",
+      "design": "randomized field experiment discussion paper",
+      "confidence_for_intervention": "low-until-peer-review",
+      "strengths": [
+        "大規模な実組織フィールド実験"
+      ],
+      "limitations": [
+        "査読前",
+        "版により報告サンプルの表現が異なる",
+        "再現と外部評価が必要"
+      ]
+    },
+    {
+      "id": "ochiai-otsuka-2022",
+      "design": "Japanese scale validation",
+      "confidence_for_measurement": "moderate",
+      "strengths": [
+        "翻訳手順",
+        "再検査信頼性",
+        "複数関連概念との妥当性検討"
+      ],
+      "limitations": [
+        "確認的因子分析は周辺的に許容",
+        "オンライン標本",
+        "基準値を提供する研究ではない"
+      ]
+    },
+    {
+      "id": "matsuo-2024",
+      "design": "Japanese scale validation",
+      "confidence_for_measurement": "moderate",
+      "strengths": [
+        "構造・内的一貫性・収束妥当性を検討"
+      ],
+      "limitations": [
+        "尺度間相関中心",
+        "業界横断の一般化に限界"
+      ]
+    },
+    {
+      "id": "sasaki-2022",
+      "design": "Japanese scale validation and cross-sectional analysis",
+      "confidence_for_measurement": "moderate",
+      "confidence_for_outcome_causality": "low",
+      "strengths": [
+        "日本の労働者",
+        "尺度検証と関連指標を報告"
+      ],
+      "limitations": [
+        "横断研究",
+        "自己報告",
+        "因果関係は判断できない"
+      ]
+    },
+    {
+      "id": "eldor-2023",
+      "design": "five-study boundary-condition test",
+      "confidence_for_boundary_condition": "moderate",
+      "strengths": [
+        "複数レベル・複数組織",
+        "実業績を含む",
+        "説明責任という緩衝要因を検討"
+      ],
+      "limitations": [
+        "特定の定型業務仮説",
+        "他研究による追試が必要",
+        "全成果へ一般化できない"
+      ]
+    },
+    {
+      "id": "liu-measures-2024",
+      "design": "measurement meta-analysis preprint",
+      "confidence_for_measurement": "low-until-peer-review",
+      "strengths": [
+        "217研究",
+        "尺度横断の信頼性を整理"
+      ],
+      "limitations": [
+        "査読前",
+        "異質性が極めて高い",
+        "構成概念妥当性の課題が残る"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,732 @@
+{
+  "name": "感情労働・顧客対応・カスタマーハラスメント 研究の質と限界",
+  "version": "0.1",
+  "notice": "簡易評価であり正式なRoB評価ではない。",
+  "assessments": [
+    {
+      "study_id": "grandey-2000",
+      "design": "integrative conceptual review",
+      "strength": "統合研究",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "概念モデル",
+        "当時の研究蓄積",
+        "感情調整一般と職務要求を分ける"
+      ]
+    },
+    {
+      "study_id": "morris-feldman-1996",
+      "design": "conceptual review",
+      "strength": "基礎理論・測定",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "概念論",
+        "次元の測定・因果を別途検証"
+      ]
+    },
+    {
+      "study_id": "brotheridge-lee-2003",
+      "design": "scale development and validation",
+      "strength": "基礎理論・測定",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "自己報告",
+        "英語圏標本",
+        "尺度項目は再配布しない"
+      ]
+    },
+    {
+      "study_id": "diefendorff-2005",
+      "design": "measurement field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "横断自己報告中心",
+        "職種差",
+        "戦略を人格特性にしない"
+      ]
+    },
+    {
+      "study_id": "grandey-gabriel-2015",
+      "design": "annual review",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "ナラティブレビュー",
+        "文化・職種の偏り"
+      ]
+    },
+    {
+      "study_id": "hulsheger-schewe-2011",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "研究間異質性",
+        "自己報告・相関中心",
+        "平均効果を個人診断にしない"
+      ]
+    },
+    {
+      "study_id": "mesmer-magnus-2011",
+      "design": "integrative review",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "理論統合",
+        "直接的介入効果ではない"
+      ]
+    },
+    {
+      "study_id": "kammeyer-mueller-2013",
+      "design": "meta-analytic structural model",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "相関研究中心",
+        "構造モデル仮定",
+        "採用選抜への単純利用を避ける"
+      ]
+    },
+    {
+      "study_id": "scott-barnes-2011",
+      "design": "experience sampling field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "特定職種",
+        "自己報告",
+        "性別二分法"
+      ]
+    },
+    {
+      "study_id": "goldberg-grandey-2007",
+      "design": "laboratory simulation",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "模擬業務・短期",
+        "実職場への一般化"
+      ]
+    },
+    {
+      "study_id": "grandey-2012",
+      "design": "multistudy field research",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "観察研究中心",
+        "真正性概念・文化差",
+        "何でも表出してよい意味ではない"
+      ]
+    },
+    {
+      "study_id": "pugh-2001",
+      "design": "field observational study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "単一業態",
+        "観察研究",
+        "笑顔強制の健康影響は検証しない"
+      ]
+    },
+    {
+      "study_id": "groth-2009",
+      "design": "multistudy service research",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "特定サービス場面",
+        "検出精度は不完全"
+      ]
+    },
+    {
+      "study_id": "hennig-thurau-2006",
+      "design": "multistudy field research",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "サービス業中心",
+        "短時間接点",
+        "健康結果を直接扱わない"
+      ]
+    },
+    {
+      "study_id": "totterdell-holman-2003",
+      "design": "experience sampling study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "単一組織",
+        "自己報告・短期"
+      ]
+    },
+    {
+      "study_id": "grandey-2003",
+      "design": "field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "相関研究",
+        "同一時点の変数",
+        "職種差"
+      ]
+    },
+    {
+      "study_id": "zapf-2002",
+      "design": "integrative review",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "ナラティブレビュー",
+        "因果推論の限界"
+      ]
+    },
+    {
+      "study_id": "gross-1998",
+      "design": "integrative review",
+      "strength": "統合研究",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "職場直接研究ではない",
+        "個人内調整中心"
+      ]
+    },
+    {
+      "study_id": "webb-2012",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "職場外研究が多い",
+        "短期実験",
+        "組織的要求の代替にしない"
+      ]
+    },
+    {
+      "study_id": "hulsheger-2013",
+      "design": "field and intervention studies",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "小規模・自己報告",
+        "個人介入を職場改善の代替にしない"
+      ]
+    },
+    {
+      "study_id": "wharton-1993",
+      "design": "field survey",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "古い米国標本",
+        "職業分類・横断研究"
+      ]
+    },
+    {
+      "study_id": "bhave-glomb-2016",
+      "design": "multilevel occupational study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "米国職業分類",
+        "観察研究",
+        "職業内差を含む"
+      ]
+    },
+    {
+      "study_id": "chen-2024",
+      "design": "meta-analysis and structural modeling",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "収録研究の異質性",
+        "感情知能を個人責任化しない",
+        "因果確定ではない"
+      ]
+    },
+    {
+      "study_id": "dormann-zapf-2004",
+      "design": "scale and longitudinal field studies",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "自己報告",
+        "職種・国の限定",
+        "顧客属性ではなく行動を測る"
+      ]
+    },
+    {
+      "study_id": "grandey-2004",
+      "design": "field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "単一組織",
+        "観察研究",
+        "因果方向"
+      ]
+    },
+    {
+      "study_id": "wang-2011",
+      "design": "daily diary field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "自己報告",
+        "報復を正当化しない",
+        "特定職種・文化"
+      ]
+    },
+    {
+      "study_id": "skarlicki-2008",
+      "design": "multistudy field and experimental research",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "妨害自己報告・実験",
+        "被害者非難に使わない"
+      ]
+    },
+    {
+      "study_id": "van-jaarsveld-2010",
+      "design": "field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "観察研究",
+        "相互影響",
+        "責任転嫁を避ける"
+      ]
+    },
+    {
+      "study_id": "rupp-2008",
+      "design": "laboratory experiments",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "実験場面",
+        "短期反応",
+        "不公正判断の文脈差"
+      ]
+    },
+    {
+      "study_id": "gettman-gelfand-2007",
+      "design": "field studies",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "自己報告",
+        "米国標本",
+        "性別・交差性の追加検討"
+      ]
+    },
+    {
+      "study_id": "yagil-2008",
+      "design": "integrative review",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "ナラティブレビュー",
+        "研究年代",
+        "業種差"
+      ]
+    },
+    {
+      "study_id": "harris-reynolds-2003",
+      "design": "critical incident field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "回顧・質的研究",
+        "英国サービス業",
+        "発生率推定ではない"
+      ]
+    },
+    {
+      "study_id": "fisk-2010",
+      "design": "integrative review",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "サービス研究中心",
+        "類型を個人ラベルにしない"
+      ]
+    },
+    {
+      "study_id": "andersson-pearson-1999",
+      "design": "conceptual model",
+      "strength": "基礎理論・測定",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "概念論",
+        "顧客に限定しない",
+        "意図を推定しない"
+      ]
+    },
+    {
+      "study_id": "hershcovis-barling-2010",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "顧客研究のみではない",
+        "自己報告中心",
+        "因果確定ではない"
+      ]
+    },
+    {
+      "study_id": "schat-kelloway-2003",
+      "design": "longitudinal quasi-experimental study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "準実験",
+        "特定医療組織",
+        "一次予防の代替ではない"
+      ]
+    },
+    {
+      "study_id": "leblanc-kelloway-2002",
+      "design": "field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "横断自己報告",
+        "カナダ標本",
+        "暴力の過少報告"
+      ]
+    },
+    {
+      "study_id": "lim-2008",
+      "design": "multilevel field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "顧客限定ではない",
+        "自己報告・観察研究"
+      ]
+    },
+    {
+      "study_id": "sliter-2012",
+      "design": "field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "単一企業",
+        "観察研究",
+        "販売指標の限定"
+      ]
+    },
+    {
+      "study_id": "kern-grandey-2009",
+      "design": "field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "米国・自己報告",
+        "人種概念の地域差",
+        "属性をリスク得点にしない"
+      ]
+    },
+    {
+      "study_id": "walker-2014",
+      "design": "event-based field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "短期・自己報告",
+        "従業員責任へ還元しない"
+      ]
+    },
+    {
+      "study_id": "schneider-1998",
+      "design": "multilevel field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "単一企業・観察モデル",
+        "顧客満足だけで安全を判断しない"
+      ]
+    },
+    {
+      "study_id": "bowen-schneider-2014",
+      "design": "integrative review",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "サービス成果中心",
+        "労働者安全との緊張を別途評価"
+      ]
+    },
+    {
+      "study_id": "bakker-demerouti-2007",
+      "design": "integrative review",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "一般理論",
+        "顧客対応の直接介入ではない"
+      ]
+    },
+    {
+      "study_id": "nahrgang-2011",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "顧客暴力特化ではない",
+        "研究間異質性"
+      ]
+    },
+    {
+      "study_id": "halbesleben-2006",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "相関研究中心",
+        "支援を危険除去の代替にしない"
+      ]
+    },
+    {
+      "study_id": "cortina-magley-2003",
+      "design": "longitudinal field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "顧客限定ではない",
+        "米国公務",
+        "自己選択"
+      ]
+    },
+    {
+      "study_id": "wassell-2009",
+      "design": "systematic review",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "研究数・質の制約",
+        "業種差",
+        "訓練単独の確証ではない"
+      ]
+    },
+    {
+      "study_id": "lanctot-guay-2014",
+      "design": "systematic review",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "医療中心",
+        "研究デザイン・定義の異質性"
+      ]
+    },
+    {
+      "study_id": "geoffrion-2020",
+      "design": "systematic review",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "エビデンス確実性が低い",
+        "医療中心",
+        "訓練単独にしない"
+      ]
+    },
+    {
+      "study_id": "wood-2019",
+      "design": "qualitative cross-national study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "オンラインプラットフォーム中心",
+        "質的研究",
+        "顧客暴力を直接測らない"
+      ]
+    },
+    {
+      "study_id": "kellogg-2020",
+      "design": "integrative review",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "顧客対応専用ではない",
+        "急速な技術変化"
+      ]
+    },
+    {
+      "study_id": "fitzgerald-1997",
+      "design": "field model test",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "顧客加害に限定しない",
+        "性別二分法・自己報告",
+        "年代差"
+      ]
+    },
+    {
+      "study_id": "cortina-2001",
+      "design": "field survey",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "顧客限定ではない",
+        "自己報告",
+        "意図を確定しない"
+      ]
+    },
+    {
+      "study_id": "mhlw-customer-manual",
+      "design": "official guidance portal",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "2022年資料",
+        "2026年厚生労働省告示第51号と併読",
+        "個別法的判断ではない"
+      ]
+    },
+    {
+      "study_id": "mhlw-harassment-policy-2026",
+      "design": "official current policy portal",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "2026-07-12確認",
+        "施行後の改定・運用を継続確認"
+      ]
+    },
+    {
+      "study_id": "mhlw-customer-guideline-2026",
+      "design": "binding ministerial guideline",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "2026-02-26公布",
+        "2026-10-01適用",
+        "個別事案は業務性質・社会通念・就業環境侵害を総合判断"
+      ]
+    },
+    {
+      "study_id": "japan-act-63-2025",
+      "design": "Japanese amending statute",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "公布2025-06-11",
+        "主要なカスタマーハラスメント防止措置は2026-10-01施行",
+        "指針・通達・個別適用を確認"
+      ]
+    },
+    {
+      "study_id": "japan-labor-policy-act",
+      "design": "Japanese statute",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "改正法の施行時点・経過措置・指針を確認"
+      ]
+    },
+    {
+      "study_id": "tokyo-customer-ordinance",
+      "design": "Tokyo metropolitan ordinance",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "2025-04-01施行",
+        "罰則のない理念・責務条例",
+        "正当な権利行使・合理的配慮をガイドラインと確認"
+      ]
+    },
+    {
+      "study_id": "tokyo-customer-guideline",
+      "design": "official implementation guideline",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "具体例を機械的な一律判定にしない",
+        "業務・障害・言語・緊急性等の事情を確認"
+      ]
+    },
+    {
+      "study_id": "ilo-c190",
+      "design": "international labour convention",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "日本の批准・国内法上の適用を別途確認",
+        "条約は個別事案の判定を代替しない"
+      ]
+    },
+    {
+      "study_id": "ilo-r206",
+      "design": "international labour recommendation",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "非拘束的勧告",
+        "国内制度・業種文脈を確認"
+      ]
+    },
+    {
+      "study_id": "who-mental-health-2022",
+      "design": "international guideline",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "カスタマーハラスメント専用ではない",
+        "地域資源・実装能力を確認"
+      ]
+    },
+    {
+      "study_id": "ilo-who-brief-2022",
+      "design": "international policy brief",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "政策概説",
+        "個人治療を代替しない"
+      ]
+    },
+    {
+      "study_id": "osha-workplace-violence",
+      "design": "official safety guidance portal",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "米国制度",
+        "日本法上の義務と混同しない",
+        "更新日を確認"
+      ]
+    },
+    {
+      "study_id": "japan-osh-act",
+      "design": "Japanese statute",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "個別の適用条文・指針・業種基準を確認"
+      ]
+    },
+    {
+      "study_id": "japan-appi",
+      "design": "Japanese statute",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "録音・防犯・従業員モニタリングの個別運用は現行指針と専門家へ確認"
+      ]
+    },
+    {
+      "study_id": "japan-disability-act",
+      "design": "Japanese statute",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "正当な申出・コミュニケーション上の配慮と安全対応を両立",
+        "個別事情を確認"
+      ]
+    }
+  ]
+}

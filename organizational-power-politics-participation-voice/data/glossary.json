@@ -1,0 +1,472 @@
+{
+  "name": "組織の権力・組織政治・従業員参加・発言権 用語集",
+  "version": "0.1",
+  "license": "CC BY 4.0",
+  "terms": [
+    {
+      "id": "power",
+      "term": "権力",
+      "definition": "他者や意思決定へ影響し、資源・結果を左右できる関係的能力。"
+    },
+    {
+      "id": "dependence",
+      "term": "依存",
+      "definition": "必要な資源・選択肢を他者が統制している程度。"
+    },
+    {
+      "id": "power-dependence",
+      "term": "権力‐依存関係",
+      "definition": "一方の依存が他方の権力を生むという関係。"
+    },
+    {
+      "id": "authority",
+      "term": "権限",
+      "definition": "役割・制度により正当に認められた決定権。"
+    },
+    {
+      "id": "influence",
+      "term": "影響力",
+      "definition": "他者の判断・行動・結果へ作用する力。"
+    },
+    {
+      "id": "status",
+      "term": "地位",
+      "definition": "集団から与えられる尊敬、威信、序列上の位置。"
+    },
+    {
+      "id": "hierarchy",
+      "term": "階層",
+      "definition": "権力・地位・権限が序列化された構造。"
+    },
+    {
+      "id": "formal-power",
+      "term": "公式権力",
+      "definition": "役職、規程、予算、評価権等に基づく権力。"
+    },
+    {
+      "id": "informal-power",
+      "term": "非公式権力",
+      "definition": "ネットワーク、評判、専門知、情報等に基づく権力。"
+    },
+    {
+      "id": "resource-control",
+      "term": "資源統制",
+      "definition": "予算、人員、情報、機会等へのアクセスを決めること。"
+    },
+    {
+      "id": "agenda-setting",
+      "term": "議題設定",
+      "definition": "何を意思決定の対象にするかを決める権力。"
+    },
+    {
+      "id": "veto-power",
+      "term": "拒否権",
+      "definition": "提案・決定を止めることのできる権限。"
+    },
+    {
+      "id": "gatekeeping",
+      "term": "ゲートキーピング",
+      "definition": "情報・人・機会への入口を統制すること。"
+    },
+    {
+      "id": "centrality",
+      "term": "ネットワーク中心性",
+      "definition": "関係網の中で結び付きや仲介上中心にいる程度。"
+    },
+    {
+      "id": "brokerage",
+      "term": "仲介",
+      "definition": "つながっていない人・集団の間を媒介する位置・行為。"
+    },
+    {
+      "id": "power-map",
+      "term": "権力マップ",
+      "definition": "意思決定、資源、依存、拒否、異議の経路を可視化したもの。"
+    },
+    {
+      "id": "power-asymmetry",
+      "term": "権力非対称",
+      "definition": "当事者間で影響力・依存・報復可能性が異なる状態。"
+    },
+    {
+      "id": "approach-inhibition",
+      "term": "接近‐抑制",
+      "definition": "権力に伴う行動活性化・警戒の傾向を説明する枠組み。"
+    },
+    {
+      "id": "perspective-taking",
+      "term": "視点取得",
+      "definition": "他者の立場・知識・感情を推測し理解する過程。"
+    },
+    {
+      "id": "overconfidence",
+      "term": "過信",
+      "definition": "判断の正確さや能力を実際以上に確信すること。"
+    },
+    {
+      "id": "objectification",
+      "term": "対象化",
+      "definition": "人を固有の主体でなく目標達成の手段として扱うこと。"
+    },
+    {
+      "id": "accountability",
+      "term": "説明責任",
+      "definition": "決定理由・証拠・結果を説明し、検証・是正を受ける責任。"
+    },
+    {
+      "id": "checks-and-balances",
+      "term": "牽制と均衡",
+      "definition": "権力を複数主体・手続で制約し相互監督する仕組み。"
+    },
+    {
+      "id": "organizational-politics",
+      "term": "組織政治",
+      "definition": "不確実な利害・資源・権力をめぐる影響行動。"
+    },
+    {
+      "id": "politics-perception",
+      "term": "組織政治知覚",
+      "definition": "職場が自己利益的・恣意的な政治で動くという認知。"
+    },
+    {
+      "id": "political-skill",
+      "term": "政治的スキル",
+      "definition": "社会的洞察、影響、ネットワーク等を用いる能力概念。"
+    },
+    {
+      "id": "impression-management",
+      "term": "印象管理",
+      "definition": "他者からの見られ方を意図的に調整する行為。"
+    },
+    {
+      "id": "coalition",
+      "term": "連合",
+      "definition": "共通目的のため複数主体が協力するまとまり。"
+    },
+    {
+      "id": "patronage",
+      "term": "縁故的配分",
+      "definition": "関係や忠誠を基準に機会・資源を配分すること。"
+    },
+    {
+      "id": "favoritism",
+      "term": "えこひいき",
+      "definition": "職務上正当化できない好みに基づく優遇。"
+    },
+    {
+      "id": "employee-voice",
+      "term": "従業員の発言",
+      "definition": "仕事・組織について意見、提案、懸念、反対を伝える行為・制度。"
+    },
+    {
+      "id": "employee-silence",
+      "term": "従業員の沈黙",
+      "definition": "伝え得る情報・意見・懸念を意図的に伝えないこと。"
+    },
+    {
+      "id": "organizational-silence",
+      "term": "組織的沈黙",
+      "definition": "重要問題について集合的に発言が抑制される状態。"
+    },
+    {
+      "id": "promotive-voice",
+      "term": "促進的発言",
+      "definition": "改善案や新しい可能性を提案する発言。"
+    },
+    {
+      "id": "prohibitive-voice",
+      "term": "抑制的発言",
+      "definition": "危険、問題、害を止めるための懸念発言。"
+    },
+    {
+      "id": "acquiescent-silence",
+      "term": "黙認的沈黙",
+      "definition": "変わらないという諦め・無力感による沈黙。"
+    },
+    {
+      "id": "defensive-silence",
+      "term": "防衛的沈黙",
+      "definition": "不利益や報復への恐れによる沈黙。"
+    },
+    {
+      "id": "prosocial-silence",
+      "term": "向社会的沈黙",
+      "definition": "他者や組織を守る意図による情報保持。"
+    },
+    {
+      "id": "speak-up",
+      "term": "スピークアップ",
+      "definition": "改善・懸念・不正等を上方・周囲へ伝えること。"
+    },
+    {
+      "id": "whistleblowing",
+      "term": "公益通報",
+      "definition": "不正・法令違反等を権限ある内部・外部主体へ伝えること。"
+    },
+    {
+      "id": "retaliation",
+      "term": "報復",
+      "definition": "発言・通報・代表活動等への不利益な反応。"
+    },
+    {
+      "id": "nonresponse",
+      "term": "無応答",
+      "definition": "発言を受けた側が理由ある返答・対応をしないこと。"
+    },
+    {
+      "id": "voice-channel",
+      "term": "発言経路",
+      "definition": "意見・懸念・苦情・通報を届ける制度的入口。"
+    },
+    {
+      "id": "anonymous-channel",
+      "term": "匿名経路",
+      "definition": "本人名を明かさず発言・通報できる経路。"
+    },
+    {
+      "id": "grievance",
+      "term": "苦情・異議",
+      "definition": "労働条件・扱い・決定等への不満や異議。"
+    },
+    {
+      "id": "appeal",
+      "term": "不服申立て",
+      "definition": "決定の見直しを別の権限者・機関へ求める手続。"
+    },
+    {
+      "id": "employee-participation",
+      "term": "従業員参加",
+      "definition": "働く人が仕事・組織の意思決定へ関与すること。"
+    },
+    {
+      "id": "information-sharing",
+      "term": "情報提供",
+      "definition": "意思決定に関する情報を提供する参加段階。"
+    },
+    {
+      "id": "consultation",
+      "term": "協議",
+      "definition": "決定前に意見・情報を交換し検討する過程。"
+    },
+    {
+      "id": "co-determination",
+      "term": "共同決定",
+      "definition": "労使・複数主体が決定権を共有する制度。"
+    },
+    {
+      "id": "delegation",
+      "term": "権限委譲",
+      "definition": "上位者が一定範囲の決定権を他者へ移すこと。"
+    },
+    {
+      "id": "direct-participation",
+      "term": "直接参加",
+      "definition": "従業員本人がチーム・会議等で意思決定へ関与すること。"
+    },
+    {
+      "id": "representative-participation",
+      "term": "代表参加",
+      "definition": "選出・承認された代表を通じ意思決定へ関与すること。"
+    },
+    {
+      "id": "collective-voice",
+      "term": "集団的発言",
+      "definition": "労働者が集団・代表として要求・意見を示すこと。"
+    },
+    {
+      "id": "freedom-of-association",
+      "term": "結社の自由",
+      "definition": "労働者・使用者が自ら選ぶ団体を設立・加入・運営する自由。"
+    },
+    {
+      "id": "right-to-organise",
+      "term": "団結権",
+      "definition": "労働者が労働組合等を組織・加入する権利。"
+    },
+    {
+      "id": "collective-bargaining",
+      "term": "団体交渉",
+      "definition": "労使が労働条件・関係を集団的に交渉する過程。"
+    },
+    {
+      "id": "worker-representative",
+      "term": "労働者代表",
+      "definition": "働く人の利益・意見を代表する者。"
+    },
+    {
+      "id": "works-council",
+      "term": "従業員代表機関",
+      "definition": "情報・協議・共同決定等を担う代表制度。"
+    },
+    {
+      "id": "union",
+      "term": "労働組合",
+      "definition": "労働条件の維持改善等を目的とする労働者の団体。"
+    },
+    {
+      "id": "anti-union-discrimination",
+      "term": "反組合差別",
+      "definition": "組合加入・活動等を理由とする不利益扱い。"
+    },
+    {
+      "id": "empowerment",
+      "term": "エンパワメント",
+      "definition": "権限・資源・能力・影響を高める過程・状態。"
+    },
+    {
+      "id": "psychological-empowerment",
+      "term": "心理的エンパワメント",
+      "definition": "意味、有能感、自己決定、影響の認知状態。"
+    },
+    {
+      "id": "structural-empowerment",
+      "term": "構造的エンパワメント",
+      "definition": "情報、資源、支援、機会、正式権限へのアクセス。"
+    },
+    {
+      "id": "meaning",
+      "term": "意味",
+      "definition": "仕事の目的と自分の価値・信念との適合感。"
+    },
+    {
+      "id": "competence",
+      "term": "有能感",
+      "definition": "仕事を遂行できるという感覚。"
+    },
+    {
+      "id": "self-determination",
+      "term": "自己決定",
+      "definition": "仕事の開始・方法を自ら選べる感覚。"
+    },
+    {
+      "id": "impact",
+      "term": "影響感",
+      "definition": "自分の行為が組織結果へ影響するという感覚。"
+    },
+    {
+      "id": "pseudo-participation",
+      "term": "疑似参加",
+      "definition": "実質的影響がないのに参加しているように見せること。"
+    },
+    {
+      "id": "tokenism",
+      "term": "形式的包摂",
+      "definition": "少数者を象徴的に含めるが権限・影響を与えないこと。"
+    },
+    {
+      "id": "participation-depth",
+      "term": "参加の深さ",
+      "definition": "情報提供から共同決定までの影響の程度。"
+    },
+    {
+      "id": "participation-scope",
+      "term": "参加範囲",
+      "definition": "扱う議題・対象・組織レベルの広さ。"
+    },
+    {
+      "id": "decision-rights",
+      "term": "意思決定権",
+      "definition": "誰が提案、承認、拒否、実装、再審査できるかの権限。"
+    },
+    {
+      "id": "process-control",
+      "term": "過程統制",
+      "definition": "決定過程で意見・証拠を提示できる程度。"
+    },
+    {
+      "id": "decision-control",
+      "term": "決定統制",
+      "definition": "最終結果を直接決められる程度。"
+    },
+    {
+      "id": "procedural-justice",
+      "term": "手続的公正",
+      "definition": "決定手続が一貫、偏り抑制、正確、訂正可能等であること。"
+    },
+    {
+      "id": "informational-justice",
+      "term": "情報的公正",
+      "definition": "理由・手続が十分かつ誠実に説明されること。"
+    },
+    {
+      "id": "due-process",
+      "term": "適正手続",
+      "definition": "通知、証拠、反論、理由、独立審査等を備える手続。"
+    },
+    {
+      "id": "minority-protection",
+      "term": "少数者保護",
+      "definition": "多数決等で基本的権利・安全が侵されない仕組み。"
+    },
+    {
+      "id": "agenda-access",
+      "term": "議題アクセス",
+      "definition": "問題を正式な検討事項として提起できること。"
+    },
+    {
+      "id": "information-access",
+      "term": "情報アクセス",
+      "definition": "判断・参加に必要な情報へ到達できること。"
+    },
+    {
+      "id": "algorithmic-management",
+      "term": "アルゴリズム管理",
+      "definition": "システムが仕事配分、監視、評価、報酬等を支援・自動化する管理。"
+    },
+    {
+      "id": "automated-decision",
+      "term": "自動意思決定",
+      "definition": "システムが人への判断・結果を自動で決めること。"
+    },
+    {
+      "id": "human-review",
+      "term": "人による再審査",
+      "definition": "権限ある人が証拠と異議を検討し判断を変更できる手続。"
+    },
+    {
+      "id": "digital-surveillance",
+      "term": "デジタル監視",
+      "definition": "デジタル機器・ログ等で行動を継続的に把握すること。"
+    },
+    {
+      "id": "network-analysis",
+      "term": "組織ネットワーク分析",
+      "definition": "関係データから情報・協働等の構造を分析する方法。"
+    },
+    {
+      "id": "purpose-limitation",
+      "term": "目的限定",
+      "definition": "収集データを示した目的以外へ使わない原則。"
+    },
+    {
+      "id": "small-cell-protection",
+      "term": "少人数セル保護",
+      "definition": "集計から個人を再特定できないようにする措置。"
+    },
+    {
+      "id": "decision-log",
+      "term": "意思決定記録",
+      "definition": "議題、証拠、参加者、理由、決定、改訂を残す記録。"
+    },
+    {
+      "id": "exception-log",
+      "term": "例外記録",
+      "definition": "通常ルールから外れた判断と理由を残す記録。"
+    },
+    {
+      "id": "participation-burden",
+      "term": "参加負担",
+      "definition": "会議、感情労働、準備等で参加者に生じる時間・心理的負担。"
+    },
+    {
+      "id": "open-organization",
+      "term": "開かれた組織",
+      "definition": "権力・決定が可視化され、参加・代表・異議・救済へ到達できる組織。"
+    },
+    {
+      "id": "power-harassment",
+      "term": "パワーハラスメント",
+      "definition": "優越的関係を背景に、業務上必要・相当な範囲を超えて就業環境を害する言動。"
+    }
+  ]
+}

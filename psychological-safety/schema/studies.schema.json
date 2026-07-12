@@ -1,0 +1,98 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://research.dror.co.jp/psychological-safety/schema/studies.schema.json",
+  "title": "Psychological safety study catalog",
+  "type": "object",
+  "required": [
+    "name",
+    "version",
+    "studies"
+  ],
+  "properties": {
+    "name": {
+      "type": "string"
+    },
+    "version": {
+      "type": "string"
+    },
+    "notice": {
+      "type": "string"
+    },
+    "studies": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "authors",
+          "year",
+          "title",
+          "journal",
+          "type",
+          "status",
+          "population",
+          "sample",
+          "method",
+          "finding",
+          "limitations",
+          "source_url"
+        ],
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "authors": {
+            "type": "string"
+          },
+          "year": {
+            "type": "integer"
+          },
+          "title": {
+            "type": "string"
+          },
+          "journal": {
+            "type": "string"
+          },
+          "doi": {
+            "type": "string"
+          },
+          "url": {
+            "type": "string"
+          },
+          "type": {
+            "type": "string"
+          },
+          "status": {
+            "type": "string"
+          },
+          "population": {
+            "type": "string"
+          },
+          "sample": {
+            "type": "string"
+          },
+          "method": {
+            "type": "string"
+          },
+          "finding": {
+            "type": "string"
+          },
+          "limitations": {
+            "type": "array",
+            "minItems": 1,
+            "items": {
+              "type": "string"
+            }
+          },
+          "source_url": {
+            "type": "string"
+          },
+          "last_human_verified": {
+            "type": "string",
+            "format": "date"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,417 @@
+{
+  "name": "職場の多様性・包摂・差別・所属感 用語集",
+  "version": "0.1",
+  "license": "CC BY 4.0",
+  "terms": [
+    {
+      "id": "diversity",
+      "term": "多様性",
+      "definition": "集団・組織内に複数の属性、経験、知識、視点、立場等が存在すること。"
+    },
+    {
+      "id": "representation",
+      "term": "代表性",
+      "definition": "ある集団が入口、職種、階層、意思決定等にどの程度存在するか。"
+    },
+    {
+      "id": "equity",
+      "term": "公平",
+      "definition": "異なる障壁・必要を考慮し、実質的な機会・結果へ近づけること。"
+    },
+    {
+      "id": "equality",
+      "term": "平等",
+      "definition": "権利、機会、待遇等を等しく扱う原則。形式的同一と実質的平等を区別する。"
+    },
+    {
+      "id": "inclusion",
+      "term": "包摂",
+      "definition": "所属し参加でき、違い・独自性も尊重される状態・過程。"
+    },
+    {
+      "id": "belongingness",
+      "term": "所属感",
+      "definition": "集団・関係に受け入れられ、つながっているという経験。"
+    },
+    {
+      "id": "uniqueness",
+      "term": "独自性",
+      "definition": "本人の違い、視点、貢献が価値あるものとして認められること。"
+    },
+    {
+      "id": "authenticity",
+      "term": "真正性",
+      "definition": "重要な自己理解や価値と矛盾せずに行動できる感覚。開示義務ではない。"
+    },
+    {
+      "id": "assimilation",
+      "term": "同化",
+      "definition": "少数者が多数派の規範へ合わせ、違いを抑えることを求められる過程。"
+    },
+    {
+      "id": "inclusion-climate",
+      "term": "包摂風土",
+      "definition": "公正な雇用、意思決定への参加、違いからの学習に関する共有認知。"
+    },
+    {
+      "id": "diversity-climate",
+      "term": "多様性風土",
+      "definition": "多様性・差別・公平に関する方針、慣行、経験の共有認知。"
+    },
+    {
+      "id": "inclusive-leadership",
+      "term": "包摂的リーダーシップ",
+      "definition": "構成員の所属と独自性を支える、可視的・アクセス可能・参加促進的な行動。"
+    },
+    {
+      "id": "psychological-safety",
+      "term": "心理的安全性",
+      "definition": "対人リスクを取っても罰・屈辱を受けにくいというチームの共有認知。"
+    },
+    {
+      "id": "voice",
+      "term": "発言",
+      "definition": "問題、提案、懸念、異論等を表明すること。"
+    },
+    {
+      "id": "silence",
+      "term": "沈黙",
+      "definition": "情報・懸念・意見を保持し表明しないこと。理由は多様。"
+    },
+    {
+      "id": "ostracism",
+      "term": "職場排斥",
+      "definition": "無視される、会話・情報・関係から外される等の経験。"
+    },
+    {
+      "id": "incivility",
+      "term": "職場の無礼",
+      "definition": "相手を傷つける意図が曖昧な、低強度の礼節違反。"
+    },
+    {
+      "id": "discrimination",
+      "term": "差別",
+      "definition": "保護される属性等を理由とする不利益な区別・排除・制限。法的定義は管轄で異なる。"
+    },
+    {
+      "id": "direct-discrimination",
+      "term": "直接差別",
+      "definition": "属性を明示的理由として不利益に扱うこと。"
+    },
+    {
+      "id": "indirect-discrimination",
+      "term": "間接差別",
+      "definition": "中立に見える基準・慣行が特定集団へ不均衡な不利益を与えること。"
+    },
+    {
+      "id": "adverse-impact",
+      "term": "不利益な影響",
+      "definition": "選考・制度等が特定集団へ統計的に大きな不利益を与える状態。法的基準は制度差。"
+    },
+    {
+      "id": "harassment",
+      "term": "ハラスメント",
+      "definition": "尊厳を侵害し、威圧的・敵対的・侮辱的環境等を作る望まれない行為。"
+    },
+    {
+      "id": "sexual-harassment",
+      "term": "性的ハラスメント",
+      "definition": "性的性質を持つ望まれない行為等。定義・要件は国内法を確認する。"
+    },
+    {
+      "id": "violence-harassment",
+      "term": "暴力・ハラスメント",
+      "definition": "身体的、心理的、性的、経済的害を目的・結果・可能性として持つ許容できない行為・慣行。"
+    },
+    {
+      "id": "retaliation",
+      "term": "報復",
+      "definition": "相談、通報、参加、権利行使等を理由とする不利益取扱い。"
+    },
+    {
+      "id": "stereotype",
+      "term": "ステレオタイプ",
+      "definition": "社会集団の成員に一般化して帰属される信念・期待。"
+    },
+    {
+      "id": "stereotype-threat",
+      "term": "ステレオタイプ脅威",
+      "definition": "自集団への否定的固定観念で評価される懸念が遂行等へ影響する状態。"
+    },
+    {
+      "id": "implicit-bias",
+      "term": "暗黙バイアス",
+      "definition": "本人が明示的に自覚・支持していない場合もある自動的連合・評価。"
+    },
+    {
+      "id": "implicit-measure",
+      "term": "暗黙測度",
+      "definition": "反応時間等から自動的連合を推定する測定。個人の差別性の確定診断ではない。"
+    },
+    {
+      "id": "colorblindness",
+      "term": "色盲的多様性観",
+      "definition": "人種・民族等の違いを見ない・強調しないことを重視する立場。"
+    },
+    {
+      "id": "multiculturalism",
+      "term": "多文化主義",
+      "definition": "文化的差異を認識し価値づける立場。実装と権力を別途評価する。"
+    },
+    {
+      "id": "intersectionality",
+      "term": "交差性",
+      "definition": "複数の社会的位置と権力関係が同時に経験・結果を形成するという視点。"
+    },
+    {
+      "id": "social-identity",
+      "term": "社会的アイデンティティ",
+      "definition": "社会集団への所属に基づく自己理解の側面。"
+    },
+    {
+      "id": "visible-identity",
+      "term": "可視属性",
+      "definition": "他者から推定されやすい社会的属性。推定が正しいとは限らない。"
+    },
+    {
+      "id": "invisible-identity",
+      "term": "不可視属性",
+      "definition": "外見等から直ちに分からない社会的属性・経験。"
+    },
+    {
+      "id": "disclosure",
+      "term": "開示",
+      "definition": "本人が自らの属性・状態・経験等を他者へ伝えること。"
+    },
+    {
+      "id": "covering",
+      "term": "カバリング",
+      "definition": "知られている属性の目立ち方や関連行動を抑えること。"
+    },
+    {
+      "id": "tokenism",
+      "term": "トークニズム",
+      "definition": "少数者を象徴的に配置し、実質的権限・参加・制度変更を伴わせないこと。"
+    },
+    {
+      "id": "critical-mass",
+      "term": "クリティカルマス",
+      "definition": "少数者が孤立しにくくなると想定される一定の構成規模。普遍的閾値ではない。"
+    },
+    {
+      "id": "race-ethnicity",
+      "term": "人種・民族",
+      "definition": "歴史・社会・政治的に構成されるカテゴリ。国・本人認識で定義が異なる。"
+    },
+    {
+      "id": "gender",
+      "term": "ジェンダー",
+      "definition": "社会的・文化的に形成される性別に関する役割・アイデンティティ・関係。"
+    },
+    {
+      "id": "sexual-orientation",
+      "term": "性的指向",
+      "definition": "恋愛的・性的・情緒的な惹かれの方向等。"
+    },
+    {
+      "id": "gender-identity",
+      "term": "性自認",
+      "definition": "本人が認識するジェンダーに関するアイデンティティ。"
+    },
+    {
+      "id": "disability",
+      "term": "障害",
+      "definition": "心身機能と社会・環境上の障壁との相互作用を含む概念。"
+    },
+    {
+      "id": "reasonable-accommodation",
+      "term": "合理的配慮",
+      "definition": "障害等による障壁を除き、平等な機会を確保するための必要・適切な変更。"
+    },
+    {
+      "id": "accessibility",
+      "term": "アクセシビリティ",
+      "definition": "多様な人が情報、設備、技術、制度、仕事へアクセス・利用できる性質。"
+    },
+    {
+      "id": "universal-design",
+      "term": "ユニバーサルデザイン",
+      "definition": "できる限り多くの人が特別な改変なしに利用できる設計。個別配慮を不要にするとは限らない。"
+    },
+    {
+      "id": "ageism",
+      "term": "エイジズム",
+      "definition": "年齢に基づく固定観念、偏見、差別。"
+    },
+    {
+      "id": "family-responsibilities",
+      "term": "家族的責任",
+      "definition": "子、家族、介護等への責任。家族・ケアの形は多様。"
+    },
+    {
+      "id": "flexibility-stigma",
+      "term": "柔軟勤務スティグマ",
+      "definition": "柔軟勤務利用者をコミットメントや能力が低いとみなす偏見。"
+    },
+    {
+      "id": "religious-accommodation",
+      "term": "宗教的配慮",
+      "definition": "宗教・信条に関する実践と仕事を両立するための変更。法的要件は制度差。"
+    },
+    {
+      "id": "language-access",
+      "term": "言語アクセス",
+      "definition": "理解可能な言語・形式で情報・参加・救済へアクセスできること。"
+    },
+    {
+      "id": "accent-bias",
+      "term": "アクセントバイアス",
+      "definition": "話し方・アクセントを理由とする能力・信頼性等の偏った評価。"
+    },
+    {
+      "id": "employee-resource-group",
+      "term": "ERG",
+      "definition": "共通の属性・経験・関心等を軸にした従業員の自発的グループ。"
+    },
+    {
+      "id": "allyship",
+      "term": "アライシップ",
+      "definition": "特権や資源を用いて不公正の是正を継続的に支える実践。自己称号だけではない。"
+    },
+    {
+      "id": "sponsorship",
+      "term": "スポンサーシップ",
+      "definition": "権限ある人が機会、可視性、資源へのアクセスを積極的に支える機能。"
+    },
+    {
+      "id": "diversity-training",
+      "term": "多様性研修",
+      "definition": "多様性、偏見、差別、包摂等に関する知識・態度・技能・行動を扱う研修。"
+    },
+    {
+      "id": "bias-interruption",
+      "term": "バイアス中断",
+      "definition": "判断過程の特定地点で基準・情報・手続を変え、偏りを減らす設計。"
+    },
+    {
+      "id": "accountability",
+      "term": "説明責任",
+      "definition": "判断者が基準・証拠・結果を説明し、修正へ責任を負うこと。"
+    },
+    {
+      "id": "pay-equity",
+      "term": "報酬公平",
+      "definition": "同一・同一価値労働等に関する報酬の平等・公正。"
+    },
+    {
+      "id": "equal-value-work",
+      "term": "同一価値労働",
+      "definition": "異なる職務でも技能、努力、責任、条件等から同等価値と評価される仕事。"
+    },
+    {
+      "id": "grievance-mechanism",
+      "term": "苦情処理・救済機構",
+      "definition": "懸念・被害を申し立て、調査・訂正・救済を求める正式な経路。"
+    },
+    {
+      "id": "effective-remedy",
+      "term": "実効的救済",
+      "definition": "害を止め、回復・補償・再発防止等へ実際につながる救済。"
+    },
+    {
+      "id": "human-rights-due-diligence",
+      "term": "人権デューディリジェンス",
+      "definition": "人権への負の影響を特定・予防・軽減し、対応を説明する継続的過程。"
+    },
+    {
+      "id": "demographic-data",
+      "term": "属性データ",
+      "definition": "人種・民族、ジェンダー、年齢、障害等に関する個人・集団データ。"
+    },
+    {
+      "id": "self-identification",
+      "term": "自己認識・自己申告",
+      "definition": "本人が自身の属性・アイデンティティを選び表すこと。"
+    },
+    {
+      "id": "small-cell-suppression",
+      "term": "小セル抑制",
+      "definition": "少人数集計を非表示・統合等し再特定リスクを下げる処理。"
+    },
+    {
+      "id": "algorithmic-bias",
+      "term": "アルゴリズムバイアス",
+      "definition": "AI・アルゴリズムの設計・データ・運用が不公正な差を生む問題。"
+    },
+    {
+      "id": "fairness-metric",
+      "term": "公平性指標",
+      "definition": "群間の予測・誤り・結果差等を数理的に表す指標。定義間に競合がある。"
+    },
+    {
+      "id": "high-risk-ai",
+      "term": "高リスクAI",
+      "definition": "法・枠組み上、重大な権利・安全影響から特別要件の対象となるAI。"
+    },
+    {
+      "id": "human-oversight",
+      "term": "人による監督",
+      "definition": "AI利用を理解・監視し、介入・停止・訂正できる人の役割と権限。"
+    },
+    {
+      "id": "emotion-recognition",
+      "term": "感情認識",
+      "definition": "生体・音声・表情等から感情状態を推定する技術。妥当性と法的制限を確認する。"
+    },
+    {
+      "id": "contestability",
+      "term": "異議申立て可能性",
+      "definition": "判断理由を知り、争い、訂正・再審査・救済を求められる性質。"
+    },
+    {
+      "id": "anti-retaliation",
+      "term": "報復防止",
+      "definition": "相談・通報・参加・権利行使への不利益を予防・検知・是正する仕組み。"
+    },
+    {
+      "id": "lgbti",
+      "term": "LGBTI",
+      "definition": "レズビアン、ゲイ、バイセクシュアル、トランスジェンダー、インターセックス等を含む略称。用語と自己認識は多様。"
+    },
+    {
+      "id": "neurodiversity",
+      "term": "ニューロダイバーシティ",
+      "definition": "神経・認知のあり方の多様性を捉える概念。個人の診断・能力を一括して決めるものではない。"
+    },
+    {
+      "id": "digital-accessibility",
+      "term": "デジタルアクセシビリティ",
+      "definition": "多様な人がデジタル情報・機能を知覚、操作、理解、利用できる性質。"
+    },
+    {
+      "id": "bystander-intervention",
+      "term": "傍観者介入",
+      "definition": "問題を見聞きした第三者が、安全と当事者の希望を考慮して支援・報告等を行うこと。"
+    },
+    {
+      "id": "procedural-fairness",
+      "term": "手続的公正",
+      "definition": "決定・調査手続が一貫し、偏りを抑え、説明・訂正・再審査が可能であること。"
+    },
+    {
+      "id": "national-origin",
+      "term": "国籍・民族的出身",
+      "definition": "国籍、出生地、民族的出身等に関する社会的・法的カテゴリ。就労資格と能力評価を区別する。"
+    },
+    {
+      "id": "mental-health-accommodation",
+      "term": "精神健康と配慮",
+      "definition": "精神健康上の状態に関連する障壁を除き、継続就労・復職等を支える個別の変更。"
+    },
+    {
+      "id": "scope-of-protection",
+      "term": "保護・救済の適用範囲",
+      "definition": "応募者、労働者、研修生、請負、第三者等の誰が制度の対象となるか。"
+    }
+  ]
+}

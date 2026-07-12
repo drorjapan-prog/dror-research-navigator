@@ -1,0 +1,78 @@
+{
+  "name": "ワーク・エンゲージメント 採用・除外記録",
+  "version": "0.1",
+  "screening": [
+    {
+      "id": "S01",
+      "decision": "include",
+      "reason": "概念起源",
+      "source": "kahn-1990"
+    },
+    {
+      "id": "S02",
+      "decision": "include",
+      "reason": "UWES基礎",
+      "source": "schaufeli-2002"
+    },
+    {
+      "id": "S03",
+      "decision": "include",
+      "reason": "JD-R基礎",
+      "source": "schaufeli-bakker-2004"
+    },
+    {
+      "id": "S04",
+      "decision": "include",
+      "reason": "日本語版検証",
+      "source": "shimazu-2008"
+    },
+    {
+      "id": "S05",
+      "decision": "include",
+      "reason": "要求メタ分析",
+      "source": "crawford-2010"
+    },
+    {
+      "id": "S06",
+      "decision": "include",
+      "reason": "業績メタ分析",
+      "source": "christian-2011"
+    },
+    {
+      "id": "S07",
+      "decision": "include",
+      "reason": "領域統合レビュー",
+      "source": "bailey-2017"
+    },
+    {
+      "id": "S08",
+      "decision": "include",
+      "reason": "介入メタ分析",
+      "source": "knight-2017"
+    },
+    {
+      "id": "S09",
+      "decision": "include",
+      "reason": "縦断JD-R",
+      "source": "lesener-2019"
+    },
+    {
+      "id": "S10",
+      "decision": "include",
+      "reason": "業績・欠勤統合",
+      "source": "neuber-2021"
+    },
+    {
+      "id": "S11",
+      "decision": "exclude",
+      "reason": "尺度・定義・出典が確認できない一般向けランキング",
+      "source": "generic-ranking"
+    },
+    {
+      "id": "S12",
+      "decision": "exclude",
+      "reason": "商業指標をUWESと同一視する宣伝資料",
+      "source": "vendor-claim"
+    }
+  ]
+}

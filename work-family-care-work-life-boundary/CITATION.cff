@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "利用時は出典を示してください。"
+title: "働く人の心理学・組織研究ナビ：仕事と家庭・ケア・ワークライフ境界"
+version: 0.1
+date-released: 2026-07-12
+authors:
+  - name: "DroR Corporation"
+license: CC-BY-4.0
+type: dataset
+url: "https://research.dror.co.jp/work-family-care-work-life-boundary/"

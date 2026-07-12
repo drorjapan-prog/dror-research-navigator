@@ -1,0 +1,1714 @@
+{
+  "name": "組織の権力・組織政治・従業員参加・発言権 主張レジスター",
+  "version": "0.1",
+  "license": "CC BY 4.0",
+  "claims": [
+    {
+      "id": "PW-C01",
+      "claim": "権力は個人が所有する性格ではなく、資源・選択肢・依存・関係・制度から生じる。",
+      "label": "A",
+      "directness": "権力直接研究",
+      "relationship": "権力‐依存",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "emerson-1962",
+        "brass-1984"
+      ],
+      "limits": [
+        "争点・時点・代替可能性で変わる"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "PW-C02",
+      "claim": "役職上の権限、専門知、情報、予算、ネットワーク、評価・処分権を分けて権力を調べる。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "権力源",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "emerson-1962",
+        "brass-1984",
+        "magee-galinsky-2008"
+      ],
+      "limits": [
+        "非公式権力を個人監視にしない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "PW-C03",
+      "claim": "権力と地位は同じではなく、資源を統制する権力と、尊敬・威信としての地位を区別する。",
+      "label": "A",
+      "directness": "権力直接研究",
+      "relationship": "概念境界",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "magee-galinsky-2008",
+        "anderson-2006"
+      ],
+      "limits": [
+        "役職・収入・人気とも別概念"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "PW-C04",
+      "claim": "組織図だけで意思決定権を判断せず、実際の拒否権、議題設定、情報アクセス、例外承認を確認する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "実質権限",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "brass-1984",
+        "emerson-1962"
+      ],
+      "limits": [
+        "秘密の個人権力ランキングを作らない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "PW-C05",
+      "claim": "権力は行動を活性化し得る一方、個別情報への注意、他者視点、過信、手段視等と関係する条件がある。",
+      "label": "A",
+      "directness": "権力直接研究",
+      "relationship": "権力効果",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "fiske-1993",
+        "keltner-2003",
+        "galinsky-2006",
+        "fast-2012",
+        "gruenfeld-2008"
+      ],
+      "limits": [
+        "短期実験を多く含む",
+        "役職者の人格診断に使わない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "PW-C06",
+      "claim": "権力効果は目標、責任、制度、個人差で変わるため、「権力は必ず人を腐敗させる」と断定しない。",
+      "label": "A",
+      "directness": "権力直接研究",
+      "relationship": "境界条件",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "guinote-2017",
+        "magee-galinsky-2008"
+      ],
+      "limits": [
+        "危害予防と一律烙印を分ける"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "PW-C07",
+      "claim": "高権力者の善意や自己認識だけに頼らず、独立した異議、複数承認、記録、監査、任期・交代を組み合わせる。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "権力抑制",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "fast-2012",
+        "colquitt-2001"
+      ],
+      "limits": [
+        "過剰官僚化と緊急時の責任を設計"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "PW-C08",
+      "claim": "低権力者の警戒・沈黙・慎重さを、性格や意欲の欠陥として評価しない。",
+      "label": "実務原則",
+      "directness": "権力直接研究",
+      "relationship": "低権力の反応",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "keltner-2003",
+        "morrison-2014"
+      ],
+      "limits": [
+        "個人差・文化差を確認"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "PW-C09",
+      "claim": "ネットワーク上の中心性は情報・影響力へ関係し得るが、公式な責任・正当性を自動的に与えない。",
+      "label": "A",
+      "directness": "集団・ネットワーク隣接研究",
+      "relationship": "ネットワーク権力",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "brass-1984",
+        "sparrowe-2001"
+      ],
+      "limits": [
+        "観察研究",
+        "中心性を人の価値にしない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "PW-C10",
+      "claim": "情報の仲介者・ゲートキーパーが単一点障害や恣意的排除にならないよう、代替経路と記録を設ける。",
+      "label": "実務原則",
+      "directness": "集団・ネットワーク隣接研究",
+      "relationship": "情報アクセス",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "brass-1984",
+        "ibarra-1993"
+      ],
+      "limits": [
+        "非公式支援を破壊しない",
+        "再特定防止"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "PW-C11",
+      "claim": "少数者・新規参入者のネットワーク不足を「関係構築力」の欠陥にせず、会議、助言、スポンサー、情報機会の配分を監査する。",
+      "label": "A",
+      "directness": "集団・ネットワーク隣接研究",
+      "relationship": "ネットワーク格差",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "ibarra-1993",
+        "bunderson-2003"
+      ],
+      "limits": [
+        "歴史的属性分類",
+        "交差性を確認"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "PW-C12",
+      "claim": "専門性の影響力は、年齢、性別、役職等の地位手掛かりで歪み得るため、根拠と専門領域を明示する。",
+      "label": "A",
+      "directness": "集団・ネットワーク隣接研究",
+      "relationship": "専門性・地位",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "bunderson-2003"
+      ],
+      "limits": [
+        "特定組織の観察研究"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "PW-C13",
+      "claim": "地位をめぐる対立は課題内容の対立と別で、誰が上かという争いが情報利用・協働を損ない得る。",
+      "label": "A",
+      "directness": "集団・ネットワーク隣接研究",
+      "relationship": "地位対立",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "bendersky-hays-2012"
+      ],
+      "limits": [
+        "短期集団研究",
+        "状況差"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "PW-C14",
+      "claim": "組織政治の知覚は満足・コミットメント低下、ストレイン、退出意向等と関連する。",
+      "label": "A",
+      "directness": "組織政治直接研究",
+      "relationship": "メタ分析",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "chang-2009",
+        "miller-2008"
+      ],
+      "limits": [
+        "相関研究中心",
+        "共通方法差",
+        "因果方向"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "PW-C15",
+      "claim": "組織政治の知覚が高いことを、個別の不正・癒着・違法行為が立証されたことと同一視しない。",
+      "label": "A",
+      "directness": "組織政治直接研究",
+      "relationship": "知覚と事実",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "kacmar-ferris-1991",
+        "chang-2009"
+      ],
+      "limits": [
+        "事実調査とサーベイを分ける"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "PW-C16",
+      "claim": "「政治的でない組織」を標榜するより、資源配分、昇進、例外、議題設定の基準と異議経路を開く。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "透明性",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "kacmar-ferris-1991",
+        "chang-2009",
+        "colquitt-2001"
+      ],
+      "limits": [
+        "機密・個人情報を保護"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "PW-C17",
+      "claim": "政治的スキルは仕事結果と関連するが、不公正な環境へ適応できる人だけを選ぶ根拠にしない。",
+      "label": "A",
+      "directness": "組織政治直接研究",
+      "relationship": "メタ分析",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "ferris-2005",
+        "munyon-2015"
+      ],
+      "limits": [
+        "相関研究中心",
+        "評価者・自己呈示の影響"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "PW-C18",
+      "claim": "政治的スキル研修を、迎合、印象操作、権力者への従属、被害回避の自己責任化に使わない。",
+      "label": "不支持",
+      "directness": "予防原則に基づく推論",
+      "relationship": "政治的スキルの悪用",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "munyon-2015",
+        "ilo-c190"
+      ],
+      "limits": [
+        "制度的保護と救済を先に置く"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "PW-C19",
+      "claim": "発言は改善提案だけでなく、懸念、反対、苦情、通報、集団的要求を含み、経路と保護が異なる。",
+      "label": "A",
+      "directness": "発言・沈黙直接研究",
+      "relationship": "発言の多様性",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "van-dyne-2003",
+        "morrison-2014",
+        "dundon-2004"
+      ],
+      "limits": [
+        "概念・制度差を明示"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "PW-C20",
+      "claim": "沈黙は同意・満足・安全の証拠ではなく、恐れ、諦め、無力感、関係保護、向社会的配慮等から生じ得る。",
+      "label": "A",
+      "directness": "発言・沈黙直接研究",
+      "relationship": "沈黙動機",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "pinder-harlos-2001",
+        "van-dyne-2003",
+        "milliken-2003"
+      ],
+      "limits": [
+        "動機を外部から断定しない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "PW-C21",
+      "claim": "集合的沈黙は個人の勇気不足でなく、管理者信念、集権化、過去の無対応、報復経験から形成され得る。",
+      "label": "A",
+      "directness": "発言・沈黙直接研究",
+      "relationship": "組織的沈黙",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "morrison-milliken-2000",
+        "morrison-2014"
+      ],
+      "limits": [
+        "概念研究を含む",
+        "組織ごとに検証"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "PW-C22",
+      "claim": "促進的発言と抑制的発言は先行要因・受け止められ方が異なるため、提案件数へ一本化しない。",
+      "label": "A",
+      "directness": "発言・沈黙直接研究",
+      "relationship": "発言形態",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "liang-2012",
+        "chamberlin-2017"
+      ],
+      "limits": [
+        "文化・尺度差",
+        "発言の正しさを自動保証しない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "PW-C23",
+      "claim": "リーダーの「ドアは開いている」という宣言より、反対発言後の評価、配置、情報アクセス、報復を追う。",
+      "label": "A",
+      "directness": "発言・沈黙直接研究",
+      "relationship": "リーダー開放性",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "detert-burris-2007",
+        "burris-2012"
+      ],
+      "limits": [
+        "観察研究",
+        "発言内容・関係差"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "PW-C24",
+      "claim": "挑戦的発言者が低く評価される可能性を、伝え方の問題だけへ還元しない。",
+      "label": "A",
+      "directness": "発言・沈黙直接研究",
+      "relationship": "発言者評価",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "burris-2012",
+        "chamberlin-2017"
+      ],
+      "limits": [
+        "発言品質と権力差を分ける"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "PW-C25",
+      "claim": "心理的安全性は発言と関連するが、団結権、代表、団体交渉、公益通報保護、正式救済を代替しない。",
+      "label": "A",
+      "directness": "混合",
+      "relationship": "心理状態と権利",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "frazier-2017",
+        "ilo-c87",
+        "japan-whistleblower"
+      ],
+      "limits": [
+        "尺度得点で法的保護を証明しない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "PW-C26",
+      "claim": "発言制度は、声を出した人数だけでなく、到達、応答、採否理由、実装、危害停止、報復、退出で評価する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "発言の実効性",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "near-miceli-1995",
+        "morrison-2014"
+      ],
+      "limits": [
+        "発言内容の機密・再特定を保護"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "PW-C27",
+      "claim": "意見募集を増やす前に、誰が応答し、何を決められ、いつまでに理由を返すかを定める。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "応答責任",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "morrison-2014",
+        "colquitt-2001"
+      ],
+      "limits": [
+        "すべての提案採用を約束しない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "PW-C28",
+      "claim": "匿名窓口は選択肢として有用でも、追跡・対話・証拠保全の限界を説明し、記名経路を強制しない。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "匿名発言",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "japan-whistleblower",
+        "ilo-data"
+      ],
+      "limits": [
+        "秘密保持の限界を事前説明"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "PW-C29",
+      "claim": "公益通報の成功を通報件数や社内解決率だけでなく、不正停止、是正、損害回復、報復防止で評価する。",
+      "label": "A",
+      "directness": "発言・沈黙直接研究",
+      "relationship": "通報実効性",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "near-miceli-1995",
+        "mesmer-2005"
+      ],
+      "limits": [
+        "国法・組織差",
+        "未報告を観察できない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "PW-C30",
+      "claim": "通報者の地位、支援、ジェンダー等により報復リスクが異なり得るため、平均値だけで安全を判断しない。",
+      "label": "A",
+      "directness": "発言・沈黙直接研究",
+      "relationship": "報復リスク",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "rehg-2008",
+        "mesmer-2005"
+      ],
+      "limits": [
+        "米国中心",
+        "属性分類・交差性"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "PW-C31",
+      "claim": "通報・苦情・反対意見を「組織政治」「忠誠心不足」「ネガティブ」と評価しない。",
+      "label": "不支持",
+      "directness": "混合",
+      "relationship": "発言者保護",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "japan-whistleblower",
+        "ilo-c98",
+        "burris-2012"
+      ],
+      "limits": [
+        "虚偽の断定と証拠不足を区別"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "PW-C32",
+      "claim": "従業員参加は、情報提供、意見聴取、協議、共同決定、委任、代表参加、所有参加を区別する。",
+      "label": "A",
+      "directness": "参加・エンパワメント直接研究",
+      "relationship": "参加の程度",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "cotton-1988",
+        "wilkinson-2014"
+      ],
+      "limits": [
+        "形態・範囲・レベルを明示"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "PW-C33",
+      "claim": "参加の平均効果は一様でなく、参加形態、意思決定への実質的影響、期間、実装、文脈で変わる。",
+      "label": "A",
+      "directness": "参加・エンパワメント直接研究",
+      "relationship": "参加効果",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "wagner-1994",
+        "cotton-1988",
+        "lam-2002"
+      ],
+      "limits": [
+        "古い研究を含む",
+        "権利価値と生産性効果を分ける"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "PW-C34",
+      "claim": "参加の価値を生産性や満足度だけでなく、尊厳、公平、自己決定、集団的権利からも評価する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "参加の目的",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "budd-2010",
+        "dundon-2004",
+        "ilo-c87"
+      ],
+      "limits": [
+        "目的間の緊張を開示"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "PW-C35",
+      "claim": "決定後の説明会や選択肢のないアンケートを、共同決定や協議と表示しない。",
+      "label": "不支持",
+      "directness": "参加・エンパワメント直接研究",
+      "relationship": "疑似参加",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "wilkinson-2014",
+        "lind-1990"
+      ],
+      "limits": [
+        "情報提供自体の価値は別評価"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "PW-C36",
+      "claim": "参加は、選択肢がまだ変えられる時点で、必要情報・時間・専門支援とともに行う。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "早期参加",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "nielsen-randall-2013",
+        "eu-info-consult"
+      ],
+      "limits": [
+        "緊急時の迅速判断と事後検証を設計"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "PW-C37",
+      "claim": "評価・面談への参加は公正・満足等と関連するが、発言機会と最終決定権を区別する。",
+      "label": "A",
+      "directness": "参加・エンパワメント直接研究",
+      "relationship": "評価参加",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "cawley-1998",
+        "lind-1990"
+      ],
+      "limits": [
+        "相関研究中心",
+        "儀礼的参加を避ける"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "PW-C38",
+      "claim": "知覚された統制・参加は満足・ストレイン等と関連するが、心理的統制感だけで実権の欠如を覆わない。",
+      "label": "A",
+      "directness": "参加・エンパワメント直接研究",
+      "relationship": "統制感",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "spector-1986"
+      ],
+      "limits": [
+        "古い相関研究群",
+        "正式権限を別途測定"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "PW-C39",
+      "claim": "心理的エンパワメントは意味、有能感、自己決定、影響の四次元で、権限・資源・保護そのものではない。",
+      "label": "A",
+      "directness": "参加・エンパワメント直接研究",
+      "relationship": "概念境界",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "spreitzer-1995",
+        "maynard-2012"
+      ],
+      "limits": [
+        "自己報告",
+        "構造的権限と区別"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "PW-C40",
+      "claim": "エンパワメントは仕事結果と関連するが、責任だけを渡し、権限・資源・情報・支援を渡さないことを正当化しない。",
+      "label": "A",
+      "directness": "参加・エンパワメント直接研究",
+      "relationship": "メタ分析・境界",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "seibert-2011",
+        "conger-kanungo-1988"
+      ],
+      "limits": [
+        "相関研究中心",
+        "構造条件を監査"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "PW-C41",
+      "claim": "「自律型チーム」を管理者の支援撤退、過大責任、同僚相互監視、未払い調整労働にしない。",
+      "label": "不支持",
+      "directness": "予防原則に基づく推論",
+      "relationship": "責任転嫁",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "maynard-2012",
+        "ilo-c190"
+      ],
+      "limits": [
+        "権限、要員、時間、異議、救済を保障"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "PW-C42",
+      "claim": "直接参加と労働者代表・労組による代表参加を代替関係とせず、相互補完を検討する。",
+      "label": "A",
+      "directness": "参加・エンパワメント直接研究",
+      "relationship": "直接・代表参加",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "kim-macduffie-2010",
+        "budd-2010"
+      ],
+      "limits": [
+        "製造業観察研究",
+        "制度・国差"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "PW-C43",
+      "claim": "個人のスピークアップ制度を、団結・代表・団体交渉の代替として使わない。",
+      "label": "不支持",
+      "directness": "公式指針・制度",
+      "relationship": "集団的権利",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "ilo-c87",
+        "ilo-c98",
+        "ilo-c154",
+        "japan-constitution"
+      ],
+      "limits": [
+        "批准・国内制度・適用を確認"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "PW-C44",
+      "claim": "労働者代表が不利益なく活動できる時間、情報、アクセス、独立性を確保する。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "代表保護",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "ilo-c135",
+        "japan-labor-union"
+      ],
+      "limits": [
+        "代表性・利益相反・国内制度を確認"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "PW-C45",
+      "claim": "代表者を管理側が選別・評価・報酬して独立性を損なうことを支持しない。",
+      "label": "不支持",
+      "directness": "公式指針・制度",
+      "relationship": "代表独立性",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "ilo-c98",
+        "ilo-c135"
+      ],
+      "limits": [
+        "適法な便宜供与と支配介入を区別"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "PW-C46",
+      "claim": "多数決だけで少数者の安全・差別・基本権を上書きせず、拒否できない最低線と救済を置く。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "多数と権利",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "ilo-c190",
+        "colquitt-2001"
+      ],
+      "limits": [
+        "意思決定ルールを事前明示"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "PW-C47",
+      "claim": "協議や交渉の当事者、議題、情報、期限、権限、合意・不成立後の経路を明示する。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "協議設計",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "ilo-c154",
+        "eu-info-consult"
+      ],
+      "limits": [
+        "機密情報の正当な範囲と検証"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "PW-C48",
+      "claim": "発言機会は結果を変えなくても公正知覚へ関係し得るが、聞くだけの儀礼で実質的影響を偽装しない。",
+      "label": "A",
+      "directness": "混合",
+      "relationship": "ボイス効果",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "lind-1990",
+        "colquitt-2001"
+      ],
+      "limits": [
+        "実験研究",
+        "事前発言と事後説明を区別"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "PW-C49",
+      "claim": "決定者は採否理由、用いた証拠、考慮した代替案、不確実性、再検討条件を説明する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "説明責任",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "colquitt-2001",
+        "eu-info-consult"
+      ],
+      "limits": [
+        "個人情報・営業秘密を保護"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "PW-C50",
+      "claim": "不利益決定には、本人・代表への通知、記録アクセス、反論、訂正、独立再審査を設ける。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "適正手続",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "colquitt-2001",
+        "ilo-data"
+      ],
+      "limits": [
+        "個別法令・期限を確認"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "PW-C51",
+      "claim": "権限委譲では、決めてよい範囲、予算、人員、停止権限、相談・上申、責任上限を文書化する。",
+      "label": "実務原則",
+      "directness": "参加・エンパワメント直接研究",
+      "relationship": "委譲設計",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "maynard-2012",
+        "nielsen-randall-2013"
+      ],
+      "limits": [
+        "状況変化時に更新"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "PW-C52",
+      "claim": "参加者へ追加の会議・調整・感情労働を無償で負わせず、勤務時間、代替要員、謝礼、専門支援を用意する。",
+      "label": "実務原則",
+      "directness": "予防原則に基づく推論",
+      "relationship": "参加負担",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "nielsen-randall-2013",
+        "ilo-c135"
+      ],
+      "limits": [
+        "代表役割と通常業務の両立を監査"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "PW-C53",
+      "claim": "参加しない・意見を保留する・代表に委ねる選択を、意欲や忠誠心の不足にしない。",
+      "label": "不支持",
+      "directness": "予防原則に基づく推論",
+      "relationship": "参加の自由",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "van-dyne-2003",
+        "ilo-c87"
+      ],
+      "limits": [
+        "必要な職務上協議との境界を説明"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "PW-C54",
+      "claim": "参加者名簿、発言、ネットワーク、投票、通報データを人事評価・離職予測・組合活動監視へ二次利用しない。",
+      "label": "不支持",
+      "directness": "公式指針・制度",
+      "relationship": "データ目的限定",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "ilo-data",
+        "ilo-c98"
+      ],
+      "limits": [
+        "法的保存義務・調査権限を確認"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "PW-C55",
+      "claim": "社会ネットワーク分析で「影響者」「孤立者」「抵抗者」を秘密に格付けしない。",
+      "label": "不支持",
+      "directness": "予防原則に基づく推論",
+      "relationship": "ネットワーク監視",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "brass-1984",
+        "ibarra-1993",
+        "ilo-data"
+      ],
+      "limits": [
+        "再特定、同意、目的限定、群別影響を確認"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "PW-C56",
+      "claim": "組織ネットワークは個人の友人関係を収集する前に、会議招待、情報経路、承認フロー等の制度データで調べる。",
+      "label": "実務原則",
+      "directness": "集団・ネットワーク隣接研究",
+      "relationship": "データ最小化",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "brass-1984",
+        "ilo-data"
+      ],
+      "limits": [
+        "非公式支援を欠落する限界を明示"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "PW-C57",
+      "claim": "アルゴリズム管理は仕事配分、監視、評価、報酬、制裁、異議の入口を統制する権力装置として評価する。",
+      "label": "A",
+      "directness": "集団・ネットワーク隣接研究",
+      "relationship": "アルゴリズム権力",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "kellogg-2020",
+        "parent-parker-2022"
+      ],
+      "limits": [
+        "概念・レビュー中心",
+        "技術・産業差"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "PW-C58",
+      "claim": "AIの精度だけでなく、誰が目的・データ・閾値を決め、誰が停止・訂正・上書きできるかを公開する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "AI決定権",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "kellogg-2020",
+        "eu-platform-2024"
+      ],
+      "limits": [
+        "企業秘密の範囲を限定",
+        "実質的な人の権限を確認"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "PW-C59",
+      "claim": "自動評価への「人による確認」を、画面上の承認クリックだけにせず、時間、証拠、裁量、責任を持つ再審査にする。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "人の監督",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "eu-platform-2024",
+        "ilo-data"
+      ],
+      "limits": [
+        "EU法の適用範囲を限定"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "PW-C60",
+      "claim": "通信量、位置、応答速度、発言量を、協働、貢献、忠誠、反対姿勢の代理にしない。",
+      "label": "不支持",
+      "directness": "混合",
+      "relationship": "デジタル代理指標",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "kellogg-2020",
+        "parent-parker-2022",
+        "ilo-data"
+      ],
+      "limits": [
+        "役割・障害・勤務形態・見えない労働を欠落"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "PW-C61",
+      "claim": "アプリの投票・いいね・ランキングを、民主的参加や代表性の証拠にしない。",
+      "label": "不支持",
+      "directness": "予防原則に基づく推論",
+      "relationship": "デジタル参加",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "wilkinson-2014",
+        "eu-info-consult"
+      ],
+      "limits": [
+        "アクセス、熟議、少数者、権限を確認"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "PW-C62",
+      "claim": "組織政治サーベイ、発言サーベイ、参加率を個人・部署の忠誠や「抵抗度」評価へ使わない。",
+      "label": "不支持",
+      "directness": "予防原則に基づく推論",
+      "relationship": "サーベイ悪用",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "kacmar-ferris-1991",
+        "morrison-2014"
+      ],
+      "limits": [
+        "集計・少人数保護・目的限定"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "PW-C63",
+      "claim": "低い苦情・通報・反対件数を、権力乱用がないことや参加制度が機能している証拠にしない。",
+      "label": "不支持",
+      "directness": "混合",
+      "relationship": "件数解釈",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "morrison-milliken-2000",
+        "mesmer-2005",
+        "japan-whistleblower"
+      ],
+      "limits": [
+        "到達率、未報告理由、報復、退出を併記"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "PW-C64",
+      "claim": "権力・参加の監査は、誰が会議にいるかだけでなく、議題提案、資料入手、質問、拒否、採決、実装、再審査の各段階を見る。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "意思決定監査",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "wilkinson-2014",
+        "brass-1984"
+      ],
+      "limits": [
+        "観察が発言抑制にならないよう設計"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "PW-C65",
+      "claim": "権力差は職位平均だけでなく、雇用形態、属性、勤務帯、拠点、言語、顧客依存、在留・生活上の依存を交差的に調べる。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "交差する依存",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "emerson-1962",
+        "ibarra-1993",
+        "ilo-c190"
+      ],
+      "limits": [
+        "少人数再特定を防ぐ"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "PW-C66",
+      "claim": "権力関係の成果は、意思決定速度だけでなく、質、安全、公正、学習、異議、健康、退出、権利侵害を多面的に評価する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "多次元成果",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "colquitt-2001",
+        "frazier-2017",
+        "ilo-c190"
+      ],
+      "limits": [
+        "一指標最適化を避ける"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "PW-C67",
+      "claim": "参加制度の平均満足度だけでなく、誰の提案が採用され、誰が負担・報復・排除を受けたかを群別に追う。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "分配評価",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "nielsen-randall-2013",
+        "colquitt-2001"
+      ],
+      "limits": [
+        "少人数保護",
+        "採否の質的理由も残す"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "PW-C68",
+      "claim": "意思決定を速めるために異議経路をなくさず、緊急時は期限付き例外、事後説明、独立検証を設ける。",
+      "label": "実務原則",
+      "directness": "予防原則に基づく推論",
+      "relationship": "緊急権限",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "colquitt-2001",
+        "ilo-c190"
+      ],
+      "limits": [
+        "緊急の定義・期間・解除を記録"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "PW-C69",
+      "claim": "権力の集中を、英雄的リーダーや創業者の能力だけで正当化しない。",
+      "label": "不支持",
+      "directness": "権力直接研究",
+      "relationship": "個人中心主義",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "magee-galinsky-2008",
+        "fast-2012"
+      ],
+      "limits": [
+        "専門性と最終責任は別途設計"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "PW-C70",
+      "claim": "「フラット組織」を名乗るだけで権力差が消えたとせず、非公式な承認・情報・評判権力を監査する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "非公式階層",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "magee-galinsky-2008",
+        "brass-1984"
+      ],
+      "limits": [
+        "公式な責任の不明確化に注意"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "PW-C71",
+      "claim": "「心理的安全性があるから労組・代表は不要」という主張を支持しない。",
+      "label": "不支持",
+      "directness": "公式指針・制度",
+      "relationship": "権利の代替不可",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "frazier-2017",
+        "ilo-c87",
+        "ilo-c98"
+      ],
+      "limits": [
+        "心理尺度と制度的権利を分ける"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "PW-C72",
+      "claim": "従業員リソースグループや文化委員会を、正式な代表・苦情・団体交渉制度の代替にしない。",
+      "label": "不支持",
+      "directness": "公式指針・制度",
+      "relationship": "任意組織の限界",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "ilo-c135",
+        "ilo-c154"
+      ],
+      "limits": [
+        "任意活動の価値は別評価",
+        "代表性・権限を明示"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "PW-C73",
+      "claim": "管理者は反対意見を求めるだけでなく、自分の案への拒否・保留・外部相談が不利益にならないことを行動で示す。",
+      "label": "実務原則",
+      "directness": "発言・沈黙直接研究",
+      "relationship": "権力者の行動",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "detert-burris-2007",
+        "burris-2012"
+      ],
+      "limits": [
+        "危険・違法な指示への拒否権を別途確認"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "PW-C74",
+      "claim": "「率直に話せ」という要求を、感情開示、即答、会議発言、実名告発の強制にしない。",
+      "label": "不支持",
+      "directness": "発言・沈黙直接研究",
+      "relationship": "発言強制",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "van-dyne-2003",
+        "ilo-data"
+      ],
+      "limits": [
+        "書面、代理、匿名、保留の選択肢"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "PW-C75",
+      "claim": "協議の機密指定は範囲・理由・期間・解除条件を示し、違法行為や危害の隠蔽、代表活動の妨害に使わない。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "機密と発言",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "ilo-c98",
+        "japan-whistleblower",
+        "eu-info-consult"
+      ],
+      "limits": [
+        "適用法・正当な秘密を確認"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "PW-C76",
+      "claim": "調査・懲戒・紛争で「双方に権力がある」と形式的に対称化せず、評価権、雇用依存、反復、集団多数、報復可能性を調べる。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "権力非対称",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "emerson-1962",
+        "rehg-2008",
+        "ilo-c190"
+      ],
+      "limits": [
+        "責任を事実・証拠に基づき判断"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "PW-C77",
+      "claim": "政治的行動をすべて排除するのではなく、公共的な連合形成・交渉・代表と、欺瞞・報復・私物化を区別する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "政治の境界",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "kacmar-ferris-1991",
+        "budd-2010",
+        "kish-gephart-2010"
+      ],
+      "limits": [
+        "正当性・透明性・権利・害で評価"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "PW-C78",
+      "claim": "権力マップを公開する場合は役割・決定・経路を中心にし、個人の弱点・関係・反対傾向を公開しない。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "オープンデータ",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "brass-1984",
+        "ilo-data"
+      ],
+      "limits": [
+        "個人情報・安全・報復リスクを保護"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "PW-C79",
+      "claim": "公開する参加データには、参加母集団、経路、段階、権限、回答率、採否、理由、未実装、報復・退出、禁止用途を付す。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "公開データ統治",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "nielsen-randall-2013",
+        "wilkinson-2014"
+      ],
+      "limits": [
+        "少人数・機密事案を保護"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "PW-C80",
+      "claim": "制度の見直しでは、権限者・代表・少数者・非参加者・退出者を含む複数経路で評価し、訂正履歴を残す。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "継続改善",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "nielsen-randall-2013",
+        "morrison-2014"
+      ],
+      "limits": [
+        "退出者への接触は任意・最小限"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "PW-C81",
+      "claim": "良い参加とは全員一致ではなく、異議が安全に表明され、実質的に検討され、理由ある決定と救済へつながることとして評価する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "完成原則",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "lind-1990",
+        "budd-2010",
+        "ilo-c87"
+      ],
+      "limits": [
+        "合意強制や多数派支配を避ける"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "PW-C82",
+      "claim": "開かれた組織とは権力が存在しない組織ではなく、誰が何を決めるかが見え、影響を受ける人が参加・代表・異議・救済へ到達できる組織である。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "公共性原則",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "emerson-1962",
+        "wilkinson-2014",
+        "colquitt-2001",
+        "ilo-c98"
+      ],
+      "limits": [
+        "透明性と個人情報保護を両立"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "PW-C83",
+      "claim": "優越的な関係を背景にしたハラスメントを「組織政治への適応力」「伝え方」「双方の問題」へ還元せず、安全確保、相談、調査、是正へ接続する。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "権力とハラスメント",
+      "scope": [
+        "組織・職場"
+      ],
+      "sources": [
+        "emerson-1962",
+        "ilo-c190",
+        "mhlw-harassment"
+      ],
+      "limits": [
+        "個別該当性・証拠・手続は専門窓口へ確認"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    }
+  ]
+}

@@ -1,0 +1,547 @@
+{
+  "name": "リーダーシップ・管理職行動・フォロワーシップ 研究の質と限界",
+  "version": "0.1",
+  "notice": "簡易評価であり正式なRoB評価ではない。",
+  "assessments": [
+    {
+      "study_id": "house-1971",
+      "design": "contingency theory",
+      "strength": "理論・測定研究",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "古典理論",
+        "現代の多様な雇用・デジタル環境へ直接適用しない"
+      ]
+    },
+    {
+      "study_id": "kerr-1978",
+      "design": "theory and measurement",
+      "strength": "理論・測定研究",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "古典理論・尺度",
+        "公式責任が消えることを意味しない"
+      ]
+    },
+    {
+      "study_id": "meindl-1985",
+      "design": "theory and experiments",
+      "strength": "理論・測定研究",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "実験・帰属研究",
+        "リーダーの実際の影響を否定しない"
+      ]
+    },
+    {
+      "study_id": "graen-1995",
+      "design": "theory review",
+      "strength": "理論・測定研究",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "レビュー",
+        "内集団・外集団の固定化を正当化しない"
+      ]
+    },
+    {
+      "study_id": "gerstner-1997",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "相関研究中心",
+        "上司評価との共通方法",
+        "二者の認識差"
+      ]
+    },
+    {
+      "study_id": "dulebohn-2012",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "相関研究中心",
+        "好意・類似性による選別を点検"
+      ]
+    },
+    {
+      "study_id": "rockstuhl-2012",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "国単位文化指標の粗さ",
+        "個人を国籍で推定しない"
+      ]
+    },
+    {
+      "study_id": "judge-2004",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "相関研究を含む",
+        "尺度重複",
+        "因果を断定しない"
+      ]
+    },
+    {
+      "study_id": "judge-2004-behavior",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "相関研究を含む",
+        "古典尺度",
+        "行動の質・文脈差"
+      ]
+    },
+    {
+      "study_id": "kluger-1996",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "多様な課題・標本",
+        "現代の継続的評価技術へ直接適用しない"
+      ]
+    },
+    {
+      "study_id": "wang-shared-2014",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "相関研究を含む",
+        "公式責任者不要を意味しない"
+      ]
+    },
+    {
+      "study_id": "wang-2011",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "観察研究を多く含む",
+        "同一尺度・同一回答者",
+        "水準を混同しない"
+      ]
+    },
+    {
+      "study_id": "brown-2005",
+      "design": "construct development and field studies",
+      "strength": "理論・測定研究",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "自己報告・評定",
+        "徳目ラベルだけで制度を評価しない"
+      ]
+    },
+    {
+      "study_id": "bedi-2016",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "相関研究中心",
+        "概念・尺度の重なり",
+        "倫理性を本人評判だけで判断しない"
+      ]
+    },
+    {
+      "study_id": "gardner-2011",
+      "design": "integrative review",
+      "strength": "理論・測定研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "概念の新規性・識別妥当性に課題",
+        "真正さを私生活開示としない"
+      ]
+    },
+    {
+      "study_id": "banks-2016",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "研究数・測定",
+        "ブランド化した概念を別物と断定しない"
+      ]
+    },
+    {
+      "study_id": "eva-2019",
+      "design": "systematic review",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "概念・尺度の乱立",
+        "自己犠牲や無償ケアを強制しない"
+      ]
+    },
+    {
+      "study_id": "amundsen-2014",
+      "design": "construct development and field studies",
+      "strength": "理論・測定研究",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "尺度開発",
+        "責任だけの移譲と区別"
+      ]
+    },
+    {
+      "study_id": "lee-2018",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "相関研究を含む",
+        "職務・文化条件",
+        "権限・資源の実態を確認"
+      ]
+    },
+    {
+      "study_id": "cheong-2016",
+      "design": "multisource field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "観察研究",
+        "職務・資源・希望に依存"
+      ]
+    },
+    {
+      "study_id": "detert-2007",
+      "design": "multisource field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "観察研究",
+        "発言後の反映・報復を別途確認"
+      ]
+    },
+    {
+      "study_id": "morrison-2014",
+      "design": "integrative review",
+      "strength": "理論・測定研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "レビュー",
+        "発言量を忠誠心とみなさない"
+      ]
+    },
+    {
+      "study_id": "chamberlin-2017",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "相関研究中心",
+        "発言者評価バイアス",
+        "沈黙の理由を推定しない"
+      ]
+    },
+    {
+      "study_id": "owens-2013",
+      "design": "construct development and field studies",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "評価研究",
+        "卑下・服従・責任回避と区別"
+      ]
+    },
+    {
+      "study_id": "uhlbien-2014",
+      "design": "integrative review",
+      "strength": "理論・測定研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "レビュー",
+        "責任・権力差を対称化しない"
+      ]
+    },
+    {
+      "study_id": "carsten-2010",
+      "design": "qualitative study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "質的・限定標本",
+        "類型で個人を固定しない"
+      ]
+    },
+    {
+      "study_id": "howell-2005",
+      "design": "conceptual theory",
+      "strength": "理論・測定研究",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "概念論文",
+        "カリスマへの同一化の副作用を検討"
+      ]
+    },
+    {
+      "study_id": "dinh-2014",
+      "design": "integrative review",
+      "strength": "理論・測定研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "レビュー期間",
+        "理論数の多さは有効性確立を意味しない"
+      ]
+    },
+    {
+      "study_id": "avolio-2009",
+      "design": "integrative review",
+      "strength": "理論・測定研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "レビュー",
+        "単一の最良理論を選ばない"
+      ]
+    },
+    {
+      "study_id": "day-2000",
+      "design": "integrative review",
+      "strength": "理論・測定研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "レビュー",
+        "研修参加を成果としない"
+      ]
+    },
+    {
+      "study_id": "day-2014",
+      "design": "25-year review",
+      "strength": "理論・測定研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "レビュー",
+        "長期追跡・移転の不足"
+      ]
+    },
+    {
+      "study_id": "lacerenza-2017",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "介入・評価の異質性",
+        "選抜・脱落",
+        "組織制度の代替ではない"
+      ]
+    },
+    {
+      "study_id": "tepper-2000",
+      "design": "field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "観察・自己報告",
+        "知覚構成概念",
+        "正式な事実認定とは別"
+      ]
+    },
+    {
+      "study_id": "tepper-2007",
+      "design": "integrative review",
+      "strength": "理論・測定研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "レビュー",
+        "暴力・ハラスメント法上の判断と同一ではない"
+      ]
+    },
+    {
+      "study_id": "mackey-2017",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "相関・自己報告中心",
+        "逆因果・共通方法",
+        "被害者責任化を避ける"
+      ]
+    },
+    {
+      "study_id": "schyns-2013",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "構成概念の異質性",
+        "自己報告中心",
+        "制度的原因も確認"
+      ]
+    },
+    {
+      "study_id": "skogstad-2007",
+      "design": "field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "観察研究",
+        "裁量付与と責任放棄を区別"
+      ]
+    },
+    {
+      "study_id": "grijalva-2015",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "測定・サンプルの異質性",
+        "臨床診断ではない",
+        "性格で採否を自動化しない"
+      ]
+    },
+    {
+      "study_id": "harms-2017",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "相関研究中心",
+        "因果方向",
+        "仕事量等の構造要因を別途確認"
+      ]
+    },
+    {
+      "study_id": "montano-2017",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "相関研究中心",
+        "健康の自己報告",
+        "臨床診断ではない"
+      ]
+    },
+    {
+      "study_id": "clarke-2013",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "相関研究を含む",
+        "リーダー行動で安全管理制度を代替しない"
+      ]
+    },
+    {
+      "study_id": "randel-2018",
+      "design": "integrative conceptual review",
+      "strength": "理論・測定研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "概念レビュー",
+        "実証効果の確定ではない",
+        "制度・配分を伴わせる"
+      ]
+    },
+    {
+      "study_id": "nembhard-2006",
+      "design": "field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "医療・観察研究",
+        "他職種への一般化に注意"
+      ]
+    },
+    {
+      "study_id": "eagly-2003",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "二分法カテゴリ",
+        "個人へ平均差を適用しない",
+        "制度・役割期待を含む"
+      ]
+    },
+    {
+      "study_id": "paustian-2014",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "二分法カテゴリ",
+        "評価バイアス",
+        "能力差の証明ではない"
+      ]
+    },
+    {
+      "study_id": "eaglykarau-2002",
+      "design": "integrative theory review",
+      "strength": "理論・測定研究",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "理論レビュー",
+        "性別二分法・時代文脈",
+        "交差性を十分扱わない"
+      ]
+    },
+    {
+      "study_id": "contreras-2020",
+      "design": "integrative review",
+      "strength": "理論・測定研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "COVID-19期のレビュー",
+        "技術更新",
+        "効果量統合ではない"
+      ]
+    },
+    {
+      "study_id": "kellogg-2020",
+      "design": "integrative review",
+      "strength": "理論・測定研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "レビュー",
+        "産業・技術差",
+        "効果量統合ではない"
+      ]
+    },
+    {
+      "study_id": "parent-parker-2022",
+      "design": "integrative conceptual review",
+      "strength": "理論・測定研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "概念・統合研究",
+        "長期介入効果は未確立"
+      ]
+    },
+    {
+      "study_id": "who-2022",
+      "design": "official evidence-based guideline",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "リーダーシップ専用ではない",
+        "国内制度・個別状況を確認"
+      ]
+    },
+    {
+      "study_id": "ilo-c190",
+      "design": "international labour convention",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "批准・国内法を確認",
+        "研究上の虐待的監督と法的判断を区別"
+      ]
+    },
+    {
+      "study_id": "ilo-data",
+      "design": "official code of practice",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "拘束的条約ではない",
+        "国内法を別途確認"
+      ]
+    }
+  ]
+}

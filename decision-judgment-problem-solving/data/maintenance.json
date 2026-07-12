@@ -1,0 +1,20 @@
+{
+  "version": "0.1",
+  "cadence": "少なくとも年1回、判断科学・集団意思決定・AI意思決定支援・制度変更時に臨時更新する。",
+  "immediate_update_triggers": [
+    "判断・デバイアスの主要メタ分析",
+    "集団意思決定・予測研究の更新",
+    "選択アーキテクチャ効果の再評価",
+    "AI意思決定支援・自動化バイアス研究",
+    "AI・労働者データ・自動判断制度変更",
+    "収録研究の訂正・撤回"
+  ],
+  "change_log_fields": [
+    "date",
+    "before",
+    "after",
+    "reason",
+    "source",
+    "affected_claim_ids"
+  ]
+}

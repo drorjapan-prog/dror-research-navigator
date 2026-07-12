@@ -1,0 +1,612 @@
+{
+  "name": "感情労働・顧客対応・カスタマーハラスメント 用語集",
+  "version": "0.1",
+  "license": "CC BY 4.0",
+  "terms": [
+    {
+      "id": "emotional-labor",
+      "term": "感情労働",
+      "definition": "仕事上求められる感情表出・抑制・調整を行う労働過程。"
+    },
+    {
+      "id": "emotion-work",
+      "term": "感情作業",
+      "definition": "他者や自分の感情へ働きかける活動。感情労働より広く使われることがある。"
+    },
+    {
+      "id": "emotion-regulation",
+      "term": "感情調整",
+      "definition": "感情が生じる時期、強さ、経験、表出へ働きかける過程。"
+    },
+    {
+      "id": "display-rule",
+      "term": "感情表示規則",
+      "definition": "職務でどの感情をどのように表す／抑えるべきかという明示・暗黙の規範。"
+    },
+    {
+      "id": "display-autonomy",
+      "term": "表出裁量",
+      "definition": "感情の示し方を本人が選べる程度。"
+    },
+    {
+      "id": "surface-acting",
+      "term": "表層演技",
+      "definition": "内面の感情を変えず外的表出を調整すること。"
+    },
+    {
+      "id": "deep-acting",
+      "term": "深層演技",
+      "definition": "求められる表出に近づけるよう内面の感情へ働きかけること。"
+    },
+    {
+      "id": "genuine-expression",
+      "term": "自然な感情表出",
+      "definition": "職務上適切な表出と本人の感じる感情が比較的一致する表出。"
+    },
+    {
+      "id": "emotional-dissonance",
+      "term": "感情的不協和",
+      "definition": "感じる感情と求められる／示す感情のずれ。"
+    },
+    {
+      "id": "emotional-requirement",
+      "term": "感情要求",
+      "definition": "仕事が感情表出・抑制・共感・平静等を求める程度。"
+    },
+    {
+      "id": "positive-display",
+      "term": "肯定的表出",
+      "definition": "笑顔、親しさ、落ち着き等の肯定的と解釈される表出。"
+    },
+    {
+      "id": "negative-display",
+      "term": "否定的表出",
+      "definition": "怒り、厳格さ、悲しみ等の否定的と解釈される表出。"
+    },
+    {
+      "id": "neutral-display",
+      "term": "中立的表出",
+      "definition": "感情を強く示さず中立・平静を保つ表出。"
+    },
+    {
+      "id": "authenticity",
+      "term": "真正性",
+      "definition": "表出が本人の感情・自己と一致しているという経験または知覚。"
+    },
+    {
+      "id": "authenticity-climate",
+      "term": "真正性風土",
+      "definition": "本人らしい表出や違いが許容されるという共有認知。"
+    },
+    {
+      "id": "emotional-contagion",
+      "term": "感情伝染",
+      "definition": "他者の表出を通じ感情状態が影響を受ける過程。"
+    },
+    {
+      "id": "affective-event",
+      "term": "感情的出来事",
+      "definition": "仕事中の感情反応を生む具体的な出来事。"
+    },
+    {
+      "id": "affect",
+      "term": "感情状態",
+      "definition": "気分・情動等を含む比較的広い感情経験。"
+    },
+    {
+      "id": "emotional-exhaustion",
+      "term": "情緒的消耗",
+      "definition": "感情的資源を使い果たしたと感じる状態。"
+    },
+    {
+      "id": "burnout",
+      "term": "燃え尽き",
+      "definition": "消耗等を含む仕事関連の持続的な不調概念。"
+    },
+    {
+      "id": "rumination",
+      "term": "反すう",
+      "definition": "出来事や感情を繰り返し考え続けること。"
+    },
+    {
+      "id": "recovery",
+      "term": "回復",
+      "definition": "仕事で消費した心理・身体資源が戻る過程。"
+    },
+    {
+      "id": "detachment",
+      "term": "心理的切離し",
+      "definition": "勤務外に仕事から心理的に離れること。"
+    },
+    {
+      "id": "customer-service",
+      "term": "顧客対応",
+      "definition": "顧客・利用者等の問題解決、案内、提供、支援を行う業務。"
+    },
+    {
+      "id": "service-encounter",
+      "term": "サービス接点",
+      "definition": "従業員と顧客・利用者が相互作用する場面。"
+    },
+    {
+      "id": "frontline-worker",
+      "term": "前線従業員",
+      "definition": "顧客・利用者と直接接する労働者。"
+    },
+    {
+      "id": "service-climate",
+      "term": "サービス風土",
+      "definition": "質の高いサービスが期待・支援・評価されるという共有認知。"
+    },
+    {
+      "id": "service-quality",
+      "term": "サービス品質",
+      "definition": "提供過程・結果が利用者の必要や基準を満たす程度。"
+    },
+    {
+      "id": "customer-satisfaction",
+      "term": "顧客満足",
+      "definition": "顧客がサービス経験を期待等と比較して評価する反応。"
+    },
+    {
+      "id": "customer-feedback",
+      "term": "顧客フィードバック",
+      "definition": "顧客が改善、評価、苦情、称賛等として伝える情報。"
+    },
+    {
+      "id": "complaint",
+      "term": "苦情・申出",
+      "definition": "不具合、不利益、権利侵害等について説明・是正を求める行為。"
+    },
+    {
+      "id": "legitimate-complaint",
+      "term": "正当な苦情",
+      "definition": "内容・方法が権利や社会通念上許容される範囲にある申出。"
+    },
+    {
+      "id": "customer-mistreatment",
+      "term": "顧客による不当扱い",
+      "definition": "顧客から従業員への不公正・無礼・攻撃等の総称。"
+    },
+    {
+      "id": "customer-aggression",
+      "term": "顧客攻撃",
+      "definition": "顧客による言語的・身体的・関係的な攻撃行動。"
+    },
+    {
+      "id": "verbal-aggression",
+      "term": "言語的攻撃",
+      "definition": "怒鳴る、侮辱、脅迫等の言語による攻撃。"
+    },
+    {
+      "id": "physical-violence",
+      "term": "身体的暴力",
+      "definition": "殴打、蹴り、物を投げる等の身体への危害。"
+    },
+    {
+      "id": "threat",
+      "term": "脅迫・危害予告",
+      "definition": "危害を加える意思・可能性を伝える言動。"
+    },
+    {
+      "id": "incivility",
+      "term": "無礼",
+      "definition": "低強度で害意が曖昧な、相互尊重規範に反する言動。"
+    },
+    {
+      "id": "sexual-harassment",
+      "term": "セクシュアルハラスメント",
+      "definition": "望まない性的言動により不利益や就業環境侵害等を生じさせること。"
+    },
+    {
+      "id": "third-party-harassment",
+      "term": "第三者ハラスメント",
+      "definition": "顧客、患者、取引先等、組織外の関係者からのハラスメント。"
+    },
+    {
+      "id": "gender-based-violence",
+      "term": "ジェンダーに基づく暴力",
+      "definition": "性・ジェンダーを理由または背景として生じる暴力・ハラスメント。"
+    },
+    {
+      "id": "discriminatory-harassment",
+      "term": "差別的ハラスメント",
+      "definition": "人種、国籍、障害、性等と結び付く侮辱・排除・攻撃。"
+    },
+    {
+      "id": "stalking",
+      "term": "ストーキング",
+      "definition": "反復して追跡、接触、監視等を行うこと。"
+    },
+    {
+      "id": "doxxing",
+      "term": "個人情報晒し",
+      "definition": "本人を特定できる情報を害意・威圧等を伴って公開すること。"
+    },
+    {
+      "id": "online-harassment",
+      "term": "オンラインハラスメント",
+      "definition": "メール、SNS、チャット、レビュー等を介した嫌がらせ。"
+    },
+    {
+      "id": "customer-harassment",
+      "term": "カスタマーハラスメント",
+      "definition": "顧客等の言動が許容範囲を超え就業環境を害する問題。法・指針の定義を確認。"
+    },
+    {
+      "id": "socially-acceptable-scope",
+      "term": "社会通念上許容される範囲",
+      "definition": "業務性質・要求内容・方法・頻度等から社会的に許容されると判断される範囲。"
+    },
+    {
+      "id": "work-environment-harm",
+      "term": "就業環境侵害",
+      "definition": "言動により能力発揮へ重大な悪影響が生じる等、働く環境が害されること。"
+    },
+    {
+      "id": "severity",
+      "term": "重大度",
+      "definition": "危害の強さ、性質、継続、影響等の程度。"
+    },
+    {
+      "id": "frequency",
+      "term": "頻度",
+      "definition": "一定期間に出来事が生じる回数。"
+    },
+    {
+      "id": "duration",
+      "term": "継続時間",
+      "definition": "一事案または曝露が続いた時間。"
+    },
+    {
+      "id": "recurrence",
+      "term": "反復",
+      "definition": "同様の行為が繰り返されること。"
+    },
+    {
+      "id": "cumulative-exposure",
+      "term": "累積曝露",
+      "definition": "複数の出来事・発生源からの負担が蓄積すること。"
+    },
+    {
+      "id": "near-miss",
+      "term": "ヒヤリ・未遂",
+      "definition": "危害に至らなかったが危険が存在した出来事。"
+    },
+    {
+      "id": "underreporting",
+      "term": "過少報告",
+      "definition": "実際の出来事より報告・記録件数が少なくなること。"
+    },
+    {
+      "id": "reporting-climate",
+      "term": "報告風土",
+      "definition": "問題を安全に報告し対応を期待できるという共有認知。"
+    },
+    {
+      "id": "retaliation",
+      "term": "報復",
+      "definition": "相談・申告・協力等を理由とする不利益・敵対的対応。"
+    },
+    {
+      "id": "non-retaliation",
+      "term": "報復禁止",
+      "definition": "相談・申告等を理由に不利益を与えない原則。"
+    },
+    {
+      "id": "psychological-safety",
+      "term": "心理的安全性",
+      "definition": "対人的リスクを伴う発言・質問をしても罰せられにくいという認知。"
+    },
+    {
+      "id": "organizational-support",
+      "term": "組織支援",
+      "definition": "組織が貢献を評価し健康・安全を気に掛けるという知覚や実際の支援。"
+    },
+    {
+      "id": "supervisor-support",
+      "term": "上司支援",
+      "definition": "上司による安全確保、傾聴、資源・勤務調整等の支援。"
+    },
+    {
+      "id": "coworker-support",
+      "term": "同僚支援",
+      "definition": "同僚による交代、声掛け、情報、実務的援助。"
+    },
+    {
+      "id": "peer-support",
+      "term": "ピア支援",
+      "definition": "同様の経験・立場をもつ人による非専門的支援。"
+    },
+    {
+      "id": "job-demand",
+      "term": "仕事要求",
+      "definition": "持続的な努力を必要とし心理・身体コストを伴う仕事の側面。"
+    },
+    {
+      "id": "job-resource",
+      "term": "仕事資源",
+      "definition": "目標達成、要求軽減、学習・成長を助ける仕事の側面。"
+    },
+    {
+      "id": "workload",
+      "term": "仕事量",
+      "definition": "一定時間に処理する量・速度・複雑性。"
+    },
+    {
+      "id": "staffing",
+      "term": "要員配置",
+      "definition": "必要な人数・技能・勤務時間を配置すること。"
+    },
+    {
+      "id": "queue-design",
+      "term": "待ち行列設計",
+      "definition": "待ち時間、順番、情報提供、優先度等を設計すること。"
+    },
+    {
+      "id": "role-clarity",
+      "term": "役割明確性",
+      "definition": "責任、権限、優先順位、境界を理解している程度。"
+    },
+    {
+      "id": "service-recovery",
+      "term": "サービス回復",
+      "definition": "失敗後に説明、修正、補償等で問題解決を図る過程。"
+    },
+    {
+      "id": "de-escalation",
+      "term": "デエスカレーション",
+      "definition": "緊張・危険の高まりを安全に下げる働きかけ。"
+    },
+    {
+      "id": "boundary-setting",
+      "term": "境界設定",
+      "definition": "許容できる言動と対応継続条件を明確にすること。"
+    },
+    {
+      "id": "stop-work-authority",
+      "term": "対応停止権限",
+      "definition": "危険等の条件で業務・接点を一時停止できる権限。"
+    },
+    {
+      "id": "handoff",
+      "term": "引継ぎ",
+      "definition": "別の担当者・専門部署へ情報と責任を移すこと。"
+    },
+    {
+      "id": "escalation-path",
+      "term": "エスカレーション経路",
+      "definition": "上位者、警備、法務、医療等へ段階的に接続する手順。"
+    },
+    {
+      "id": "emergency-response",
+      "term": "緊急対応",
+      "definition": "差し迫る危害へ退避、通報、医療等を行う対応。"
+    },
+    {
+      "id": "safety-plan",
+      "term": "安全計画",
+      "definition": "危険兆候、連絡、退避、役割、再開等を事前に定める計画。"
+    },
+    {
+      "id": "lone-work",
+      "term": "単独勤務",
+      "definition": "近くに同僚の支援がない状態で行う仕事。"
+    },
+    {
+      "id": "late-night-work",
+      "term": "深夜勤務",
+      "definition": "夜間・深夜帯に行う仕事。"
+    },
+    {
+      "id": "home-visit",
+      "term": "訪問業務",
+      "definition": "顧客・利用者の住居等を訪れて行う仕事。"
+    },
+    {
+      "id": "incident-report",
+      "term": "インシデント報告",
+      "definition": "出来事の事実・対応・影響等を記録し共有する手続。"
+    },
+    {
+      "id": "case-review",
+      "term": "事案レビュー",
+      "definition": "事案の対応・原因・再発防止を多職種で見直すこと。"
+    },
+    {
+      "id": "aftercare",
+      "term": "事後支援",
+      "definition": "出来事後の休息、医療、心理、法務、勤務調整等の支援。"
+    },
+    {
+      "id": "trauma-informed-response",
+      "term": "トラウマに配慮した対応",
+      "definition": "安全、選択、協働、再被害防止を重視する対応。"
+    },
+    {
+      "id": "secondary-trauma",
+      "term": "二次受傷",
+      "definition": "他者の被害経験への接触等により生じる心理的影響。"
+    },
+    {
+      "id": "occupational-safety",
+      "term": "労働安全衛生",
+      "definition": "仕事による負傷・疾病を予防し安全と健康を確保する取組。"
+    },
+    {
+      "id": "psychosocial-risk",
+      "term": "心理社会的リスク",
+      "definition": "仕事設計・管理・社会関係等から健康へ影響する危険。"
+    },
+    {
+      "id": "risk-assessment",
+      "term": "リスクアセスメント",
+      "definition": "危険を特定し発生可能性・重大性・統制を評価する過程。"
+    },
+    {
+      "id": "hierarchy-of-controls",
+      "term": "管理策の階層",
+      "definition": "除去、代替、工学的・管理的対策、保護具等の優先順。"
+    },
+    {
+      "id": "primary-prevention",
+      "term": "一次予防",
+      "definition": "問題が起きる前に危険・原因を減らすこと。"
+    },
+    {
+      "id": "secondary-prevention",
+      "term": "二次予防",
+      "definition": "早期発見・対応で悪化を防ぐこと。"
+    },
+    {
+      "id": "tertiary-prevention",
+      "term": "三次予防",
+      "definition": "発生後の回復・再発防止・影響軽減を図ること。"
+    },
+    {
+      "id": "reasonable-accommodation",
+      "term": "合理的配慮",
+      "definition": "障壁を除くため必要かつ適切な変更・調整。"
+    },
+    {
+      "id": "accessible-complaint-channel",
+      "term": "アクセス可能な苦情経路",
+      "definition": "障害・言語・媒体の違いを越えて利用できる申出手段。"
+    },
+    {
+      "id": "procedural-fairness",
+      "term": "手続的公正",
+      "definition": "一貫性、正確性、偏り抑制、説明、訂正等を備えた手続。"
+    },
+    {
+      "id": "appeal",
+      "term": "異議・不服申立て",
+      "definition": "決定の見直しを求める手続。"
+    },
+    {
+      "id": "service-restriction",
+      "term": "利用制限",
+      "definition": "一定条件で利用方法・時間・場所・接触等を制限する措置。"
+    },
+    {
+      "id": "ban-list",
+      "term": "利用禁止リスト",
+      "definition": "サービス利用を禁止・制限する対象を記録した一覧。"
+    },
+    {
+      "id": "proportionality",
+      "term": "比例性",
+      "definition": "危険・目的に対して措置の強さと範囲が過剰でないこと。"
+    },
+    {
+      "id": "data-minimization",
+      "term": "データ最小化",
+      "definition": "目的に必要な範囲だけ個人データを収集・保持する原則。"
+    },
+    {
+      "id": "purpose-limitation",
+      "term": "目的限定",
+      "definition": "示した目的以外へデータを流用しない原則。"
+    },
+    {
+      "id": "retention-period",
+      "term": "保存期間",
+      "definition": "記録・個人データを保持する期間。"
+    },
+    {
+      "id": "audio-recording",
+      "term": "通話・音声記録",
+      "definition": "会話を音声として保存すること。"
+    },
+    {
+      "id": "video-surveillance",
+      "term": "映像監視",
+      "definition": "カメラ等で場所・行動を記録・監視すること。"
+    },
+    {
+      "id": "automated-detection",
+      "term": "自動検知",
+      "definition": "AI等で暴言、感情、危険等を分類・検出すること。"
+    },
+    {
+      "id": "algorithmic-management",
+      "term": "アルゴリズム管理",
+      "definition": "システムが仕事の指示、評価、配分、規律等を行うこと。"
+    },
+    {
+      "id": "customer-rating",
+      "term": "顧客評価",
+      "definition": "顧客が従業員・サービスへ付ける点数・レビュー。"
+    },
+    {
+      "id": "rating-retaliation",
+      "term": "報復評価",
+      "definition": "不満・偏見・境界設定への報復として低評価等を行うこと。"
+    },
+    {
+      "id": "human-review",
+      "term": "人による再審査",
+      "definition": "権限ある人が文脈・異議・証拠を検討し判断を変更できる手続。"
+    },
+    {
+      "id": "gig-worker",
+      "term": "ギグ労働者",
+      "definition": "プラットフォーム等を通じ単発・短期の仕事を受ける人。"
+    },
+    {
+      "id": "contractor",
+      "term": "委託就業者",
+      "definition": "請負・委任等の契約で業務を行う人。"
+    },
+    {
+      "id": "agency-worker",
+      "term": "派遣労働者",
+      "definition": "派遣元と雇用関係をもち派遣先で働く人。"
+    },
+    {
+      "id": "intersectionality",
+      "term": "交差性",
+      "definition": "複数の属性・権力関係が交差して固有の経験を生むこと。"
+    },
+    {
+      "id": "small-cell-protection",
+      "term": "少人数セル保護",
+      "definition": "集計から個人を再特定できないようにする措置。"
+    },
+    {
+      "id": "exposure-rate",
+      "term": "曝露率",
+      "definition": "接点数・時間等を分母にした出来事の割合。"
+    },
+    {
+      "id": "leading-indicator",
+      "term": "先行指標",
+      "definition": "重大結果の前に危険・統制状態を示す指標。"
+    },
+    {
+      "id": "lagging-indicator",
+      "term": "遅行指標",
+      "definition": "傷害、休業等、結果発生後に示される指標。"
+    },
+    {
+      "id": "open-incident-data",
+      "term": "公開インシデントデータ",
+      "definition": "定義・分母・欠測・保護を付して公開する集計データ。"
+    },
+    {
+      "id": "invisible-work",
+      "term": "見えない労働",
+      "definition": "記録・評価・報酬で捉えられにくい準備、調整、ケア等の労働。"
+    },
+    {
+      "id": "complaint-investigation",
+      "term": "苦情調査",
+      "definition": "申出内容と関係証拠を公平に確認し、説明・是正等を判断する手続。"
+    },
+    {
+      "id": "colloquial-emotional-labor",
+      "term": "感情労働の日常語用法",
+      "definition": "家庭・人間関係の感情的ケアや負担を含めて用いられる広い非専門的用法。"
+    }
+  ]
+}

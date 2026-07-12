@@ -1,0 +1,1484 @@
+{
+  "name": "職場の信頼・心理的契約・組織コミットメント 主張レジスター",
+  "version": "0.1",
+  "license": "CC BY 4.0",
+  "claims": [
+    {
+      "id": "C001",
+      "claim": "信頼は単なる好感や確実性ではなく、相手への肯定的期待のもとで脆弱性を受け入れることを含む。",
+      "label": "A",
+      "directness": "直接研究",
+      "relationship": "定義・理論",
+      "sources": [
+        "mayer-1995",
+        "rousseau-1998-trust"
+      ],
+      "limits": [
+        "定義は学派で差"
+      ],
+      "scope": [
+        "働く人",
+        "チーム",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C002",
+      "claim": "能力・善意・誠実性という信頼可能性と、実際に信頼することを分ける。",
+      "label": "A",
+      "directness": "直接研究",
+      "relationship": "理論・統合",
+      "sources": [
+        "mayer-1995",
+        "colquitt-2007",
+        "schoorman-2007"
+      ],
+      "limits": [
+        "評価者・対象・課題で変化"
+      ],
+      "scope": [
+        "働く人",
+        "チーム",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C003",
+      "claim": "一般的な信頼傾向は相手固有の信頼と異なり、とくに初期関係で影響し得る。",
+      "label": "A",
+      "directness": "直接研究",
+      "relationship": "統合・理論",
+      "sources": [
+        "colquitt-2007",
+        "mcknight-1998"
+      ],
+      "limits": [
+        "固定人格診断にしない"
+      ],
+      "scope": [
+        "働く人",
+        "チーム",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C004",
+      "claim": "認知に基づく信頼と感情に基づく信頼は関連するが同一ではない。",
+      "label": "A",
+      "directness": "直接研究",
+      "relationship": "測定・関連",
+      "sources": [
+        "mcallister-1995"
+      ],
+      "limits": [
+        "文化・関係段階で差"
+      ],
+      "scope": [
+        "働く人",
+        "チーム",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C005",
+      "claim": "上司、同僚、チーム、経営、組織、制度への信頼を一つの点数にまとめない。",
+      "label": "A",
+      "directness": "直接研究",
+      "relationship": "多層理論",
+      "sources": [
+        "fulmer-2012",
+        "burke-2007"
+      ],
+      "limits": [
+        "信頼対象を明示"
+      ],
+      "scope": [
+        "働く人",
+        "チーム",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C006",
+      "claim": "チーム信頼はチーム成果と平均的に正に関連するが、課題・相互依存・測定で差がある。",
+      "label": "A",
+      "directness": "直接研究",
+      "relationship": "メタ分析",
+      "sources": [
+        "dejong-2016",
+        "dirks-2000"
+      ],
+      "limits": [
+        "相関研究を含む",
+        "高信頼だけで成果を保証しない"
+      ],
+      "scope": [
+        "働く人",
+        "チーム",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C007",
+      "claim": "リーダーへの信頼は職務態度・行動・成果と関連する。",
+      "label": "A",
+      "directness": "直接研究",
+      "relationship": "メタ分析",
+      "sources": [
+        "dirks-2002",
+        "gottfredson-2017"
+      ],
+      "limits": [
+        "因果方向・リーダーシップ概念との重複"
+      ],
+      "scope": [
+        "働く人",
+        "チーム",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C008",
+      "claim": "経営への信頼は注意を自己防衛から仕事へ向けられることを通じ成果と関係し得る。",
+      "label": "B",
+      "directness": "直接研究",
+      "relationship": "フィールド関連",
+      "sources": [
+        "mayer-2005"
+      ],
+      "limits": [
+        "単一研究・媒介推定"
+      ],
+      "scope": [
+        "働く人",
+        "チーム",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C009",
+      "claim": "組織間信頼と組織内の対人信頼を区別する。",
+      "label": "B",
+      "directness": "直接研究",
+      "relationship": "関連・理論",
+      "sources": [
+        "zaheer-1998",
+        "mcevily-2003"
+      ],
+      "limits": [
+        "組織を人格化しすぎない"
+      ],
+      "scope": [
+        "働く人",
+        "チーム",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C010",
+      "claim": "信頼の低さと不信の高さは必ずしも同じではなく、同じ関係で併存し得る。",
+      "label": "B",
+      "directness": "直接研究",
+      "relationship": "理論",
+      "sources": [
+        "lewicki-1998",
+        "kramer-1999"
+      ],
+      "limits": [
+        "測定・実証は概念研究より限定"
+      ],
+      "scope": [
+        "働く人",
+        "チーム",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C011",
+      "claim": "信頼は最大化でなく、検証可能性・役割分離・監査と釣り合う適正な水準を目指す。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "理論から実務推論",
+      "sources": [
+        "mayer-1995",
+        "kramer-1999",
+        "iso-37002"
+      ],
+      "limits": [
+        "万能の最適値はない"
+      ],
+      "scope": [
+        "働く人",
+        "チーム",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C012",
+      "claim": "明確な統制や記録は信頼の反対ではなく、信頼可能性と説明責任を支える場合がある。",
+      "label": "B",
+      "directness": "混合",
+      "relationship": "理論・制度",
+      "sources": [
+        "mcevily-2003",
+        "iso-37002",
+        "ungp"
+      ],
+      "limits": [
+        "過剰監視は別の害を生む"
+      ],
+      "scope": [
+        "働く人",
+        "チーム",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C013",
+      "claim": "新しい関係では評判、役割、制度、カテゴリー情報が初期信頼へ影響する。",
+      "label": "B",
+      "directness": "直接研究",
+      "relationship": "理論",
+      "sources": [
+        "mcknight-1998",
+        "jones-1998"
+      ],
+      "limits": [
+        "ステレオタイプ利用を正当化しない"
+      ],
+      "scope": [
+        "働く人",
+        "チーム",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C014",
+      "claim": "信頼は経験、帰属、行動、制度変化により更新される動的状態として扱う。",
+      "label": "B",
+      "directness": "直接研究",
+      "relationship": "理論・レビュー",
+      "sources": [
+        "jones-1998",
+        "schoorman-2007"
+      ],
+      "limits": [
+        "単純な直線発達ではない"
+      ],
+      "scope": [
+        "働く人",
+        "チーム",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C015",
+      "claim": "心理的契約は、雇用関係の相互義務について個人が抱く信念で、法的契約そのものではない。",
+      "label": "A",
+      "directness": "直接研究",
+      "relationship": "定義・理論",
+      "sources": [
+        "rousseau-1989",
+        "jp-labor-contract"
+      ],
+      "limits": [
+        "主観的信念を合意済み事実としない"
+      ],
+      "scope": [
+        "働く人",
+        "チーム",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C016",
+      "claim": "希望・一般的期待と、相手が約束したと認知する義務を分ける。",
+      "label": "A",
+      "directness": "直接研究",
+      "relationship": "測定・関連",
+      "sources": [
+        "montes-2009",
+        "rousseau-1989"
+      ],
+      "limits": [
+        "約束認知の形成経路を確認"
+      ],
+      "scope": [
+        "働く人",
+        "チーム",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C017",
+      "claim": "心理的契約の不履行認知と、それに伴う怒り・裏切られた感覚を区別する。",
+      "label": "A",
+      "directness": "直接研究",
+      "relationship": "理論・日誌",
+      "sources": [
+        "morrison-1997",
+        "conway-diary-2002"
+      ],
+      "limits": [
+        "訳語・尺度差"
+      ],
+      "scope": [
+        "働く人",
+        "チーム",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C018",
+      "claim": "心理的契約の不履行認知は珍しい例外ではなく、組織変化・採用・管理の通常過程でも生じ得る。",
+      "label": "B",
+      "directness": "直接研究",
+      "relationship": "フィールド関連",
+      "sources": [
+        "robinson-1994",
+        "alcover-2017"
+      ],
+      "limits": [
+        "発生率の一般化に注意"
+      ],
+      "scope": [
+        "働く人",
+        "チーム",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C019",
+      "claim": "心理的契約不履行は満足、信頼、コミットメント、離職意向、役割外行動等と不利に関連する。",
+      "label": "A",
+      "directness": "直接研究",
+      "relationship": "メタ分析",
+      "sources": [
+        "zhao-2007",
+        "bal-2008",
+        "restubog-2008"
+      ],
+      "limits": [
+        "相関研究・共通方法を含む"
+      ],
+      "scope": [
+        "働く人",
+        "チーム",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C020",
+      "claim": "心理的契約不履行との関連は年齢・雇用形態・交換関係・時間で異なる。",
+      "label": "B",
+      "directness": "直接研究",
+      "relationship": "メタ分析・縦断",
+      "sources": [
+        "bal-2008",
+        "conway-2002",
+        "dulac-2008"
+      ],
+      "limits": [
+        "属性を決定論的に使わない"
+      ],
+      "scope": [
+        "働く人",
+        "チーム",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C021",
+      "claim": "約束を上回った経験も感情反応を生むが、過剰提供で不履行を相殺できるとは限らない。",
+      "label": "B",
+      "directness": "直接研究",
+      "relationship": "日誌研究",
+      "sources": [
+        "conway-diary-2002"
+      ],
+      "limits": [
+        "単一研究・短期"
+      ],
+      "scope": [
+        "働く人",
+        "チーム",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C022",
+      "claim": "採用、オンボーディング、評価、変革時の表現を記録し、実行主体と条件を明示する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "実務推論",
+      "sources": [
+        "rousseau-1989",
+        "montes-2009",
+        "whitener-1997"
+      ],
+      "limits": [
+        "全発言を法的約束とみなさない"
+      ],
+      "scope": [
+        "働く人",
+        "チーム",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C023",
+      "claim": "コミットメントは組織、チーム、職業、目標など対象を明示して測る。",
+      "label": "A",
+      "directness": "直接研究",
+      "relationship": "概念・測定",
+      "sources": [
+        "klein-2012",
+        "klein-2014"
+      ],
+      "limits": [
+        "対象を混合しない"
+      ],
+      "scope": [
+        "働く人",
+        "チーム",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C024",
+      "claim": "情緒的・存続的・規範的コミットメントは異なる心理状態として分ける。",
+      "label": "A",
+      "directness": "直接研究",
+      "relationship": "理論・測定",
+      "sources": [
+        "allen-1990",
+        "meyer-1991",
+        "meyer-2002"
+      ],
+      "limits": [
+        "三成分モデルへの理論的批判もある"
+      ],
+      "scope": [
+        "働く人",
+        "チーム",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C025",
+      "claim": "情緒的コミットメントは組織への感情的愛着・同一化・関与を中心とする。",
+      "label": "A",
+      "directness": "直接研究",
+      "relationship": "統合",
+      "sources": [
+        "mercurio-2015",
+        "meyer-2002"
+      ],
+      "limits": [
+        "同一化と完全同義ではない"
+      ],
+      "scope": [
+        "働く人",
+        "チーム",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C026",
+      "claim": "存続的コミットメントは離れる費用・代替不足に関する認知で、意欲や愛着と同一ではない。",
+      "label": "A",
+      "directness": "直接研究",
+      "relationship": "理論・統合",
+      "sources": [
+        "meyer-1991",
+        "meyer-2002"
+      ],
+      "limits": [
+        "「高いほど良い」と評価しない"
+      ],
+      "scope": [
+        "働く人",
+        "チーム",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C027",
+      "claim": "規範的コミットメントは残るべきだという義務感で、自由な選択と区別して扱う。",
+      "label": "A",
+      "directness": "直接研究",
+      "relationship": "理論・統合",
+      "sources": [
+        "meyer-1991",
+        "meyer-2002"
+      ],
+      "limits": [
+        "文化差・道徳化に注意"
+      ],
+      "scope": [
+        "働く人",
+        "チーム",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C028",
+      "claim": "組織コミットメントと職務業績の平均関連は限定的で、一律の業績指標にはならない。",
+      "label": "A",
+      "directness": "直接研究",
+      "relationship": "メタ分析",
+      "sources": [
+        "riketta-2002",
+        "mathieu-1990"
+      ],
+      "limits": [
+        "態度から個人業績を推定しない"
+      ],
+      "scope": [
+        "働く人",
+        "チーム",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C029",
+      "claim": "満足・コミットメント・離職意向・実際の離職は関連するが別概念で、順序と直接効果を分ける。",
+      "label": "A",
+      "directness": "直接研究",
+      "relationship": "メタ分析",
+      "sources": [
+        "tett-1993",
+        "meyer-2002"
+      ],
+      "limits": [
+        "意向と行動を同一視しない"
+      ],
+      "scope": [
+        "働く人",
+        "チーム",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C030",
+      "claim": "複数のコミットメント形態の組合せで結果が異なり得る。",
+      "label": "B",
+      "directness": "直接研究",
+      "relationship": "フィールド研究",
+      "sources": [
+        "wasti-2005"
+      ],
+      "limits": [
+        "プロフィールを固定類型化しない"
+      ],
+      "scope": [
+        "働く人",
+        "チーム",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C031",
+      "claim": "コミットメントと動機づけは相互に関係するが同一概念ではない。",
+      "label": "B",
+      "directness": "直接研究",
+      "relationship": "統合理論",
+      "sources": [
+        "meyer-2004"
+      ],
+      "limits": [
+        "概念モデル"
+      ],
+      "scope": [
+        "働く人",
+        "チーム",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C032",
+      "claim": "コミットメント尺度を忠誠心・従順さ・退職リスクの秘密ランキングへ流用しない。",
+      "label": "不支持",
+      "directness": "予防原則に基づく推論",
+      "relationship": "妥当性・権利",
+      "sources": [
+        "klein-2012",
+        "tett-1993",
+        "jp-appi"
+      ],
+      "limits": [
+        "個人予測の妥当性と目的が不足"
+      ],
+      "scope": [
+        "働く人",
+        "チーム",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C033",
+      "claim": "組織同一化は自己定義、コミットメントは関係への結びつきとして区別できる。",
+      "label": "A",
+      "directness": "直接研究",
+      "relationship": "理論・関連",
+      "sources": [
+        "ashforth-1989",
+        "riketta-2005",
+        "vanknippenberg-2006"
+      ],
+      "limits": [
+        "研究間で定義差"
+      ],
+      "scope": [
+        "働く人",
+        "チーム",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C034",
+      "claim": "組織支援知覚は、組織が貢献を評価し福祉を気に掛けるという認知で、信頼や満足と別概念。",
+      "label": "A",
+      "directness": "直接研究",
+      "relationship": "測定・レビュー",
+      "sources": [
+        "eisenberger-1986",
+        "shore-1991",
+        "rhoades-2002"
+      ],
+      "limits": [
+        "組織の実際の支援提供と区別"
+      ],
+      "scope": [
+        "働く人",
+        "チーム",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C035",
+      "claim": "公正、上司支援、仕事条件等は組織支援知覚と関連する。",
+      "label": "A",
+      "directness": "直接研究",
+      "relationship": "メタ分析",
+      "sources": [
+        "rhoades-2002",
+        "kurtessis-2017"
+      ],
+      "limits": [
+        "因果方向・知覚尺度中心"
+      ],
+      "scope": [
+        "働く人",
+        "チーム",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C036",
+      "claim": "支援を受けた認知は貢献で応えたい感覚と関係し得るが、無制限な返礼義務を課さない。",
+      "label": "A",
+      "directness": "直接研究",
+      "relationship": "関連・理論",
+      "sources": [
+        "eisenberger-2001",
+        "cropanzano-2005"
+      ],
+      "limits": [
+        "交換を強制・道徳化しない"
+      ],
+      "scope": [
+        "働く人",
+        "チーム",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C037",
+      "claim": "心理的契約、組織支援知覚、信頼、社会的交換は関連するが測定上分ける。",
+      "label": "A",
+      "directness": "直接研究",
+      "relationship": "フィールド研究",
+      "sources": [
+        "coyle-2005",
+        "cropanzano-2005"
+      ],
+      "limits": [
+        "同じ質問で循環説明しない"
+      ],
+      "scope": [
+        "働く人",
+        "チーム",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C038",
+      "claim": "信頼修復の有効性は、能力違反か誠実性違反か、責任帰属、証拠、対応で異なる。",
+      "label": "A",
+      "directness": "直接研究",
+      "relationship": "実験・理論",
+      "sources": [
+        "kim-2004",
+        "ferrin-2007",
+        "tomlinson-2009"
+      ],
+      "limits": [
+        "実験シナリオを重大被害へ単純適用しない"
+      ],
+      "scope": [
+        "働く人",
+        "チーム",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C039",
+      "claim": "謝罪だけでなく、事実確認、責任、補償、統制変更、再発防止、継続的行動を含める。",
+      "label": "B",
+      "directness": "混合",
+      "relationship": "理論から実務推論",
+      "sources": [
+        "gillespie-2009",
+        "dirks-2009",
+        "bachmann-2015"
+      ],
+      "limits": [
+        "各措置の効果は事案で異なる"
+      ],
+      "scope": [
+        "働く人",
+        "チーム",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C040",
+      "claim": "被害を受けた人に謝罪受領、赦し、関係継続、再信頼を義務づけない。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "権利・予防",
+      "sources": [
+        "dirks-2009",
+        "ungp"
+      ],
+      "limits": [
+        "安全・救済・離脱可能性を優先"
+      ],
+      "scope": [
+        "働く人",
+        "チーム",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C041",
+      "claim": "組織レベルの失敗は個人の謝罪だけでなく、制度・統治・人事・情報公開の修復を要する。",
+      "label": "B",
+      "directness": "直接研究",
+      "relationship": "統合枠組み",
+      "sources": [
+        "gillespie-2009",
+        "bachmann-2015"
+      ],
+      "limits": [
+        "介入効果の直接証拠は限定"
+      ],
+      "scope": [
+        "働く人",
+        "チーム",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C042",
+      "claim": "沈黙は同意・信頼・問題なしの証拠ではない。",
+      "label": "A",
+      "directness": "混合",
+      "relationship": "実験・発言研究",
+      "sources": [
+        "ferrin-2007",
+        "morrison-2011"
+      ],
+      "limits": [
+        "沈黙の理由は複数"
+      ],
+      "scope": [
+        "働く人",
+        "チーム",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C043",
+      "claim": "求められた知識を意図的に隠す行動を、単なる共有不足と区別する。",
+      "label": "B",
+      "directness": "直接研究",
+      "relationship": "測定・関連",
+      "sources": [
+        "connelly-2011"
+      ],
+      "limits": [
+        "守秘・安全上の非開示と区別"
+      ],
+      "scope": [
+        "働く人",
+        "チーム",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C044",
+      "claim": "一貫・透明・公正な人事慣行は信頼形成へ関係し得る。",
+      "label": "B",
+      "directness": "直接研究",
+      "relationship": "レビュー",
+      "sources": [
+        "whitener-1997",
+        "dirks-2002"
+      ],
+      "limits": [
+        "制度名だけで信頼を保証しない"
+      ],
+      "scope": [
+        "働く人",
+        "チーム",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C045",
+      "claim": "信頼調査では誰を、何について、どの期間で信頼するかを項目ごとに明示する。",
+      "label": "実務原則",
+      "directness": "直接研究",
+      "relationship": "測定原則",
+      "sources": [
+        "fulmer-2012",
+        "mayer-1995",
+        "mcallister-1995"
+      ],
+      "limits": [
+        "総合スコアで対象差を消さない"
+      ],
+      "scope": [
+        "働く人",
+        "チーム",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C046",
+      "claim": "態度得点だけでなく、約束の履行、説明、相談利用、異議、訂正、再発防止など観察可能な運用を測る。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "評価設計",
+      "sources": [
+        "gillespie-2009",
+        "iso-37002",
+        "caa-overview"
+      ],
+      "limits": [
+        "単独指標を真の信頼とみなさない"
+      ],
+      "scope": [
+        "働く人",
+        "チーム",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C047",
+      "claim": "匿名通報を低い信頼や組織への敵意の証拠と解釈しない。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "権利・制度",
+      "sources": [
+        "jp-whistleblower-law",
+        "caa-whistleblower",
+        "iso-37002"
+      ],
+      "limits": [
+        "匿名性と調査可能性を設計"
+      ],
+      "scope": [
+        "働く人",
+        "チーム",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C048",
+      "claim": "通報制度は独立性、守秘、利益相反管理、受領、評価、調査、是正、終結、記録を一体で設計する。",
+      "label": "制度",
+      "directness": "公式指針・制度",
+      "relationship": "制度要件・指針",
+      "sources": [
+        "caa-overview",
+        "iso-37002",
+        "eu-whistleblower"
+      ],
+      "limits": [
+        "法域ごとの要件を確認"
+      ],
+      "scope": [
+        "働く人",
+        "チーム",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C049",
+      "claim": "通報・相談・調査協力を理由とする不利益や報復を防ぎ、事後の配置・評価・契約を監査する。",
+      "label": "制度",
+      "directness": "公式指針・制度",
+      "relationship": "法的保護・実務原則",
+      "sources": [
+        "jp-whistleblower-law",
+        "caa-overview",
+        "eu-whistleblower"
+      ],
+      "limits": [
+        "保護対象・立証・救済は法域差"
+      ],
+      "scope": [
+        "働く人",
+        "チーム",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C050",
+      "claim": "2026年7月時点の日本では現行制度と、2026年12月1日施行予定の改正を分けて案内する。",
+      "label": "制度",
+      "directness": "公式指針・制度",
+      "relationship": "現行性",
+      "sources": [
+        "caa-overview",
+        "jp-whistleblower-law"
+      ],
+      "limits": [
+        "施行前後で最新資料を再確認"
+      ],
+      "scope": [
+        "働く人",
+        "チーム",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C051",
+      "claim": "法的労働契約・就業規則と心理的契約を同じものとして説明しない。",
+      "label": "制度",
+      "directness": "混合",
+      "relationship": "概念境界",
+      "sources": [
+        "rousseau-1989",
+        "jp-labor-contract",
+        "jp-labor-standards"
+      ],
+      "limits": [
+        "個別法的判断は専門家へ"
+      ],
+      "scope": [
+        "働く人",
+        "チーム",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C052",
+      "claim": "信頼測定、通報、調査、通信・監視データは目的限定、最小化、アクセス制御、保存期限、訂正を設ける。",
+      "label": "制度",
+      "directness": "公式指針・制度",
+      "relationship": "プライバシー設計",
+      "sources": [
+        "jp-appi",
+        "iso-37002",
+        "ungp"
+      ],
+      "limits": [
+        "個別法務確認が必要"
+      ],
+      "scope": [
+        "働く人",
+        "チーム",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C053",
+      "claim": "メール、チャット、表情、返信速度から信頼・忠誠・契約違反・退職意思を秘密に推定しない。",
+      "label": "不支持",
+      "directness": "予防原則に基づく推論",
+      "relationship": "妥当性・権利",
+      "sources": [
+        "jp-appi",
+        "colquitt-2007",
+        "tett-1993"
+      ],
+      "limits": [
+        "妥当性・目的・異議が不足"
+      ],
+      "scope": [
+        "働く人",
+        "チーム",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C054",
+      "claim": "守秘の範囲と限界、情報共有先、例外、記録を最初に説明する。",
+      "label": "制度",
+      "directness": "公式指針・制度",
+      "relationship": "制度設計",
+      "sources": [
+        "caa-overview",
+        "iso-37002"
+      ],
+      "limits": [
+        "絶対的秘密を約束しない"
+      ],
+      "scope": [
+        "働く人",
+        "チーム",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C055",
+      "claim": "通報・調査・修復の担当者に利益相反がある場合は独立した経路を用意する。",
+      "label": "制度",
+      "directness": "公式指針・制度",
+      "relationship": "手続設計",
+      "sources": [
+        "iso-37002",
+        "ungp",
+        "oecd-mne"
+      ],
+      "limits": [
+        "形式的独立だけで実効性を保証しない"
+      ],
+      "scope": [
+        "働く人",
+        "チーム",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C056",
+      "claim": "発言、心理的安全性、信頼は関連するが別概念で、発言しないことから信頼を逆算しない。",
+      "label": "B",
+      "directness": "混合",
+      "relationship": "概念境界",
+      "sources": [
+        "morrison-2011",
+        "dirks-2001",
+        "fulmer-2012"
+      ],
+      "limits": [
+        "既存第1・19分野との境界"
+      ],
+      "scope": [
+        "働く人",
+        "チーム",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C057",
+      "claim": "公正な手続・説明は信頼へ影響し得るが、公正と信頼は同一ではない。",
+      "label": "B",
+      "directness": "混合",
+      "relationship": "理論・関連",
+      "sources": [
+        "whitener-1997",
+        "kurtessis-2017"
+      ],
+      "limits": [
+        "既存第4分野との境界"
+      ],
+      "scope": [
+        "働く人",
+        "チーム",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C058",
+      "claim": "コミットメントを離職防止の道具だけで捉えず、残る自由と離れる自由を守る。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "権利・概念境界",
+      "sources": [
+        "tett-1993",
+        "meyer-2002",
+        "ilo-c158"
+      ],
+      "limits": [
+        "既存第5分野との境界"
+      ],
+      "scope": [
+        "働く人",
+        "チーム",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C059",
+      "claim": "信頼される扱い、説明、通報保護、救済を短期生産性の向上が証明できる人だけに限定しない。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "権利原則",
+      "sources": [
+        "ungp",
+        "oecd-mne",
+        "jp-whistleblower-law"
+      ],
+      "limits": [
+        "経営効果と権利を分離"
+      ],
+      "scope": [
+        "働く人",
+        "チーム",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C060",
+      "claim": "修復、異動、関係終了、外部相談、法的救済という複数経路を示し、修復だけを正解にしない。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "救済設計",
+      "sources": [
+        "dirks-2009",
+        "ungp",
+        "ilo-r166"
+      ],
+      "limits": [
+        "個別事情と安全を優先"
+      ],
+      "scope": [
+        "働く人",
+        "チーム",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C061",
+      "claim": "制度評価では認知、到達、受領、初動、調査、是正、報復、再発、満足だけでなく、利用しなかった理由も追う。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "評価設計",
+      "sources": [
+        "iso-37002",
+        "caa-overview"
+      ],
+      "limits": [
+        "小集団の再識別を防ぐ"
+      ],
+      "scope": [
+        "働く人",
+        "チーム",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C062",
+      "claim": "信頼・支援・通報アクセス・不利益を職種、契約、拠点、勤務帯、属性別に監査する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "公平性評価",
+      "sources": [
+        "kurtessis-2017",
+        "caa-overview",
+        "ungp"
+      ],
+      "limits": [
+        "小集団保護"
+      ],
+      "scope": [
+        "働く人",
+        "チーム",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C063",
+      "claim": "信頼制度を経営だけで決めず、労働者・代表・利用者・非利用者・調査担当・外部専門家の声を入れる。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "参加設計",
+      "sources": [
+        "oecd-mne",
+        "ungp",
+        "iso-37002"
+      ],
+      "limits": [
+        "参加の代表性を検討"
+      ],
+      "scope": [
+        "働く人",
+        "チーム",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C064",
+      "claim": "横断相関、縦断、実験、メタ分析、概念論、法的義務を同じ強さの因果主張として扱わない。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "エビデンス原則",
+      "sources": [
+        "colquitt-2007",
+        "kim-2004",
+        "zhao-2007"
+      ],
+      "limits": [
+        "設計ごとの限界を併記"
+      ],
+      "scope": [
+        "働く人",
+        "チーム",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C065",
+      "claim": "公益通報制度は改正・施行で変わるため、公開時と利用時に消費者庁・e-Govの現行資料を確認する。",
+      "label": "制度",
+      "directness": "公式指針・制度",
+      "relationship": "更新原則",
+      "sources": [
+        "caa-whistleblower",
+        "caa-overview",
+        "jp-whistleblower-law"
+      ],
+      "limits": [
+        "確認日は2026-07-12"
+      ],
+      "scope": [
+        "働く人",
+        "チーム",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C066",
+      "claim": "本ナビは研究・制度への入口であり、個別の契約、通報、懲戒、解雇、訴訟判断を代替しない。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "適用範囲",
+      "sources": [
+        "jp-labor-contract",
+        "jp-whistleblower-law",
+        "ilo-c158"
+      ],
+      "limits": [
+        "適格な専門家・公式窓口へ"
+      ],
+      "scope": [
+        "働く人",
+        "チーム",
+        "組織"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    }
+  ]
+}

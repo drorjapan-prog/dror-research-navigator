@@ -1,0 +1,74 @@
+{
+  "name": "組織文化・組織風土・規範・文化変革 迅速エビデンスマップ・プロトコル",
+  "version": "0.1",
+  "review_type": "文化、風土、規範、下位文化、適合、目的別風土、変革を分離した迅速エビデンスマップ",
+  "research_questions": [
+    {
+      "id": "RQ1",
+      "question": "文化・風土・価値・規範・実践・国民文化をどう区別するか。"
+    },
+    {
+      "id": "RQ2",
+      "question": "文化・風土を個人・チーム・組織レベルでどう測り集約するか。"
+    },
+    {
+      "id": "RQ3",
+      "question": "安全、サービス、包摂、革新、倫理、発言の目的別風土は何と関係するか。"
+    },
+    {
+      "id": "RQ4",
+      "question": "文化の強さ、下位文化、曖昧性は組織・個人へどう関係するか。"
+    },
+    {
+      "id": "RQ5",
+      "question": "個人‐組織適合とカルチャーフィットを採用・評価でどう扱うか。"
+    },
+    {
+      "id": "RQ6",
+      "question": "リーダー・創業者・同一視は文化形成へどう関係するか。"
+    },
+    {
+      "id": "RQ7",
+      "question": "文化変革を制度・実践・意味・権利の変化としてどう設計・評価するか。"
+    },
+    {
+      "id": "RQ8",
+      "question": "調査、AI、公開性、プライバシー、文化ウォッシングをどう統治するか。"
+    }
+  ],
+  "query_families": [
+    "organizational culture climate annual review meta-analysis",
+    "culture effectiveness competing values meta-analysis",
+    "climate strength multilevel aggregation",
+    "safety service inclusion innovation ethical voice climate meta-analysis",
+    "person organization fit meta-analysis cultural matching hiring",
+    "organizational subculture fragmentation ambiguity",
+    "organizational culture change intervention unintended consequences",
+    "WHO ISO ILO psychosocial safety compliance culture"
+  ],
+  "inclusion": [
+    "査読済み基礎・測定・統合研究",
+    "多層・縦断・質的研究",
+    "安全・サービス・包摂・革新・倫理・発言の目的別風土",
+    "適合・採用・下位文化・文化変革研究",
+    "WHO、ISO、ILO、司法・日本の公式原典"
+  ],
+  "exclusion": [
+    "単一の最強文化ランキング",
+    "国民文化平均を個人性格へ適用",
+    "カルチャーフィットを採用者の好みで採点",
+    "文化診断を個人監視・忠誠評価へ利用",
+    "スローガン認知だけで変革成功とする資料",
+    "認証取得だけで安全文化を証明する資料",
+    "ベンダー独自文化スコアの宣伝"
+  ],
+  "process_limitations": [
+    "単一レビュアーによる迅速整理",
+    "代表文献と公式原典による非網羅整理",
+    "効果量の独自再計算・正式なバイアス評価は未実施",
+    "尺度項目・規格本文は再配布しない",
+    "文化と成果の研究は観察研究が多く因果推論に制約",
+    "法的・医療的・認証上の個別助言ではない",
+    "ISO 45003は2026年時点で体系的レビュー中"
+  ]
+}

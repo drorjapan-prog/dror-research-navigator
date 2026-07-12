@@ -1,0 +1,800 @@
+{
+  "name": "仕事の設計・裁量・役割 主張レジスター",
+  "version": "0.1",
+  "license": "CC BY 4.0",
+  "claims": [
+    {
+      "id": "WD-C01",
+      "claim": "仕事設計は、動機づけ特性だけでなく、知識特性、社会特性、物理・文脈特性を含む多次元の設計問題である。",
+      "label": "A",
+      "directness": "仕事設計直接研究",
+      "relationship": "測定・統合",
+      "scope": [
+        "仕事設計"
+      ],
+      "sources": [
+        "morgeson-humphrey-2006",
+        "humphrey-2007"
+      ],
+      "limits": [
+        "単一得点へ還元しない",
+        "尺度利用条件を確認"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "WD-C02",
+      "claim": "技能多様性、タスク完結性・重要性、自律性、仕事からのフィードバックは複数結果と関連するが、仕事特性モデルの全経路が同程度に支持されたわけではない。",
+      "label": "A",
+      "directness": "仕事設計直接研究",
+      "relationship": "理論・メタ分析上の関連",
+      "scope": [
+        "仕事特性モデル"
+      ],
+      "sources": [
+        "hackman-oldham-1976",
+        "fried-ferris-1987"
+      ],
+      "limits": [
+        "個人差・職務差",
+        "相関研究を含む"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "WD-C03",
+      "claim": "裁量・自律性は概して望ましい結果と関連するが、目的・能力・情報・資源・協調なしに責任だけを渡すこととは異なる。",
+      "label": "A",
+      "directness": "仕事設計直接研究",
+      "relationship": "関連・理論",
+      "scope": [
+        "裁量・自律性"
+      ],
+      "sources": [
+        "humphrey-2007",
+        "gagne-deci-2005",
+        "vandenbroeck-2016"
+      ],
+      "limits": [
+        "放任、孤立、自己責任化と区別",
+        "望まない裁量を強制しない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "WD-C04",
+      "claim": "高要求度と低裁量の組合せは重要な仮説だが、典型的な要求度×裁量交互作用はウェルビーイング研究で一貫して支持されない。",
+      "label": "A",
+      "directness": "仕事設計直接研究",
+      "relationship": "理論・メタ分析",
+      "scope": [
+        "要求度—裁量"
+      ],
+      "sources": [
+        "karasek-1979",
+        "huth-2023"
+      ],
+      "limits": [
+        "要求度・裁量の主効果や他の相互作用を否定しない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "WD-C05",
+      "claim": "仕事要求度と仕事資源は異なる消耗・動機づけ過程に関係し得るが、あらゆる変数を事後的に要求・資源へ分類してはならない。",
+      "label": "A",
+      "directness": "仕事設計直接研究",
+      "relationship": "モデル・統合",
+      "scope": [
+        "JD-R"
+      ],
+      "sources": [
+        "demerouti-2001",
+        "bakker-demerouti-2007",
+        "bakker-demerouti-2017"
+      ],
+      "limits": [
+        "構成概念・時間順序・職種固有性を確認"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "WD-C06",
+      "claim": "仕事量は負担・態度等と関連するが、主観的忙しさだけでなく、件数、複雑性、変動、期限、人員、未処理、割込みを分けて測る必要がある。",
+      "label": "A",
+      "directness": "仕事設計直接研究",
+      "relationship": "メタ分析上の関連",
+      "scope": [
+        "仕事量"
+      ],
+      "sources": [
+        "bowling-2015"
+      ],
+      "limits": [
+        "因果方向",
+        "仕事量の定義・測定の異質性"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "WD-C07",
+      "claim": "週55時間以上の長時間労働は虚血性心疾患・脳卒中の世界的負担と関連し、本人の希望だけで安全性を正当化できない。",
+      "label": "A",
+      "directness": "隣接研究",
+      "relationship": "疾病負担推計",
+      "scope": [
+        "労働時間"
+      ],
+      "sources": [
+        "pega-2021"
+      ],
+      "limits": [
+        "モデル推計",
+        "個人診断ではない",
+        "勤務間隔・夜勤等を別途確認"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "WD-C08",
+      "claim": "役割曖昧性・役割葛藤は仕事態度や業績等と関連するが、役割明確化は細かな監視や例外を許さない硬直化を意味しない。",
+      "label": "A",
+      "directness": "仕事設計直接研究",
+      "relationship": "メタ分析上の関連",
+      "scope": [
+        "役割"
+      ],
+      "sources": [
+        "rizzo-1970",
+        "jackson-schuler-1985",
+        "tubre-collins-2000"
+      ],
+      "limits": [
+        "因果方向",
+        "役割交渉・優先順位・例外処理を含める"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "WD-C09",
+      "claim": "仕事が他者へ与える影響を見えるようにすることは、特定の職務で動機・業績へ影響し得る。",
+      "label": "B",
+      "directness": "仕事設計直接研究",
+      "relationship": "概念・フィールド実験",
+      "scope": [
+        "タスク重要性・関係的設計"
+      ],
+      "sources": [
+        "grant-2007",
+        "grant-2008"
+      ],
+      "limits": [
+        "感情労働・使命感の強制・受益者接触の安全性に注意"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "WD-C10",
+      "claim": "自律性・有能感・関係性の基本的心理欲求は職場の動機・ウェルビーイング等と関連する。",
+      "label": "A",
+      "directness": "隣接研究",
+      "relationship": "メタ分析的レビュー",
+      "scope": [
+        "心理欲求"
+      ],
+      "sources": [
+        "gagne-deci-2005",
+        "vandenbroeck-2016"
+      ],
+      "limits": [
+        "制度上の裁量と主観的欲求充足を区別",
+        "因果確定ではない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "WD-C11",
+      "claim": "テレワークは平均として小さな有益関連を示すが、頻度、選択可能性、職務、家庭環境、設備、関係により経験が異なる。",
+      "label": "A",
+      "directness": "仕事設計直接研究",
+      "relationship": "メタ分析上の関連",
+      "scope": [
+        "テレワーク"
+      ],
+      "sources": [
+        "gajendran-harrison-2007"
+      ],
+      "limits": [
+        "パンデミック前研究中心",
+        "強制的在宅勤務へ直結しない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "WD-C12",
+      "claim": "勤務裁量と管理職支援を組み合わせた組織的介入は、特定の高技術職場で仕事家庭葛藤・ウェルビーイング等を改善した。",
+      "label": "A",
+      "directness": "仕事設計直接研究",
+      "relationship": "組織単位介入",
+      "scope": [
+        "柔軟勤務・管理職支援"
+      ],
+      "sources": [
+        "kelly-2014",
+        "moen-2016"
+      ],
+      "limits": [
+        "特定企業・職種",
+        "複合介入",
+        "一般化に注意"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "WD-C13",
+      "claim": "従業員の選択・裁量を高める柔軟勤務は健康・ウェルビーイングに有益となり得るが、使用者都合の不安定な柔軟化とは区別する。",
+      "label": "B",
+      "directness": "仕事設計直接研究",
+      "relationship": "システマティックレビュー",
+      "scope": [
+        "柔軟勤務"
+      ],
+      "sources": [
+        "joyce-2010"
+      ],
+      "limits": [
+        "研究数・質",
+        "介入の異質性"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "WD-C14",
+      "claim": "仕事中の割込みの影響は種類、タイミング、仕事、評価、回復可能性に依存し、通知を切るだけでは構造的な割込みを解決しない。",
+      "label": "B",
+      "directness": "仕事設計直接研究",
+      "relationship": "統合レビュー",
+      "scope": [
+        "割込み"
+      ],
+      "sources": [
+        "puranik-2019"
+      ],
+      "limits": [
+        "直接比較効果の不足",
+        "緊急対応との両立"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "WD-C15",
+      "claim": "仕事強化には仕事量だけでなく、計画・意思決定・学習・キャリア等の加速があり得る。",
+      "label": "B",
+      "directness": "仕事設計直接研究",
+      "relationship": "測定・関連",
+      "scope": [
+        "仕事強化"
+      ],
+      "sources": [
+        "kubicek-2015"
+      ],
+      "limits": [
+        "自己報告",
+        "尺度開発研究",
+        "因果確定ではない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "WD-C16",
+      "claim": "ジョブ・クラフティングは従業員が仕事の課題・関係・認知や要求度・資源を変える行動であり、公式な仕事再設計と同義ではない。",
+      "label": "A",
+      "directness": "仕事設計直接研究",
+      "relationship": "概念整理",
+      "scope": [
+        "ジョブ・クラフティング"
+      ],
+      "sources": [
+        "wrzesniewski-dutton-2001",
+        "tims-bakker-2010",
+        "bruning-campion-2018"
+      ],
+      "limits": [
+        "権限・安全・同僚への影響を確認"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "WD-C17",
+      "claim": "ジョブ・クラフティングは複数の仕事特性・態度・結果と関連するが、相関研究が多く、良い結果をクラフティングの因果効果と断定できない。",
+      "label": "A",
+      "directness": "仕事設計直接研究",
+      "relationship": "メタ分析上の関連",
+      "scope": [
+        "ジョブ・クラフティング"
+      ],
+      "sources": [
+        "rudolph-2017",
+        "lichtenthaler-2019"
+      ],
+      "limits": [
+        "逆因果・共通方法",
+        "促進・予防焦点で結果が異なる"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "WD-C18",
+      "claim": "ジョブ・クラフティング介入は一部の近接結果を改善し得るが、研究基盤・追跡期間が限られ、構造的な過重労働の代替ではない。",
+      "label": "B",
+      "directness": "仕事設計直接研究",
+      "relationship": "介入メタ分析",
+      "scope": [
+        "ジョブ・クラフティング介入"
+      ],
+      "sources": [
+        "oprea-2019"
+      ],
+      "limits": [
+        "研究数・標本",
+        "個人介入中心",
+        "長期成果"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "WD-C19",
+      "claim": "仕事設計の改善を従業員個人の工夫・レジリエンス・時間管理だけへ委ねることを本ナビは支持しない。",
+      "label": "不支持",
+      "directness": "混合",
+      "relationship": "組織責任",
+      "scope": [
+        "過重労働・クラフティング"
+      ],
+      "sources": [
+        "who-2022",
+        "parker-2017",
+        "oprea-2019"
+      ],
+      "limits": [
+        "本人の能動性を否定せず組織的原因と権限を同時に扱う"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "WD-C20",
+      "claim": "役割明確化では、目的、成果、優先順位、権限、依存先、例外、エスカレーションを共同で確認する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "設計原則",
+      "scope": [
+        "役割・協働"
+      ],
+      "sources": [
+        "rizzo-1970",
+        "tubre-collins-2000",
+        "humphrey-2007"
+      ],
+      "limits": [
+        "細かな手順統制と区別",
+        "変化時に更新"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "WD-C21",
+      "claim": "裁量を増やすときは、決められる範囲、必要情報、能力、時間、予算、支援、失敗時の保護も同時に設計する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "権限・資源整合",
+      "scope": [
+        "裁量・権限"
+      ],
+      "sources": [
+        "karasek-1979",
+        "humphrey-2007",
+        "gagne-deci-2005"
+      ],
+      "limits": [
+        "責任だけの委譲を避ける"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "WD-C22",
+      "claim": "合理的配慮や職場調整は、本人の診断開示を必要以上に求めず、仕事上の障壁と必要な変更を中心に設計する。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "健康・包摂",
+      "scope": [
+        "合理的配慮・復職"
+      ],
+      "sources": [
+        "who-2022",
+        "ilo-1997"
+      ],
+      "limits": [
+        "国内法・専門職・本人の選択を確認"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "WD-C23",
+      "claim": "作業ログ、通信、位置、感情・健康推定等の労働者データは、目的限定、必要最小限、透明性、アクセス・訂正等の権利を要する。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "労働者データ",
+      "scope": [
+        "モニタリング"
+      ],
+      "sources": [
+        "ilo-1997",
+        "eu-platform-2024"
+      ],
+      "limits": [
+        "EU法の直接適用範囲と国内法を区別"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "WD-C24",
+      "claim": "アルゴリズムが仕事配分、シフト、評価、報酬、不利益判断を支える場合、説明可能性、人の監督、異議申立て、是正、安全を設計する。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "アルゴリズム管理",
+      "scope": [
+        "自動監視・意思決定"
+      ],
+      "sources": [
+        "eu-platform-2024",
+        "ilo-1997"
+      ],
+      "limits": [
+        "EUプラットフォーム労働指令を一般企業・日本へ直接適用しない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "WD-C25",
+      "claim": "応答時間、稼働率、処理件数等の単一指標を個人ランキング・自動制裁へ直結することを本ナビは支持しない。",
+      "label": "不支持",
+      "directness": "予防原則に基づく推論",
+      "relationship": "測定反応・監視",
+      "scope": [
+        "業績指標・アルゴリズム管理"
+      ],
+      "sources": [
+        "eu-platform-2024",
+        "ilo-1997",
+        "kubicek-2015"
+      ],
+      "limits": [
+        "品質、安全、協働、ケース難度、データ誤り、異議申立てを考慮"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "WD-C26",
+      "claim": "仕事量の改善では、個人の効率だけでなく、人員、需要変動、仕掛かり、待ち行列、割込み、再作業、期限、依存関係を測る。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "システム設計",
+      "scope": [
+        "仕事量・業務プロセス"
+      ],
+      "sources": [
+        "bowling-2015",
+        "puranik-2019",
+        "parker-2017"
+      ],
+      "limits": [
+        "測れる件数だけへ偏らない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "WD-C27",
+      "claim": "仕事の意味や顧客・利用者との接点を強める際も、感情労働、安全、境界、相手からの暴力・嫌がらせを同時に評価する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "関係的設計・安全",
+      "scope": [
+        "タスク重要性・受益者接触"
+      ],
+      "sources": [
+        "grant-2007",
+        "grant-2008",
+        "who-2022"
+      ],
+      "limits": [
+        "使命感を過重労働の正当化に使わない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "WD-C28",
+      "claim": "リモート・出社の優劣を一律に決めず、集中、協働、設備、通勤、ケア、障害、孤立、監視、選択可能性を仕事単位で評価する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "媒体・場所の設計",
+      "scope": [
+        "リモート・ハイブリッド"
+      ],
+      "sources": [
+        "gajendran-harrison-2007",
+        "joyce-2010",
+        "who-2022"
+      ],
+      "limits": [
+        "平均効果を個人へ強制しない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "WD-C29",
+      "claim": "仕事再設計は、平均満足度だけでなく、健康、品質、安全、業績、離職、仕事家庭葛藤、アクセス格差、副作用を追う。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "評価設計",
+      "scope": [
+        "組織介入"
+      ],
+      "sources": [
+        "humphrey-2007",
+        "kelly-2014",
+        "moen-2016",
+        "who-2022"
+      ],
+      "limits": [
+        "遠い成果の単独因果を主張しない",
+        "職種・属性差を確認"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "WD-C30",
+      "claim": "健康・障害・家族事情の詳細な自己開示を、柔軟勤務・配慮・仕事量調整を求める条件として必要以上に強制してはならない。",
+      "label": "不支持",
+      "directness": "公式指針・制度",
+      "relationship": "プライバシー・権力",
+      "scope": [
+        "配慮・柔軟勤務"
+      ],
+      "sources": [
+        "ilo-1997",
+        "who-2022"
+      ],
+      "limits": [
+        "必要な機能情報と専門経路を本人と確認"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "WD-C31",
+      "claim": "心理社会的仕事ストレッサーは筋骨格系の訴えとも関連し、心理と身体の仕事設計を別々の問題にできない。",
+      "label": "A",
+      "directness": "隣接研究",
+      "relationship": "メタ分析上の関連",
+      "scope": [
+        "人間工学・心理社会的リスク"
+      ],
+      "sources": [
+        "eatough-2012"
+      ],
+      "limits": [
+        "身体的曝露と個人差を同時評価",
+        "因果方向"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "WD-C32",
+      "claim": "交代・夜間勤務は概日リズムと睡眠を通じ健康へ影響し得るため、本人の適応努力だけでなく勤務表・休息・予測可能性を設計する。",
+      "label": "A",
+      "directness": "隣接研究",
+      "relationship": "統合知見",
+      "scope": [
+        "交代勤務・睡眠"
+      ],
+      "sources": [
+        "kecklund-axelsson-2016"
+      ],
+      "limits": [
+        "職種・勤務表・個人差",
+        "医療診断ではない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "WD-C33",
+      "claim": "非勤務時間の心理的切離し等は回復に関わるが、回復研修や余暇の工夫を過重な要求度・長時間労働の正当化に使えない。",
+      "label": "B",
+      "directness": "隣接研究",
+      "relationship": "測定・関連",
+      "scope": [
+        "回復"
+      ],
+      "sources": [
+        "sonnentag-fritz-2007",
+        "pega-2021"
+      ],
+      "limits": [
+        "自己報告",
+        "組織的な負荷削減を優先"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "WD-C34",
+      "claim": "仕事再設計による時間短縮・生産性向上を、健康・品質・安全の確認前に人員削減や目標引上げへ自動転換することを本ナビは支持しない。",
+      "label": "不支持",
+      "directness": "予防原則に基づく推論",
+      "relationship": "仕事強化・分配",
+      "scope": [
+        "生産性・仕事再設計"
+      ],
+      "sources": [
+        "kubicek-2015",
+        "who-2022",
+        "parker-2017"
+      ],
+      "limits": [
+        "得られた余力の配分を従業員と協議",
+        "雇用・報酬制度を別途確認"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "WD-C35",
+      "claim": "アルゴリズム管理の導入・変更では、影響を受ける労働者と代表者へ情報を提供し、協議・人の監督・異議申立てを設ける。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "参加・統治",
+      "scope": [
+        "アルゴリズム管理"
+      ],
+      "sources": [
+        "eu-platform-2024"
+      ],
+      "limits": [
+        "EUプラットフォーム労働指令の適用範囲を限定",
+        "日本の制度を別途確認"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "WD-C36",
+      "claim": "リモート・柔軟勤務の設備、通信、作業空間、セキュリティ、光熱、可用性の負担を本人へ無制限に転嫁してはならない。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "費用・境界・公平",
+      "scope": [
+        "リモート・柔軟勤務"
+      ],
+      "sources": [
+        "gajendran-harrison-2007",
+        "kelly-2014",
+        "who-2022"
+      ],
+      "limits": [
+        "費用負担の法的要件は地域で異なる",
+        "本人の希望と職務要件を確認"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "WD-C37",
+      "claim": "アルゴリズム管理は仕事配分の道具にとどまらず、裁量、課題、フィードバック、相互作用、評価、報酬を組み替える仕事設計である。",
+      "label": "A",
+      "directness": "仕事設計直接研究",
+      "relationship": "統合枠組み",
+      "scope": [
+        "アルゴリズム管理・仕事の質"
+      ],
+      "sources": [
+        "parent-parker-2022",
+        "kellogg-2020"
+      ],
+      "limits": [
+        "概念・統合研究",
+        "技術・産業差",
+        "長期効果は未確立"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "WD-C38",
+      "claim": "アルゴリズムによる推薦・制限・記録・評価・報酬は中立ではなく、管理権限と労働者の交渉可能性を変える。",
+      "label": "B",
+      "directness": "仕事設計直接研究",
+      "relationship": "統合レビュー",
+      "scope": [
+        "アルゴリズム統制"
+      ],
+      "sources": [
+        "kellogg-2020"
+      ],
+      "limits": [
+        "個別システムの影響を別途評価",
+        "労働者の対応も多様"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    }
+  ]
+}

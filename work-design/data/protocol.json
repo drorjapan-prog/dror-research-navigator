@@ -1,0 +1,63 @@
+{
+  "name": "仕事の設計・裁量・役割 迅速エビデンスマップ・プロトコル",
+  "version": "0.1",
+  "review_type": "仕事設計の理論・実証・統合研究と公式指針を分離した迅速エビデンスマップ",
+  "research_questions": [
+    {
+      "id": "RQ1",
+      "question": "仕事の動機づけ・知識・社会・文脈特性をどう定義し評価するか。"
+    },
+    {
+      "id": "RQ2",
+      "question": "仕事要求度、資源、裁量、回復は健康・動機・成果へどう関係するか。"
+    },
+    {
+      "id": "RQ3",
+      "question": "役割明確性、葛藤、相互依存、権限をどう設計するか。"
+    },
+    {
+      "id": "RQ4",
+      "question": "仕事量、労働時間、割込み、仕事強化をどう測り改善するか。"
+    },
+    {
+      "id": "RQ5",
+      "question": "ジョブ・クラフティングと組織的仕事再設計をどう区別し組み合わせるか。"
+    },
+    {
+      "id": "RQ6",
+      "question": "柔軟勤務、リモート、監視、アルゴリズム管理、合理的配慮をどう統治するか。"
+    }
+  ],
+  "query_families": [
+    "work design meta-analysis autonomy social contextual",
+    "job characteristics model meta-analysis",
+    "job demands resources review",
+    "job demands control Bayesian meta-analysis",
+    "role ambiguity conflict meta-analysis",
+    "workload meta-analysis long working hours WHO ILO",
+    "telecommuting flexible work intervention meta-analysis",
+    "job crafting meta-analysis intervention",
+    "work interruptions review intensification",
+    "algorithmic management worker data human oversight"
+  ],
+  "inclusion": [
+    "仕事設計を直接扱う主要理論・実証研究",
+    "メタ分析・システマティックレビュー・主要統合レビュー",
+    "組織単位の仕事再設計介入",
+    "健康・個人データ・アルゴリズム管理の公式指針・制度"
+  ],
+  "exclusion": [
+    "裁量は常に多いほどよいとする無条件論",
+    "個人の時間管理・レジリエンスだけへ責任転嫁する資料",
+    "ベンダー独自の生産性宣伝",
+    "クリック・稼働率等による個人ランキング推奨",
+    "無断監視・感情推定・健康推定を推奨する資料"
+  ],
+  "process_limitations": [
+    "単一レビュアーによる迅速整理",
+    "代表文献とDOIメタデータによる非網羅整理",
+    "効果量の独自再計算・正式なバイアス評価は未実施",
+    "古典理論、観察研究、介入研究、公式指針を直接性ラベルで分離",
+    "法的・医療的・安全工学上の個別助言ではない"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "version": "0.1",
+  "release_decision": "完成条件を満たす（次分野へ移行可）",
+  "dimensions": [
+    {
+      "id": "directness",
+      "status": "complete",
+      "evidence": "1on1直接証拠と隣接証拠を分離"
+    },
+    {
+      "id": "definition",
+      "status": "complete",
+      "evidence": "育成・査定・進捗・相談・コーチングを区別"
+    },
+    {
+      "id": "feedback-goals",
+      "status": "complete",
+      "evidence": "フィードバック・目標設定の主要統合研究"
+    },
+    {
+      "id": "relationship-voice",
+      "status": "complete",
+      "evidence": "LMX、voice、心理的安全性、傾聴"
+    },
+    {
+      "id": "coaching",
+      "status": "complete",
+      "evidence": "3系統のメタ分析と外挿限界"
+    },
+    {
+      "id": "implementation",
+      "status": "complete",
+      "evidence": "準備、対話、行動、フォロー、評価"
+    },
+    {
+      "id": "health-boundary",
+      "status": "complete",
+      "evidence": "診断・治療との役割境界と接続"
+    },
+    {
+      "id": "ethics",
+      "status": "complete",
+      "evidence": "強制開示、録音、目的外利用、報復、ランキング"
+    },
+    {
+      "id": "openness",
+      "status": "complete",
+      "evidence": "主張・研究・用語・採否・直接性・引用を公開"
+    }
+  ],
+  "remaining_non_blocking": [
+    "直接比較試験が乏しく、頻度の最適値は未確立",
+    "日本固有の査読研究は今後追加可能",
+    "新規直接研究を優先更新する"
+  ]
+}

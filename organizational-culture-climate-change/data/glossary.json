@@ -1,0 +1,437 @@
+{
+  "name": "組織文化・組織風土・規範・文化変革 用語集",
+  "version": "0.1",
+  "license": "CC BY 4.0",
+  "terms": [
+    {
+      "id": "organizational-culture",
+      "term": "組織文化",
+      "definition": "共有された意味、前提、価値、規範、実践、象徴等の体系。"
+    },
+    {
+      "id": "organizational-climate",
+      "term": "組織風土",
+      "definition": "方針・実践・手続について何が期待・支援・報酬されるかの共有認知。"
+    },
+    {
+      "id": "psychological-climate",
+      "term": "心理的風土",
+      "definition": "個人が仕事環境をどう知覚・評価するか。"
+    },
+    {
+      "id": "artifact",
+      "term": "人工物",
+      "definition": "建物、言葉、儀式、制度、服装等の観察可能な文化表現。"
+    },
+    {
+      "id": "espoused-value",
+      "term": "標榜価値",
+      "definition": "組織が公式に掲げる価値・理念。"
+    },
+    {
+      "id": "enacted-value",
+      "term": "実践価値",
+      "definition": "実際の意思決定・報酬・行動に表れる価値。"
+    },
+    {
+      "id": "basic-assumption",
+      "term": "基本的前提",
+      "definition": "当然視され、意識されにくい認知・信念。"
+    },
+    {
+      "id": "norm",
+      "term": "規範",
+      "definition": "何をすべき・してよいと期待されるかのルール。"
+    },
+    {
+      "id": "practice",
+      "term": "実践",
+      "definition": "日常的に繰り返される行動・手続・仕事のやり方。"
+    },
+    {
+      "id": "symbol",
+      "term": "象徴",
+      "definition": "文化的意味を担う言葉、物、人物、出来事。"
+    },
+    {
+      "id": "ritual",
+      "term": "儀式",
+      "definition": "意味・所属・秩序を再現する反復的行為。"
+    },
+    {
+      "id": "story",
+      "term": "組織の物語",
+      "definition": "創業・成功・失敗等を意味づける共有された語り。"
+    },
+    {
+      "id": "subculture",
+      "term": "下位文化",
+      "definition": "職種・拠点・集団等で共有される部分的な文化。"
+    },
+    {
+      "id": "counterculture",
+      "term": "対抗文化",
+      "definition": "支配的文化の価値・前提へ異議を唱える下位文化。"
+    },
+    {
+      "id": "integration-perspective",
+      "term": "統合視点",
+      "definition": "組織全体の一貫した共有文化を重視する見方。"
+    },
+    {
+      "id": "differentiation-perspective",
+      "term": "分化視点",
+      "definition": "下位文化間の差・不一致を重視する見方。"
+    },
+    {
+      "id": "fragmentation-perspective",
+      "term": "断片化視点",
+      "definition": "曖昧性、多義性、流動性を重視する見方。"
+    },
+    {
+      "id": "culture-content",
+      "term": "文化内容",
+      "definition": "何の価値・規範が共有されるか。"
+    },
+    {
+      "id": "culture-strength",
+      "term": "文化の強さ",
+      "definition": "価値・規範の共有度・強度。内容の善悪とは別。"
+    },
+    {
+      "id": "climate-level",
+      "term": "風土水準",
+      "definition": "集団の平均的な風土認知。"
+    },
+    {
+      "id": "climate-strength",
+      "term": "風土強度",
+      "definition": "成員間で風土認知が一致する程度。"
+    },
+    {
+      "id": "within-group-agreement",
+      "term": "集団内合意",
+      "definition": "同じ集団の回答者間で認知が一致する程度。"
+    },
+    {
+      "id": "aggregation",
+      "term": "集約",
+      "definition": "個人データをチーム・組織レベルへまとめること。"
+    },
+    {
+      "id": "referent-shift",
+      "term": "参照対象シフト",
+      "definition": "「私は」から「このチームでは」等へ測定対象を変えること。"
+    },
+    {
+      "id": "composition-model",
+      "term": "構成モデル",
+      "definition": "個人概念から集団概念をどう作るかの理論。"
+    },
+    {
+      "id": "competing-values-framework",
+      "term": "競合価値枠組み",
+      "definition": "柔軟性・統制、内部・外部の軸で文化等を整理する枠組み。"
+    },
+    {
+      "id": "clan-culture",
+      "term": "クラン型文化",
+      "definition": "協働、所属、発達等を強調する文化類型。"
+    },
+    {
+      "id": "adhocracy-culture",
+      "term": "アドホクラシー型文化",
+      "definition": "革新、柔軟性、外部適応等を強調する文化類型。"
+    },
+    {
+      "id": "market-culture",
+      "term": "マーケット型文化",
+      "definition": "競争、目標、成果等を強調する文化類型。"
+    },
+    {
+      "id": "hierarchy-culture",
+      "term": "階層型文化",
+      "definition": "統制、手続、安定等を強調する文化類型。"
+    },
+    {
+      "id": "safety-climate",
+      "term": "安全風土",
+      "definition": "安全がどれほど優先・支援・報酬されるかの共有認知。"
+    },
+    {
+      "id": "safety-culture",
+      "term": "安全文化",
+      "definition": "安全に関する価値、前提、規範、実践の広い体系。"
+    },
+    {
+      "id": "psychosocial-risk",
+      "term": "心理社会的リスク",
+      "definition": "仕事設計・管理・社会関係等から生じる心理・身体的危害リスク。"
+    },
+    {
+      "id": "service-climate",
+      "term": "サービス風土",
+      "definition": "サービス品質が期待・支援・報酬される共有認知。"
+    },
+    {
+      "id": "diversity-climate",
+      "term": "多様性風土",
+      "definition": "多様性、公平、差別等に関する方針・実践の共有認知。"
+    },
+    {
+      "id": "climate-for-inclusion",
+      "term": "包摂風土",
+      "definition": "多様な人が意思決定・情報・機会へ包摂される共有環境。"
+    },
+    {
+      "id": "innovation-climate",
+      "term": "革新風土",
+      "definition": "アイデア、実験、参加、支援、資源等が促される共有環境。"
+    },
+    {
+      "id": "ethical-climate",
+      "term": "倫理風土",
+      "definition": "何が倫理的に正しいかを判断する基準・焦点の共有認知。"
+    },
+    {
+      "id": "ethical-culture",
+      "term": "倫理文化",
+      "definition": "倫理行動を支える明確性、模範、支援、透明性、制裁等の仕組み。"
+    },
+    {
+      "id": "voice-climate",
+      "term": "発言風土",
+      "definition": "改善・懸念の発言が期待・支持されるという共有認知。"
+    },
+    {
+      "id": "psychological-safety",
+      "term": "心理的安全性",
+      "definition": "対人リスクを取っても安全だという共有された信念。"
+    },
+    {
+      "id": "person-organization-fit",
+      "term": "個人‐組織適合",
+      "definition": "個人と組織の価値・需要・資源等の適合。"
+    },
+    {
+      "id": "supplementary-fit",
+      "term": "補足的適合",
+      "definition": "個人と環境が似た特性を持つ適合。"
+    },
+    {
+      "id": "complementary-fit",
+      "term": "相補的適合",
+      "definition": "個人と環境が互いに不足を補う適合。"
+    },
+    {
+      "id": "needs-supplies-fit",
+      "term": "需要‐供給適合",
+      "definition": "個人の必要を環境がどれだけ満たすか。"
+    },
+    {
+      "id": "demands-abilities-fit",
+      "term": "要求‐能力適合",
+      "definition": "環境要求と個人能力がどれだけ合うか。"
+    },
+    {
+      "id": "perceived-fit",
+      "term": "知覚適合",
+      "definition": "本人・評価者が直接感じる適合。"
+    },
+    {
+      "id": "objective-fit",
+      "term": "客観適合",
+      "definition": "個人と環境を別々に測って比較する適合。"
+    },
+    {
+      "id": "culture-fit",
+      "term": "カルチャーフィット",
+      "definition": "組織文化との適合を指す曖昧な実務語。定義が必要。"
+    },
+    {
+      "id": "culture-add",
+      "term": "カルチャーアド",
+      "definition": "既存文化へ異なる視点・能力を加えるという実務概念。"
+    },
+    {
+      "id": "cultural-matching",
+      "term": "文化的マッチング",
+      "definition": "採用者が応募者との趣味・経験・自己呈示の類似を評価する過程。"
+    },
+    {
+      "id": "homogeneity",
+      "term": "同質性",
+      "definition": "集団成員の特性・価値・背景等が似ている程度。"
+    },
+    {
+      "id": "socialization",
+      "term": "組織社会化",
+      "definition": "新規成員が役割・関係・規範を学ぶ過程。"
+    },
+    {
+      "id": "identification",
+      "term": "組織同一視",
+      "definition": "組織への所属を自己概念の一部として捉えること。"
+    },
+    {
+      "id": "founder-imprinting",
+      "term": "創業者刻印",
+      "definition": "創業期の価値・制度・人材モデルが後に残ること。"
+    },
+    {
+      "id": "cultural-tightness",
+      "term": "文化的タイトネス",
+      "definition": "規範が強く逸脱への許容が低い程度。"
+    },
+    {
+      "id": "cultural-looseness",
+      "term": "文化的ルースネス",
+      "definition": "規範が比較的弱く逸脱への許容が高い程度。"
+    },
+    {
+      "id": "national-culture",
+      "term": "国民文化",
+      "definition": "国レベルで研究される価値・規範の傾向。個人性格ではない。"
+    },
+    {
+      "id": "ecological-fallacy",
+      "term": "生態学的誤謬",
+      "definition": "集団平均の関係を個人へ当てはめる誤り。"
+    },
+    {
+      "id": "culture-change",
+      "term": "文化変革",
+      "definition": "価値、前提、規範、実践、制度等を変える過程。"
+    },
+    {
+      "id": "episodic-change",
+      "term": "エピソード的変化",
+      "definition": "比較的明確な開始・終了を持つ断続的変化。"
+    },
+    {
+      "id": "continuous-change",
+      "term": "継続的変化",
+      "definition": "日常の適応・学習で進む連続的変化。"
+    },
+    {
+      "id": "change-readiness",
+      "term": "変革準備性",
+      "definition": "変革の必要性、適切性、能力、支援等に関する認知。"
+    },
+    {
+      "id": "surface-compliance",
+      "term": "表面的順応",
+      "definition": "内実が変わらず、要求された表現・行動だけ合わせること。"
+    },
+    {
+      "id": "decoupling",
+      "term": "脱連結",
+      "definition": "公式方針と日常実践が切り離されること。"
+    },
+    {
+      "id": "culture-intervention",
+      "term": "文化介入",
+      "definition": "文化・風土・規範・実践の変化を意図した施策。"
+    },
+    {
+      "id": "culture-ambassador",
+      "term": "文化アンバサダー",
+      "definition": "文化施策を支援する成員役割。権限・負担の設計が必要。"
+    },
+    {
+      "id": "role-modeling",
+      "term": "模範行動",
+      "definition": "権限者等が期待行動を実際に示すこと。"
+    },
+    {
+      "id": "reward-system",
+      "term": "報酬システム",
+      "definition": "評価、昇進、金銭、承認等を配分する仕組み。"
+    },
+    {
+      "id": "sanction",
+      "term": "制裁",
+      "definition": "規範違反等への不利益・処分。適正手続が必要。"
+    },
+    {
+      "id": "exception-handling",
+      "term": "例外処理",
+      "definition": "通常基準から外れる事案を扱うこと。"
+    },
+    {
+      "id": "culture-audit",
+      "term": "文化監査",
+      "definition": "価値、制度、実践、経験、結果の整合性を体系的に調べること。"
+    },
+    {
+      "id": "culture-survey",
+      "term": "文化サーベイ",
+      "definition": "文化・風土・規範等を質問紙で調べる方法。"
+    },
+    {
+      "id": "triangulation",
+      "term": "三角測量",
+      "definition": "複数方法・資料・視点を組み合わせて確かめること。"
+    },
+    {
+      "id": "free-text",
+      "term": "自由記述",
+      "definition": "回答者が自分の言葉で記す調査データ。再特定に注意。"
+    },
+    {
+      "id": "response-bias",
+      "term": "回答バイアス",
+      "definition": "恐れ、期待、記憶等で回答が体系的に歪むこと。"
+    },
+    {
+      "id": "nonresponse-bias",
+      "term": "無回答バイアス",
+      "definition": "回答者と非回答者の違いで推定が歪むこと。"
+    },
+    {
+      "id": "performative-culture",
+      "term": "演出的文化",
+      "definition": "外部向け表現や儀礼が実践を伴わず自己目的化した状態。"
+    },
+    {
+      "id": "open-culture",
+      "term": "オープンな文化",
+      "definition": "情報・異議・参加にアクセスできる文化。私生活開示とは異なる。"
+    },
+    {
+      "id": "learning-culture",
+      "term": "学習文化",
+      "definition": "実験、振り返り、知識共有、訂正が支援される文化。"
+    },
+    {
+      "id": "compliance-culture",
+      "term": "コンプライアンス文化",
+      "definition": "法令・倫理遵守が資源・権限・報酬・実務で支えられる文化。"
+    },
+    {
+      "id": "speak-up-culture",
+      "term": "スピークアップ文化",
+      "definition": "懸念・不正・改善を安全に発言できる実践と規範。"
+    },
+    {
+      "id": "culture-washing",
+      "term": "カルチャー・ウォッシング",
+      "definition": "文化や価値の対外表現が内部実態と大きく乖離すること。"
+    },
+    {
+      "id": "small-cell-protection",
+      "term": "少人数セル保護",
+      "definition": "集計から個人を再特定できないようにする措置。"
+    },
+    {
+      "id": "purpose-limitation",
+      "term": "目的限定",
+      "definition": "収集データを示した目的以外へ使わない原則。"
+    },
+    {
+      "id": "toxic-culture",
+      "term": "有害な文化",
+      "definition": "単一の診断ではなく、危害・不公正・過重負荷・沈黙等へ分解すべき総称。"
+    }
+  ]
+}

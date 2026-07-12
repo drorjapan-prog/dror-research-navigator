@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://research.dror.co.jp/organizational-power-politics-participation-voice/sitemap.xml

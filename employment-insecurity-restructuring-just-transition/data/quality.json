@@ -1,0 +1,655 @@
+{
+  "name": "雇用不安・組織再編・レイオフ・公正な移行 研究の質と限界",
+  "version": "0.1",
+  "notice": "簡易評価であり正式なRoB評価ではない。",
+  "assessments": [
+    {
+      "study_id": "greenhalgh-1984",
+      "design": "conceptual review",
+      "strength": "基礎理論・測定",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "古典的概念論",
+        "現在の非標準雇用・アルゴリズム管理を直接扱わない"
+      ]
+    },
+    {
+      "study_id": "de-witte-1999",
+      "design": "narrative review",
+      "strength": "基礎理論・測定",
+      "directness": "統合研究",
+      "key_limits": [
+        "観察研究中心",
+        "因果方向に限界"
+      ]
+    },
+    {
+      "study_id": "hellgren-1999",
+      "design": "longitudinal field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "単一国・職域",
+        "自己報告中心"
+      ]
+    },
+    {
+      "study_id": "probst-2003",
+      "design": "measure development",
+      "strength": "基礎理論・測定",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "尺度項目は再配布しない",
+        "文化・雇用制度依存"
+      ]
+    },
+    {
+      "study_id": "sverke-2002",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "古い研究中心",
+        "観察研究主体",
+        "効果の異質性"
+      ]
+    },
+    {
+      "study_id": "ferrie-2002",
+      "design": "prospective cohort study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "特定職域",
+        "自己報告健康",
+        "残余交絡"
+      ]
+    },
+    {
+      "study_id": "cheng-chan-2008",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "観察研究中心",
+        "年代・地域差",
+        "因果確定ではない"
+      ]
+    },
+    {
+      "study_id": "staufenbiel-konig-2010",
+      "design": "longitudinal field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "観察研究",
+        "測定・文脈依存"
+      ]
+    },
+    {
+      "study_id": "vander-elst-2014",
+      "design": "cross-national validation",
+      "strength": "基礎理論・測定",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "欧州中心",
+        "等値性が普遍性を意味しない",
+        "尺度権利確認が必要"
+      ]
+    },
+    {
+      "study_id": "shoss-2017",
+      "design": "integrative review",
+      "strength": "基礎理論・測定",
+      "directness": "統合研究",
+      "key_limits": [
+        "ナラティブ統合",
+        "介入効果のレビューではない"
+      ]
+    },
+    {
+      "study_id": "lee-2018",
+      "design": "annual review",
+      "strength": "基礎理論・測定",
+      "directness": "統合研究",
+      "key_limits": [
+        "ナラティブレビュー",
+        "国・制度差"
+      ]
+    },
+    {
+      "study_id": "jiang-lavaysse-2018",
+      "design": "meta-analysis and field study",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "自己報告研究が多い",
+        "尺度差",
+        "時間順序に限界"
+      ]
+    },
+    {
+      "study_id": "piccoli-2017",
+      "design": "field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "横断・自己報告部分",
+        "単一モデル",
+        "一般化制約"
+      ]
+    },
+    {
+      "study_id": "virtanen-2013",
+      "design": "meta-analysis of cohort studies",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "観察コホート",
+        "自己報告曝露",
+        "因果確定ではない"
+      ]
+    },
+    {
+      "study_id": "kim-2016",
+      "design": "systematic review",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "診断と症状尺度が混在",
+        "制度・景気差",
+        "出版バイアス"
+      ]
+    },
+    {
+      "study_id": "jacobson-1993",
+      "design": "administrative longitudinal study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "特定州・時代",
+        "制度と景気依存",
+        "非金銭影響を含まない"
+      ]
+    },
+    {
+      "study_id": "brand-2008",
+      "design": "longitudinal study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "高年齢層",
+        "観察研究",
+        "選択・景気交絡"
+      ]
+    },
+    {
+      "study_id": "sullivan-wachter-2009",
+      "design": "administrative longitudinal study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "男性・長期勤続中心",
+        "歴史的米国文脈",
+        "機序は確定しない"
+      ]
+    },
+    {
+      "study_id": "eliason-storrie-2009",
+      "design": "population register study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "国・社会保障制度依存",
+        "サブグループ解釈",
+        "機序不明"
+      ]
+    },
+    {
+      "study_id": "couch-placzek-2010",
+      "design": "administrative longitudinal study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "地域・時代依存",
+        "平均が分布差を隠す"
+      ]
+    },
+    {
+      "study_id": "mendolia-2014",
+      "design": "household longitudinal study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "異性愛夫婦中心の歴史的データ",
+        "役割規範依存",
+        "観察研究"
+      ]
+    },
+    {
+      "study_id": "brand-2015",
+      "design": "integrative review",
+      "strength": "基礎理論・測定",
+      "directness": "統合研究",
+      "key_limits": [
+        "ナラティブ統合",
+        "国・制度・景気差",
+        "平均効果"
+      ]
+    },
+    {
+      "study_id": "wanberg-2012",
+      "design": "annual review",
+      "strength": "基礎理論・測定",
+      "directness": "統合研究",
+      "key_limits": [
+        "ナラティブレビュー",
+        "個人差の説明を責任転嫁にしない"
+      ]
+    },
+    {
+      "study_id": "paul-moser-2009",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "研究の異質性",
+        "選択と因果の両方",
+        "臨床診断ではない"
+      ]
+    },
+    {
+      "study_id": "brockner-1987",
+      "design": "field and experimental studies",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "古典的研究",
+        "特定削減文脈",
+        "短期結果"
+      ]
+    },
+    {
+      "study_id": "brockner-1990",
+      "design": "experimental and field studies",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "古典的・短期研究",
+        "説明だけで実質的不利益は解消しない"
+      ]
+    },
+    {
+      "study_id": "mishra-spreitzer-1998",
+      "design": "conceptual model",
+      "strength": "基礎理論・測定",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "概念モデル",
+        "実証強度は経路ごとに異なる"
+      ]
+    },
+    {
+      "study_id": "cascio-1997",
+      "design": "firm-level longitudinal study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "企業レベル観察",
+        "時代・国依存",
+        "削減理由の選択"
+      ]
+    },
+    {
+      "study_id": "love-nohria-2005",
+      "design": "firm-level panel study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "企業レベル",
+        "因果選択",
+        "従業員福祉を測らない"
+      ]
+    },
+    {
+      "study_id": "trevor-nyberg-2008",
+      "design": "organization-level longitudinal study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "組織レベル観察",
+        "制度・景気文脈",
+        "個人過程を直接測らない"
+      ]
+    },
+    {
+      "study_id": "datta-2010",
+      "design": "integrative review",
+      "strength": "基礎理論・測定",
+      "directness": "統合研究",
+      "key_limits": [
+        "ナラティブ統合",
+        "研究設計の異質性",
+        "公表バイアス"
+      ]
+    },
+    {
+      "study_id": "oreg-2011",
+      "design": "60-year review",
+      "strength": "基礎理論・測定",
+      "directness": "統合研究",
+      "key_limits": [
+        "ナラティブレビュー",
+        "変革種類の異質性",
+        "抵抗を欠陥扱いしない"
+      ]
+    },
+    {
+      "study_id": "rafferty-griffin-2006",
+      "design": "longitudinal field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "特定組織",
+        "自己報告",
+        "変革結果の異質性"
+      ]
+    },
+    {
+      "study_id": "nielsen-randall-2013",
+      "design": "process evaluation framework",
+      "strength": "基礎理論・測定",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "方法論枠組み",
+        "特定施策の効果証明ではない"
+      ]
+    },
+    {
+      "study_id": "nielsen-miraglia-2017",
+      "design": "realist evaluation framework",
+      "strength": "基礎理論・測定",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "概念・方法論",
+        "直接的レイオフ介入研究ではない"
+      ]
+    },
+    {
+      "study_id": "cartwright-schoenberg-2006",
+      "design": "field review",
+      "strength": "基礎理論・測定",
+      "directness": "統合研究",
+      "key_limits": [
+        "短い総説",
+        "M&A種類・国の異質性"
+      ]
+    },
+    {
+      "study_id": "stahl-voigt-2008",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "研究の異質性",
+        "文化を固定属性化しない",
+        "因果複雑"
+      ]
+    },
+    {
+      "study_id": "lewis-1999",
+      "design": "field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "特定事例",
+        "自己報告",
+        "現代デジタル環境以前"
+      ]
+    },
+    {
+      "study_id": "vinokur-1995",
+      "design": "randomized field experiment",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "歴史的米国制度",
+        "参加者選択",
+        "現代労働市場への移植に注意"
+      ]
+    },
+    {
+      "study_id": "liu-2014",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "介入・対象の異質性",
+        "就職の質・持続性データが限定",
+        "構造的雇用不足を解消しない"
+      ]
+    },
+    {
+      "study_id": "card-2018",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "政策・国の異質性",
+        "選択・公表バイアス",
+        "仕事の質を十分測らない"
+      ]
+    },
+    {
+      "study_id": "kluve-2019",
+      "design": "systematic review and meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "若年者限定",
+        "短期追跡が多い",
+        "非参加者への一般化"
+      ]
+    },
+    {
+      "study_id": "worldbank-displacement-2021",
+      "design": "policy synthesis",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "石炭中心",
+        "政策移植には地域診断",
+        "拘束力ある法ではない"
+      ]
+    },
+    {
+      "study_id": "ilo-c158",
+      "design": "international labour convention",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "批准・国内実施を確認",
+        "日本の個別法的助言ではない"
+      ]
+    },
+    {
+      "study_id": "ilo-r166",
+      "design": "international recommendation",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "勧告であり条約・国内法と法的地位が異なる"
+      ]
+    },
+    {
+      "study_id": "ilo-c168",
+      "design": "international labour convention",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "批准・国内実施・給付要件を確認"
+      ]
+    },
+    {
+      "study_id": "ilo-c173",
+      "design": "international labour convention",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "批准・選択条項・国内制度を確認"
+      ]
+    },
+    {
+      "study_id": "ilo-just-transition-2015",
+      "design": "tripartite policy guidelines",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "非拘束的指針",
+        "国・地域別具体化が必要"
+      ]
+    },
+    {
+      "study_id": "ilo-just-transition-2023",
+      "design": "tripartite resolution",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "決議であり国内法ではない",
+        "実施能力差"
+      ]
+    },
+    {
+      "study_id": "eu-collective-1998",
+      "design": "EU directive",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "EU指令",
+        "国内法への転置と適用範囲を確認",
+        "人数閾値あり"
+      ]
+    },
+    {
+      "study_id": "eu-transfer-2001",
+      "design": "EU directive",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "EU指令",
+        "移転該当性・例外・国内法を確認"
+      ]
+    },
+    {
+      "study_id": "eu-insolvency-2008",
+      "design": "EU directive",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "EU指令",
+        "期間・上限・国内実施を確認"
+      ]
+    },
+    {
+      "study_id": "eu-egf-2021",
+      "design": "EU regulation",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "EU基金",
+        "申請・適格性あり",
+        "所得保障そのものではない"
+      ]
+    },
+    {
+      "study_id": "eu-fair-transition-2022",
+      "design": "EU council recommendation",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "勧告であり直接適用法ではない",
+        "EU文脈"
+      ]
+    },
+    {
+      "study_id": "unfccc-paris-2015",
+      "design": "international treaty",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "前文の考慮事項",
+        "国内での具体的権利は別制度"
+      ]
+    },
+    {
+      "study_id": "oecd-ai-2023",
+      "design": "official policy report",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "予測不確実性",
+        "技術進展が速い",
+        "国・産業差"
+      ]
+    },
+    {
+      "study_id": "ilo-genai-2023",
+      "design": "global task exposure analysis",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "曝露は実際の導入・失職ではない",
+        "データ・技術前提",
+        "国・性別差"
+      ]
+    },
+    {
+      "study_id": "japan-labor-contract",
+      "design": "Japanese statute",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "条文・判例・個別事実を専門家と確認",
+        "有期契約等は別条項"
+      ]
+    },
+    {
+      "study_id": "japan-labor-standards",
+      "design": "Japanese statute",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "例外・除外・他法令・判例を確認",
+        "個別法的助言ではない"
+      ]
+    },
+    {
+      "study_id": "japan-employment-insurance",
+      "design": "Japanese statute",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "現行要件・改正・個別認定を公的窓口で確認"
+      ]
+    },
+    {
+      "study_id": "japan-wage-payment",
+      "design": "Japanese statute",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "適用・上限・手続・時効を最新資料で確認"
+      ]
+    },
+    {
+      "study_id": "japan-labor-policy-act",
+      "design": "Japanese statute",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "対象要件・期限・様式は厚生労働省・労働局の最新版を確認",
+        "個別法的助言ではない"
+      ]
+    }
+  ]
+}

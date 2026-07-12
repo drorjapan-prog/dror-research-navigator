@@ -1,0 +1,767 @@
+{
+  "name": "職場の信頼・心理的契約・組織コミットメント 用語集",
+  "version": "0.1",
+  "license": "CC BY 4.0",
+  "terms": [
+    {
+      "id": "trust",
+      "term": "信頼",
+      "definition": "相手への肯定的期待のもとで脆弱性を受け入れる心理状態"
+    },
+    {
+      "id": "trustworthiness",
+      "term": "信頼可能性",
+      "definition": "相手が信頼に値すると評価される程度"
+    },
+    {
+      "id": "ability",
+      "term": "能力",
+      "definition": "特定領域で成果を出せる技能・知識・資質"
+    },
+    {
+      "id": "benevolence",
+      "term": "善意",
+      "definition": "相手が自己利益だけでなくこちらを気遣うと期待される程度"
+    },
+    {
+      "id": "integrity",
+      "term": "誠実性",
+      "definition": "受容可能な原則を一貫して守ると評価される程度"
+    },
+    {
+      "id": "trust-propensity",
+      "term": "信頼傾向",
+      "definition": "他者一般を信頼しやすい比較的安定した傾向"
+    },
+    {
+      "id": "vulnerability",
+      "term": "脆弱性",
+      "definition": "他者の行動によって損失・害を受け得る状態"
+    },
+    {
+      "id": "risk-taking",
+      "term": "リスク受容行動",
+      "definition": "不確実な相手へ依存する選択・行動"
+    },
+    {
+      "id": "positive-expectation",
+      "term": "肯定的期待",
+      "definition": "相手が望ましい行動を取るという予期"
+    },
+    {
+      "id": "interpersonal-trust",
+      "term": "対人信頼",
+      "definition": "特定の個人に向けられた信頼"
+    },
+    {
+      "id": "team-trust",
+      "term": "チーム信頼",
+      "definition": "チーム成員間またはチームへの共有された信頼"
+    },
+    {
+      "id": "leader-trust",
+      "term": "リーダー信頼",
+      "definition": "上司・リーダーに向けられた信頼"
+    },
+    {
+      "id": "management-trust",
+      "term": "経営信頼",
+      "definition": "経営層・管理体制に向けられた信頼"
+    },
+    {
+      "id": "organizational-trust",
+      "term": "組織信頼",
+      "definition": "組織全体の意図・行動・制度への信頼"
+    },
+    {
+      "id": "institutional-trust",
+      "term": "制度信頼",
+      "definition": "規則・制度・職務・統治が機能するという信頼"
+    },
+    {
+      "id": "interorganizational-trust",
+      "term": "組織間信頼",
+      "definition": "組織と組織の関係における信頼"
+    },
+    {
+      "id": "cognition-based-trust",
+      "term": "認知的信頼",
+      "definition": "能力・実績・信頼性の判断に基づく信頼"
+    },
+    {
+      "id": "affect-based-trust",
+      "term": "感情的信頼",
+      "definition": "相互の気遣い・情緒的結びつきに基づく信頼"
+    },
+    {
+      "id": "initial-trust",
+      "term": "初期信頼",
+      "definition": "十分な直接経験がない関係の初期に形成される信頼"
+    },
+    {
+      "id": "calculus-based-trust",
+      "term": "計算的信頼",
+      "definition": "利益・制裁・予測可能性の計算に基づく信頼"
+    },
+    {
+      "id": "knowledge-based-trust",
+      "term": "知識的信頼",
+      "definition": "相手の行動を予測できる知識に基づく信頼"
+    },
+    {
+      "id": "identification-based-trust",
+      "term": "同一化的信頼",
+      "definition": "価値・意図の共有や相互理解に基づく信頼"
+    },
+    {
+      "id": "distrust",
+      "term": "不信",
+      "definition": "相手が害・欺き・不履行をもたらすという肯定的な警戒"
+    },
+    {
+      "id": "low-trust",
+      "term": "低信頼",
+      "definition": "肯定的期待が弱い状態。不信と完全には同じでない"
+    },
+    {
+      "id": "trust-asymmetry",
+      "term": "信頼の非対称性",
+      "definition": "関係当事者間で信頼水準が異なる状態"
+    },
+    {
+      "id": "trust-calibration",
+      "term": "信頼の較正",
+      "definition": "相手の実際の信頼可能性と信頼水準が対応する程度"
+    },
+    {
+      "id": "overtrust",
+      "term": "過信",
+      "definition": "信頼可能性を超えて相手へ依存する状態"
+    },
+    {
+      "id": "undertrust",
+      "term": "過小信頼",
+      "definition": "信頼可能性があるのに過度に依存を避ける状態"
+    },
+    {
+      "id": "trust-development",
+      "term": "信頼形成",
+      "definition": "経験・情報・制度を通じ信頼が形成・更新される過程"
+    },
+    {
+      "id": "trust-erosion",
+      "term": "信頼侵食",
+      "definition": "不一致・不履行等で信頼が徐々に損なわれる過程"
+    },
+    {
+      "id": "trust-violation",
+      "term": "信頼違反",
+      "definition": "信頼を支えた期待に反する出来事"
+    },
+    {
+      "id": "competence-violation",
+      "term": "能力に関する違反",
+      "definition": "能力・遂行可能性への期待を損なう出来事"
+    },
+    {
+      "id": "integrity-violation",
+      "term": "誠実性に関する違反",
+      "definition": "正直さ・原則・意図への期待を損なう出来事"
+    },
+    {
+      "id": "trust-repair",
+      "term": "信頼修復",
+      "definition": "違反後に信頼可能性・関係・制度を回復・再構築する過程"
+    },
+    {
+      "id": "apology",
+      "term": "謝罪",
+      "definition": "害・違反を認め遺憾・責任等を表明する行為"
+    },
+    {
+      "id": "denial",
+      "term": "否認",
+      "definition": "違反・責任・事実の一部または全部を否定する応答"
+    },
+    {
+      "id": "explanation",
+      "term": "説明",
+      "definition": "出来事の経緯・理由・判断根拠を示すこと"
+    },
+    {
+      "id": "accountability",
+      "term": "説明責任",
+      "definition": "行為と判断を説明し検証・是正を受ける責任"
+    },
+    {
+      "id": "restitution",
+      "term": "原状回復",
+      "definition": "失われた利益・状態を可能な範囲で戻すこと"
+    },
+    {
+      "id": "compensation",
+      "term": "補償",
+      "definition": "損失・害に対し金銭・資源等で埋め合わせること"
+    },
+    {
+      "id": "corrective-action",
+      "term": "是正措置",
+      "definition": "確認された問題を止め・直すための措置"
+    },
+    {
+      "id": "recurrence-prevention",
+      "term": "再発防止",
+      "definition": "同様の問題が再び起きにくくする統制・設計"
+    },
+    {
+      "id": "forgiveness",
+      "term": "赦し",
+      "definition": "害への否定的反応を手放す過程。義務ではない"
+    },
+    {
+      "id": "reconciliation",
+      "term": "和解",
+      "definition": "当事者間の関係を再構築する過程。強制しない"
+    },
+    {
+      "id": "relationship-exit",
+      "term": "関係離脱",
+      "definition": "関係・役割・契約を終える選択"
+    },
+    {
+      "id": "psychological-contract",
+      "term": "心理的契約",
+      "definition": "雇用関係の相互義務について個人が抱く信念"
+    },
+    {
+      "id": "legal-contract",
+      "term": "法的契約",
+      "definition": "法的権利義務を定める合意"
+    },
+    {
+      "id": "explicit-promise",
+      "term": "明示的約束",
+      "definition": "言葉・文書等で明確に示された約束"
+    },
+    {
+      "id": "implicit-promise",
+      "term": "暗黙的約束",
+      "definition": "言動・慣行等から認知された約束"
+    },
+    {
+      "id": "expectation",
+      "term": "期待",
+      "definition": "将来こうなると予想・希望すること"
+    },
+    {
+      "id": "obligation",
+      "term": "義務",
+      "definition": "実行すべき責任があると認知されること"
+    },
+    {
+      "id": "mutuality",
+      "term": "相互認識",
+      "definition": "双方が同じ義務・約束を認識している程度"
+    },
+    {
+      "id": "reciprocity",
+      "term": "互恵性",
+      "definition": "資源・行為のやり取りが相互的であること"
+    },
+    {
+      "id": "transactional-contract",
+      "term": "取引的心理的契約",
+      "definition": "短期・経済的・限定的義務を中心とする心理的契約"
+    },
+    {
+      "id": "relational-contract",
+      "term": "関係的心理的契約",
+      "definition": "長期・社会情緒的・広範な義務を含む心理的契約"
+    },
+    {
+      "id": "balanced-contract",
+      "term": "均衡的心理的契約",
+      "definition": "長期関係と業績・発達の相互義務を組み合わせる心理的契約"
+    },
+    {
+      "id": "transitional-contract",
+      "term": "移行的心理状態",
+      "definition": "組織変化時に不確実性・不信・侵食が強い状態"
+    },
+    {
+      "id": "contract-formation",
+      "term": "心理的契約形成",
+      "definition": "採用・社会化・経験から義務信念が形づくられる過程"
+    },
+    {
+      "id": "contract-fulfillment",
+      "term": "心理的契約履行",
+      "definition": "認知された約束・義務が果たされたという評価"
+    },
+    {
+      "id": "contract-breach",
+      "term": "心理的契約不履行",
+      "definition": "約束・義務が十分果たされていないという認知"
+    },
+    {
+      "id": "contract-violation",
+      "term": "心理的契約違反感",
+      "definition": "不履行に伴う怒り・裏切り等の感情経験"
+    },
+    {
+      "id": "renegotiation",
+      "term": "再交渉",
+      "definition": "変化した条件・約束・義務を話し合い直すこと"
+    },
+    {
+      "id": "contract-repair",
+      "term": "心理的契約修復",
+      "definition": "不履行後に約束・交換関係を再構築する過程"
+    },
+    {
+      "id": "organizational-commitment",
+      "term": "組織コミットメント",
+      "definition": "組織との関係を維持する結びつき"
+    },
+    {
+      "id": "affective-commitment",
+      "term": "情緒的コミットメント",
+      "definition": "愛着・同一化・関与に基づく結びつき"
+    },
+    {
+      "id": "continuance-commitment",
+      "term": "存続的コミットメント",
+      "definition": "離れる費用・代替不足に基づく結びつき"
+    },
+    {
+      "id": "normative-commitment",
+      "term": "規範的コミットメント",
+      "definition": "残るべきだという義務感に基づく結びつき"
+    },
+    {
+      "id": "commitment-target",
+      "term": "コミットメント対象",
+      "definition": "組織・チーム・職業・目標など結びつきの向かう先"
+    },
+    {
+      "id": "commitment-strength",
+      "term": "コミットメント強度",
+      "definition": "特定対象への結びつきの強さ"
+    },
+    {
+      "id": "commitment-profile",
+      "term": "コミットメントプロフィール",
+      "definition": "複数形態のコミットメントの組合せ"
+    },
+    {
+      "id": "goal-commitment",
+      "term": "目標コミットメント",
+      "definition": "特定目標を追求し続けようとする結びつき"
+    },
+    {
+      "id": "team-commitment",
+      "term": "チームコミットメント",
+      "definition": "チームとの関係を維持する結びつき"
+    },
+    {
+      "id": "occupational-commitment",
+      "term": "職業コミットメント",
+      "definition": "職業・専門との関係を維持する結びつき"
+    },
+    {
+      "id": "career-commitment",
+      "term": "キャリアコミットメント",
+      "definition": "選んだキャリア領域への結びつき"
+    },
+    {
+      "id": "organizational-identification",
+      "term": "組織同一化",
+      "definition": "組織との一体感を自己定義へ取り込むこと"
+    },
+    {
+      "id": "social-identity",
+      "term": "社会的アイデンティティ",
+      "definition": "集団成員性に由来する自己概念"
+    },
+    {
+      "id": "self-categorization",
+      "term": "自己カテゴリー化",
+      "definition": "自分を特定集団の一員として捉える過程"
+    },
+    {
+      "id": "attachment",
+      "term": "愛着",
+      "definition": "人・組織・対象への情緒的結びつき"
+    },
+    {
+      "id": "loyalty",
+      "term": "忠誠",
+      "definition": "対象を支持し関係を維持しようとする姿勢・行動"
+    },
+    {
+      "id": "obedience",
+      "term": "服従",
+      "definition": "権威・命令に従うこと。コミットメントと同義でない"
+    },
+    {
+      "id": "compliance",
+      "term": "遵守",
+      "definition": "規則・要求に沿って行動すること"
+    },
+    {
+      "id": "job-satisfaction",
+      "term": "職務満足",
+      "definition": "仕事・職務経験への全体的評価"
+    },
+    {
+      "id": "turnover-intention",
+      "term": "離職意向",
+      "definition": "現在の組織を辞めようとする意図"
+    },
+    {
+      "id": "actual-turnover",
+      "term": "実際の離職",
+      "definition": "雇用・所属関係が実際に終了すること"
+    },
+    {
+      "id": "organizational-citizenship",
+      "term": "組織市民行動",
+      "definition": "正式役割を越えて組織・他者を支える行動"
+    },
+    {
+      "id": "counterproductive-behavior",
+      "term": "反生産的行動",
+      "definition": "組織・成員へ害を与える任意の行動"
+    },
+    {
+      "id": "perceived-organizational-support",
+      "term": "組織支援知覚",
+      "definition": "組織が貢献を評価し福祉を気に掛けるという認知"
+    },
+    {
+      "id": "supervisor-support",
+      "term": "上司支援",
+      "definition": "上司から得られる道具的・情緒的・情報的支援"
+    },
+    {
+      "id": "received-support",
+      "term": "受領支援",
+      "definition": "実際に提供・利用された支援"
+    },
+    {
+      "id": "support-availability",
+      "term": "支援利用可能性",
+      "definition": "必要時に支援へ到達できる程度"
+    },
+    {
+      "id": "social-exchange",
+      "term": "社会的交換",
+      "definition": "信頼・互恵性・時間を伴う資源交換関係"
+    },
+    {
+      "id": "economic-exchange",
+      "term": "経済的交換",
+      "definition": "明示的・限定的・金銭的な交換"
+    },
+    {
+      "id": "exchange-quality",
+      "term": "交換関係の質",
+      "definition": "支援・信頼・互恵性等を含む関係評価"
+    },
+    {
+      "id": "leader-member-exchange",
+      "term": "LMX",
+      "definition": "上司と部下の二者交換関係の質"
+    },
+    {
+      "id": "employee-organization-relationship",
+      "term": "従業員―組織関係",
+      "definition": "働く人と組織の交換・結びつき・権利義務"
+    },
+    {
+      "id": "voice",
+      "term": "発言",
+      "definition": "改善・懸念・異論・提案を権限ある相手へ伝えること"
+    },
+    {
+      "id": "silence",
+      "term": "沈黙",
+      "definition": "伝え得る情報・懸念を意図的に述べないこと"
+    },
+    {
+      "id": "whistleblowing",
+      "term": "公益通報・内部告発",
+      "definition": "違法・不正等の情報を権限ある経路へ伝えること"
+    },
+    {
+      "id": "internal-reporting",
+      "term": "内部通報",
+      "definition": "組織内部の指定経路へ問題を伝えること"
+    },
+    {
+      "id": "external-reporting",
+      "term": "外部通報",
+      "definition": "行政・報道・外部機関等へ問題を伝えること"
+    },
+    {
+      "id": "anonymous-reporting",
+      "term": "匿名通報",
+      "definition": "本人の識別情報を示さず行う通報"
+    },
+    {
+      "id": "confidential-reporting",
+      "term": "秘密保持通報",
+      "definition": "担当者が通報者情報を限定して扱う通報"
+    },
+    {
+      "id": "reporting-channel",
+      "term": "通報経路",
+      "definition": "通報を受け付ける窓口・手段"
+    },
+    {
+      "id": "case-intake",
+      "term": "受付",
+      "definition": "相談・通報を受け取り必要情報を記録する過程"
+    },
+    {
+      "id": "triage",
+      "term": "トリアージ",
+      "definition": "緊急性・重大性・管轄・利益相反を初期評価すること"
+    },
+    {
+      "id": "investigation",
+      "term": "調査",
+      "definition": "事実・証拠・説明を体系的に確認する過程"
+    },
+    {
+      "id": "case-closure",
+      "term": "案件終結",
+      "definition": "対応結果・理由・記録・通知をもって手続を閉じること"
+    },
+    {
+      "id": "retaliation",
+      "term": "報復",
+      "definition": "通報・相談・協力等を理由とする不利益"
+    },
+    {
+      "id": "non-retaliation",
+      "term": "非報復",
+      "definition": "通報等を理由とする不利益を防ぐ原則・制度"
+    },
+    {
+      "id": "confidentiality",
+      "term": "守秘",
+      "definition": "権限のない相手へ情報を開示しないこと"
+    },
+    {
+      "id": "anonymity",
+      "term": "匿名性",
+      "definition": "情報から本人を直接識別できない状態"
+    },
+    {
+      "id": "conflict-of-interest",
+      "term": "利益相反",
+      "definition": "私的・二次的利益が判断へ影響し得る状態"
+    },
+    {
+      "id": "investigator-independence",
+      "term": "調査独立性",
+      "definition": "調査者が対象・経営等から不当な影響を受けにくい状態"
+    },
+    {
+      "id": "procedural-fairness",
+      "term": "手続的公正",
+      "definition": "手続が一貫・中立・発言可能・訂正可能である程度"
+    },
+    {
+      "id": "due-process",
+      "term": "適正手続",
+      "definition": "不利益判断に先立つ通知・聴取・検討等の手続保障"
+    },
+    {
+      "id": "remedy",
+      "term": "救済",
+      "definition": "害を止め、回復し、補償・是正する手段"
+    },
+    {
+      "id": "grievance-mechanism",
+      "term": "苦情処理メカニズム",
+      "definition": "懸念・被害を申し立て審査・救済を求める仕組み"
+    },
+    {
+      "id": "human-rights-due-diligence",
+      "term": "人権デューディリジェンス",
+      "definition": "人権影響を特定・予防・軽減・説明する継続過程"
+    },
+    {
+      "id": "responsible-business-conduct",
+      "term": "責任ある企業行動",
+      "definition": "人・社会・環境への影響を責任を持って扱う企業行動"
+    },
+    {
+      "id": "monitoring",
+      "term": "監視",
+      "definition": "行動・通信・時間・成果等を継続的に観察・記録すること"
+    },
+    {
+      "id": "electronic-monitoring",
+      "term": "電子監視",
+      "definition": "デジタル技術で行動・通信・成果等を収集・分析すること"
+    },
+    {
+      "id": "surveillance",
+      "term": "サーベイランス",
+      "definition": "権力を伴う体系的な観察・追跡"
+    },
+    {
+      "id": "purpose-limitation",
+      "term": "目的限定",
+      "definition": "明示した正当な目的へデータ利用を限定する原則"
+    },
+    {
+      "id": "data-minimization",
+      "term": "データ最小化",
+      "definition": "目的に必要な範囲へ収集・保持を限定する原則"
+    },
+    {
+      "id": "access-control",
+      "term": "アクセス制御",
+      "definition": "情報を閲覧・利用できる人と権限を限定する仕組み"
+    },
+    {
+      "id": "retention-period",
+      "term": "保存期間",
+      "definition": "情報を保持する期間"
+    },
+    {
+      "id": "audit-log",
+      "term": "監査ログ",
+      "definition": "誰がいつ何を閲覧・変更したかの記録"
+    },
+    {
+      "id": "data-subject-rights",
+      "term": "本人の権利",
+      "definition": "情報へのアクセス・訂正・利用停止等を求める権利"
+    },
+    {
+      "id": "small-cell-protection",
+      "term": "少人数セル保護",
+      "definition": "集計から個人・小集団を再特定しにくくする措置"
+    },
+    {
+      "id": "psychometric-validity",
+      "term": "心理測定的妥当性",
+      "definition": "尺度が意図する概念を適切に測る程度"
+    },
+    {
+      "id": "construct-validity",
+      "term": "構成概念妥当性",
+      "definition": "測定と理論上の概念の対応の適切さ"
+    },
+    {
+      "id": "criterion-validity",
+      "term": "基準関連妥当性",
+      "definition": "測定が関連基準と適切に関係する程度"
+    },
+    {
+      "id": "common-method-bias",
+      "term": "共通方法バイアス",
+      "definition": "同じ回答源・形式により関連が歪む可能性"
+    },
+    {
+      "id": "social-desirability",
+      "term": "社会的望ましさ",
+      "definition": "望ましく見える回答を選ぶ傾向"
+    },
+    {
+      "id": "reference-shift",
+      "term": "参照点シフト",
+      "definition": "回答時に想定する対象・基準が変わること"
+    },
+    {
+      "id": "aggregation",
+      "term": "集約",
+      "definition": "個人回答をチーム・組織水準へまとめること"
+    },
+    {
+      "id": "within-group-agreement",
+      "term": "集団内一致",
+      "definition": "同じ集団の回答がどの程度一致するか"
+    },
+    {
+      "id": "multilevel-analysis",
+      "term": "マルチレベル分析",
+      "definition": "個人・チーム・組織の階層を考慮する分析"
+    },
+    {
+      "id": "cross-sectional-study",
+      "term": "横断研究",
+      "definition": "一時点で変数を測る研究"
+    },
+    {
+      "id": "longitudinal-study",
+      "term": "縦断研究",
+      "definition": "時間を追って同じ対象等を測る研究"
+    },
+    {
+      "id": "daily-diary",
+      "term": "日誌研究",
+      "definition": "日単位等で経験・行動を反復測定する研究"
+    },
+    {
+      "id": "laboratory-experiment",
+      "term": "実験室実験",
+      "definition": "統制環境で条件を操作し比較する研究"
+    },
+    {
+      "id": "field-experiment",
+      "term": "フィールド実験",
+      "definition": "実際の現場で介入条件を比較する研究"
+    },
+    {
+      "id": "meta-analysis",
+      "term": "メタ分析",
+      "definition": "複数研究の効果量を統計的に統合する方法"
+    },
+    {
+      "id": "systematic-review",
+      "term": "システマティックレビュー",
+      "definition": "明示的方法で研究を検索・選択・統合する方法"
+    },
+    {
+      "id": "directness",
+      "term": "直接性",
+      "definition": "根拠が対象・介入・結果・文脈へ対応する程度"
+    },
+    {
+      "id": "causal-inference",
+      "term": "因果推論",
+      "definition": "介入が結果を生じさせたかを比較から推定すること"
+    },
+    {
+      "id": "generalizability",
+      "term": "一般化可能性",
+      "definition": "知見を別の対象・文脈へ適用できる程度"
+    },
+    {
+      "id": "open-data",
+      "term": "オープンデータ",
+      "definition": "再利用可能な形式・条件で公開されたデータ"
+    },
+    {
+      "id": "provenance",
+      "term": "来歴",
+      "definition": "情報の出所と加工過程の記録"
+    },
+    {
+      "id": "correction-log",
+      "term": "訂正履歴",
+      "definition": "誤り・変更・理由・影響の記録"
+    },
+    {
+      "id": "update-trigger",
+      "term": "更新トリガー",
+      "definition": "臨時更新を開始する出来事・条件"
+    }
+  ]
+}

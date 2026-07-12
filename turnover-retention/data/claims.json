@@ -1,0 +1,422 @@
+{
+  "name": "離職・定着 主張レジスター",
+  "version": "0.1",
+  "license": "CC BY 4.0",
+  "claims": [
+    {
+      "id": "TR-C01",
+      "claim": "離職は自発・非自発、回避可能・不可、機能的・非機能的等を区別して扱う必要がある。",
+      "label": "A",
+      "relationship": "分類",
+      "scope": [
+        "従業員離職"
+      ],
+      "sources": [
+        "dalton-1982",
+        "shaw-1998",
+        "hom-2012"
+      ],
+      "limits": [
+        "機能性は誰の視点かを明示する"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "TR-C02",
+      "claim": "離職意向は実際の離職の予測因子だが、両者は同一ではない。",
+      "label": "A",
+      "relationship": "予測関連",
+      "scope": [
+        "個人レベル"
+      ],
+      "sources": [
+        "steel-ovalle-1984",
+        "tett-meyer-1993",
+        "griffeth-2000"
+      ],
+      "limits": [
+        "辞めたくても辞められない、意向なしで辞める場合がある"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "TR-C03",
+      "claim": "仕事満足と組織コミットメントは離職意向・実離職と関連するが、単独では十分でない。",
+      "label": "A",
+      "relationship": "関連",
+      "scope": [
+        "従業員"
+      ],
+      "sources": [
+        "tett-meyer-1993",
+        "griffeth-2000",
+        "rubenstein-2018"
+      ],
+      "limits": [
+        "逆因果・共通方法バイアス",
+        "効果は文脈依存"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "TR-C04",
+      "claim": "自発的離職には、不満の蓄積だけでなくショックを契機とする複数の意思決定経路がある。",
+      "label": "B",
+      "relationship": "過程モデル",
+      "scope": [
+        "自発的離職"
+      ],
+      "sources": [
+        "lee-mitchell-1994",
+        "lee-1996"
+      ],
+      "limits": [
+        "回想研究",
+        "すべての退職を経路分類できるとは限らない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "TR-C05",
+      "claim": "仕事・組織・地域への適合、つながり、離れる犠牲からなる埋め込みは離職を予測する。",
+      "label": "A",
+      "relationship": "予測関連",
+      "scope": [
+        "従業員"
+      ],
+      "sources": [
+        "mitchell-2001",
+        "lee-2004",
+        "jiang-2012"
+      ],
+      "limits": [
+        "高い埋め込みを拘束や忠誠義務に使わない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "TR-C06",
+      "claim": "離職の予測因子は、態度、行動、仕事条件、人間関係、外部機会、個人事情の複合である。",
+      "label": "A",
+      "relationship": "統合関連",
+      "scope": [
+        "自発的離職"
+      ],
+      "sources": [
+        "cotton-tuttle-1986",
+        "griffeth-2000",
+        "rubenstein-2018"
+      ],
+      "limits": [
+        "単一原因・単一施策へ還元しない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "TR-C07",
+      "claim": "集団離職率は平均して組織成果と負に関連するが、効果は種類・産業・職種・成果指標で変わる。",
+      "label": "A",
+      "relationship": "組織レベル関連",
+      "scope": [
+        "組織・事業単位"
+      ],
+      "sources": [
+        "park-shaw-2013",
+        "hancock-2013",
+        "heavey-2013"
+      ],
+      "limits": [
+        "因果は双方向",
+        "全離職ゼロが最適とは限らない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "TR-C08",
+      "claim": "現実的職務情報は期待調整を通じ離職等へ小さい影響を持ち得る。",
+      "label": "B",
+      "relationship": "介入関連",
+      "scope": [
+        "採用・入社前"
+      ],
+      "sources": [
+        "phillips-1998",
+        "allen-2010"
+      ],
+      "limits": [
+        "効果は小さい",
+        "情報の正直さと応募者の選択権が必要"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "TR-C09",
+      "claim": "新人の役割明確性、社会的受容、適合、習熟は定着関連結果と関係する。",
+      "label": "A",
+      "relationship": "関連",
+      "scope": [
+        "新入社員"
+      ],
+      "sources": [
+        "bauer-2007",
+        "bauer-2024"
+      ],
+      "limits": [
+        "相関研究中心",
+        "オンボーディング施策の直接因果とは限らない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "TR-C10",
+      "claim": "人が残る理由は辞めない理由の単純な反転ではなく、職位・業績・雇用形態で異なり得る。",
+      "label": "B",
+      "relationship": "記述・差異",
+      "scope": [
+        "特定産業の大規模標本"
+      ],
+      "sources": [
+        "hausknecht-2009",
+        "hom-2012"
+      ],
+      "limits": [
+        "自己申告",
+        "単一産業",
+        "残留が自発的とは限らない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "TR-C11",
+      "claim": "一律の定着施策より、離職種類・対象・時期・原因を診断した施策が必要である。",
+      "label": "実務原則",
+      "relationship": "施策設計",
+      "scope": [
+        "組織"
+      ],
+      "sources": [
+        "allen-2010",
+        "hom-2017",
+        "rubenstein-2018"
+      ],
+      "limits": [
+        "原因診断にも測定誤差と回答バイアス"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "TR-C12",
+      "claim": "日本の2024年離職率14.2%は常用労働者全体の公的推計で、個社の自発離職率と直接比較できない。",
+      "label": "A",
+      "relationship": "統計定義",
+      "scope": [
+        "日本の雇用動向調査"
+      ],
+      "sources": [
+        "mhlw-2024"
+      ],
+      "limits": [
+        "一般11.5%、パート21.4%と構成差",
+        "産業・雇用形態・分母を合わせる"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "TR-C13",
+      "claim": "離職率は分子、分母、期間、対象者、除外条件を明示しなければ比較できない。",
+      "label": "実務原則",
+      "relationship": "測定",
+      "scope": [
+        "組織統計"
+      ],
+      "sources": [
+        "mhlw-2024",
+        "park-shaw-2013"
+      ],
+      "limits": [
+        "平均在籍人数等の分母方式が異なる"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "TR-C14",
+      "claim": "退職面談だけでは、残った人・辞められない人・退職後に話せない人の経験を捉えられない。",
+      "label": "B",
+      "relationship": "測定上の限界",
+      "scope": [
+        "組織診断"
+      ],
+      "sources": [
+        "hom-2012",
+        "hom-2017"
+      ],
+      "limits": [
+        "匿名調査、在籍者調査、管理データ等を組み合わせる"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "TR-C15",
+      "claim": "望ましい人材だけを選別して引き止める施策は、差別・不公正・チーム負荷を生む可能性がある。",
+      "label": "実務原則",
+      "relationship": "倫理・公平性",
+      "scope": [
+        "対象別定着"
+      ],
+      "sources": [
+        "dalton-1982",
+        "hausknecht-2009"
+      ],
+      "limits": [
+        "保護属性・機会格差・透明性を別途監査"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "TR-C16",
+      "claim": "高い残留率だけで、健康、満足、公正、持続可能性が高いとは結論できない。",
+      "label": "不支持",
+      "relationship": "推論",
+      "scope": [
+        "組織評価"
+      ],
+      "sources": [
+        "hom-2012",
+        "dalton-1982"
+      ],
+      "limits": [
+        "辞められない残留、雇用市場制約、在留資格等を考慮"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "TR-C17",
+      "claim": "メール、チャット、行動ログ等から個人の退職確率を秘密裏に推定し不利益決定へ使うことを本ナビは支持しない。",
+      "label": "不支持",
+      "relationship": "監視・高重要度推論",
+      "scope": [
+        "AI離職予測"
+      ],
+      "sources": [
+        "eu-ai-act-2024",
+        "rubenstein-2018"
+      ],
+      "limits": [
+        "法的義務は地域・用途・時期で異なる",
+        "集団改善と個人判定を分ける"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "TR-C18",
+      "claim": "退職意思の表明を低忠誠・裏切りとみなし、昇進除外・報復・退職妨害を行うことは支持されない。",
+      "label": "不支持",
+      "relationship": "権利・倫理",
+      "scope": [
+        "退職対応"
+      ],
+      "sources": [
+        "hom-2012"
+      ],
+      "limits": [
+        "引継ぎ等の契約・法的義務は別途確認"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "TR-C19",
+      "claim": "埋め込みを高めるために家族・地域・在留資格・福利厚生を退出障壁として利用してはならない。",
+      "label": "不支持",
+      "relationship": "拘束・権力",
+      "scope": [
+        "定着施策"
+      ],
+      "sources": [
+        "mitchell-2001",
+        "jiang-2012"
+      ],
+      "limits": [
+        "便益と依存・犠牲を区別する"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "TR-C20",
+      "claim": "定着施策は離職率だけでなく、健康、公正、業績、欠勤、異動、属性別格差、副作用を評価する必要がある。",
+      "label": "実務原則",
+      "relationship": "評価",
+      "scope": [
+        "組織施策"
+      ],
+      "sources": [
+        "allen-2010",
+        "park-shaw-2013",
+        "heavey-2013"
+      ],
+      "limits": [
+        "短期的な離職抑制が長期悪化を隠す可能性"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "TR-C21",
+      "claim": "同僚の求職・離職は、情報やショックを通じ周囲の離職過程と関係する可能性がある。",
+      "label": "B",
+      "relationship": "多層関連",
+      "scope": [
+        "チーム・職場"
+      ],
+      "sources": [
+        "felps-2009"
+      ],
+      "limits": [
+        "「感染」は比喩",
+        "退職者を責めない",
+        "共通の仕事条件を先に点検する"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    }
+  ]
+}

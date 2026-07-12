@@ -1,0 +1,82 @@
+{
+  "version": "0.1",
+  "release_decision": "完成条件を満たす（次分野へ移行可）",
+  "dimensions": [
+    {
+      "id": "construct-boundaries",
+      "status": "complete",
+      "evidence": "意味、意味ある仕事、意義、目的、満足、エンゲージメント、人生の意味を分離"
+    },
+    {
+      "id": "calling",
+      "status": "complete",
+      "evidence": "仕事・キャリア・天職志向、知覚と実践、未回答、宗教・文化、両刃性"
+    },
+    {
+      "id": "work-design",
+      "status": "complete",
+      "evidence": "職務特性、受益者接触、影響可視性、無用タスク再設計"
+    },
+    {
+      "id": "job-crafting",
+      "status": "complete",
+      "evidence": "課題・関係・認知・要求度・資源、接近・予防、介入限界"
+    },
+    {
+      "id": "meaning-management",
+      "status": "complete",
+      "evidence": "理念・目的接続、意味管理、実存的労働、意味ウォッシング"
+    },
+    {
+      "id": "identity",
+      "status": "complete",
+      "evidence": "職業・専門職・複数アイデンティティ、仮の自己、境界、物語"
+    },
+    {
+      "id": "transition-loss",
+      "status": "complete",
+      "evidence": "転職・失職・異動・引退・AI導入時の脅威、喪失、回復"
+    },
+    {
+      "id": "dirty-meaningless-work",
+      "status": "complete",
+      "evidence": "身体・社会・道徳的汚名、無意味感、疎外、称賛と条件"
+    },
+    {
+      "id": "moral-conflict",
+      "status": "complete",
+      "evidence": "道徳的苦痛・残余・負傷の境界、倫理相談、公益通報"
+    },
+    {
+      "id": "rights-decent-work",
+      "status": "complete",
+      "evidence": "賃金、時間、安全、権利、社会保護、対話を意味より優先"
+    },
+    {
+      "id": "career-support",
+      "status": "complete",
+      "evidence": "職業情報、ジョブ・カード、キャリア相談、本人の自己決定と守秘"
+    },
+    {
+      "id": "equity-accessibility",
+      "status": "complete",
+      "evidence": "職種・雇用・勤務・障害・ケア・文化・宗教差、参加機会"
+    },
+    {
+      "id": "digital-ai-data",
+      "status": "complete",
+      "evidence": "AI天職診断禁止、価値・物語・相談データの目的限定と個人判断禁止"
+    },
+    {
+      "id": "openness",
+      "status": "complete",
+      "evidence": "主張、研究、用語、採否、質、方法、更新、機械可読データを公開"
+    }
+  ],
+  "remaining_non_blocking": [
+    "日本の代表性ある意味ある仕事・天職の縦断研究は追加可能",
+    "組織レベルの意味づけ介入の比較研究は限定",
+    "職業アイデンティティ喪失とAI導入の長期研究は発展途上",
+    "道徳的苦痛・負傷の職場一般での定義・介入研究は限定"
+  ]
+}

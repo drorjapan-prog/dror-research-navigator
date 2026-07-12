@@ -1,0 +1,412 @@
+{
+  "name": "組織学習・知識共有 研究の質と限界",
+  "version": "0.1",
+  "notice": "簡易評価であり正式なRoB評価ではない。",
+  "assessments": [
+    {
+      "study_id": "argyris-1976",
+      "design": "conceptual analysis",
+      "strength": "理論・レビュー",
+      "directness": "基礎理論・概念",
+      "key_limits": [
+        "介入効果の比較試験ではない",
+        "二分法を機械的診断へ使わない"
+      ]
+    },
+    {
+      "study_id": "levitt-march-1988",
+      "design": "integrative review",
+      "strength": "理論・レビュー",
+      "directness": "統合研究",
+      "key_limits": [
+        "古典的レビュー",
+        "学習が常に適応的とは限らない"
+      ]
+    },
+    {
+      "study_id": "cohen-levinthal-1990",
+      "design": "theory and empirical analysis",
+      "strength": "直接・構成要素の実証研究",
+      "directness": "実証研究",
+      "key_limits": [
+        "R&D中心",
+        "吸収能力を単一スコアへ還元しない"
+      ]
+    },
+    {
+      "study_id": "march-1991",
+      "design": "formal model and theory",
+      "strength": "理論・レビュー",
+      "directness": "基礎理論・概念",
+      "key_limits": [
+        "シミュレーション",
+        "最適比率を直接示さない"
+      ]
+    },
+    {
+      "study_id": "huber-1991",
+      "design": "integrative review",
+      "strength": "理論・レビュー",
+      "directness": "統合研究",
+      "key_limits": [
+        "古典的レビュー",
+        "デジタル知識基盤以前"
+      ]
+    },
+    {
+      "study_id": "brown-duguid-1991",
+      "design": "conceptual analysis",
+      "strength": "理論・レビュー",
+      "directness": "基礎理論・概念",
+      "key_limits": [
+        "概念論文",
+        "共同体導入の比較試験ではない"
+      ]
+    },
+    {
+      "study_id": "walsh-ungson-1991",
+      "design": "conceptual review",
+      "strength": "理論・レビュー",
+      "directness": "統合研究",
+      "key_limits": [
+        "古典的概念レビュー",
+        "デジタル基盤以前",
+        "保持が常に有益とは限らない"
+      ]
+    },
+    {
+      "study_id": "nonaka-1994",
+      "design": "conceptual theory",
+      "strength": "理論・レビュー",
+      "directness": "基礎理論・概念",
+      "key_limits": [
+        "概念理論",
+        "SECIを普遍的段階モデルとして扱わない"
+      ]
+    },
+    {
+      "study_id": "szulanski-1996",
+      "design": "field study",
+      "strength": "直接・構成要素の実証研究",
+      "directness": "実証研究",
+      "key_limits": [
+        "ベストプラクティス移転文脈",
+        "単純な情報共有とは異なる"
+      ]
+    },
+    {
+      "study_id": "crossan-1999",
+      "design": "conceptual framework",
+      "strength": "理論・レビュー",
+      "directness": "基礎理論・概念",
+      "key_limits": [
+        "概念枠組み",
+        "段階を機械的に線形適用しない"
+      ]
+    },
+    {
+      "study_id": "edmondson-1999",
+      "design": "team field study",
+      "strength": "直接・構成要素の実証研究",
+      "directness": "実証研究",
+      "key_limits": [
+        "単独で因果確定しない",
+        "安全性は低基準や無責任と同義でない"
+      ]
+    },
+    {
+      "study_id": "argote-ingram-2000",
+      "design": "integrative review",
+      "strength": "理論・レビュー",
+      "directness": "統合研究",
+      "key_limits": [
+        "競争優位文脈",
+        "リポジトリ単独の効果ではない"
+      ]
+    },
+    {
+      "study_id": "lewis-2003",
+      "design": "measurement and field study",
+      "strength": "直接・構成要素の実証研究",
+      "directness": "実証研究",
+      "key_limits": [
+        "自己報告を含む",
+        "尺度項目は再配布しない"
+      ]
+    },
+    {
+      "study_id": "feldman-pentland-2003",
+      "design": "conceptual theory",
+      "strength": "理論・レビュー",
+      "directness": "基礎理論・概念",
+      "key_limits": [
+        "概念論文",
+        "変更効果の比較試験ではない"
+      ]
+    },
+    {
+      "study_id": "deholan-phillips-2004",
+      "design": "qualitative field study",
+      "strength": "直接・構成要素の実証研究",
+      "directness": "実証研究",
+      "key_limits": [
+        "少数事例",
+        "忘却の効果を普遍化しない"
+      ]
+    },
+    {
+      "study_id": "van-dyck-2005",
+      "design": "cross-national field studies",
+      "strength": "直接・構成要素の実証研究",
+      "directness": "実証研究",
+      "key_limits": [
+        "観察研究",
+        "エラー容認・安全規則軽視と同義でない"
+      ]
+    },
+    {
+      "study_id": "cannon-edmondson-2005",
+      "design": "conceptual review",
+      "strength": "理論・レビュー",
+      "directness": "統合研究",
+      "key_limits": [
+        "概念レビュー",
+        "失敗礼賛ではない"
+      ]
+    },
+    {
+      "study_id": "ellis-davidi-2005",
+      "design": "field experiments",
+      "strength": "直接・構成要素の実証研究",
+      "directness": "実証研究",
+      "key_limits": [
+        "軍事訓練文脈",
+        "一般職場へ直接一般化しない"
+      ]
+    },
+    {
+      "study_id": "lane-2006",
+      "design": "critical review",
+      "strength": "理論・レビュー",
+      "directness": "統合研究",
+      "key_limits": [
+        "概念レビュー",
+        "測定の統一解を提供しない"
+      ]
+    },
+    {
+      "study_id": "van-wijk-2008",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "研究の異質性",
+        "相関研究を多く含む"
+      ]
+    },
+    {
+      "study_id": "tsang-zahra-2008",
+      "design": "conceptual review",
+      "strength": "理論・レビュー",
+      "directness": "統合研究",
+      "key_limits": [
+        "概念論文",
+        "削除や忘却と単純同一視しない"
+      ]
+    },
+    {
+      "study_id": "keith-frese-2008",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "訓練課題中心",
+        "実事故の容認を意味しない"
+      ]
+    },
+    {
+      "study_id": "mesmer-dechurch-2009",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "共有量と情報品質を区別",
+        "因果方向に注意"
+      ]
+    },
+    {
+      "study_id": "wang-noe-2010",
+      "design": "integrative review",
+      "strength": "理論・レビュー",
+      "directness": "統合研究",
+      "key_limits": [
+        "レビュー時点が2010年",
+        "共有と利用を区別"
+      ]
+    },
+    {
+      "study_id": "decuyper-2010",
+      "design": "integrative review",
+      "strength": "理論・レビュー",
+      "directness": "統合研究",
+      "key_limits": [
+        "概念統合",
+        "教育・組織研究を含む"
+      ]
+    },
+    {
+      "study_id": "ren-argote-2011",
+      "design": "integrative review",
+      "strength": "理論・レビュー",
+      "directness": "統合研究",
+      "key_limits": [
+        "TMSと共有データベースは同義でない",
+        "文脈差"
+      ]
+    },
+    {
+      "study_id": "connelly-2012",
+      "design": "construct development and field studies",
+      "strength": "直接・構成要素の実証研究",
+      "directness": "実証研究",
+      "key_limits": [
+        "自己報告",
+        "合理的な守秘を悪意と決めつけない"
+      ]
+    },
+    {
+      "study_id": "junni-2013",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "相関中心",
+        "万能な組織構造を示さない"
+      ]
+    },
+    {
+      "study_id": "witherspoon-2013",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "研究協力者の協力バイアス",
+        "研究間異質性",
+        "実利用を直接示さない"
+      ]
+    },
+    {
+      "study_id": "frese-keith-2015",
+      "design": "integrative review",
+      "strength": "理論・レビュー",
+      "directness": "統合研究",
+      "key_limits": [
+        "レビュー",
+        "高危険領域では予防を弱めない"
+      ]
+    },
+    {
+      "study_id": "frazier-2017",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "因果確定ではない",
+        "チーム・個人水準を区別"
+      ]
+    },
+    {
+      "study_id": "koeslag-2018",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "関連研究を含む",
+        "課題型で関係が異なる"
+      ]
+    },
+    {
+      "study_id": "keiser-arthur-2021",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "訓練・軍事・医療等の文脈",
+        "効果は設計条件の組合せで異なる",
+        "日常業務へ単純外挿しない"
+      ]
+    },
+    {
+      "study_id": "wiese-2022",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "相関を多く含む",
+        "尺度幅・課題型等で差",
+        "因果効果ではない"
+      ]
+    },
+    {
+      "study_id": "arain-2024",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "自己報告・横断研究を含む",
+        "守秘・拒否権と悪意ある隠匿を区別"
+      ]
+    },
+    {
+      "study_id": "keiser-2024",
+      "design": "systematic review",
+      "strength": "理論・レビュー",
+      "directness": "統合研究",
+      "key_limits": [
+        "AAR・訓練文脈",
+        "技術の種類・用途が異質",
+        "録画・AI利用の一律推奨ではない"
+      ]
+    },
+    {
+      "study_id": "ilo-1997",
+      "design": "official code of practice",
+      "strength": "公式指針",
+      "directness": "公式指針・ガバナンス",
+      "key_limits": [
+        "拘束的条約ではない",
+        "国内法を別途確認"
+      ]
+    },
+    {
+      "study_id": "who-2020",
+      "design": "official technical guidance",
+      "strength": "公式指針",
+      "directness": "公式指針・ガバナンス",
+      "key_limits": [
+        "医療分野",
+        "他産業への適用は原則レベル"
+      ]
+    },
+    {
+      "study_id": "unesco-2021",
+      "design": "intergovernmental recommendation",
+      "strength": "公式指針",
+      "directness": "公式指針・ガバナンス",
+      "key_limits": [
+        "職場KM専用ではない",
+        "各法・契約を別途確認"
+      ]
+    },
+    {
+      "study_id": "nist-2024",
+      "design": "official risk management profile",
+      "strength": "公式指針",
+      "directness": "公式指針・ガバナンス",
+      "key_limits": [
+        "任意のリスク管理枠組み",
+        "組織知識基盤専用ではない"
+      ]
+    }
+  ]
+}

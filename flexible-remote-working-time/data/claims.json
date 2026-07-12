@@ -1,0 +1,1577 @@
+{
+  "name": "柔軟勤務・リモートワーク・働く時間と境界管理 主張レジスター",
+  "version": "0.1",
+  "license": "CC BY 4.0",
+  "claims": [
+    {
+      "id": "FW-C01",
+      "claim": "柔軟な働き方は、場所だけでなく、時間、量、順序、予測可能性、休暇、境界、ケア、契約、技術を含む仕事設計である。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "統合からの定義",
+      "sources": [
+        "allen-2015",
+        "baltes-1999",
+        "ilo-c156"
+      ],
+      "limits": [
+        "職種・制度で選択肢が異なる"
+      ],
+      "scope": [
+        "定義"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "FW-C02",
+      "claim": "テレワークの平均的効果は一様でなく、頻度、職務、本人選好、家庭環境、支援、対面接触、評価制度で変わる。",
+      "label": "A",
+      "directness": "柔軟勤務直接研究",
+      "relationship": "メタ分析・統合",
+      "sources": [
+        "gajendran-2007",
+        "allen-2015",
+        "martin-2012"
+      ],
+      "limits": [
+        "研究年代・技術差",
+        "自己選択・因果制約"
+      ],
+      "scope": [
+        "テレワーク"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "FW-C03",
+      "claim": "在宅・出社・ハイブリッドの名称だけで生産性を推定せず、仕事の質、協働、学習、健康、離職、公平を用途別に測る。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "多次元評価",
+      "sources": [
+        "bloom-2015",
+        "bloom-2024",
+        "yang-2022"
+      ],
+      "limits": [
+        "企業・職種・国・実装差",
+        "単一生産性指標の限界"
+      ],
+      "scope": [
+        "成果"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "FW-C04",
+      "claim": "週2日在宅のハイブリッド勤務が定着を改善し業績を損なわなかった実験は有力だが、全職種・全頻度の普遍解ではない。",
+      "label": "A",
+      "directness": "柔軟勤務直接研究",
+      "relationship": "無作為フィールド実験",
+      "sources": [
+        "bloom-2024"
+      ],
+      "limits": [
+        "単一企業・国・週2日モデル",
+        "他制度へ直輸入しない"
+      ],
+      "scope": [
+        "ハイブリッド"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "FW-C05",
+      "claim": "完全在宅の実験結果も、仕事の標準化、住環境、本人選好、対面機会に依存するため、選択と再選択を用意する。",
+      "label": "A",
+      "directness": "柔軟勤務直接研究",
+      "relationship": "無作為フィールド実験",
+      "sources": [
+        "bloom-2015"
+      ],
+      "limits": [
+        "単一コールセンター・国",
+        "現代知識労働への一般化"
+      ],
+      "scope": [
+        "完全在宅"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "FW-C06",
+      "claim": "地理的柔軟性は通勤・居住選択等の利点を持ち得るが、税・労務・時差・孤立・賃金地域差・安全を別途設計する。",
+      "label": "B",
+      "directness": "混合",
+      "relationship": "準実験と実務原則",
+      "sources": [
+        "choudhury-2021",
+        "stutzer-2008"
+      ],
+      "limits": [
+        "特定職種・国",
+        "法務・税務は国内外制度を確認"
+      ],
+      "scope": [
+        "どこでも勤務"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "FW-C07",
+      "claim": "遠隔移行で通信ネットワークが分断化・固定化する場合があるため、メッセージ量ではなく新しい関係、越境協働、意思決定品質を確認する。",
+      "label": "A",
+      "directness": "柔軟勤務直接研究",
+      "relationship": "自然実験",
+      "sources": [
+        "yang-2022"
+      ],
+      "limits": [
+        "単一企業・パンデミック",
+        "通信ログは協働品質の代理"
+      ],
+      "scope": [
+        "協働"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "FW-C08",
+      "claim": "専門的孤立を出社日数だけで解決せず、相談先、非公式情報、スポンサー、学習、可視性、重要案件へのアクセスを設計する。",
+      "label": "B",
+      "directness": "柔軟勤務直接研究",
+      "relationship": "観察研究",
+      "sources": [
+        "golden-2008",
+        "allen-2015"
+      ],
+      "limits": [
+        "研究年代・自己報告",
+        "因果方向"
+      ],
+      "scope": [
+        "孤立"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "FW-C09",
+      "claim": "遠隔勤務の健康は、自律性、仕事家庭境界、孤独、住環境、人間工学、仕事量、管理職・同僚支援の組合せで評価する。",
+      "label": "B",
+      "directness": "柔軟勤務直接研究",
+      "relationship": "体系的レビュー・観察",
+      "sources": [
+        "charalampous-2019",
+        "oakman-2020",
+        "wang-2021"
+      ],
+      "limits": [
+        "研究・パンデミック・自己報告の異質性"
+      ],
+      "scope": [
+        "健康"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "FW-C10",
+      "claim": "在宅勤務を私有の部屋、机、通信、冷暖房、家族の無償協力を前提にせず、費用・設備・安全・プライバシーを定める。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "健康・平等待遇",
+      "sources": [
+        "oakman-2020",
+        "ilo-c177"
+      ],
+      "limits": [
+        "費用負担・安全衛生・労災は国内法を確認"
+      ],
+      "scope": [
+        "在宅環境"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "FW-C11",
+      "claim": "フレックスタイムと柔軟な場所は異なる制度であり、利用可能性、実際の統制、予測可能性、業務量を分ける。",
+      "label": "A",
+      "directness": "柔軟勤務直接研究",
+      "relationship": "観察・統合",
+      "sources": [
+        "shockley-2007",
+        "lambert-2014"
+      ],
+      "limits": [
+        "自己報告・制度差",
+        "利用可能性と利用を区別"
+      ],
+      "scope": [
+        "柔軟性"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "FW-C12",
+      "claim": "柔軟性が組織側だけの呼出し・変動・待機を意味する場合、労働者の時間統制とは逆になり得る。",
+      "label": "A",
+      "directness": "柔軟勤務直接研究",
+      "relationship": "観察・統合",
+      "sources": [
+        "schneider-2019",
+        "lambert-2014"
+      ],
+      "limits": [
+        "米国サービス業中心",
+        "国内法・契約差"
+      ],
+      "scope": [
+        "時間統制"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "FW-C13",
+      "claim": "勤務予定の予測不能性は、睡眠、心理的苦痛、生活調整等と関連するため、通知期間、変更、キャンセル、最低時間を監査する。",
+      "label": "A",
+      "directness": "柔軟勤務直接研究",
+      "relationship": "大規模観察研究",
+      "sources": [
+        "schneider-2019",
+        "eu-predictable-2019"
+      ],
+      "limits": [
+        "観察研究・国差",
+        "法的最低基準は国内制度を確認"
+      ],
+      "scope": [
+        "予測可能性"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "FW-C14",
+      "claim": "フレックスタイム・圧縮勤務には平均的利点があるが、長い1日の疲労、安全、ケア、通勤、休息を別途確認する。",
+      "label": "A",
+      "directness": "柔軟勤務直接研究",
+      "relationship": "メタ分析",
+      "sources": [
+        "baltes-1999",
+        "eu-working-time-2003"
+      ],
+      "limits": [
+        "古い研究群",
+        "制度・職種差",
+        "国内法を確認"
+      ],
+      "scope": [
+        "圧縮勤務"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "FW-C15",
+      "claim": "柔軟勤務が業績と正に関連する研究はあるが、選抜・逆因果・利用者の仕事強化を踏まえ、無償の追加努力を成果に含めない。",
+      "label": "A",
+      "directness": "柔軟勤務直接研究",
+      "relationship": "体系的レビュー・観察",
+      "sources": [
+        "demenezes-2011",
+        "kelliher-2010"
+      ],
+      "limits": [
+        "観察研究中心",
+        "業績測定差"
+      ],
+      "scope": [
+        "仕事強度"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "FW-C16",
+      "claim": "柔軟勤務利用者をコミットメント不足とみなすキャリア罰を監査し、利用理由の推測で評価を変えない。",
+      "label": "B",
+      "directness": "柔軟勤務直接研究",
+      "relationship": "複数フィールド研究",
+      "sources": [
+        "leslie-2012"
+      ],
+      "limits": [
+        "米国中心",
+        "観察・シナリオ研究",
+        "制度差"
+      ],
+      "scope": [
+        "柔軟性スティグマ"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "FW-C17",
+      "claim": "結果志向と管理職の家族支援を組み合わせた職場介入は、仕事家庭葛藤・ウェルビーイングを改善し得る。",
+      "label": "A",
+      "directness": "柔軟勤務直接研究",
+      "relationship": "クラスター無作為介入",
+      "sources": [
+        "kelly-2014",
+        "moen-2016"
+      ],
+      "limits": [
+        "特定企業・職種",
+        "複合介入",
+        "組織再編"
+      ],
+      "scope": [
+        "組織介入"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "FW-C18",
+      "claim": "柔軟勤務を本人と上司の個別交渉だけにせず、職務基準、申請、理由、再審査、試行、見直し、群別利用・結果を制度化する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "公正手続",
+      "sources": [
+        "leslie-2012",
+        "eu-wlb-2019"
+      ],
+      "limits": [
+        "申請権・承認義務は国内法を確認"
+      ],
+      "scope": [
+        "申請"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "FW-C19",
+      "claim": "仕事と生活の境界には分断・統合の好みがあり、全員へ即時応答・完全遮断の同じ方法を強制しない。",
+      "label": "B",
+      "directness": "柔軟勤務直接研究",
+      "relationship": "概念・測定",
+      "sources": [
+        "ashforth-2000",
+        "clark-2000",
+        "kossek-2012",
+        "allen-2014-boundary"
+      ],
+      "limits": [
+        "概念・自己報告",
+        "文化・仕事・家庭差"
+      ],
+      "scope": [
+        "境界選好"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "FW-C20",
+      "claim": "境界管理を個人の自己管理だけにせず、仕事量、連絡規範、顧客対応、時差、評価、管理職行動を変える。",
+      "label": "A",
+      "directness": "混合",
+      "relationship": "統合・縦断",
+      "sources": [
+        "wepfer-2018",
+        "wendsche-2017"
+      ],
+      "limits": [
+        "観察研究中心",
+        "因果方向"
+      ],
+      "scope": [
+        "境界管理"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "FW-C21",
+      "claim": "勤務時間外のスマートフォン利用と迅速応答圧力は、心理的離脱・疲労・睡眠等と関連し得る。",
+      "label": "A",
+      "directness": "柔軟勤務直接研究",
+      "relationship": "日誌・測定研究",
+      "sources": [
+        "derks-2014",
+        "barber-2015"
+      ],
+      "limits": [
+        "自己報告・観察",
+        "技術・職種差"
+      ],
+      "scope": [
+        "勤務時間外連絡"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "FW-C22",
+      "claim": "「送信してよい」と「返信を期待する」を分け、緊急度、担当、応答期限、翌営業日送信、時差・休暇表示を定める。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "連絡設計",
+      "sources": [
+        "barber-2015",
+        "eu-working-time-2003"
+      ],
+      "limits": [
+        "緊急業務・オンコールは別制度",
+        "国内法を確認"
+      ],
+      "scope": [
+        "連絡規範"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "FW-C23",
+      "claim": "つながらない権利を個人の通知オフだけにせず、業務量、顧客契約、要員、管理職評価、違反時の相談・是正へ接続する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "休息と制度",
+      "sources": [
+        "wendsche-2017",
+        "eu-working-time-2003"
+      ],
+      "limits": [
+        "法的権利の有無・範囲は国により異なる"
+      ],
+      "scope": [
+        "切断"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "FW-C24",
+      "claim": "心理的離脱、リラックス、熟達、余暇の統制は回復の異なる側面であり、回復得点を本人の健康責任へ使わない。",
+      "label": "A",
+      "directness": "柔軟勤務隣接研究",
+      "relationship": "測定・メタ分析",
+      "sources": [
+        "sonnentag-2007",
+        "wendsche-2017"
+      ],
+      "limits": [
+        "自己報告・相関中心",
+        "仕事条件を別途測定"
+      ],
+      "scope": [
+        "回復"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "FW-C25",
+      "claim": "休憩を会議・連絡・移動準備で侵食せず、取れる時間、場所、代替要員、業務停止可能性を設計する。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "休息設計",
+      "sources": [
+        "eu-working-time-2003",
+        "ilo-c014"
+      ],
+      "limits": [
+        "休憩・休息要件は国内法・職種で異なる"
+      ],
+      "scope": [
+        "休憩"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "FW-C26",
+      "claim": "長時間労働は集団レベルで心血管・精神健康等のリスクと関連し、在宅勤務でも見えなくならないよう実時間と負担を確認する。",
+      "label": "A",
+      "directness": "柔軟勤務隣接研究",
+      "relationship": "体系的分析・レビュー",
+      "sources": [
+        "pega-2021",
+        "virtanen-2012",
+        "bannai-2014"
+      ],
+      "limits": [
+        "観察・推計",
+        "個人リスクの断定ではない",
+        "国・職種差"
+      ],
+      "scope": [
+        "長時間労働"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "FW-C27",
+      "claim": "労働時間を増やしても産出が比例せず時間当たり生産性が低下する場合があるため、長時間を貢献の代理にしない。",
+      "label": "A",
+      "directness": "柔軟勤務隣接研究",
+      "relationship": "フィールド分析",
+      "sources": [
+        "pencavel-2015",
+        "collewet-2017"
+      ],
+      "limits": [
+        "製造・歴史的データ中心",
+        "知識労働への一般化"
+      ],
+      "scope": [
+        "生産性"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "FW-C28",
+      "claim": "在席時間、オンライン状態、始業前・終業後メールをコミットメントや業績の代理にしない。",
+      "label": "不支持",
+      "directness": "予防原則に基づく推論",
+      "relationship": "測定妥当性・健康",
+      "sources": [
+        "allen-2015",
+        "barber-2015",
+        "ilo-data"
+      ],
+      "limits": [
+        "職務関連の可用性要件は別途定義",
+        "国内法を確認"
+      ],
+      "scope": [
+        "プレゼンティーイズム"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "FW-C29",
+      "claim": "夜勤・交代制では、概日リズム、睡眠、連続勤務、回転方向、開始時刻、休息、通勤、安全、年齢・健康を一体で評価する。",
+      "label": "A",
+      "directness": "柔軟勤務直接研究",
+      "relationship": "統合レビュー",
+      "sources": [
+        "kecklund-2016",
+        "folkard-2003",
+        "ilo-c171"
+      ],
+      "limits": [
+        "職種・シフト・個人差",
+        "医療判断は専門家へ"
+      ],
+      "scope": [
+        "交代制"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "FW-C30",
+      "claim": "夜勤の健康評価を雇用排除に使わず、守秘、本人への結果説明、勤務変更・日勤移行等の選択を用意する。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "健康保護と差別防止",
+      "sources": [
+        "ilo-c171",
+        "eu-working-time-2003",
+        "ilo-data"
+      ],
+      "limits": [
+        "国内労働・医療・差別法を確認"
+      ],
+      "scope": [
+        "夜勤健康"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "FW-C31",
+      "claim": "オンコール・待機は呼出回数だけでなく、行動制約、予測可能性、睡眠、応答時間、補償、翌勤務を評価する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "可用性と休息",
+      "sources": [
+        "eu-working-time-2003",
+        "eu-predictable-2019"
+      ],
+      "limits": [
+        "労働時間該当性・補償は国内法・判例を確認"
+      ],
+      "scope": [
+        "オンコール"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "FW-C32",
+      "claim": "会議負荷は日々の疲労・仕事量感と関連し得るため、時間だけでなく目的、人数、準備、決定、代替手段を監査する。",
+      "label": "B",
+      "directness": "柔軟勤務直接研究",
+      "relationship": "日誌・フィールド研究",
+      "sources": [
+        "luong-2005",
+        "rogelberg-2006"
+      ],
+      "limits": [
+        "研究年代・自己報告",
+        "オンライン会議への一般化"
+      ],
+      "scope": [
+        "会議"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "FW-C33",
+      "claim": "同期会議を協働の既定値にせず、文書・非同期レビュー・少人数判断・録画・字幕等を目的と時差に合わせる。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "協働設計",
+      "sources": [
+        "yang-2022",
+        "rogelberg-2006"
+      ],
+      "limits": [
+        "非同期化の直接介入証拠限定",
+        "機密・アクセシビリティ"
+      ],
+      "scope": [
+        "非同期"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "FW-C34",
+      "claim": "通勤短縮は時間・ウェルビーイング上の利点になり得るが、住居・交通・ケア・出社費用の分配を平均で隠さない。",
+      "label": "B",
+      "directness": "柔軟勤務直接研究",
+      "relationship": "観察・実験",
+      "sources": [
+        "stutzer-2008",
+        "bloom-2015"
+      ],
+      "limits": [
+        "国・交通・住居選択差",
+        "因果方向"
+      ],
+      "scope": [
+        "通勤"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "FW-C35",
+      "claim": "出社日を「文化のため」とだけ説明せず、必要な共同作業、設備、学習、関係、顧客対応を特定し、目的達成を評価する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "目的からの設計",
+      "sources": [
+        "allen-2015",
+        "yang-2022"
+      ],
+      "limits": [
+        "出社頻度の最適値は仕事・組織で異なる"
+      ],
+      "scope": [
+        "出社"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "FW-C36",
+      "claim": "出社・在宅の選択を地位・好感度・昇進可能性の代理にせず、可視性、重要案件、情報、スポンサー、評価の差を監査する。",
+      "label": "B",
+      "directness": "混合",
+      "relationship": "孤立・キャリア罰",
+      "sources": [
+        "golden-2008",
+        "leslie-2012"
+      ],
+      "limits": [
+        "観察研究中心",
+        "現代ハイブリッドの長期証拠限定"
+      ],
+      "scope": [
+        "近接性バイアス"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "FW-C37",
+      "claim": "リモート管理を常時監視へ置き換えず、期待成果、依存関係、支援、チェックポイント、相談、本人の裁量を明示する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "仕事設計・データ権利",
+      "sources": [
+        "wang-2021",
+        "ilo-data"
+      ],
+      "limits": [
+        "職務・安全・規制要件を確認"
+      ],
+      "scope": [
+        "管理"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "FW-C38",
+      "claim": "キーストローク、スクリーンショット、カメラ、位置、オンライン状態等の監視は、必要性、比例性、目的、精度、閲覧、保存、異議を事前評価する。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "労働者データ統治",
+      "sources": [
+        "ilo-data",
+        "nist-ai-100"
+      ],
+      "limits": [
+        "国内個人情報・労働法を確認",
+        "同意の自由度"
+      ],
+      "scope": [
+        "監視"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "FW-C39",
+      "claim": "デジタル活動量から集中、協働、感情、健康、忠誠心を秘密推定し、評価・雇用判断へ用いることを支持しない。",
+      "label": "不支持",
+      "directness": "予防原則に基づく推論",
+      "relationship": "妥当性・尊厳",
+      "sources": [
+        "ilo-data",
+        "nist-ai-100"
+      ],
+      "limits": [
+        "推定妥当性・萎縮効果",
+        "国内法を確認"
+      ],
+      "scope": [
+        "秘密推定"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "FW-C40",
+      "claim": "遠隔勤務データは勤務支援、セキュリティ、労働時間、評価、研究、AI訓練への用途を分け、アクセス・訂正・保存期限を設ける。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "目的限定",
+      "sources": [
+        "ilo-data",
+        "nist-ai-100"
+      ],
+      "limits": [
+        "国内法・匿名化後の再特定を確認"
+      ],
+      "scope": [
+        "データ"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "FW-C41",
+      "claim": "短時間勤務を低い責任・成長意欲の代理にせず、時間比例できる仕事、引継ぎ、会議、情報、評価、昇進、福利厚生を設計する。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "パートタイム平等待遇",
+      "sources": [
+        "ilo-c175",
+        "ilo-c156"
+      ],
+      "limits": [
+        "国内法・比較可能労働者・社会保障を確認"
+      ],
+      "scope": [
+        "短時間勤務"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "FW-C42",
+      "claim": "ジョブシェアでは二人分の暗黙負担にせず、責任、引継ぎ、重複時間、情報、評価、報酬、代替時の扱いを明示する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "仕事分担設計",
+      "sources": [
+        "ilo-c175",
+        "allen-2014-boundary"
+      ],
+      "limits": [
+        "ジョブシェア固有の強い介入証拠限定",
+        "国内制度を確認"
+      ],
+      "scope": [
+        "ジョブシェア"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "FW-C43",
+      "claim": "親・介護者だけを柔軟勤務の対象にせず、健康、障害、学習、地域活動等の多様な生活を尊重しつつ、必要度と職務条件を透明に扱う。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "普遍性と必要配慮",
+      "sources": [
+        "ilo-c156",
+        "eu-wlb-2019"
+      ],
+      "limits": [
+        "法定権利・優先順位は国内制度を確認"
+      ],
+      "scope": [
+        "生活"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "FW-C44",
+      "claim": "柔軟勤務の申請理由を必要以上に収集せず、健康・障害・家族情報の閲覧者、利用目的、保存、削除を限定する。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "申請データ保護",
+      "sources": [
+        "ilo-data",
+        "eu-wlb-2019"
+      ],
+      "limits": [
+        "国内法・合理的配慮手続を確認"
+      ],
+      "scope": [
+        "プライバシー"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "FW-C45",
+      "claim": "現場職に在宅勤務を提供できない場合も、時間選択、予測可能性、交代、休暇、通勤、休憩、業務量等の別の柔軟性を検討する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "職種間公平",
+      "sources": [
+        "lambert-2014",
+        "eu-predictable-2019"
+      ],
+      "limits": [
+        "安全・顧客・設備制約",
+        "同一制度と公平を区別"
+      ],
+      "scope": [
+        "現場職"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "FW-C46",
+      "claim": "柔軟勤務の公平を同じ日数・制度で測らず、誰が選べるか、誰が費用・リスクを負うか、仕事・賃金・昇進・健康結果を比較する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "分配評価",
+      "sources": [
+        "leslie-2012",
+        "schneider-2019",
+        "ilo-c175"
+      ],
+      "limits": [
+        "少人数の再特定",
+        "職務差・本人選好"
+      ],
+      "scope": [
+        "公平"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "FW-C47",
+      "claim": "制度利用率を平均だけでなく、職種、契約、勤務帯、拠点、ジェンダー、障害、ケア、年齢、管理職別に監査する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "群別監査",
+      "sources": [
+        "eu-wlb-2019",
+        "ilo-c156",
+        "ilo-c175"
+      ],
+      "limits": [
+        "少人数の再特定",
+        "法的属性データを確認"
+      ],
+      "scope": [
+        "利用格差"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "FW-C48",
+      "claim": "利用しない理由も、希望なし、業務不適合、上司拒否、キャリア不安、住環境、孤立、費用、技術等に分ける。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "選択と障壁",
+      "sources": [
+        "allen-2015",
+        "leslie-2012",
+        "oakman-2020"
+      ],
+      "limits": [
+        "自己報告・理由の重なり",
+        "回答守秘"
+      ],
+      "scope": [
+        "非利用"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "FW-C49",
+      "claim": "制度導入時は本人、同僚、管理職、顧客・利用者、現場支援者への仕事・時間・負担移転を図示する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "システム境界",
+      "sources": [
+        "kelly-2014",
+        "kelliher-2010"
+      ],
+      "limits": [
+        "複合因果・不可視労働",
+        "関係者の守秘"
+      ],
+      "scope": [
+        "負担移転"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "FW-C50",
+      "claim": "柔軟勤務を人員削減・固定費削減だけの手段にすると、仕事強度、設備費転嫁、孤立、支援不足が生じ得るため副作用を追う。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "副作用評価",
+      "sources": [
+        "kelliher-2010",
+        "oakman-2020"
+      ],
+      "limits": [
+        "因果研究限定",
+        "組織文脈差"
+      ],
+      "scope": [
+        "コスト移転"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "FW-C51",
+      "claim": "4日勤務制・週労働時間短縮は、日数、総時間、賃金、業務量、要員、休息、顧客対応を区別し、名称だけで効果を推定しない。",
+      "label": "実務原則",
+      "directness": "予防原則に基づく推論",
+      "relationship": "概念分離",
+      "sources": [
+        "pencavel-2015",
+        "baltes-1999"
+      ],
+      "limits": [
+        "4日制固有の長期・比較研究は発展途上",
+        "国・職種差"
+      ],
+      "scope": [
+        "4日制"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "FW-C52",
+      "claim": "労働時間短縮で同じ仕事量を圧縮しないよう、廃止・簡素化・優先順位・要員・会議・顧客契約を同時に見直す。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "業務量再設計",
+      "sources": [
+        "pencavel-2015",
+        "rogelberg-2006"
+      ],
+      "limits": [
+        "短縮施策固有の直接証拠限定"
+      ],
+      "scope": [
+        "時間短縮"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "FW-C53",
+      "claim": "年次休暇・休息を取得率だけでなく、連続性、連絡遮断、代替要員、復帰後の仕事量、取得による不利益で評価する。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "実質的休息",
+      "sources": [
+        "eu-working-time-2003",
+        "ilo-c014"
+      ],
+      "limits": [
+        "休暇権・時季変更等は国内法を確認"
+      ],
+      "scope": [
+        "休暇"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "FW-C54",
+      "claim": "勤務記録は賃金・健康・要員計画・休息保護のために用い、個人ランキングや常時監視へ目的外利用しない。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "時間データ統治",
+      "sources": [
+        "eu-working-time-2003",
+        "ilo-data"
+      ],
+      "limits": [
+        "記録義務・保存・閲覧は国内法を確認"
+      ],
+      "scope": [
+        "勤務記録"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "FW-C55",
+      "claim": "自己申告の労働時間だけでなく、会議、準備、連絡、移動、待機、持ち帰り、複数仕事を含む実労働を確認する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "測定範囲",
+      "sources": [
+        "pega-2021",
+        "eu-working-time-2003"
+      ],
+      "limits": [
+        "労働時間該当性は国内法・判例を確認",
+        "プライバシー"
+      ],
+      "scope": [
+        "実労働"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "FW-C56",
+      "claim": "制度成果は、生産性だけでなく、品質、安全、協働、学習、健康、睡眠、生活、定着、公平、顧客・公益で評価する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "多次元成果",
+      "sources": [
+        "allen-2015",
+        "charalampous-2019",
+        "kecklund-2016"
+      ],
+      "limits": [
+        "遠い成果ほど他要因が多い"
+      ],
+      "scope": [
+        "成果"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "FW-C57",
+      "claim": "柔軟勤務の満足度だけでなく、希望と実際の適合、選択可能性、変更可能性、不利益の有無を測る。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "選好適合",
+      "sources": [
+        "kossek-2012",
+        "allen-2014-boundary"
+      ],
+      "limits": [
+        "自己報告",
+        "希望は時間とともに変わる"
+      ],
+      "scope": [
+        "適合"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "FW-C58",
+      "claim": "本人の希望を固定せず、入社、役割変更、健康・ケア変化、季節、チーム再編時に働き方を再選択できるようにする。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "動的適合",
+      "sources": [
+        "allen-2014-boundary",
+        "eu-wlb-2019"
+      ],
+      "limits": [
+        "職務・制度制約",
+        "法的権利範囲を確認"
+      ],
+      "scope": [
+        "再選択"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "FW-C59",
+      "claim": "制度試行では、参加・非参加の自己選択を記録し、平均効果だけでなく誰に合わなかったかを確認する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "試行評価",
+      "sources": [
+        "bloom-2015",
+        "bloom-2024"
+      ],
+      "limits": [
+        "試行参加の選抜",
+        "小標本・再特定"
+      ],
+      "scope": [
+        "試行"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "FW-C60",
+      "claim": "制度変更は小さく試し、実装、業務量、時間、健康、協働、格差、監視、相談を確認して修正・撤回する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "反復設計",
+      "sources": [
+        "kelly-2014",
+        "moen-2016",
+        "nist-ai-100"
+      ],
+      "limits": [
+        "試行中の権利・安全を守る",
+        "比較条件・実装度"
+      ],
+      "scope": [
+        "改善"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "FW-C61",
+      "claim": "緊急・障害対応と通常運用を分け、パンデミック期の強制在宅・学校閉鎖下の結果を平時の選択的テレワークへそのまま適用しない。",
+      "label": "実務原則",
+      "directness": "柔軟勤務直接研究",
+      "relationship": "文脈境界",
+      "sources": [
+        "wang-2021",
+        "oakman-2020",
+        "barrero-2023"
+      ],
+      "limits": [
+        "危機・国・時期差"
+      ],
+      "scope": [
+        "緊急時"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "FW-C62",
+      "claim": "セキュリティ対策は必要だが、監視強化だけでなく端末、権限、訓練、支援、事故報告、家庭内プライバシーを設計する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "技術・人・制度",
+      "sources": [
+        "ilo-data",
+        "nist-ai-100"
+      ],
+      "limits": [
+        "情報セキュリティ専門評価が必要",
+        "国内法"
+      ],
+      "scope": [
+        "セキュリティ"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "FW-C63",
+      "claim": "時差を利用するチームでは、重複時間、引継ぎ、応答期限、夜間会議の持回り、祝日・休暇を公平に設計する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "時差協働",
+      "sources": [
+        "choudhury-2021",
+        "barber-2015"
+      ],
+      "limits": [
+        "直接介入研究限定",
+        "国際労務・休日制度を確認"
+      ],
+      "scope": [
+        "時差"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "FW-C64",
+      "claim": "カメラ常時オンや自宅背景の公開を参加・集中の条件にせず、音声、チャット、匿名、録画、仮想背景等の選択を用意する。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "プライバシー・参加",
+      "sources": [
+        "ilo-data",
+        "wang-2021"
+      ],
+      "limits": [
+        "業務・安全上の本人確認要件を別途定義"
+      ],
+      "scope": [
+        "オンライン会議"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "FW-C65",
+      "claim": "遠隔・短時間・夜勤・現場の人が重要情報を後から取得できる文書、決定ログ、担当、期限、質問経路を整える。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "情報アクセス",
+      "sources": [
+        "yang-2022",
+        "ilo-c175"
+      ],
+      "limits": [
+        "機密・情報過多・更新責任"
+      ],
+      "scope": [
+        "情報"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "FW-C66",
+      "claim": "管理職自身の深夜送信・長時間在席・休暇中応答が暗黙規範になるため、言葉だけでなく行動と評価制度を合わせる。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "規範・モデリング",
+      "sources": [
+        "barber-2015",
+        "kelliher-2010"
+      ],
+      "limits": [
+        "直接介入証拠限定",
+        "緊急業務を区別"
+      ],
+      "scope": [
+        "管理職"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "FW-C67",
+      "claim": "働く場所・時間の違いを人格、信頼、自己管理能力のラベルにせず、具体的な成果・依存関係・支援ニーズを話す。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "非スティグマ化",
+      "sources": [
+        "leslie-2012",
+        "allen-2015"
+      ],
+      "limits": [
+        "評価基準・職務差を確認"
+      ],
+      "scope": [
+        "対話"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "FW-C68",
+      "claim": "制度の例外は口頭の恩恵にせず、理由、期間、再評価、同様案件の取扱い、異議経路を記録する。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "手続的公正",
+      "sources": [
+        "eu-wlb-2019",
+        "eu-predictable-2019"
+      ],
+      "limits": [
+        "個人情報・国内法を確認"
+      ],
+      "scope": [
+        "例外"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "FW-C69",
+      "claim": "申請拒否・勤務予定変更・監視・時間記録への異議には、理由、証拠、期限、人による再審査、訂正、報復防止を設ける。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "異議・救済",
+      "sources": [
+        "eu-wlb-2019",
+        "eu-predictable-2019",
+        "ilo-data"
+      ],
+      "limits": [
+        "国内法・労使制度を確認"
+      ],
+      "scope": [
+        "異議"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "FW-C70",
+      "claim": "柔軟な働き方の方針は、選べる制度だけでなく、最低限守る時間・休息・賃金・安全・プライバシーと救済を公開する。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "公開性・権利",
+      "sources": [
+        "ilo-c001",
+        "eu-working-time-2003",
+        "ilo-data"
+      ],
+      "limits": [
+        "国内法・労使制度を確認"
+      ],
+      "scope": [
+        "透明性"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "FW-C71",
+      "claim": "在宅勤務を育児・介護サービスの代替とせず、ケア中断、緊急時、通常期を分け、仕事量・時間・休暇・支援を調整する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "ケアと仕事の両立",
+      "sources": [
+        "wang-2021",
+        "ilo-c156",
+        "eu-wlb-2019"
+      ],
+      "limits": [
+        "家族形態・法定休暇・本人希望は国内制度で確認"
+      ],
+      "scope": [
+        "在宅とケア"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "FW-C72",
+      "claim": "自宅が安全・静穏であると仮定せず、家庭内暴力等の影響がある場合に安全な代替場所、連絡方法、休暇、相談、守秘を本人の希望と安全に沿って用意する。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "家庭内暴力と仕事",
+      "sources": [
+        "ilo-c190",
+        "ilo-r206"
+      ],
+      "limits": [
+        "緊急時は地域の専門機関・法執行等へ接続",
+        "国内法・安全計画を確認"
+      ],
+      "scope": [
+        "家庭の安全"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "FW-C73",
+      "claim": "つながらない権利の方針には、切断時間、緊急例外、送信・応答期待、時間記録、補償、管理職責任、不利益取扱い防止、異議を含める。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "切断権の具体化",
+      "sources": [
+        "eu-disconnect-2021",
+        "eu-working-time-2003",
+        "barber-2015"
+      ],
+      "limits": [
+        "欧州議会決議は直接適用法ではない",
+        "国内法・労使制度を確認"
+      ],
+      "scope": [
+        "切断権"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "FW-C74",
+      "claim": "アルゴリズムがシフト、仕事配分、報酬、評価、アカウント停止を決める場合、目的、主要要因、制約、記録、人による再審査、訂正、異議を示す。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "アルゴリズム管理",
+      "sources": [
+        "eu-platform-2024",
+        "nist-ai-100",
+        "ilo-data"
+      ],
+      "limits": [
+        "EU指令の適用範囲・国内実装を確認",
+        "日本へ直接適用されない"
+      ],
+      "scope": [
+        "アルゴリズム勤務"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "FW-C75",
+      "claim": "体調不良時の在宅勤務を病気休暇・回復の代替として暗黙に期待せず、休む選択、業務引継ぎ、復職・配慮を設計する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "健康と休息",
+      "sources": [
+        "who-2022",
+        "oakman-2020",
+        "eu-working-time-2003"
+      ],
+      "limits": [
+        "病気休暇・就業制限・医療判断は国内制度と専門家を確認"
+      ],
+      "scope": [
+        "病気と在宅"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    }
+  ]
+}

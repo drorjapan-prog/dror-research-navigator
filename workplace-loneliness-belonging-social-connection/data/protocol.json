@@ -1,0 +1,80 @@
+{
+  "name": "職場の孤独・所属感・社会的つながり 迅速エビデンスマップ・プロトコル",
+  "version": "0.1",
+  "review_type": "孤独、孤立、排斥、所属、支援、ネットワーク、遠隔勤務、相談接続、データ権利を分離した迅速エビデンスマップ",
+  "research_questions": [
+    {
+      "id": "RQ1",
+      "question": "孤独、社会的孤立、専門的孤立、排斥、所属、包摂をどう区別するか。"
+    },
+    {
+      "id": "RQ2",
+      "question": "健康・仕事結果との関連は何を示し、何を示さないか。"
+    },
+    {
+      "id": "RQ3",
+      "question": "上司・同僚・組織支援、高品質なつながり、ネットワーク位置をどう扱うか。"
+    },
+    {
+      "id": "RQ4",
+      "question": "遠隔・ハイブリッド・単独・交替・現場勤務の接続をどう設計するか。"
+    },
+    {
+      "id": "RQ5",
+      "question": "新人、異動、復職、再編等の移行期に関係・情報断絶をどう防ぐか。"
+    },
+    {
+      "id": "RQ6",
+      "question": "孤独・排斥への組織的介入、メンタリング、チーム施策をどう評価するか。"
+    },
+    {
+      "id": "RQ7",
+      "question": "相談、危機接続、守秘、データ、AI・ネットワーク分析をどう統治するか。"
+    },
+    {
+      "id": "RQ8",
+      "question": "公平性、望まない効果、公開性、更新をどう担保するか。"
+    }
+  ],
+  "query_families": [
+    "workplace loneliness scale performance systematic review",
+    "social isolation loneliness health meta-analysis",
+    "workplace ostracism meta-analysis scale",
+    "belonging inclusion uniqueness workplace measurement",
+    "coworker supervisor organizational support meta-analysis",
+    "organizational social networks brokerage cohesion knowledge transfer",
+    "remote work professional isolation hybrid collaboration",
+    "mentoring onboarding socialization support meta-analysis",
+    "psychological safety leader inclusiveness information sharing",
+    "loneliness intervention meta-analysis workplace organizational intervention",
+    "Japan loneliness isolation law national survey workplace mental health",
+    "employee network analytics privacy loneliness AI detection"
+  ],
+  "inclusion": [
+    "査読済み基礎・測定・統合研究",
+    "職場孤独・排斥・所属の直接研究",
+    "支援・関係・ネットワーク・チームの主要研究",
+    "遠隔・ハイブリッド・新人・メンタリング研究",
+    "一般人口の孤独・孤立健康研究は隣接根拠として限定利用",
+    "日本・WHO/ILO等の公式原典"
+  ],
+  "exclusion": [
+    "友人数・会話量・出社日数の万能KPI",
+    "属性・通信・感情語からの秘密の孤独推定",
+    "孤独スコアによる採用・配置・評価・退職勧奨",
+    "飲み会・自己開示・家族的忠誠の強制",
+    "心理支援だけで排斥・過大要求・制度障壁を放置",
+    "チャットボット・ロボットで人と専門支援を代替",
+    "相談・ネットワーク個票の無期限・目的外利用"
+  ],
+  "process_limitations": [
+    "単一レビュアーによる迅速整理",
+    "代表文献と公式原典による非網羅整理",
+    "効果量の独自再計算・正式なバイアス評価は未実施",
+    "職場孤独の縦断・比較介入研究は限定",
+    "一般人口・高齢者の健康研究を職場因果へ直接移植しない",
+    "ネットワーク研究は単一組織・観察研究が多く欠測と再特定に注意",
+    "パンデミック強制在宅と平時の選択的遠隔勤務を区別",
+    "尺度項目、相談個票、通信内容・関係名簿、診断・AIモデルは収録しない"
+  ]
+}

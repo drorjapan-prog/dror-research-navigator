@@ -1,0 +1,1966 @@
+{
+  "name": "感情労働・顧客対応・カスタマーハラスメント 主張レジスター",
+  "version": "0.1",
+  "license": "CC BY 4.0",
+  "claims": [
+    {
+      "id": "C01",
+      "claim": "感情労働は「感情的な人」の性格ではなく、仕事が一定の感情表出・抑制・調整を求める労働過程である。",
+      "label": "A",
+      "directness": "感情労働直接研究",
+      "relationship": "基本定義",
+      "scope": [
+        "顧客接点・感情労働・第三者危害"
+      ],
+      "sources": [
+        "grandey-2000",
+        "grandey-gabriel-2015"
+      ],
+      "limits": [
+        "職務・文化で要求が異なる",
+        "感情そのものを病理化しない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C02",
+      "claim": "本人が感じる感情、組織が求める表示、実際に示した表情・声・言葉、顧客が知覚した表出を分けて扱う。",
+      "label": "A",
+      "directness": "感情労働直接研究",
+      "relationship": "構成概念境界",
+      "scope": [
+        "顧客接点・感情労働・第三者危害"
+      ],
+      "sources": [
+        "morris-feldman-1996",
+        "mesmer-magnus-2011",
+        "groth-2009"
+      ],
+      "limits": [
+        "各層の測定誤差",
+        "観察から内面を断定しない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C03",
+      "claim": "表示規則は明文化された接客基準だけでなく、評価、顧客アンケート、ロールモデル、叱責、暗黙の「笑顔」規範からも伝わる。",
+      "label": "A",
+      "directness": "感情労働直接研究",
+      "relationship": "表示規則",
+      "scope": [
+        "顧客接点・感情労働・第三者危害"
+      ],
+      "sources": [
+        "grandey-2000",
+        "goldberg-grandey-2007"
+      ],
+      "limits": [
+        "規則知覚と実際の方針を分ける"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C04",
+      "claim": "表層演技、深層演技、自然な感情表出を別の戦略として測り、一つの善悪順位にしない。",
+      "label": "A",
+      "directness": "感情労働直接研究",
+      "relationship": "戦略の区別",
+      "scope": [
+        "顧客接点・感情労働・第三者危害"
+      ],
+      "sources": [
+        "diefendorff-2005",
+        "hulsheger-schewe-2011",
+        "gross-1998",
+        "webb-2012"
+      ],
+      "limits": [
+        "職場内外の感情調整研究を含む",
+        "状況・頻度・感情種類で変わる",
+        "本人の固定特性にしない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C05",
+      "claim": "感情的不協和は、感じている感情と求められる／示す感情のずれであり、単なる「機嫌の悪さ」と区別する。",
+      "label": "A",
+      "directness": "感情労働直接研究",
+      "relationship": "感情的不協和",
+      "scope": [
+        "顧客接点・感情労働・第三者危害"
+      ],
+      "sources": [
+        "morris-feldman-1996",
+        "zapf-2002"
+      ],
+      "limits": [
+        "測定定義の差",
+        "短期適応と慢性曝露を分ける"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C06",
+      "claim": "顧客と接する仕事すべてを同じ感情労働とせず、頻度、強度、多様性、裁量、相互作用時間、危険を記録する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "曝露の記述",
+      "scope": [
+        "顧客接点・感情労働・第三者危害"
+      ],
+      "sources": [
+        "brotheridge-lee-2003",
+        "bhave-glomb-2016"
+      ],
+      "limits": [
+        "職業平均で個人を決めない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C07",
+      "claim": "良い顧客評価が得られたことを、従業員が健康・安全だった証拠にしない。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "成果の分離",
+      "scope": [
+        "顧客接点・感情労働・第三者危害"
+      ],
+      "sources": [
+        "pugh-2001",
+        "hulsheger-schewe-2011"
+      ],
+      "limits": [
+        "顧客結果と労働者結果を別測定"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C08",
+      "claim": "不満、異議、返金・修理・説明・合理的配慮の要求を、それだけでカスタマーハラスメントと呼ばない。",
+      "label": "A",
+      "directness": "公式指針・制度",
+      "relationship": "正当な申出との境界",
+      "scope": [
+        "顧客接点・感情労働・第三者危害"
+      ],
+      "sources": [
+        "mhlw-customer-guideline-2026",
+        "tokyo-customer-guideline",
+        "japan-disability-act"
+      ],
+      "limits": [
+        "要求内容、方法、頻度、時間、業務事情、権利を個別確認"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C09",
+      "claim": "要求内容に正当性があっても、暴行、脅迫、差別的・性的言動、長時間拘束、人格攻撃等の手段は別に評価する。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "内容と手段",
+      "scope": [
+        "顧客接点・感情労働・第三者危害"
+      ],
+      "sources": [
+        "mhlw-customer-manual",
+        "mhlw-customer-guideline-2026",
+        "japan-act-63-2025"
+      ],
+      "limits": [
+        "社会通念上の許容範囲は文脈判断",
+        "個別法的判断は専門確認"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C10",
+      "claim": "「顧客等」には購入者だけでなく、取引先、施設利用者、患者・家族、市民、乗客、学生、プラットフォーム利用者等が含まれ得る。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "第三者の範囲",
+      "scope": [
+        "顧客接点・感情労働・第三者危害"
+      ],
+      "sources": [
+        "japan-act-63-2025",
+        "ilo-c190"
+      ],
+      "limits": [
+        "適用主体は法令・契約・業務で確認"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C11",
+      "claim": "顧客による性的嫌がらせ、差別的言動、ストーキング、私的連絡要求を「接客の一部」として受忍させない。",
+      "label": "A",
+      "directness": "暴力・ハラスメント直接研究",
+      "relationship": "第三者ハラスメント",
+      "scope": [
+        "顧客接点・感情労働・第三者危害"
+      ],
+      "sources": [
+        "gettman-gelfand-2007",
+        "fitzgerald-1997",
+        "ilo-c190"
+      ],
+      "limits": [
+        "保護事由・犯罪該当性・緊急性を個別確認"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C12",
+      "claim": "暴行、武器、明確な危害予告、追跡、監禁、緊迫した自傷他害は通常苦情処理でなく、退避・通報・緊急支援を優先する。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "緊急事態",
+      "scope": [
+        "顧客接点・感情労働・第三者危害"
+      ],
+      "sources": [
+        "mhlw-customer-manual",
+        "osha-workplace-violence"
+      ],
+      "limits": [
+        "地域の緊急手順・警察・医療へ接続",
+        "従業員に単独対応させない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C13",
+      "claim": "電話、メール、チャット、レビュー、SNS、録画配信、個人情報晒し、勤務外接触も業務に関係する危害として範囲に入れる。",
+      "label": "実務原則",
+      "directness": "予防原則に基づく推論",
+      "relationship": "オンライン危害",
+      "scope": [
+        "顧客接点・感情労働・第三者危害"
+      ],
+      "sources": [
+        "ilo-c190",
+        "kellogg-2020"
+      ],
+      "limits": [
+        "表現の自由・公益通報・正当な批評と区別",
+        "プラットフォーム規約を確認"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C14",
+      "claim": "無礼は低強度で害意が曖昧な言動として測り、暴力・脅迫・差別と同一カテゴリに潰さない。",
+      "label": "A",
+      "directness": "暴力・ハラスメント直接研究",
+      "relationship": "無礼の境界",
+      "scope": [
+        "顧客接点・感情労働・第三者危害"
+      ],
+      "sources": [
+        "andersson-pearson-1999",
+        "cortina-2001",
+        "fisk-2010"
+      ],
+      "limits": [
+        "意図を推定しない",
+        "類型を個人ラベルにしない",
+        "累積・文脈を確認"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C15",
+      "claim": "一回でも重大な行為と、低強度行為の反復・累積を別々に記録する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "重大性と反復",
+      "scope": [
+        "顧客接点・感情労働・第三者危害"
+      ],
+      "sources": [
+        "lanctot-guay-2014",
+        "sliter-2012"
+      ],
+      "limits": [
+        "件数だけで重症度を表さない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C16",
+      "claim": "正当な顧客・患者・市民の権利行使、内部告発、報道、抗議を封じるためにカスハラ方針を使わない。",
+      "label": "不支持",
+      "directness": "公式指針・制度",
+      "relationship": "方針悪用の禁止",
+      "scope": [
+        "顧客接点・感情労働・第三者危害"
+      ],
+      "sources": [
+        "tokyo-customer-guideline",
+        "japan-disability-act"
+      ],
+      "limits": [
+        "違法性・公益性・安全を専門確認"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C17",
+      "claim": "障害、認知、精神状態、言語、文化、聴覚・発話特性によるコミュニケーション差を、行動の具体的評価なしに「危険客」とラベル付けしない。",
+      "label": "不支持",
+      "directness": "公式指針・制度",
+      "relationship": "差別防止",
+      "scope": [
+        "顧客接点・感情労働・第三者危害"
+      ],
+      "sources": [
+        "japan-disability-act",
+        "ilo-c190"
+      ],
+      "limits": [
+        "安全上の具体的行動は別に評価",
+        "合理的配慮を検討"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C18",
+      "claim": "顧客属性、顔、声、アクセント、診断歴、購買履歴から「カスハラ予測スコア」を作らない。",
+      "label": "不支持",
+      "directness": "予防原則に基づく推論",
+      "relationship": "予測プロファイリング",
+      "scope": [
+        "顧客接点・感情労働・第三者危害"
+      ],
+      "sources": [
+        "japan-appi",
+        "kellogg-2020"
+      ],
+      "limits": [
+        "代理差別・誤警報・目的外利用",
+        "具体的行動と状況を用いる"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C19",
+      "claim": "表層演技は平均的に感情的消耗、仕事不満、健康上の不利と関連する。",
+      "label": "A",
+      "directness": "感情労働直接研究",
+      "relationship": "表層演技の結果",
+      "scope": [
+        "顧客接点・感情労働・第三者危害"
+      ],
+      "sources": [
+        "hulsheger-schewe-2011",
+        "chen-2024"
+      ],
+      "limits": [
+        "相関研究中心",
+        "個人差・職務差",
+        "一回の表出から診断しない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C20",
+      "claim": "深層演技の健康・業績との関連は表層演技と同じでなく、状況・目標・資源で混合する。",
+      "label": "A",
+      "directness": "感情労働直接研究",
+      "relationship": "深層演技の結果",
+      "scope": [
+        "顧客接点・感情労働・第三者危害"
+      ],
+      "sources": [
+        "hulsheger-schewe-2011",
+        "grandey-2003"
+      ],
+      "limits": [
+        "万能な推奨戦略ではない",
+        "感情変更を強制しない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C21",
+      "claim": "自然な肯定的感情表出を第三の戦略として認めるが、感じられない人を不適格・不誠実と評価しない。",
+      "label": "A",
+      "directness": "感情労働直接研究",
+      "relationship": "自然な表出",
+      "scope": [
+        "顧客接点・感情労働・第三者危害"
+      ],
+      "sources": [
+        "diefendorff-2005",
+        "grandey-2012"
+      ],
+      "limits": [
+        "真正性の強制という矛盾を避ける"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C22",
+      "claim": "従業員の感情表出は顧客の感情・サービス評価に影響し得るが、効果は表出の質、接点、顧客知覚に依存する。",
+      "label": "A",
+      "directness": "顧客対応直接研究",
+      "relationship": "顧客反応",
+      "scope": [
+        "顧客接点・感情労働・第三者危害"
+      ],
+      "sources": [
+        "pugh-2001",
+        "hennig-thurau-2006"
+      ],
+      "limits": [
+        "健康・安全とのトレードオフを別評価",
+        "業種差"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C23",
+      "claim": "顧客が表層演技を常に正確に見抜くとは限らないため、顧客評価だけから従業員の内面や誠実性を推定しない。",
+      "label": "A",
+      "directness": "顧客対応直接研究",
+      "relationship": "真正性知覚",
+      "scope": [
+        "顧客接点・感情労働・第三者危害"
+      ],
+      "sources": [
+        "groth-2009"
+      ],
+      "limits": [
+        "特定サービス場面",
+        "知覚と事実を分ける"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C24",
+      "claim": "感情労働と業績の平均的関連を「笑顔を増やせば売上が上がる」という単純な因果式にしない。",
+      "label": "A",
+      "directness": "感情労働直接研究",
+      "relationship": "業績の限界",
+      "scope": [
+        "顧客接点・感情労働・第三者危害"
+      ],
+      "sources": [
+        "hulsheger-schewe-2011",
+        "grandey-gabriel-2015"
+      ],
+      "limits": [
+        "効果の異質性",
+        "逆因果・選択",
+        "健康結果を同時評価"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C25",
+      "claim": "感情知能、外向性、性別等を「感情労働に耐えられる人」の採用・配置スコアへ直結させない。",
+      "label": "不支持",
+      "directness": "混合",
+      "relationship": "個人差の悪用",
+      "scope": [
+        "顧客接点・感情労働・第三者危害"
+      ],
+      "sources": [
+        "kammeyer-mueller-2013",
+        "chen-2024"
+      ],
+      "limits": [
+        "平均関連を個人の権利・価値判断にしない",
+        "合理的配慮と職務設計を優先"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C26",
+      "claim": "感情労働と顧客不当扱いは日ごと・接点ごとに変動するため、一度の年次調査だけで曝露を固定しない。",
+      "label": "A",
+      "directness": "感情労働直接研究",
+      "relationship": "時間変動",
+      "scope": [
+        "顧客接点・感情労働・第三者危害"
+      ],
+      "sources": [
+        "scott-barnes-2011",
+        "wang-2011",
+        "totterdell-holman-2003"
+      ],
+      "limits": [
+        "日誌調査の負担・反応性",
+        "長期傾向も併記"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C27",
+      "claim": "顧客関連ストレッサーと不当扱いは、燃え尽き・否定的感情・仕事結果の不利と関連する。",
+      "label": "A",
+      "directness": "顧客対応直接研究",
+      "relationship": "顧客ストレスの結果",
+      "scope": [
+        "顧客接点・感情労働・第三者危害"
+      ],
+      "sources": [
+        "dormann-zapf-2004",
+        "grandey-2004",
+        "rupp-2008",
+        "harris-reynolds-2003"
+      ],
+      "limits": [
+        "実験・質的研究も含む",
+        "自己報告・観察研究",
+        "行為の種類・頻度で異なる"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C28",
+      "claim": "顧客の言語的攻撃は感情調整、欠勤・撤退等と関連し得るため、個人の接客技術だけで処理しない。",
+      "label": "A",
+      "directness": "顧客対応直接研究",
+      "relationship": "攻撃と撤退",
+      "scope": [
+        "顧客接点・感情労働・第三者危害"
+      ],
+      "sources": [
+        "grandey-2004",
+        "sliter-2012"
+      ],
+      "limits": [
+        "因果方向・組織差",
+        "欠勤を懲戒指標だけにしない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C29",
+      "claim": "顧客不当扱い後に従業員の無礼・妨害が増える関連があっても、報復を正当化せず、負担と統制失敗を同時に改善する。",
+      "label": "A",
+      "directness": "顧客対応直接研究",
+      "relationship": "波及・報復",
+      "scope": [
+        "顧客接点・感情労働・第三者危害"
+      ],
+      "sources": [
+        "wang-2011",
+        "skarlicki-2008",
+        "van-jaarsveld-2010"
+      ],
+      "limits": [
+        "被害者非難に使わない",
+        "顧客・同僚の安全も守る"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C30",
+      "claim": "顧客・取引先による性的嫌がらせも、同僚・上司によるものと同様に組織の予防・相談・保護対象にする。",
+      "label": "A",
+      "directness": "暴力・ハラスメント直接研究",
+      "relationship": "顧客セクハラ",
+      "scope": [
+        "顧客接点・感情労働・第三者危害"
+      ],
+      "sources": [
+        "gettman-gelfand-2007",
+        "fitzgerald-1997"
+      ],
+      "limits": [
+        "国内法・業種・第三者との契約を確認"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C31",
+      "claim": "人種化・性別化・障害差別等と顧客無礼の負担が交差し得るため、全体平均だけでなく本人の語りと群別結果を確認する。",
+      "label": "A",
+      "directness": "暴力・ハラスメント直接研究",
+      "relationship": "交差性",
+      "scope": [
+        "顧客接点・感情労働・第三者危害"
+      ],
+      "sources": [
+        "kern-grandey-2009",
+        "gettman-gelfand-2007"
+      ],
+      "limits": [
+        "少人数の秘匿",
+        "属性を原因・予測子にしない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C32",
+      "claim": "低強度の無礼でも複数の発生源・反復が重なると、健康・撤退・業績に累積的な不利が生じ得る。",
+      "label": "A",
+      "directness": "暴力・ハラスメント直接研究",
+      "relationship": "累積曝露",
+      "scope": [
+        "顧客接点・感情労働・第三者危害"
+      ],
+      "sources": [
+        "lim-2008",
+        "sliter-2012"
+      ],
+      "limits": [
+        "顧客以外の発生源も含む",
+        "自己報告中心"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C33",
+      "claim": "暴力・脅迫後には心理・身体・仕事上の影響が短期・長期に残り得るため、無傷に見えても追跡支援を選べるようにする。",
+      "label": "A",
+      "directness": "暴力・ハラスメント直接研究",
+      "relationship": "暴力後の影響",
+      "scope": [
+        "顧客接点・感情労働・第三者危害"
+      ],
+      "sources": [
+        "lanctot-guay-2014",
+        "leblanc-kelloway-2002",
+        "hershcovis-barling-2010"
+      ],
+      "limits": [
+        "医療研究・顧客以外の加害源も含む",
+        "個人差",
+        "診断を自動化しない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C34",
+      "claim": "組織支援は暴力・攻撃後の不利を弱め得るが、危険を放置して支援だけを提供する設計にしない。",
+      "label": "A",
+      "directness": "暴力・ハラスメント直接研究",
+      "relationship": "組織支援",
+      "scope": [
+        "顧客接点・感情労働・第三者危害"
+      ],
+      "sources": [
+        "schat-kelloway-2003",
+        "halbesleben-2006"
+      ],
+      "limits": [
+        "支援は一次予防の代替でない",
+        "因果確実性の限界"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C35",
+      "claim": "無礼は相互作用で増幅し得るため、誰が先かの道徳裁判だけでなく、早期の中断・交代・仲介・境界設定を用意する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "無礼のスパイラル",
+      "scope": [
+        "顧客接点・感情労働・第三者危害"
+      ],
+      "sources": [
+        "andersson-pearson-1999",
+        "walker-2014"
+      ],
+      "limits": [
+        "重大な暴力に仲介を用いない",
+        "安全を優先"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C36",
+      "claim": "勤務後の回復時間、睡眠、反すう、次の勤務への持越しを、接客件数とは別に評価する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "回復",
+      "scope": [
+        "顧客接点・感情労働・第三者危害"
+      ],
+      "sources": [
+        "scott-barnes-2011",
+        "who-mental-health-2022"
+      ],
+      "limits": [
+        "医療診断ではない",
+        "勤務間隔・交代制を考慮"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C37",
+      "claim": "個人向けマインドフルネス等は選択可能な補助手段であり、表示規則、要員、退避権、顧客行動の改善に置き換えない。",
+      "label": "A",
+      "directness": "感情労働直接研究",
+      "relationship": "個人介入の境界",
+      "scope": [
+        "顧客接点・感情労働・第三者危害"
+      ],
+      "sources": [
+        "hulsheger-2013",
+        "ilo-who-brief-2022"
+      ],
+      "limits": [
+        "短期・自己報告",
+        "参加強制・評価利用を避ける"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C38",
+      "claim": "サービス風土は顧客評価と関係し得るが、「顧客第一」を安全より優先する風土と区別する。",
+      "label": "A",
+      "directness": "サービス風土隣接研究",
+      "relationship": "サービス風土",
+      "scope": [
+        "顧客接点・感情労働・第三者危害"
+      ],
+      "sources": [
+        "schneider-1998",
+        "bowen-schneider-2014"
+      ],
+      "limits": [
+        "顧客結果と労働者安全を両方測る"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C39",
+      "claim": "表出裁量と本人らしさを許す風土は感情労働の負担を弱め得るため、語尾・声色・笑顔の過剰標準化を点検する。",
+      "label": "A",
+      "directness": "感情労働直接研究",
+      "relationship": "表出裁量",
+      "scope": [
+        "顧客接点・感情労働・第三者危害"
+      ],
+      "sources": [
+        "goldberg-grandey-2007",
+        "grandey-2012"
+      ],
+      "limits": [
+        "安全・差別防止に必要な最低行動基準は別"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C40",
+      "claim": "顧客対応の要求と、要員、時間、情報、権限、上司・同僚支援、退避経路等の資源を同じ表で設計する。",
+      "label": "A",
+      "directness": "サービス風土隣接研究",
+      "relationship": "仕事要求・資源",
+      "scope": [
+        "顧客接点・感情労働・第三者危害"
+      ],
+      "sources": [
+        "bakker-demerouti-2007",
+        "nahrgang-2011"
+      ],
+      "limits": [
+        "一般モデルからの設計推論",
+        "業種別の危険評価が必要"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C41",
+      "claim": "顧客価値に寄与しない笑顔、謝罪、敬語、即答、長時間傾聴等の表示要求を減らす。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "不要要求の除去",
+      "scope": [
+        "顧客接点・感情労働・第三者危害"
+      ],
+      "sources": [
+        "goldberg-grandey-2007",
+        "wharton-1993"
+      ],
+      "limits": [
+        "サービス目的・文化・障害配慮を確認"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C42",
+      "claim": "暴言・脅迫・性的言動の最中に謝罪継続や感情変更を強制せず、会話停止・交代・退避を認める。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "退避権",
+      "scope": [
+        "顧客接点・感情労働・第三者危害"
+      ],
+      "sources": [
+        "mhlw-customer-manual",
+        "mhlw-customer-guideline-2026",
+        "japan-act-63-2025"
+      ],
+      "limits": [
+        "緊急サービスの継続責任と代替要員を設計"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C43",
+      "claim": "接客基準は「いつも笑顔」ではなく、正確な説明、尊重、確認、境界、引継ぎ、緊急対応など観察可能な行動で書く。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "サービス基準",
+      "scope": [
+        "顧客接点・感情労働・第三者危害"
+      ],
+      "sources": [
+        "grandey-gabriel-2015",
+        "tokyo-customer-guideline"
+      ],
+      "limits": [
+        "感情の真正性を評価しない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C44",
+      "claim": "前線従業員に、対応を一時停止し、上位者・専門窓口へ移し、一定条件でサービスを断る明確な権限を与える。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "裁量とエスカレーション",
+      "scope": [
+        "顧客接点・感情労働・第三者危害"
+      ],
+      "sources": [
+        "mhlw-customer-manual",
+        "ilo-r206"
+      ],
+      "limits": [
+        "差別的運用を監査",
+        "緊急・公共サービスでは代替手順"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C45",
+      "claim": "待ち時間、料金・契約の曖昧さ、システム障害、欠品、権限不足、たらい回し等の誘因をサービス設計の問題として改善する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "上流予防",
+      "scope": [
+        "顧客接点・感情労働・第三者危害"
+      ],
+      "sources": [
+        "dormann-zapf-2004",
+        "bowen-schneider-2014"
+      ],
+      "limits": [
+        "誘因は攻撃の正当化ではない",
+        "顧客行動と組織責任を分ける"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C46",
+      "claim": "利用者が正当に問題解決できる、アクセス可能で多言語・複数媒体の苦情・異議・合理的配慮経路を整える。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "正当な苦情経路",
+      "scope": [
+        "顧客接点・感情労働・第三者危害"
+      ],
+      "sources": [
+        "tokyo-customer-guideline",
+        "japan-disability-act"
+      ],
+      "limits": [
+        "デジタル限定にしない",
+        "代理人・支援者を考慮"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C47",
+      "claim": "方針には禁止語だけでなく、具体例、境界事例、重大度、反復、記録、交代、停止、再開、異議・見直しを示す。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "方針の明確性",
+      "scope": [
+        "顧客接点・感情労働・第三者危害"
+      ],
+      "sources": [
+        "mhlw-customer-manual",
+        "mhlw-customer-guideline-2026",
+        "ilo-r206"
+      ],
+      "limits": [
+        "例示を自動判定表にしない",
+        "定期更新"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C48",
+      "claim": "相談・報告は、直属上司以外、匿名・記名、緊急・非緊急、従業員・委託先など複数経路を用意する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "報告経路",
+      "scope": [
+        "顧客接点・感情労働・第三者危害"
+      ],
+      "sources": [
+        "cortina-magley-2003",
+        "mhlw-customer-manual"
+      ],
+      "limits": [
+        "匿名性の限界を説明",
+        "調査と支援を分ける"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C49",
+      "claim": "相談、退避、警察・労組・行政への連絡、調査協力を理由に、シフト、評価、契約、顧客配分で不利益を与えない。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "報復防止",
+      "scope": [
+        "顧客接点・感情労働・第三者危害"
+      ],
+      "sources": [
+        "japan-act-63-2025",
+        "mhlw-customer-guideline-2026",
+        "cortina-magley-2003"
+      ],
+      "limits": [
+        "適用法・契約を確認",
+        "間接的不利益も監査"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C50",
+      "claim": "記録は日時、場所、具体的言動、要求、対応、証人、影響、判断、支援に限定し、憶測の人格・診断ラベルを書かない。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "事実記録",
+      "scope": [
+        "顧客接点・感情労働・第三者危害"
+      ],
+      "sources": [
+        "mhlw-customer-manual",
+        "japan-appi"
+      ],
+      "limits": [
+        "目的限定・保存期間・アクセス権",
+        "本人訂正"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C51",
+      "claim": "緊急連絡、警報、退避経路、二人対応、位置確認、警備・警察・医療との接続を事前に訓練する。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "緊急対応",
+      "scope": [
+        "顧客接点・感情労働・第三者危害"
+      ],
+      "sources": [
+        "osha-workplace-violence",
+        "ilo-r206"
+      ],
+      "limits": [
+        "過剰監視・差別的警備を避ける",
+        "地域制度に適合"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C52",
+      "claim": "管理職はまず安全を確保し、事実を聴き、本人を責めず、選択肢・守秘の限界・次回連絡を示す。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "初動支援",
+      "scope": [
+        "顧客接点・感情労働・第三者危害"
+      ],
+      "sources": [
+        "schat-kelloway-2003",
+        "mhlw-customer-manual"
+      ],
+      "limits": [
+        "治療・捜査の専門判断を代替しない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C53",
+      "claim": "同僚の声掛け・交代・振り返りを支えるが、善意のバディに警備・治療・法務の責任を転嫁しない。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "同僚支援",
+      "scope": [
+        "顧客接点・感情労働・第三者危害"
+      ],
+      "sources": [
+        "halbesleben-2006",
+        "ilo-who-brief-2022"
+      ],
+      "limits": [
+        "二次受傷・負担集中を監査"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C54",
+      "claim": "重大事案後は、休息、帰宅・移動、医療・心理・労災・法務・労組等への接続、勤務調整、再接触防止を選択可能にする。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "事後支援",
+      "scope": [
+        "顧客接点・感情労働・第三者危害"
+      ],
+      "sources": [
+        "lanctot-guay-2014",
+        "who-mental-health-2022"
+      ],
+      "limits": [
+        "一律カウンセリングを強制しない",
+        "地域制度を確認"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C55",
+      "claim": "高曝露窓口を固定メンバーへ集中させず、本人同意、技能、要員、継続性を考えて交代・ローテーションする。",
+      "label": "実務原則",
+      "directness": "予防原則に基づく推論",
+      "relationship": "曝露分散",
+      "scope": [
+        "顧客接点・感情労働・第三者危害"
+      ],
+      "sources": [
+        "sliter-2012",
+        "nahrgang-2011"
+      ],
+      "limits": [
+        "危険を他者へ移すだけにしない",
+        "熟練者への固定を避ける"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C56",
+      "claim": "対話・デエスカレーション研修だけでカスハラ対策を完了とせず、方針、要員、権限、環境、報告、事後支援を組み合わせる。",
+      "label": "A",
+      "directness": "暴力・ハラスメント直接研究",
+      "relationship": "研修の限界",
+      "scope": [
+        "顧客接点・感情労働・第三者危害"
+      ],
+      "sources": [
+        "wassell-2009",
+        "geoffrion-2020"
+      ],
+      "limits": [
+        "介入研究の確実性が限定",
+        "技能テストを被害責任にしない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C57",
+      "claim": "研修の効果は知識・自信だけでなく、発生、傷害、退避、報告、再発、健康を追い、効果不明なら設計を修正する。",
+      "label": "A",
+      "directness": "暴力・ハラスメント直接研究",
+      "relationship": "介入評価",
+      "scope": [
+        "顧客接点・感情労働・第三者危害"
+      ],
+      "sources": [
+        "geoffrion-2020",
+        "wassell-2009"
+      ],
+      "limits": [
+        "低頻度重大事案の統計的不確実性",
+        "対照設定の困難"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C58",
+      "claim": "「打たれ強さ」「顧客心理を読めない」「共感不足」を被害原因とせず、具体的行為・曝露・資源・制度を先に調べる。",
+      "label": "不支持",
+      "directness": "混合",
+      "relationship": "被害者非難の禁止",
+      "scope": [
+        "顧客接点・感情労働・第三者危害"
+      ],
+      "sources": [
+        "dormann-zapf-2004",
+        "ilo-c190"
+      ],
+      "limits": [
+        "個人の対処希望は尊重",
+        "能力開発と責任帰属を分ける"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C59",
+      "claim": "警備・入店制限・通報は危険に比例させ、属性ではなく具体的行動・履歴・現在の脅威に基づき、見直し可能にする。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "比例原則",
+      "scope": [
+        "顧客接点・感情労働・第三者危害"
+      ],
+      "sources": [
+        "ilo-r206",
+        "japan-disability-act"
+      ],
+      "limits": [
+        "緊急時を除き理由・期間・再審査",
+        "差別監査"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C60",
+      "claim": "対応停止や退避時も、周囲の顧客、患者、子ども、同僚、委託先の安全と必要なサービス継続を計画する。",
+      "label": "実務原則",
+      "directness": "予防原則に基づく推論",
+      "relationship": "第三者保護",
+      "scope": [
+        "顧客接点・感情労働・第三者危害"
+      ],
+      "sources": [
+        "osha-workplace-violence",
+        "japan-osh-act"
+      ],
+      "limits": [
+        "業種別緊急責任",
+        "代替手段を用意"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C61",
+      "claim": "医療・介護、行政、教育、交通、小売、宿泊、金融、コールセンター等で危険、権利、サービス拒否可能性が異なるため、共通方針に業種別手順を加える。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "業種別設計",
+      "scope": [
+        "顧客接点・感情労働・第三者危害"
+      ],
+      "sources": [
+        "mhlw-customer-manual",
+        "ilo-r206"
+      ],
+      "limits": [
+        "一律対応を避ける",
+        "専門職倫理・公法を確認"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C62",
+      "claim": "夜間・単独勤務、訪問、現金、酒類、薬物、待機列、閉鎖空間等を高リスク状況として設備・要員・連絡を設計する。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "状況リスク",
+      "scope": [
+        "顧客接点・感情労働・第三者危害"
+      ],
+      "sources": [
+        "leblanc-kelloway-2002",
+        "osha-workplace-violence"
+      ],
+      "limits": [
+        "属性プロファイリングにしない",
+        "地域・業種別評価"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C63",
+      "claim": "在宅勤務者への電話・チャット攻撃でも、自宅情報、私物端末、勤務外連絡を守り、切断・転送・記録・支援を可能にする。",
+      "label": "実務原則",
+      "directness": "予防原則に基づく推論",
+      "relationship": "遠隔対応",
+      "scope": [
+        "顧客接点・感情労働・第三者危害"
+      ],
+      "sources": [
+        "kellogg-2020",
+        "japan-appi"
+      ],
+      "limits": [
+        "私生活監視を避ける",
+        "録音・ログの適法性"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C64",
+      "claim": "顧客評価で仕事配分・報酬・停止を自動化する場合、報復評価、偏り、文脈欠落、異議・人による再審査を監査する。",
+      "label": "A",
+      "directness": "デジタル労働隣接研究",
+      "relationship": "プラットフォーム評価",
+      "scope": [
+        "顧客接点・感情労働・第三者危害"
+      ],
+      "sources": [
+        "wood-2019",
+        "kellogg-2020"
+      ],
+      "limits": [
+        "顧客ハラスメント直接研究ではない",
+        "製品・契約変化"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C65",
+      "claim": "派遣、委託、フリーランス、取引先常駐者を相談・退避・情報共有・再発防止から排除しない。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "非典型雇用",
+      "scope": [
+        "顧客接点・感情労働・第三者危害"
+      ],
+      "sources": [
+        "japan-act-63-2025",
+        "ilo-c190"
+      ],
+      "limits": [
+        "国内法の労働者性・特定受託制度を確認",
+        "発注者間協力"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C66",
+      "claim": "若年者、女性、障害者、移民・少数言語話者、低権限・不安定雇用者に感情労働・顧客危害が偏らないか交差的に監査する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "曝露格差",
+      "scope": [
+        "顧客接点・感情労働・第三者危害"
+      ],
+      "sources": [
+        "kern-grandey-2009",
+        "gettman-gelfand-2007",
+        "ilo-c190"
+      ],
+      "limits": [
+        "属性の本質化を避ける",
+        "少人数保護"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C67",
+      "claim": "労働者と顧客双方に、通訳、読みやすい情報、代替通信、支援者同席等を用意し、誤解を減らしつつ危害の境界は維持する。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "言語・障害配慮",
+      "scope": [
+        "顧客接点・感情労働・第三者危害"
+      ],
+      "sources": [
+        "japan-disability-act",
+        "tokyo-customer-guideline"
+      ],
+      "limits": [
+        "安全上不可能な配慮は代替を検討",
+        "個別対話"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C68",
+      "claim": "本人が正式申告を望まない場合でも、守秘の限界、緊急時例外、匿名相談、記録しない相談、後からの申告を説明する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "相談の選択",
+      "scope": [
+        "顧客接点・感情労働・第三者危害"
+      ],
+      "sources": [
+        "cortina-magley-2003",
+        "ilo-r206"
+      ],
+      "limits": [
+        "法定報告義務・緊急危険を確認",
+        "同意と安全の緊張"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C69",
+      "claim": "集計では、接点数、業務時間、媒体、行為種類、重大度、反復、対応、影響、欠測を付け、単純件数を部署ランキングにしない。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "曝露調整",
+      "scope": [
+        "顧客接点・感情労働・第三者危害"
+      ],
+      "sources": [
+        "dormann-zapf-2004",
+        "japan-appi"
+      ],
+      "limits": [
+        "少人数セル保護",
+        "報告行動の差"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C70",
+      "claim": "報告件数の少なさを安全とみなさず、報復懸念、相談アクセス、定義理解、顧客配分、欠勤・離職と併読する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "過少報告",
+      "scope": [
+        "顧客接点・感情労働・第三者危害"
+      ],
+      "sources": [
+        "cortina-magley-2003",
+        "leblanc-kelloway-2002"
+      ],
+      "limits": [
+        "匿名調査の限界",
+        "件数増は信頼向上の場合もある"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C71",
+      "claim": "未遂、ヒヤリ、対応停止、同僚介入、顧客同士の危害も、本人同意と最小限データで学習対象にする。",
+      "label": "実務原則",
+      "directness": "サービス風土隣接研究",
+      "relationship": "先行指標",
+      "scope": [
+        "顧客接点・感情労働・第三者危害"
+      ],
+      "sources": [
+        "nahrgang-2011",
+        "mhlw-customer-manual"
+      ],
+      "limits": [
+        "監視文化にしない",
+        "処罰より予防学習"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C72",
+      "claim": "重大度は暴力の有無だけでなく、脅威、差別・性、拘束時間、反復、追跡、公開範囲、権力差、健康影響で記述する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "重大度指標",
+      "scope": [
+        "顧客接点・感情労働・第三者危害"
+      ],
+      "sources": [
+        "yagil-2008",
+        "lanctot-guay-2014"
+      ],
+      "limits": [
+        "加算点だけで自動決定しない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C73",
+      "claim": "対策成果は発生率だけでなく、退避時間、支援到達、再発、傷害、心理健康、休業、離職、顧客の正当な問題解決を追う。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "多次元成果",
+      "scope": [
+        "顧客接点・感情労働・第三者危害"
+      ],
+      "sources": [
+        "wassell-2009",
+        "who-mental-health-2022"
+      ],
+      "limits": [
+        "因果評価の限界",
+        "負の外部性を確認"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C74",
+      "claim": "顧客満足・NPS・レビューと、ハラスメント・安全・労働者健康データを分離し、前者で後者を相殺しない。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "指標分離",
+      "scope": [
+        "顧客接点・感情労働・第三者危害"
+      ],
+      "sources": [
+        "schneider-1998",
+        "kellogg-2020"
+      ],
+      "limits": [
+        "指標操作・選択偏り",
+        "個人ランキングを避ける"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C75",
+      "claim": "顧客からの正当な苦情・不便のデータは、従業員への責任追及だけでなく、製品、方針、権限、情報、アクセシビリティ改善へ戻す。",
+      "label": "実務原則",
+      "directness": "サービス風土隣接研究",
+      "relationship": "サービス改善",
+      "scope": [
+        "顧客接点・感情労働・第三者危害"
+      ],
+      "sources": [
+        "bowen-schneider-2014",
+        "tokyo-customer-guideline"
+      ],
+      "limits": [
+        "危害を正当化しない",
+        "従業員の発言を含める"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C76",
+      "claim": "方針・閾値・対応・再開条件の設計に、前線従業員、労働者代表、障害当事者・利用者、法務・安全・サービス担当を参加させる。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "共同設計",
+      "scope": [
+        "顧客接点・感情労働・第三者危害"
+      ],
+      "sources": [
+        "ilo-r206",
+        "tokyo-customer-guideline"
+      ],
+      "limits": [
+        "参加を承認儀礼にしない",
+        "反対意見を記録"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C77",
+      "claim": "取引先・施設管理者・プラットフォーム・委託元との契約に、通報、情報共有、対応停止、再発防止、費用・責任分担を定める。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "組織間協力",
+      "scope": [
+        "顧客接点・感情労働・第三者危害"
+      ],
+      "sources": [
+        "japan-act-63-2025",
+        "ilo-c190"
+      ],
+      "limits": [
+        "個人情報・守秘・労働者性を確認"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C78",
+      "claim": "利用制限・契約解除・入店禁止は、具体的根拠、範囲、期間、通知、例外、再審査を設け、恒久ブラックリストを避ける。",
+      "label": "実務原則",
+      "directness": "予防原則に基づく推論",
+      "relationship": "利用制限の適正手続",
+      "scope": [
+        "顧客接点・感情労働・第三者危害"
+      ],
+      "sources": [
+        "tokyo-customer-guideline",
+        "japan-appi"
+      ],
+      "limits": [
+        "緊急時の即時措置は別",
+        "公共サービス・差別法を確認"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C79",
+      "claim": "録音・録画・通話分析は、目的、必要性、通知、アクセス、保存、二次利用、削除、従業員監視への転用を統治する。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "記録技術",
+      "scope": [
+        "顧客接点・感情労働・第三者危害"
+      ],
+      "sources": [
+        "japan-appi",
+        "kellogg-2020"
+      ],
+      "limits": [
+        "適法性・労使協議を確認",
+        "常時監視の萎縮効果"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C80",
+      "claim": "顧客・従業員の個人情報は、危険対応に必要な最小限を分離保管し、接客評価・営業・採用へ流用しない。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "データ最小化",
+      "scope": [
+        "顧客接点・感情労働・第三者危害"
+      ],
+      "sources": [
+        "japan-appi",
+        "ilo-c190"
+      ],
+      "limits": [
+        "法定保存・本人権利を確認"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C81",
+      "claim": "AIによる暴言・感情・危険検知を単独の停止・通報根拠にせず、誤検知、方言・障害・言語差、文脈、人の確認、異議を検証する。",
+      "label": "実務原則",
+      "directness": "デジタル労働隣接研究",
+      "relationship": "自動検知",
+      "scope": [
+        "顧客接点・感情労働・第三者危害"
+      ],
+      "sources": [
+        "kellogg-2020",
+        "japan-disability-act"
+      ],
+      "limits": [
+        "直接妥当性研究が限定",
+        "緊急時の補助と最終判断を分ける"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C82",
+      "claim": "生成AIの応答支援は、虚偽説明、権限超過、個人情報入力、顧客への非開示、従業員の自動評価を防ぐ。",
+      "label": "実務原則",
+      "directness": "予防原則に基づく推論",
+      "relationship": "AI応答支援",
+      "scope": [
+        "顧客接点・感情労働・第三者危害"
+      ],
+      "sources": [
+        "kellogg-2020",
+        "japan-appi"
+      ],
+      "limits": [
+        "技術変化が速い",
+        "専門業務・説明責任を確認"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C83",
+      "claim": "公開方針は、正当な申出を歓迎しつつ、許容しない行為、対応手順、合理的配慮、緊急連絡、プライバシー、見直しを示す。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "対外公開",
+      "scope": [
+        "顧客接点・感情労働・第三者危害"
+      ],
+      "sources": [
+        "mhlw-customer-manual",
+        "mhlw-customer-guideline-2026",
+        "tokyo-customer-ordinance"
+      ],
+      "limits": [
+        "威圧的掲示だけにしない",
+        "多言語・アクセス可能にする"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C84",
+      "claim": "令和7年法律第63号による事業主のカスタマーハラスメント防止措置義務は2026年10月1日に施行され、厚生労働省告示第51号の指針は2026年2月26日に公布済みである。",
+      "label": "A",
+      "directness": "公式指針・制度",
+      "relationship": "日本法の現行性",
+      "scope": [
+        "顧客接点・感情労働・第三者危害"
+      ],
+      "sources": [
+        "mhlw-harassment-policy-2026",
+        "mhlw-customer-guideline-2026",
+        "japan-act-63-2025",
+        "japan-labor-policy-act"
+      ],
+      "limits": [
+        "2026-07-12時点では施行前",
+        "施行後の改定・通達・Q&A・個別適用を更新"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C85",
+      "claim": "東京都条例は都内の各主体へ防止を求める枠組みとして読み、個別事案の違法性や一律のサービス拒否権を自動的に決めるものとしない。",
+      "label": "A",
+      "directness": "公式指針・制度",
+      "relationship": "東京都条例の範囲",
+      "scope": [
+        "顧客接点・感情労働・第三者危害"
+      ],
+      "sources": [
+        "tokyo-customer-ordinance",
+        "tokyo-customer-guideline"
+      ],
+      "limits": [
+        "罰則のない条例",
+        "国法・契約・業務責任を併読"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C86",
+      "claim": "ILO C190・R206は仕事の世界を広く捉える国際基準として利用し、批准・国内実施を確認せず日本の直接適用法とは表示しない。",
+      "label": "A",
+      "directness": "公式指針・制度",
+      "relationship": "国際基準の範囲",
+      "scope": [
+        "顧客接点・感情労働・第三者危害"
+      ],
+      "sources": [
+        "ilo-c190",
+        "ilo-r206"
+      ],
+      "limits": [
+        "批准状況・国内法を確認",
+        "比較原典"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C87",
+      "claim": "顧客の正当な異議を保障することと、労働者を暴力・ハラスメントから守ることを二者択一にしない。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "権利の両立",
+      "scope": [
+        "顧客接点・感情労働・第三者危害"
+      ],
+      "sources": [
+        "tokyo-customer-guideline",
+        "ilo-c190",
+        "japan-disability-act"
+      ],
+      "limits": [
+        "事案ごとの比例・代替・救済"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C88",
+      "claim": "行政・医療・介護・教育など退出しにくい公共的サービスでは、担当者保護とサービス継続を分け、交代・別室・予約・代理・専門窓口を設計する。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "公共的サービス",
+      "scope": [
+        "顧客接点・感情労働・第三者危害"
+      ],
+      "sources": [
+        "mhlw-customer-manual",
+        "japan-disability-act"
+      ],
+      "limits": [
+        "法定義務・緊急性・専門職倫理を確認"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C89",
+      "claim": "事後の反応を「PTSD」「適応障害」等と管理職が診断せず、本人の困りごと、安全、就業調整、専門支援への希望を確認する。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "非診断的支援",
+      "scope": [
+        "顧客接点・感情労働・第三者危害"
+      ],
+      "sources": [
+        "lanctot-guay-2014",
+        "who-mental-health-2022"
+      ],
+      "limits": [
+        "診断・治療は専門家",
+        "本人の選択と守秘"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C90",
+      "claim": "良い顧客対応制度とは、従業員に感情を隠させ続けることではなく、正当な問題解決と尊重あるサービスを保ちながら、危害を予防し、停止・支援・訂正できる仕組みである。",
+      "label": "実務原則",
+      "directness": "混合",
+      "relationship": "完成原則",
+      "scope": [
+        "顧客接点・感情労働・第三者危害"
+      ],
+      "sources": [
+        "grandey-gabriel-2015",
+        "mhlw-customer-manual",
+        "ilo-c190",
+        "tokyo-customer-guideline"
+      ],
+      "limits": [
+        "無危害を保証しない",
+        "継続監査・更新が必要"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C91",
+      "claim": "感情労働は笑顔・親しさだけでなく、平静、厳格さ、悲しみ、権威、悪い知らせの伝達等を求める仕事にも生じる。",
+      "label": "A",
+      "directness": "感情労働直接研究",
+      "relationship": "感情要求の多様性",
+      "scope": [
+        "顧客接点・感情労働・第三者危害"
+      ],
+      "sources": [
+        "morris-feldman-1996",
+        "brotheridge-lee-2003"
+      ],
+      "limits": [
+        "職業・文化・場面で適切な表出が異なる",
+        "感情種類を善悪評価にしない"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C92",
+      "claim": "従業員の差別、暴力、誤説明、権限濫用等を訴える申出は、公正に調査し、カスハラ方針で自動的に退けない。",
+      "label": "実務原則",
+      "directness": "公式指針・制度",
+      "relationship": "従業員行為への正当な苦情",
+      "scope": [
+        "顧客接点・感情労働・第三者危害"
+      ],
+      "sources": [
+        "mhlw-customer-guideline-2026",
+        "tokyo-customer-guideline",
+        "japan-disability-act"
+      ],
+      "limits": [
+        "申出方法の危害は別評価",
+        "相談者・被申立人双方の適正手続と安全"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "C93",
+      "claim": "このナビでの感情労働は主に有償労働の職務要求を指し、家庭内のケア、段取り、関係維持等を含む日常語の広い用法とは区別して表示する。",
+      "label": "実務原則",
+      "directness": "感情労働直接研究",
+      "relationship": "用語の射程",
+      "scope": [
+        "顧客接点・感情労働・第三者危害"
+      ],
+      "sources": [
+        "grandey-gabriel-2015",
+        "wharton-1993"
+      ],
+      "limits": [
+        "無償・家庭内労働の価値を否定しない",
+        "引用時に定義を添える"
+      ],
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    }
+  ]
+}

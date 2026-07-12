@@ -1,0 +1,532 @@
+{
+  "name": "採用・選抜・オンボーディング・組織社会化 用語集",
+  "version": "0.1",
+  "license": "CC BY 4.0",
+  "terms": [
+    {
+      "id": "recruitment",
+      "term": "募集・採用",
+      "definition": "仕事を知らせ、応募者を集め、相互に選択し、雇用へつなぐ過程。"
+    },
+    {
+      "id": "selection",
+      "term": "選抜",
+      "definition": "職務関連証拠を用いて応募者間・基準との適合を判断する過程。"
+    },
+    {
+      "id": "onboarding",
+      "term": "オンボーディング",
+      "definition": "入社前後に役割・資源・関係・仕事習熟への到達を支える過程。"
+    },
+    {
+      "id": "organizational-socialization",
+      "term": "組織社会化",
+      "definition": "新人と組織が役割・規範・関係を学び相互調整する過程。"
+    },
+    {
+      "id": "job-analysis",
+      "term": "職務分析",
+      "definition": "仕事の課題、責任、知識、技能、条件、文脈を体系的に調べること。"
+    },
+    {
+      "id": "work-analysis",
+      "term": "仕事分析",
+      "definition": "変化・相互依存・将来を含め仕事を広く分析すること。"
+    },
+    {
+      "id": "job-description",
+      "term": "職務記述",
+      "definition": "仕事の目的、責任、課題、条件等を記した文書。"
+    },
+    {
+      "id": "person-specification",
+      "term": "人材要件",
+      "definition": "仕事遂行に必要な知識、技能、能力、その他特性。"
+    },
+    {
+      "id": "competency",
+      "term": "コンピテンシー",
+      "definition": "一定の成果に関係する行動・能力の記述。曖昧語に注意。"
+    },
+    {
+      "id": "job-relatedness",
+      "term": "職務関連性",
+      "definition": "評価内容が実際の仕事・要件と結び付く程度。"
+    },
+    {
+      "id": "criterion",
+      "term": "基準",
+      "definition": "選抜手法の妥当性を評価する業績・行動等の結果指標。"
+    },
+    {
+      "id": "criterion-contamination",
+      "term": "基準汚染",
+      "definition": "基準が評価者偏りや選抜手法と無関係な要因を含むこと。"
+    },
+    {
+      "id": "criterion-deficiency",
+      "term": "基準欠損",
+      "definition": "重要な職務成果が基準から抜けること。"
+    },
+    {
+      "id": "predictor",
+      "term": "予測子",
+      "definition": "将来の職務結果を予測するためのテスト・面接等の情報。"
+    },
+    {
+      "id": "predictive-validity",
+      "term": "予測妥当性",
+      "definition": "選抜得点が後の職務結果と関係する程度。"
+    },
+    {
+      "id": "criterion-validity",
+      "term": "基準関連妥当性",
+      "definition": "予測子と外部基準との関連に基づく妥当性。"
+    },
+    {
+      "id": "construct-validity",
+      "term": "構成概念妥当性",
+      "definition": "測定が意図した心理・能力概念を捉える程度。"
+    },
+    {
+      "id": "content-validity",
+      "term": "内容妥当性",
+      "definition": "評価内容が職務内容を代表する程度。"
+    },
+    {
+      "id": "incremental-validity",
+      "term": "増分妥当性",
+      "definition": "既存情報を超えて追加される予測情報。"
+    },
+    {
+      "id": "reliability",
+      "term": "信頼性",
+      "definition": "測定が一貫した結果を与える程度。"
+    },
+    {
+      "id": "range-restriction",
+      "term": "範囲制限",
+      "definition": "選抜後標本で得点幅が狭まり関連推定が変わること。"
+    },
+    {
+      "id": "base-rate",
+      "term": "基礎率",
+      "definition": "対象集団で成功等がもともと生じる割合。"
+    },
+    {
+      "id": "selection-ratio",
+      "term": "選抜率",
+      "definition": "応募者のうち採用される割合。"
+    },
+    {
+      "id": "false-positive",
+      "term": "誤採用",
+      "definition": "基準を満たすと予測したが実際には満たさない判断。"
+    },
+    {
+      "id": "false-negative",
+      "term": "誤棄却",
+      "definition": "基準を満たさないと予測したが実際には満たし得た判断。"
+    },
+    {
+      "id": "structured-interview",
+      "term": "構造化面接",
+      "definition": "質問、追質問、採点、評価手続を事前に標準化した面接。"
+    },
+    {
+      "id": "unstructured-interview",
+      "term": "非構造化面接",
+      "definition": "質問・進行・採点が面接者の裁量に大きく依存する面接。"
+    },
+    {
+      "id": "behavioral-question",
+      "term": "行動面接質問",
+      "definition": "過去の具体的行動・状況・結果を尋ねる質問。"
+    },
+    {
+      "id": "situational-question",
+      "term": "状況面接質問",
+      "definition": "仮想の職務状況でどう対応するかを尋ねる質問。"
+    },
+    {
+      "id": "behavior-anchor",
+      "term": "行動アンカー",
+      "definition": "評価尺度の水準を具体的な行動例で示すもの。"
+    },
+    {
+      "id": "independent-rating",
+      "term": "独立採点",
+      "definition": "評価者同士の相談前に各自が証拠を採点すること。"
+    },
+    {
+      "id": "work-sample",
+      "term": "職務サンプル",
+      "definition": "実際または模擬の職務課題を遂行させる選抜手法。"
+    },
+    {
+      "id": "situational-judgment-test",
+      "term": "状況判断テスト",
+      "definition": "職務状況への対応選択・評価を求めるテスト。"
+    },
+    {
+      "id": "cognitive-ability-test",
+      "term": "認知能力検査",
+      "definition": "推論、言語、数量等の認知能力を測る検査。"
+    },
+    {
+      "id": "personality-test",
+      "term": "性格検査",
+      "definition": "比較的持続する行動・感情傾向を測る検査。"
+    },
+    {
+      "id": "integrity-test",
+      "term": "誠実性検査",
+      "definition": "規範遵守・反生産行動等に関する傾向を測る選抜検査。"
+    },
+    {
+      "id": "biodata",
+      "term": "バイオデータ",
+      "definition": "過去の経験・行動・経歴に関する構造化情報。"
+    },
+    {
+      "id": "mechanical-combination",
+      "term": "機械的統合",
+      "definition": "事前に定めた数式・規則で複数情報を統合すること。"
+    },
+    {
+      "id": "clinical-combination",
+      "term": "臨床的統合",
+      "definition": "評価者の総合判断で複数情報を統合すること。"
+    },
+    {
+      "id": "cut-score",
+      "term": "合格基準点",
+      "definition": "選抜上の通過・不通過を分ける得点。"
+    },
+    {
+      "id": "multiple-hurdle",
+      "term": "多段階選抜",
+      "definition": "各段階の基準を順に通過させる方式。"
+    },
+    {
+      "id": "compensatory-model",
+      "term": "補償型モデル",
+      "definition": "ある予測子の低さを別の高さで補える統合方式。"
+    },
+    {
+      "id": "adverse-impact",
+      "term": "不利な影響",
+      "definition": "一見中立な手続が特定集団へ不均衡な不利益を与えること。"
+    },
+    {
+      "id": "subgroup-difference",
+      "term": "群間差",
+      "definition": "定義した集団間の平均得点・通過等の差。"
+    },
+    {
+      "id": "intersectionality",
+      "term": "交差性",
+      "definition": "複数の属性・権力関係が交差して固有の経験を生むこと。"
+    },
+    {
+      "id": "reasonable-accommodation",
+      "term": "合理的配慮",
+      "definition": "障壁を除くため必要かつ適切な変更・調整。"
+    },
+    {
+      "id": "alternative-assessment",
+      "term": "代替評価",
+      "definition": "同じ職務要件を別の形式・媒体で評価する方法。"
+    },
+    {
+      "id": "applicant-reaction",
+      "term": "応募者反応",
+      "definition": "選抜手続への公正、有用性、尊重、魅力等の反応。"
+    },
+    {
+      "id": "selection-fairness",
+      "term": "選抜公正",
+      "definition": "職務関連性、一貫性、情報、発言、尊重、訂正等を含む公正。"
+    },
+    {
+      "id": "procedural-justice",
+      "term": "手続的公正",
+      "definition": "判断手続が一貫、偏り抑制、正確、訂正可能等であること。"
+    },
+    {
+      "id": "explanation",
+      "term": "説明",
+      "definition": "手続、基準、結果、理由を理解可能な形で示すこと。"
+    },
+    {
+      "id": "appeal",
+      "term": "不服申立て",
+      "definition": "決定の見直しを別の権限者・機関へ求める手続。"
+    },
+    {
+      "id": "recruitment-source",
+      "term": "募集源",
+      "definition": "求人媒体、紹介、学校、紹介会社等の応募者への到達経路。"
+    },
+    {
+      "id": "applicant-pool",
+      "term": "応募者プール",
+      "definition": "一定求人へ応募・検討する候補者の集合。"
+    },
+    {
+      "id": "self-selection",
+      "term": "自己選択",
+      "definition": "情報を得た候補者が応募・入社・辞退を選ぶこと。"
+    },
+    {
+      "id": "realistic-job-preview",
+      "term": "現実的職務情報",
+      "definition": "仕事の良い面と難しい面を具体的・均衡的に伝えること。"
+    },
+    {
+      "id": "employer-brand",
+      "term": "雇用主ブランド",
+      "definition": "働く場として組織に結び付けられた知識・印象。"
+    },
+    {
+      "id": "employer-branding",
+      "term": "雇用主ブランディング",
+      "definition": "雇用主としての特徴を形成・伝達する活動。"
+    },
+    {
+      "id": "employee-referral",
+      "term": "従業員紹介",
+      "definition": "現従業員等の紹介を経由した募集・応募。"
+    },
+    {
+      "id": "social-capital",
+      "term": "社会関係資本",
+      "definition": "関係ネットワークから得られる情報・支援・機会。"
+    },
+    {
+      "id": "background-check",
+      "term": "背景確認",
+      "definition": "犯罪歴、資格、職歴等を照合する手続。"
+    },
+    {
+      "id": "reference-check",
+      "term": "照会",
+      "definition": "過去の雇用主等から職務関連情報を得る手続。"
+    },
+    {
+      "id": "social-media-screening",
+      "term": "SNS選考",
+      "definition": "SNS上の情報を採用判断に利用すること。"
+    },
+    {
+      "id": "candidate-experience",
+      "term": "候補者体験",
+      "definition": "募集・選抜を通じた応募者の経験。"
+    },
+    {
+      "id": "ghosting",
+      "term": "ゴースティング",
+      "definition": "連絡・説明なく採用過程の応答を止めること。"
+    },
+    {
+      "id": "offer",
+      "term": "内定・オファー",
+      "definition": "雇用条件を示して採用意思を伝えること。"
+    },
+    {
+      "id": "pay-range",
+      "term": "賃金範囲",
+      "definition": "職務・等級等に予定される賃金の幅。"
+    },
+    {
+      "id": "preboarding",
+      "term": "プレボーディング",
+      "definition": "内定後から入社前までの情報・準備・関係形成。"
+    },
+    {
+      "id": "probation",
+      "term": "試用期間",
+      "definition": "適格性等を確認するため設定される雇用初期期間。"
+    },
+    {
+      "id": "newcomer",
+      "term": "新入者",
+      "definition": "新たに組織・役割へ入った人。"
+    },
+    {
+      "id": "role-clarity",
+      "term": "役割明確性",
+      "definition": "期待、責任、優先順位、評価基準を理解している程度。"
+    },
+    {
+      "id": "task-mastery",
+      "term": "課題習熟",
+      "definition": "仕事の課題を遂行できる知識・技能を獲得した程度。"
+    },
+    {
+      "id": "social-acceptance",
+      "term": "社会的受容",
+      "definition": "同僚・集団から受け入れられ関係へ参加できる程度。"
+    },
+    {
+      "id": "self-efficacy",
+      "term": "自己効力感",
+      "definition": "特定課題を遂行できるという信念。"
+    },
+    {
+      "id": "socialization-tactics",
+      "term": "社会化戦術",
+      "definition": "新人の経験・学習・役割形成を組織が構造化する方法。"
+    },
+    {
+      "id": "institutionalized-tactics",
+      "term": "制度化戦術",
+      "definition": "集団的・公式・順序的・固定的・支援的な社会化戦術。"
+    },
+    {
+      "id": "individualized-tactics",
+      "term": "個別化戦術",
+      "definition": "個別的・非公式・可変的な社会化戦術。"
+    },
+    {
+      "id": "information-seeking",
+      "term": "情報探索",
+      "definition": "新人が仕事・役割・関係等の情報を求める行動。"
+    },
+    {
+      "id": "feedback-seeking",
+      "term": "フィードバック探索",
+      "definition": "自分の仕事・行動への評価情報を求める行動。"
+    },
+    {
+      "id": "proactive-socialization",
+      "term": "プロアクティブ社会化",
+      "definition": "新人が情報・関係・仕事変更へ能動的に働きかけること。"
+    },
+    {
+      "id": "buddy",
+      "term": "バディ",
+      "definition": "新人の日常的な質問・関係形成を支える同僚役割。"
+    },
+    {
+      "id": "mentor",
+      "term": "メンター",
+      "definition": "経験・キャリア・心理社会的支援を提供する関係者。"
+    },
+    {
+      "id": "organizational-entry",
+      "term": "組織参入",
+      "definition": "応募・内定から入社後調整までの移行過程。"
+    },
+    {
+      "id": "newcomer-adjustment",
+      "term": "新人調整",
+      "definition": "役割明確性、自己効力、社会的受容、適合等が形成される過程・状態。"
+    },
+    {
+      "id": "psychological-contract",
+      "term": "心理的契約",
+      "definition": "本人が組織との間に信じる相互義務・約束。"
+    },
+    {
+      "id": "psychological-contract-breach",
+      "term": "心理的契約違反知覚",
+      "definition": "組織が約束を果たしていないという本人の認知。"
+    },
+    {
+      "id": "early-turnover",
+      "term": "早期離職",
+      "definition": "入社後比較的短期間に離職すること。期間定義が必要。"
+    },
+    {
+      "id": "algorithmic-hiring",
+      "term": "アルゴリズム採用",
+      "definition": "アルゴリズムが募集・選抜・判断を支援・自動化すること。"
+    },
+    {
+      "id": "automated-interview",
+      "term": "自動面接",
+      "definition": "システムが質問提示、記録、分析、採点等を行う面接。"
+    },
+    {
+      "id": "training-data",
+      "term": "訓練データ",
+      "definition": "モデルの規則・パラメータ学習に使うデータ。"
+    },
+    {
+      "id": "label-bias",
+      "term": "ラベル偏り",
+      "definition": "正解として使う評価・結果に既存の偏りが含まれること。"
+    },
+    {
+      "id": "proxy-variable",
+      "term": "代理変数",
+      "definition": "直接使わない属性等と関連して代わりに作用する変数。"
+    },
+    {
+      "id": "automation-bias",
+      "term": "自動化バイアス",
+      "definition": "自動出力を過度に信頼・追認する傾向。"
+    },
+    {
+      "id": "human-review",
+      "term": "人による再審査",
+      "definition": "権限ある人が証拠・異議を検討し判断を変更できる手続。"
+    },
+    {
+      "id": "model-version",
+      "term": "モデル版",
+      "definition": "特定時点のモデル仕様・重み・データの版。"
+    },
+    {
+      "id": "drift",
+      "term": "ドリフト",
+      "definition": "時間とともにデータ・仕事・モデル性能が変化すること。"
+    },
+    {
+      "id": "purpose-limitation",
+      "term": "目的限定",
+      "definition": "収集データを示した目的以外へ使わない原則。"
+    },
+    {
+      "id": "data-minimization",
+      "term": "データ最小化",
+      "definition": "目的に必要な範囲だけデータを収集・保持する原則。"
+    },
+    {
+      "id": "retention-period",
+      "term": "保存期間",
+      "definition": "データを保持する期間。目的・法的根拠に応じ設定。"
+    },
+    {
+      "id": "small-cell-protection",
+      "term": "少人数セル保護",
+      "definition": "集計から個人を再特定できないようにする措置。"
+    },
+    {
+      "id": "open-recruitment-data",
+      "term": "採用オープンデータ",
+      "definition": "定義・段階・限界・保護を付して公開する集計採用データ。"
+    },
+    {
+      "id": "pay-history",
+      "term": "過去賃金",
+      "definition": "応募者が現在または過去の雇用で受けた賃金の履歴。"
+    },
+    {
+      "id": "internal-candidate",
+      "term": "社内候補者",
+      "definition": "社内公募、異動、昇格等を通じて既存組織内の職へ応募・検討される人。"
+    },
+    {
+      "id": "ai-assisted-application",
+      "term": "AI支援応募",
+      "definition": "応募者が文書作成、調査、翻訳、練習、課題等に生成AIを利用すること。"
+    },
+    {
+      "id": "recruitment-fraud",
+      "term": "求人・採用詐欺",
+      "definition": "実在しない仕事や他者へのなりすまし等により金銭・個人情報・労務を不正に得る行為。"
+    }
+  ]
+}

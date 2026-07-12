@@ -1,0 +1,231 @@
+{
+  "name": "1on1・上司部下面談 研究の質と限界",
+  "version": "0.1",
+  "notice": "簡易評価であり正式なRoB評価ではない。",
+  "assessments": [
+    {
+      "study_id": "flinchum-2022",
+      "design": "direct 1:1 conceptual review",
+      "strength": "1on1直接だが概念研究",
+      "directness": "1on1直接・概念",
+      "key_limits": [
+        "直接効果の実証研究ではない",
+        "命題と実務示唆を効果証明として扱わない"
+      ]
+    },
+    {
+      "study_id": "kluger-denisi-1996",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "隣接研究",
+      "key_limits": [
+        "1on1固有ではない",
+        "課題・研究設定が異質",
+        "平均効果を個別面談へ直結しない"
+      ]
+    },
+    {
+      "study_id": "gerstner-day-1997",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "隣接研究",
+      "key_limits": [
+        "1on1の効果ではない",
+        "関係の質と面談頻度を区別",
+        "自己報告の共通方法"
+      ]
+    },
+    {
+      "study_id": "cawley-1998",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "隣接研究",
+      "key_limits": [
+        "評価面談であり育成1on1ではない",
+        "反応と業績効果を区別"
+      ]
+    },
+    {
+      "study_id": "edmondson-1999",
+      "design": "team field study",
+      "strength": "隣接領域の概念・観察研究",
+      "directness": "隣接研究",
+      "key_limits": [
+        "チームレベル",
+        "1on1固有ではない",
+        "単独で因果確定しない"
+      ]
+    },
+    {
+      "study_id": "keeping-levy-2000",
+      "design": "measurement and field study",
+      "strength": "隣接領域の概念・観察研究",
+      "directness": "隣接研究",
+      "key_limits": [
+        "人事評価文脈",
+        "1on1固有ではない",
+        "自己報告"
+      ]
+    },
+    {
+      "study_id": "locke-latham-2002",
+      "design": "integrative theory review",
+      "strength": "隣接領域の概念・観察研究",
+      "directness": "隣接研究",
+      "key_limits": [
+        "1on1固有ではない",
+        "学習目標・複雑課題・倫理・目標葛藤に注意"
+      ]
+    },
+    {
+      "study_id": "smither-2005",
+      "design": "meta-analysis and review",
+      "strength": "統合研究",
+      "directness": "隣接研究",
+      "key_limits": [
+        "1on1固有ではない",
+        "多面評価",
+        "平均効果と個人差"
+      ]
+    },
+    {
+      "study_id": "detert-burris-2007",
+      "design": "multisource field study",
+      "strength": "隣接領域の概念・観察研究",
+      "directness": "隣接研究",
+      "key_limits": [
+        "観察研究",
+        "発言機会と実際に聞かれることを区別",
+        "1on1固有ではない"
+      ]
+    },
+    {
+      "study_id": "pulakos-2011",
+      "design": "evidence-informed conceptual review",
+      "strength": "隣接領域の概念・観察研究",
+      "directness": "隣接研究",
+      "key_limits": [
+        "1on1頻度の実験ではない",
+        "概念・実務レビュー"
+      ]
+    },
+    {
+      "study_id": "pichler-2012",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "隣接研究",
+      "key_limits": [
+        "評価反応が中心",
+        "1on1固有ではない",
+        "因果方向"
+      ]
+    },
+    {
+      "study_id": "anseel-2015",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "隣接研究",
+      "key_limits": [
+        "フィードバックを求める行動であり1on1効果ではない",
+        "観察研究中心"
+      ]
+    },
+    {
+      "study_id": "theeboom-2014",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "隣接研究",
+      "key_limits": [
+        "外部・専門コーチを含む",
+        "管理職1on1と同義でない",
+        "研究数・質の制約"
+      ]
+    },
+    {
+      "study_id": "morrison-2014",
+      "design": "integrative review",
+      "strength": "隣接領域の概念・観察研究",
+      "directness": "隣接研究",
+      "key_limits": [
+        "1on1固有ではない",
+        "voiceを引き出すことと応答することを区別"
+      ]
+    },
+    {
+      "study_id": "jones-2016",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "隣接研究",
+      "key_limits": [
+        "管理職—部下コーチングを明示的に除外",
+        "研究数17",
+        "1on1へ直接外挿できない"
+      ]
+    },
+    {
+      "study_id": "martin-2016",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "隣接研究",
+      "key_limits": [
+        "1on1の頻度・構造の効果ではない",
+        "因果方向",
+        "関係格差の倫理"
+      ]
+    },
+    {
+      "study_id": "frazier-2017",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "隣接研究",
+      "key_limits": [
+        "主にチーム研究",
+        "1on1固有ではない",
+        "因果確定ではない"
+      ]
+    },
+    {
+      "study_id": "kluger-itzchakov-2022",
+      "design": "integrative review",
+      "strength": "隣接領域の概念・観察研究",
+      "directness": "隣接研究",
+      "key_limits": [
+        "1on1固有ではない",
+        "傾聴の測定・文脈が異質",
+        "聞くことと同意を区別"
+      ]
+    },
+    {
+      "study_id": "cannon-bowers-2023",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "隣接研究",
+      "key_limits": [
+        "介入・コーチの異質性",
+        "管理職1on1固有でない",
+        "出版バイアス・研究品質"
+      ]
+    },
+    {
+      "study_id": "ilo-1997",
+      "design": "official code of practice",
+      "strength": "公式指針",
+      "directness": "公式指針・ガバナンス",
+      "key_limits": [
+        "拘束的条約ではない",
+        "国内法を別途確認",
+        "1997年文書"
+      ]
+    },
+    {
+      "study_id": "who-2022",
+      "design": "official evidence-based guideline",
+      "strength": "公式指針",
+      "directness": "公式指針・ガバナンス",
+      "key_limits": [
+        "1on1専用ではない",
+        "管理職面談を治療の代替にしない"
+      ]
+    }
+  ]
+}

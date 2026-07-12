@@ -1,0 +1,78 @@
+{
+  "name": "離職・定着 採用・除外記録",
+  "version": "0.1",
+  "screening": [
+    {
+      "id": "S01",
+      "decision": "include",
+      "reason": "古典的過程モデル",
+      "source": "mobley-1977"
+    },
+    {
+      "id": "S02",
+      "decision": "include",
+      "reason": "意向と実離職メタ分析",
+      "source": "steel-ovalle-1984"
+    },
+    {
+      "id": "S03",
+      "decision": "include",
+      "reason": "包括的予測因子メタ分析",
+      "source": "rubenstein-2018"
+    },
+    {
+      "id": "S04",
+      "decision": "include",
+      "reason": "ショック経路",
+      "source": "lee-mitchell-1994"
+    },
+    {
+      "id": "S05",
+      "decision": "include",
+      "reason": "埋め込みメタ分析",
+      "source": "jiang-2012"
+    },
+    {
+      "id": "S06",
+      "decision": "include",
+      "reason": "集団成果メタ分析",
+      "source": "park-shaw-2013"
+    },
+    {
+      "id": "S07",
+      "decision": "include",
+      "reason": "現実的職務情報",
+      "source": "phillips-1998"
+    },
+    {
+      "id": "S08",
+      "decision": "include",
+      "reason": "最新社会化メタ分析",
+      "source": "bauer-2024"
+    },
+    {
+      "id": "S09",
+      "decision": "include",
+      "reason": "日本の公的統計",
+      "source": "mhlw-2024"
+    },
+    {
+      "id": "S10",
+      "decision": "include",
+      "reason": "雇用AIの公式規制",
+      "source": "eu-ai-act-2024"
+    },
+    {
+      "id": "S11",
+      "decision": "exclude",
+      "reason": "意向を実離職として報告",
+      "source": "intention-as-turnover"
+    },
+    {
+      "id": "S12",
+      "decision": "exclude",
+      "reason": "検証不能な退職コスト倍率",
+      "source": "cost-multiplier"
+    }
+  ]
+}

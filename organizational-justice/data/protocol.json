@@ -1,0 +1,59 @@
+{
+  "name": "組織的公正迅速エビデンスマップ・プロトコル",
+  "version": "0.1",
+  "review_type": "公開前蓄積のための迅速エビデンスマップ（システマティックレビューではない）",
+  "research_questions": [
+    {
+      "id": "RQ1",
+      "question": "組織的公正をどう定義し、分配・手続き・対人・情報を区別するか。"
+    },
+    {
+      "id": "RQ2",
+      "question": "信頼、満足、コミットメント、協力、業績、離職・報復とどう関係するか。"
+    },
+    {
+      "id": "RQ3",
+      "question": "心理的不調、睡眠、身体健康と時間的にどう関係するか。"
+    },
+    {
+      "id": "RQ4",
+      "question": "尺度、日本語版、全体判断、多焦点、チーム集約をどう扱うか。"
+    },
+    {
+      "id": "RQ5",
+      "question": "研修、参加、説明、異議申立て等で何を改善できるか。"
+    },
+    {
+      "id": "RQ6",
+      "question": "公正認知で違法性・差別・客観格差・権力差を覆い隠さないため何を禁止するか。"
+    }
+  ],
+  "query_families": [
+    "\"organizational justice\" meta-analysis review",
+    "distributive procedural interpersonal informational justice measure",
+    "organizational justice health prospective systematic review",
+    "organizational justice intervention training field experiment",
+    "Japanese organizational justice questionnaire validation",
+    "organizational justice climate multifoci overall justice"
+  ],
+  "inclusion": [
+    "査読済み原著・統合研究",
+    "概念・測定の基礎文献",
+    "前向き・介入研究を優先",
+    "日本語尺度・日本の労働者研究",
+    "DOIまたは公的恒久URLを確認できる"
+  ],
+  "exclusion": [
+    "出典不明の従業員満足ランキング",
+    "fairnessと法的適法性を同一視する資料",
+    "尺度名・対象・次元が不明な調査",
+    "説明技法だけで不利益決定を正当化する宣伝資料"
+  ],
+  "process_limitations": [
+    "単一レビュアーによる迅速整理",
+    "データベース全件の二重スクリーニングではない",
+    "効果量の独自再計算・正式なバイアス評価は未実施",
+    "法的公正・差別法制の包括的レビューではない",
+    "非英語・未公刊研究の網羅性に限界"
+  ]
+}

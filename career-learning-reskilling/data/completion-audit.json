@@ -1,0 +1,72 @@
+{
+  "version": "0.1",
+  "release_decision": "完成条件を満たす（次分野へ移行可）",
+  "dimensions": [
+    {
+      "id": "training",
+      "status": "complete",
+      "evidence": "効果、ニーズ、設計、練習、媒体、評価"
+    },
+    {
+      "id": "transfer",
+      "status": "complete",
+      "evidence": "適用機会、支援、仕事設計、維持、失敗分析"
+    },
+    {
+      "id": "learning-methods",
+      "status": "complete",
+      "evidence": "能動学習、誤り管理、分散・想起、学習スタイル境界"
+    },
+    {
+      "id": "workplace-learning",
+      "status": "complete",
+      "evidence": "正式・非公式・偶発、文化、勤務時間、共同学習"
+    },
+    {
+      "id": "development-relations",
+      "status": "complete",
+      "evidence": "挑戦的配置、メンタリング、ネットワーク、コーチング"
+    },
+    {
+      "id": "career",
+      "status": "complete",
+      "evidence": "客観・主観成功、適応性、ショック、持続可能性、移動"
+    },
+    {
+      "id": "employability-fit",
+      "status": "complete",
+      "evidence": "雇用可能性、興味、適合、能動行動、仕事再設計"
+    },
+    {
+      "id": "equity-life-course",
+      "status": "complete",
+      "evidence": "契約・勤務・障害・ケア・年齢・実質アクセス"
+    },
+    {
+      "id": "reskilling-credentials",
+      "status": "complete",
+      "evidence": "需要接続、学習口座、資格、徒弟、OER"
+    },
+    {
+      "id": "data-ai",
+      "status": "complete",
+      "evidence": "スキル分類、推薦、秘密推定、目的限定、訂正・異議"
+    },
+    {
+      "id": "rights",
+      "status": "complete",
+      "evidence": "時間、報酬、安全、守秘、退出、相談・救済"
+    },
+    {
+      "id": "openness",
+      "status": "complete",
+      "evidence": "主張・研究・用語・採否・質・更新を公開"
+    }
+  ],
+  "remaining_non_blocking": [
+    "日本の企業内訓練・非正規雇用・訓練休暇の介入研究は追加可能",
+    "生成AIチューターとスキル推定の職場長期研究は発展途上",
+    "ミッドキャリア・高齢・障害・ケア・移民を交差的に扱う研究は今後の優先領域",
+    "資格・マイクロクレデンシャルが賃金・移動へ与える長期因果証拠は限定"
+  ]
+}

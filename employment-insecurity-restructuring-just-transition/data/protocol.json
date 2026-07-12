@@ -1,0 +1,73 @@
+{
+  "name": "雇用不安・組織再編・レイオフ・公正な移行 迅速エビデンスマップ・プロトコル",
+  "version": "0.1",
+  "review_type": "雇用不安、非自発的失職、再編過程、再就職支援、権利、公正な移行を分離した迅速エビデンスマップ",
+  "research_questions": [
+    {
+      "id": "RQ1",
+      "question": "雇用不安を客観的雇用状態、量的・質的、認知的・情動的側面からどう区別するか。"
+    },
+    {
+      "id": "RQ2",
+      "question": "雇用不安と健康、態度、業績、離職はどのように関連するか。"
+    },
+    {
+      "id": "RQ3",
+      "question": "ダウンサイジング、閉鎖、M&A、事業移転が離職者・残留者・組織へどう影響するか。"
+    },
+    {
+      "id": "RQ4",
+      "question": "失職は所得、健康、家族、地域へどのような中長期影響を持つか。"
+    },
+    {
+      "id": "RQ5",
+      "question": "解雇回避、協議、通知、選定、異議、補償、倒産保護の最低線は何か。"
+    },
+    {
+      "id": "RQ6",
+      "question": "再配置、訓練、求職支援、所得保障をどう設計・評価するか。"
+    },
+    {
+      "id": "RQ7",
+      "question": "AI・脱炭素・事業転換を、仕事の質と社会対話を含む公正な移行としてどう扱うか。"
+    },
+    {
+      "id": "RQ8",
+      "question": "属性・契約・地域間の負担移転、監視、自動選定、報復をどう防ぐか。"
+    }
+  ],
+  "query_families": [
+    "job insecurity meta-analysis health performance",
+    "job displacement earnings health mortality longitudinal",
+    "employee downsizing survivors meta review",
+    "organizational change recipients communication participation review",
+    "job search intervention active labor market policy meta-analysis",
+    "collective redundancy consultation termination employment ILO EU",
+    "just transition social dialogue skills social protection",
+    "AI jobs task exposure fair transition"
+  ],
+  "inclusion": [
+    "査読済み基礎・測定・統合研究",
+    "自然実験・登録データ・縦断研究",
+    "再就職支援・労働市場施策の比較研究",
+    "ILO、EU、日本等の公式制度原典",
+    "健康・所得・家族・地域への波及研究"
+  ],
+  "exclusion": [
+    "レイオフを株価だけで成功判定する資料",
+    "出典不明の削減効果・失職コスト倍率",
+    "雇用不安尺度を個人選別へ用いる資料",
+    "AI曝露を実際の失職確率として宣伝する資料",
+    "法域を示さない法的断定",
+    "有料支援会社の成功率広告"
+  ],
+  "process_limitations": [
+    "単一レビュアーによる迅速整理",
+    "代表文献と公的原典による非網羅整理",
+    "効果量の独自再計算・正式なバイアス評価は未実施",
+    "法的・医療的・財務的な個別助言ではない",
+    "ILO規範、EU法、日本法の法的地位・適用範囲を分離",
+    "失職影響研究の多くは歴史的な特定国・特定集団",
+    "公正な移行の直接介入研究は政策指針より少ない"
+  ]
+}

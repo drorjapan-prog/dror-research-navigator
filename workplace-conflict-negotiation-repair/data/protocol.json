@@ -1,0 +1,73 @@
+{
+  "name": "職場の対立・コンフリクト・交渉・関係修復 迅速エビデンスマップ・プロトコル",
+  "version": "0.1",
+  "review_type": "対立類型、交渉、第三者介入、危害対応、発言・通報、調査、修復を分離した迅速エビデンスマップ",
+  "research_questions": [
+    {
+      "id": "RQ1",
+      "question": "課題・関係・過程対立をどう区別し、成果との条件付き関係をどう読むか。"
+    },
+    {
+      "id": "RQ2",
+      "question": "交渉の情報交換、戦略、感情、アンカー、主観的価値は結果へどう関係するか。"
+    },
+    {
+      "id": "RQ3",
+      "question": "ジェンダー、地位、代表性、情報・権力差を交渉設計でどう扱うか。"
+    },
+    {
+      "id": "RQ4",
+      "question": "仲介・調停・あっせん・仲裁・調査はどの事案に適し、何を保証しないか。"
+    },
+    {
+      "id": "RQ5",
+      "question": "無礼、いじめ、ハラスメント、暴力、差別を通常の対立とどう分けるか。"
+    },
+    {
+      "id": "RQ6",
+      "question": "発言・沈黙・公益通報・労働者代表活動の安全と報復防止をどう設計するか。"
+    },
+    {
+      "id": "RQ7",
+      "question": "謝罪、補償、制裁、信頼修復、赦し、和解、修復的対話をどう区別するか。"
+    },
+    {
+      "id": "RQ8",
+      "question": "相談・調査データ、プライバシー、AI利用、公開性をどう統治するか。"
+    }
+  ],
+  "query_families": [
+    "task relationship process conflict meta-analysis team",
+    "negotiation cooperation competition meta-analysis information first offer emotion",
+    "gender negotiation outcomes meta-analysis backlash",
+    "workplace mediation grievance dispute resolution evidence",
+    "workplace bullying harassment incivility aggression meta-analysis",
+    "employee voice silence retaliation whistleblowing review",
+    "apology trust repair forgiveness restorative justice workplace",
+    "ILO violence harassment collective bargaining Japan labor dispute law"
+  ],
+  "inclusion": [
+    "査読済み基礎・測定・統合研究",
+    "チーム・交渉・調停の実験・職域研究",
+    "いじめ・ハラスメント・攻撃のメタ分析",
+    "発言・沈黙・通報・信頼修復の主要レビュー",
+    "ILO、Acas、日本の公式制度原典"
+  ],
+  "exclusion": [
+    "課題対立は常に創造性を上げると断定する資料",
+    "対立スタイルを固定人格診断にする資料",
+    "被害者へ対話・赦し・謝罪受領を強制する資料",
+    "ハラスメントを双方同程度のコミュニケーション問題とする資料",
+    "未検証の仲介成功率広告",
+    "相談データからトラブル人物をAI予測する資料"
+  ],
+  "process_limitations": [
+    "単一レビュアーによる迅速整理",
+    "代表文献と公式原典による非網羅整理",
+    "効果量の独自再計算・正式なバイアス評価は未実施",
+    "法的・医療的・危機対応上の個別助言ではない",
+    "実験交渉研究を実職場へ一般化する際に制約",
+    "修復的実践の職場直接介入研究は限定",
+    "ILO規範、日本法、英国コードの法的地位と適用範囲を分離"
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "name": "ワーク・エンゲージメント 用語集",
+  "version": "0.1",
+  "license": "CC BY 4.0",
+  "terms": [
+    {
+      "id": "work-engagement",
+      "term": "ワーク・エンゲージメント",
+      "definition": "仕事に関する活力・熱意・没頭を伴う肯定的で充実した状態。"
+    },
+    {
+      "id": "vigor",
+      "term": "活力",
+      "definition": "仕事中のエネルギー、努力、粘り強さ。"
+    },
+    {
+      "id": "dedication",
+      "term": "熱意",
+      "definition": "意義、誇り、挑戦、鼓舞される感覚。"
+    },
+    {
+      "id": "absorption",
+      "term": "没頭",
+      "definition": "仕事へ集中し深く入り込む状態。"
+    },
+    {
+      "id": "employee-engagement",
+      "term": "従業員エンゲージメント",
+      "definition": "実務・研究で複数の定義と指標が使われる上位語。"
+    },
+    {
+      "id": "job-engagement",
+      "term": "職務エンゲージメント",
+      "definition": "身体・認知・感情を役割遂行へ投入するKahn系の概念。"
+    },
+    {
+      "id": "job-satisfaction",
+      "term": "仕事満足",
+      "definition": "仕事をどの程度好ましく評価しているか。"
+    },
+    {
+      "id": "organizational-commitment",
+      "term": "組織コミットメント",
+      "definition": "組織との心理的結びつき。"
+    },
+    {
+      "id": "job-involvement",
+      "term": "仕事関与",
+      "definition": "自己概念における仕事の重要性。"
+    },
+    {
+      "id": "workaholism",
+      "term": "ワーカホリズム",
+      "definition": "過剰かつ強迫的に働く傾向。"
+    },
+    {
+      "id": "burnout",
+      "term": "バーンアウト",
+      "definition": "慢性的な職場ストレスに関係する消耗・距離等。"
+    },
+    {
+      "id": "job-demands",
+      "term": "仕事要求",
+      "definition": "持続的努力を要し心理・身体コストを伴う仕事の側面。"
+    },
+    {
+      "id": "job-resources",
+      "term": "仕事資源",
+      "definition": "目標達成、要求への対処、成長に役立つ仕事の側面。"
+    },
+    {
+      "id": "challenge-demand",
+      "term": "挑戦的要求",
+      "definition": "成長や達成の可能性を伴うと評価される要求。"
+    },
+    {
+      "id": "hindrance-demand",
+      "term": "阻害的要求",
+      "definition": "目標達成を妨げると評価される要求。"
+    },
+    {
+      "id": "jd-r",
+      "term": "JD-Rモデル",
+      "definition": "仕事要求と資源から健康障害・動機づけ過程を説明する枠組み。"
+    },
+    {
+      "id": "job-crafting",
+      "term": "ジョブ・クラフティング",
+      "definition": "本人が仕事の課題・関係・捉え方を調整すること。"
+    },
+    {
+      "id": "state-engagement",
+      "term": "状態エンゲージメント",
+      "definition": "時間や状況で変動する心理状態。"
+    },
+    {
+      "id": "trait-engagement",
+      "term": "特性エンゲージメント",
+      "definition": "関与しやすさに関する比較的安定した傾向。"
+    },
+    {
+      "id": "behavioral-engagement",
+      "term": "行動エンゲージメント",
+      "definition": "自発的努力や役割外行動として観察される側面。"
+    },
+    {
+      "id": "uwes",
+      "term": "UWES",
+      "definition": "活力・熱意・没頭を測るUtrecht Work Engagement Scale。"
+    },
+    {
+      "id": "uwes-3",
+      "term": "UWES-3",
+      "definition": "三側面を各1項目で捉える超短縮版。"
+    },
+    {
+      "id": "measurement-invariance",
+      "term": "測定不変性",
+      "definition": "集団間で尺度が同じ構造・意味で機能する程度。"
+    },
+    {
+      "id": "reverse-causality",
+      "term": "逆因果",
+      "definition": "結果とみなした変数が原因側へ影響する可能性。"
+    },
+    {
+      "id": "common-method-bias",
+      "term": "共通方法バイアス",
+      "definition": "同じ回答者・方法・時点により関連が歪むこと。"
+    },
+    {
+      "id": "longitudinal-study",
+      "term": "縦断研究",
+      "definition": "同じ対象等を複数時点で測り時間順序を調べる研究。"
+    },
+    {
+      "id": "intervention",
+      "term": "介入研究",
+      "definition": "意図した変更の前後や比較群から効果を検討する研究。"
+    }
+  ]
+}

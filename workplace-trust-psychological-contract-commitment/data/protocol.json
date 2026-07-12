@@ -1,0 +1,64 @@
+{
+  "name": "職場の信頼・心理的契約・組織コミットメント 迅速エビデンスマップ",
+  "version": "0.1",
+  "review_type": "信頼対象・信頼根拠・心理的契約・コミットメント形態・支援交換・修復・通報統治を分離した迅速エビデンスマップ",
+  "research_questions": [
+    {
+      "id": "RQ1",
+      "question": "誰を何について信頼するのか、信頼可能性・信頼・リスク行動をどう分けるか。"
+    },
+    {
+      "id": "RQ2",
+      "question": "心理的契約はどう形成・履行・不履行・違反・再交渉されるか。"
+    },
+    {
+      "id": "RQ3",
+      "question": "情緒的・存続的・規範的コミットメント、組織同一化、組織支援知覚をどう区別するか。"
+    },
+    {
+      "id": "RQ4",
+      "question": "信頼違反後の説明・謝罪・補償・制度変更・離脱をどう扱うか。"
+    },
+    {
+      "id": "RQ5",
+      "question": "通報・調査・報復防止・監視・個人情報をどう統治するか。"
+    },
+    {
+      "id": "RQ6",
+      "question": "関連概念を忠誠心・離職・従順さの秘密推定へ流用せず、どう測定・公開するか。"
+    }
+  ],
+  "query_families": [
+    "organizational trust trustworthiness propensity meta-analysis",
+    "trust in leader team management multilevel review",
+    "trust distrust initial trust repair apology denial",
+    "psychological contract breach violation fulfillment meta-analysis",
+    "organizational commitment affective continuance normative meta-analysis",
+    "perceived organizational support social exchange review",
+    "organizational identification commitment distinction",
+    "employee voice whistleblowing retaliation trust",
+    "Japan whistleblower protection act guidelines 2026 amendment",
+    "monitoring privacy grievance remedy responsible business conduct"
+  ],
+  "inclusion": [
+    "主要理論・尺度・メタ分析・縦断・日誌・実験",
+    "信頼対象・心理的契約・コミットメント・支援交換・修復を扱う査読研究",
+    "公益通報、労働契約、個人情報、救済の日本・国際一次資料"
+  ],
+  "exclusion": [
+    "信頼を好感・従順・無監査と同一視する資料",
+    "コミットメントを忠誠心・離職リスクの秘密スコアにする提案",
+    "心理的契約を法的契約と同一視する説明",
+    "謝罪受領・赦し・再信頼を被害者に強制する提案",
+    "匿名通報を低信頼の証拠とする提案",
+    "通信・表情から信頼・忠誠を秘密推定する提案"
+  ],
+  "process_limitations": [
+    "単一レビュアーによる迅速エビデンスマップ",
+    "代表文献・書誌メタデータによる非網羅整理",
+    "効果量の独自再計算・正式なRoB評価は未実施",
+    "古典的英語圏・正規雇用・質問紙研究が多い",
+    "信頼修復の重大な実害事案へ実験研究を直接一般化しない",
+    "法的・通報・懲戒・解雇の個別助言ではない"
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "name": "仕事と家庭・ケア・ワークライフ境界 迅速エビデンスマップ",
+  "version": "0.1",
+  "review_type": "葛藤・相互促進・境界・回復・制度利用・ケア多様性・公平・権利を分離した迅速エビデンスマップ",
+  "research_questions": [
+    {
+      "id": "RQ1",
+      "question": "仕事→家庭・家庭→仕事の葛藤と、相互促進をどう定義・測定するか。"
+    },
+    {
+      "id": "RQ2",
+      "question": "境界管理、勤務時間外連絡、心理的離脱・回復は健康と生活へどう関係するか。"
+    },
+    {
+      "id": "RQ3",
+      "question": "育児・介護・治療・家事・家庭内暴力と就労の交差をどう支えるか。"
+    },
+    {
+      "id": "RQ4",
+      "question": "休暇・柔軟勤務・管理職支援・組織介入は誰に何をもたらすか。"
+    },
+    {
+      "id": "RQ5",
+      "question": "柔軟性スティグマ、母親ペナルティ、父親ボーナス、同僚負担をどう監査するか。"
+    },
+    {
+      "id": "RQ6",
+      "question": "日本の現行制度、国際基準、プライバシー、更新をどう分離・公開するか。"
+    }
+  ],
+  "query_families": [
+    "work family conflict meta-analysis antecedents outcomes bidirectional",
+    "work family enrichment positive spillover meta-analysis",
+    "work nonwork boundary management detachment recovery telepressure",
+    "family supportive supervisor organizational intervention randomized",
+    "flexibility stigma motherhood penalty fatherhood bonus",
+    "paid family leave maternity leave quasi experiment",
+    "informal caregiving employment health meta-analysis",
+    "household cognitive labor gender remote work",
+    "single employee work life inclusion",
+    "intimate partner violence workplace intervention",
+    "Japan childcare caregiver leave act 2025 amendment",
+    "treatment and work balance privacy reasonable accommodation"
+  ],
+  "inclusion": [
+    "主要理論・尺度・メタ分析・体系的レビュー",
+    "組織介入・準実験・縦断・日誌研究",
+    "育児・介護・治療・単身者・家事・家庭内暴力を扱う研究",
+    "日本の現行法令・厚労省資料・ILO・WHO一次資料"
+  ],
+  "exclusion": [
+    "仕事と家庭を一つの総合点だけで扱う説明",
+    "育児中の既婚女性だけを標準とする説明",
+    "制度があるだけで利用可能とみなす資料",
+    "家庭事情を献身度推定へ使う提案",
+    "個人の時間管理だけで構造的問題を解決する提案",
+    "現行性を確認できない二次的な法制度説明"
+  ],
+  "process_limitations": [
+    "単一レビュアーによる迅速エビデンスマップ",
+    "代表文献と書誌メタデータによる非網羅整理",
+    "効果量の独自再計算・正式なRoB評価は未実施",
+    "英語圏・異性愛カップル・専門職研究が多い",
+    "日本の組織介入・多様な家族・低賃金職の研究は追加余地",
+    "法的・医療的・危機対応の個別助言ではない"
+  ]
+}

@@ -1,0 +1,397 @@
+{
+  "name": "柔軟勤務・リモートワーク・働く時間と境界管理 用語集",
+  "version": "0.1",
+  "license": "CC BY 4.0",
+  "terms": [
+    {
+      "id": "flexible-work",
+      "term": "柔軟な働き方",
+      "definition": "働く場所、時間、量、順序、契約等に選択・調整可能性を持たせる制度群。"
+    },
+    {
+      "id": "remote-work",
+      "term": "リモートワーク",
+      "definition": "雇用主等の通常拠点から離れ、情報通信技術等を用いて働くこと。"
+    },
+    {
+      "id": "telework",
+      "term": "テレワーク",
+      "definition": "ICTを用いて通常の職場以外から行う仕事。制度定義は国・組織で異なる。"
+    },
+    {
+      "id": "work-from-home",
+      "term": "在宅勤務",
+      "definition": "自宅を主な場所として働くこと。"
+    },
+    {
+      "id": "hybrid-work",
+      "term": "ハイブリッド勤務",
+      "definition": "遠隔勤務と共有職場勤務を組み合わせる働き方。"
+    },
+    {
+      "id": "work-from-anywhere",
+      "term": "どこでも勤務",
+      "definition": "指定拠点・地域を越えて働く地理的柔軟性の高い制度。"
+    },
+    {
+      "id": "onsite-work",
+      "term": "出社・現場勤務",
+      "definition": "共有職場、顧客先、現場等で働くこと。"
+    },
+    {
+      "id": "flexitime",
+      "term": "フレックスタイム",
+      "definition": "一定範囲で始業・終業時刻を選択・調整できる制度。"
+    },
+    {
+      "id": "compressed-workweek",
+      "term": "圧縮勤務",
+      "definition": "週の所定時間等を少ない勤務日にまとめる制度。"
+    },
+    {
+      "id": "four-day-week",
+      "term": "4日勤務制",
+      "definition": "週の勤務日を4日とする制度群。総時間・賃金・業務量を確認する。"
+    },
+    {
+      "id": "reduced-hours",
+      "term": "労働時間短縮",
+      "definition": "日・週・年の労働時間を減らすこと。"
+    },
+    {
+      "id": "part-time-work",
+      "term": "短時間勤務",
+      "definition": "比較可能なフルタイムより通常の労働時間が短い働き方。"
+    },
+    {
+      "id": "job-sharing",
+      "term": "ジョブシェア",
+      "definition": "一つの職務・責任を複数人で分担する制度。"
+    },
+    {
+      "id": "shift-work",
+      "term": "交代制勤務",
+      "definition": "複数の労働者が時間帯を交代して連続・拡張された業務を担う制度。"
+    },
+    {
+      "id": "night-work",
+      "term": "夜勤",
+      "definition": "法・制度上定義される夜間に行う仕事。"
+    },
+    {
+      "id": "rotating-shift",
+      "term": "交代シフト",
+      "definition": "勤務時間帯が一定周期等で変わるシフト。"
+    },
+    {
+      "id": "quick-return",
+      "term": "短い勤務間隔",
+      "definition": "一つの勤務終了から次の開始までの休息が短い状態。"
+    },
+    {
+      "id": "on-call",
+      "term": "オンコール",
+      "definition": "所定時間外等に呼出しへ対応できる状態を求められる勤務。"
+    },
+    {
+      "id": "standby",
+      "term": "待機",
+      "definition": "呼出し・業務発生に備えて可用性を維持する状態。"
+    },
+    {
+      "id": "schedule-predictability",
+      "term": "勤務予定の予測可能性",
+      "definition": "勤務日・時間・変更を前もって把握できる程度。"
+    },
+    {
+      "id": "schedule-control",
+      "term": "勤務時間統制",
+      "definition": "本人が勤務時間・日・変更へ影響を持てる程度。"
+    },
+    {
+      "id": "employer-driven-flexibility",
+      "term": "雇用者主導の柔軟性",
+      "definition": "需要等に応じ組織が勤務時間・要員を変えられる柔軟性。"
+    },
+    {
+      "id": "employee-driven-flexibility",
+      "term": "労働者主導の柔軟性",
+      "definition": "本人が仕事と生活に合わせて時間・場所等を調整できる柔軟性。"
+    },
+    {
+      "id": "working-time",
+      "term": "労働時間",
+      "definition": "労働者が働き、使用者の指揮・利用下にある時間等。法的定義は国内制度による。"
+    },
+    {
+      "id": "overtime",
+      "term": "時間外労働",
+      "definition": "所定または法定時間を超える労働。"
+    },
+    {
+      "id": "long-working-hours",
+      "term": "長時間労働",
+      "definition": "基準を超えて長く働く状態。研究・法令で閾値が異なる。"
+    },
+    {
+      "id": "rest-period",
+      "term": "休息期間",
+      "definition": "労働時間ではない連続した休息時間。"
+    },
+    {
+      "id": "break",
+      "term": "休憩",
+      "definition": "勤務の途中に労働から離れる時間。"
+    },
+    {
+      "id": "annual-leave",
+      "term": "年次休暇",
+      "definition": "一定期間、賃金等を伴い仕事から離れる休暇。"
+    },
+    {
+      "id": "recovery",
+      "term": "回復",
+      "definition": "仕事による負荷・疲労が戻り、資源が再形成される過程。"
+    },
+    {
+      "id": "psychological-detachment",
+      "term": "心理的離脱",
+      "definition": "仕事外の時間に仕事から心理的に距離を置くこと。"
+    },
+    {
+      "id": "telepressure",
+      "term": "テレプレッシャー",
+      "definition": "仕事のメッセージへ迅速に応答すべきだという圧力・衝動。"
+    },
+    {
+      "id": "right-to-disconnect",
+      "term": "つながらない権利",
+      "definition": "勤務時間外に仕事のデジタル連絡から離れることに関する権利・制度。法的内容は国で異なる。"
+    },
+    {
+      "id": "after-hours-contact",
+      "term": "勤務時間外連絡",
+      "definition": "所定勤務外に送受信される仕事上の連絡。"
+    },
+    {
+      "id": "boundary-management",
+      "term": "境界管理",
+      "definition": "仕事と仕事外の役割・時間・場所・心理的境界を調整すること。"
+    },
+    {
+      "id": "segmentation",
+      "term": "分断",
+      "definition": "仕事と仕事外を明確に分ける境界方略・選好。"
+    },
+    {
+      "id": "integration",
+      "term": "統合",
+      "definition": "仕事と仕事外の境界を柔軟・浸透的にする方略・選好。"
+    },
+    {
+      "id": "boundary-control",
+      "term": "境界統制",
+      "definition": "境界をいつ・どう越えるかに本人が持つ統制感。"
+    },
+    {
+      "id": "work-family-conflict",
+      "term": "仕事家庭葛藤",
+      "definition": "仕事と家庭の役割要求が互いに両立しにくい状態。"
+    },
+    {
+      "id": "work-life-balance",
+      "term": "ワーク・ライフ・バランス",
+      "definition": "仕事と仕事外の役割・価値の両立に関する状態・評価。"
+    },
+    {
+      "id": "family-supportive-supervisor",
+      "term": "家族支援的管理職",
+      "definition": "部下の仕事と家族の両立を支える管理職の行動。"
+    },
+    {
+      "id": "professional-isolation",
+      "term": "専門的孤立",
+      "definition": "仕事上の情報、関係、学習、可視性等から切り離されている経験。"
+    },
+    {
+      "id": "proximity-bias",
+      "term": "近接性バイアス",
+      "definition": "物理的に近い・目に見える人を高く評価・優遇する偏り。"
+    },
+    {
+      "id": "collaboration-network",
+      "term": "協働ネットワーク",
+      "definition": "仕事上の情報・助言・共同作業を結ぶ関係構造。"
+    },
+    {
+      "id": "synchronous-work",
+      "term": "同期作業",
+      "definition": "同じ時間に相互作用して行う仕事。"
+    },
+    {
+      "id": "asynchronous-work",
+      "term": "非同期作業",
+      "definition": "同時参加を必須とせず、時間をずらして進める仕事。"
+    },
+    {
+      "id": "overlap-hours",
+      "term": "重複時間",
+      "definition": "異なる勤務・時差の人が同時に働く共通時間。"
+    },
+    {
+      "id": "meeting-load",
+      "term": "会議負荷",
+      "definition": "会議の数、時間、準備、切替、認知・感情負担。"
+    },
+    {
+      "id": "commuting",
+      "term": "通勤",
+      "definition": "居住地と仕事場所の間を移動すること。"
+    },
+    {
+      "id": "home-office",
+      "term": "在宅作業環境",
+      "definition": "自宅の仕事場所、設備、通信、人間工学、プライバシー等。"
+    },
+    {
+      "id": "ergonomics",
+      "term": "人間工学",
+      "definition": "人の能力・限界に仕事、設備、環境を適合させる考え方。"
+    },
+    {
+      "id": "flexibility-stigma",
+      "term": "柔軟勤務スティグマ",
+      "definition": "柔軟勤務利用者を低いコミットメント・能力とみなす偏見。"
+    },
+    {
+      "id": "career-penalty",
+      "term": "キャリア罰",
+      "definition": "制度利用等により評価、機会、昇進、報酬で不利益を受けること。"
+    },
+    {
+      "id": "work-intensification",
+      "term": "仕事強化",
+      "definition": "同じ時間に多く・速く・密度高く働くよう仕事要求が増すこと。"
+    },
+    {
+      "id": "availability-creep",
+      "term": "可用性の侵食",
+      "definition": "連絡・待機可能である時間が徐々に仕事時間へ広がること。"
+    },
+    {
+      "id": "digital-presenteeism",
+      "term": "デジタル・プレゼンティーイズム",
+      "definition": "オンライン状態・即時応答等で働いていることを示し続ける行動・圧力。"
+    },
+    {
+      "id": "employee-monitoring",
+      "term": "従業員監視",
+      "definition": "行動、時間、位置、通信、画面等を収集・分析すること。"
+    },
+    {
+      "id": "activity-metric",
+      "term": "活動量指標",
+      "definition": "クリック、通信、在席、キーストローク等のデジタル活動を表す指標。"
+    },
+    {
+      "id": "time-tracking",
+      "term": "時間記録",
+      "definition": "勤務・作業・休憩等の時間を記録すること。"
+    },
+    {
+      "id": "purpose-limitation",
+      "term": "目的限定",
+      "definition": "データを明示された正当な目的に限定して利用する原則。"
+    },
+    {
+      "id": "data-minimization",
+      "term": "データ最小化",
+      "definition": "目的に必要な範囲へ収集・保持を限定する原則。"
+    },
+    {
+      "id": "human-review",
+      "term": "人による再審査",
+      "definition": "自動・一次判断を人が理解・検討し、必要なら訂正する手続。"
+    },
+    {
+      "id": "contestability",
+      "term": "異議申立て可能性",
+      "definition": "判断理由を知り、争い、訂正・再審査を求められる性質。"
+    },
+    {
+      "id": "schedule-notice",
+      "term": "勤務予定通知期間",
+      "definition": "勤務予定を本人へ知らせてから勤務までの時間。"
+    },
+    {
+      "id": "shift-swap",
+      "term": "シフト交換",
+      "definition": "労働者間等で勤務予定を交換・調整する仕組み。"
+    },
+    {
+      "id": "compensatory-rest",
+      "term": "代償休息",
+      "definition": "例外的勤務等の後に与える同等の休息。"
+    },
+    {
+      "id": "circadian-rhythm",
+      "term": "概日リズム",
+      "definition": "約24時間周期の生理・行動リズム。"
+    },
+    {
+      "id": "sleep-opportunity",
+      "term": "睡眠機会",
+      "definition": "睡眠を取るために確保できる時間・環境。"
+    },
+    {
+      "id": "fatigue-risk",
+      "term": "疲労リスク",
+      "definition": "疲労により安全、健康、判断、業績が損なわれる可能性。"
+    },
+    {
+      "id": "multiple-jobholding",
+      "term": "複数就業",
+      "definition": "複数の仕事・雇用を同時に持つこと。"
+    },
+    {
+      "id": "trial-period",
+      "term": "試行期間",
+      "definition": "制度を限定された期間・範囲で試し評価する期間。"
+    },
+    {
+      "id": "preference-fit",
+      "term": "選好適合",
+      "definition": "本人の望む働き方と実際の制度・配置が合う程度。"
+    },
+    {
+      "id": "dynamic-fit",
+      "term": "動的適合",
+      "definition": "仕事・生活・健康の変化に合わせて適合を継続的に見直すこと。"
+    },
+    {
+      "id": "distributional-impact",
+      "term": "分配影響",
+      "definition": "便益・費用・リスクが人・集団・職種間でどう分かれるか。"
+    },
+    {
+      "id": "algorithmic-scheduling",
+      "term": "アルゴリズム勤務編成",
+      "definition": "アルゴリズムが需要予測等に基づきシフト・仕事配分を決める仕組み。"
+    },
+    {
+      "id": "domestic-violence-support",
+      "term": "家庭内暴力の影響支援",
+      "definition": "家庭内暴力が就労へ与える影響を軽減し、安全・守秘・休暇・相談等を支える取組。"
+    },
+    {
+      "id": "sickness-presenteeism",
+      "term": "病気中の就業",
+      "definition": "体調不良でも休まず働く状態。在宅勤務でも生じ得る。"
+    },
+    {
+      "id": "right-to-request",
+      "term": "柔軟勤務申請権",
+      "definition": "本人が柔軟な勤務条件を申請し、手続・回答を受ける権利。具体的内容は制度差。"
+    }
+  ]
+}

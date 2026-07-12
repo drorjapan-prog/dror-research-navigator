@@ -1,0 +1,437 @@
+{
+  "name": "職場の対立・コンフリクト・交渉・関係修復 用語集",
+  "version": "0.1",
+  "license": "CC BY 4.0",
+  "terms": [
+    {
+      "id": "conflict",
+      "term": "対立・コンフリクト",
+      "definition": "両立しない目標、認知、利益、行動等があると当事者が知覚する状態。"
+    },
+    {
+      "id": "disagreement",
+      "term": "意見の不一致",
+      "definition": "判断・見解が異なること。必ずしも強い対立ではない。"
+    },
+    {
+      "id": "task-conflict",
+      "term": "課題対立",
+      "definition": "仕事の内容、判断、アイデアに関する不一致。"
+    },
+    {
+      "id": "relationship-conflict",
+      "term": "関係対立",
+      "definition": "人格、好悪、緊張等を伴う対人的対立。"
+    },
+    {
+      "id": "process-conflict",
+      "term": "過程対立",
+      "definition": "役割、手順、担当、資源配分に関する対立。"
+    },
+    {
+      "id": "conflict-asymmetry",
+      "term": "対立認知の非対称",
+      "definition": "同じ集団内で対立の強さ・種類の認知が一致しない状態。"
+    },
+    {
+      "id": "conflict-escalation",
+      "term": "対立のエスカレーション",
+      "definition": "対立の強度、範囲、敵意、コストが拡大する過程。"
+    },
+    {
+      "id": "de-escalation",
+      "term": "沈静化",
+      "definition": "安全を保ちながら緊張・危害・対立強度を下げること。"
+    },
+    {
+      "id": "conflict-management",
+      "term": "対立管理",
+      "definition": "対立を予防・扱い・調整・評価する仕組み。"
+    },
+    {
+      "id": "conflict-resolution",
+      "term": "対立解決",
+      "definition": "争点や関係の不一致を解消・調整すること。"
+    },
+    {
+      "id": "conflict-transformation",
+      "term": "対立変容",
+      "definition": "対立を生む関係・構造・語りを長期的に変えること。"
+    },
+    {
+      "id": "integrating-style",
+      "term": "統合型",
+      "definition": "自己と他者双方への関心を高く持ち問題解決を図るスタイル。"
+    },
+    {
+      "id": "dominating-style",
+      "term": "支配型",
+      "definition": "自己の関心を優先する対立処理スタイル。"
+    },
+    {
+      "id": "avoiding-style",
+      "term": "回避型",
+      "definition": "対立への関与を控えるスタイル。安全な一時停止を含み得る。"
+    },
+    {
+      "id": "obliging-style",
+      "term": "配慮型",
+      "definition": "相手の関心を優先するスタイル。"
+    },
+    {
+      "id": "compromising-style",
+      "term": "妥協型",
+      "definition": "双方が一部を譲る中間的スタイル。"
+    },
+    {
+      "id": "negotiation",
+      "term": "交渉",
+      "definition": "複数当事者が条件・資源・行動等の合意を試みる過程。"
+    },
+    {
+      "id": "position",
+      "term": "立場",
+      "definition": "交渉で表明された要求・結論。"
+    },
+    {
+      "id": "interest",
+      "term": "利益・関心",
+      "definition": "立場の背後にある必要、優先、目的、制約。"
+    },
+    {
+      "id": "reservation-point",
+      "term": "留保点",
+      "definition": "合意を受け入れられる限界。"
+    },
+    {
+      "id": "batna",
+      "term": "交渉不成立時の代替案",
+      "definition": "合意しない場合に取り得る最良の現実的選択肢。"
+    },
+    {
+      "id": "zopa",
+      "term": "合意可能領域",
+      "definition": "当事者の留保点の間にある合意可能な範囲。"
+    },
+    {
+      "id": "distributive-negotiation",
+      "term": "分配型交渉",
+      "definition": "一定の価値を当事者間で配分する交渉。"
+    },
+    {
+      "id": "integrative-negotiation",
+      "term": "統合型交渉",
+      "definition": "優先順位差等から共同利益を作る交渉。"
+    },
+    {
+      "id": "anchor",
+      "term": "アンカー",
+      "definition": "後の判断を引き寄せる最初の数値・情報。"
+    },
+    {
+      "id": "first-offer",
+      "term": "最初の提示",
+      "definition": "交渉で最初に示す条件。アンカーになり得る。"
+    },
+    {
+      "id": "concession",
+      "term": "譲歩",
+      "definition": "提示条件を相手側へ動かすこと。"
+    },
+    {
+      "id": "tradeoff",
+      "term": "交換条件",
+      "definition": "優先順位の異なる論点を交換すること。"
+    },
+    {
+      "id": "subjective-value",
+      "term": "主観的価値",
+      "definition": "交渉後の自己、過程、関係、結果への評価。"
+    },
+    {
+      "id": "collective-bargaining",
+      "term": "団体交渉",
+      "definition": "労働者側と使用者側が労働条件等を交渉する制度的過程。"
+    },
+    {
+      "id": "labor-dispute",
+      "term": "労働争議",
+      "definition": "労使間の主張不一致により争議行為等が生じるおそれ・状態。"
+    },
+    {
+      "id": "mediation",
+      "term": "調停・仲介",
+      "definition": "第三者が当事者の対話・合意形成を支援する過程。法制度で意味が異なる。"
+    },
+    {
+      "id": "conciliation",
+      "term": "あっせん・調整",
+      "definition": "第三者が紛争解決を援助する手続。制度により権限が異なる。"
+    },
+    {
+      "id": "arbitration",
+      "term": "仲裁",
+      "definition": "第三者の判断に当事者が従う制度的手続。"
+    },
+    {
+      "id": "facilitation",
+      "term": "ファシリテーション",
+      "definition": "会議・対話の過程を第三者が支援すること。"
+    },
+    {
+      "id": "neutrality",
+      "term": "中立性",
+      "definition": "特定当事者の利益に偏らず、基準・手続を一貫して扱うこと。"
+    },
+    {
+      "id": "impartiality",
+      "term": "公平性・不偏性",
+      "definition": "個人的偏りや利益相反なく判断すること。"
+    },
+    {
+      "id": "conflict-of-interest",
+      "term": "利益相反",
+      "definition": "判断者の利益・関係が公正な職務を損ない得る状態。"
+    },
+    {
+      "id": "voluntariness",
+      "term": "自発性",
+      "definition": "不当な圧力なく参加・合意・離脱を選べること。"
+    },
+    {
+      "id": "informed-choice",
+      "term": "情報を得た選択",
+      "definition": "範囲、秘密、結果、代替案を理解して選ぶこと。"
+    },
+    {
+      "id": "confidentiality",
+      "term": "秘密保持",
+      "definition": "情報共有を必要な範囲に限定すること。絶対的秘密とは限らない。"
+    },
+    {
+      "id": "grievance",
+      "term": "苦情・申立て",
+      "definition": "仕事上の扱い、権利、条件等への正式・非正式な異議。"
+    },
+    {
+      "id": "complaint",
+      "term": "相談・申告",
+      "definition": "問題や危害を組織・機関へ伝えること。"
+    },
+    {
+      "id": "investigation",
+      "term": "調査",
+      "definition": "申立てに関する事実・証拠・基準を体系的に確認する過程。"
+    },
+    {
+      "id": "fact-finding",
+      "term": "事実確認",
+      "definition": "何が起きたかを証拠と証言から検討すること。"
+    },
+    {
+      "id": "standard-of-proof",
+      "term": "立証基準",
+      "definition": "判断に必要とされる証明の程度。制度により異なる。"
+    },
+    {
+      "id": "due-process",
+      "term": "適正手続",
+      "definition": "通知、聴取、証拠、反論、理由、再審等の公正な手続保障。"
+    },
+    {
+      "id": "appeal",
+      "term": "異議申立て・再審",
+      "definition": "判断を別の権限者に見直してもらう経路。"
+    },
+    {
+      "id": "retaliation",
+      "term": "報復",
+      "definition": "相談、申立て、通報、代表活動等への不利益な対応。"
+    },
+    {
+      "id": "whistleblowing",
+      "term": "公益通報",
+      "definition": "組織の法令違反等を所定の先へ通報すること。"
+    },
+    {
+      "id": "employee-voice",
+      "term": "従業員の発言",
+      "definition": "改善、懸念、異議等を意図的に伝える行動。"
+    },
+    {
+      "id": "silence",
+      "term": "沈黙",
+      "definition": "情報・懸念を意図的に表明しない状態。合意と同一でない。"
+    },
+    {
+      "id": "incivility",
+      "term": "職場の無作法",
+      "definition": "相互尊重規範に反する低強度で意図が曖昧な言動。"
+    },
+    {
+      "id": "bullying",
+      "term": "職場いじめ",
+      "definition": "反復・継続し、対象が防御困難になり得る否定的行為。定義は制度で異なる。"
+    },
+    {
+      "id": "harassment",
+      "term": "ハラスメント",
+      "definition": "望まない言動により尊厳・就業環境等を害すること。法的定義は地域で異なる。"
+    },
+    {
+      "id": "sexual-harassment",
+      "term": "セクシュアルハラスメント",
+      "definition": "性的言動等に関するハラスメント。法的定義・措置を確認する。"
+    },
+    {
+      "id": "power-harassment",
+      "term": "パワーハラスメント",
+      "definition": "優越的関係を背景とする業務上必要相当範囲を超えた言動等。日本法・指針を確認する。"
+    },
+    {
+      "id": "violence",
+      "term": "暴力",
+      "definition": "身体的・心理的・性的・経済的危害をもたらす行為・脅威。"
+    },
+    {
+      "id": "aggression",
+      "term": "攻撃行動",
+      "definition": "他者を害する意図を伴う行動。測定定義に注意する。"
+    },
+    {
+      "id": "microaggression",
+      "term": "マイクロアグレッション",
+      "definition": "周縁化された集団への日常的・微細な侮辱や否定を表す概念。"
+    },
+    {
+      "id": "discrimination",
+      "term": "差別",
+      "definition": "保護される属性等に基づく不利益な扱い。適用法を確認する。"
+    },
+    {
+      "id": "domestic-violence-impact",
+      "term": "家庭内暴力の仕事への影響",
+      "definition": "家庭内暴力が安全、出勤、連絡、健康等へ及ぼす影響。"
+    },
+    {
+      "id": "safety-plan",
+      "term": "安全計画",
+      "definition": "危険の予防、連絡、避難、分離、支援等を本人中心に定める計画。"
+    },
+    {
+      "id": "no-contact",
+      "term": "接触制限",
+      "definition": "当事者間の直接・間接接触を制限する保護措置。"
+    },
+    {
+      "id": "interim-measure",
+      "term": "暫定措置",
+      "definition": "調査・判断中の安全・証拠・業務を守る一時的措置。"
+    },
+    {
+      "id": "apology",
+      "term": "謝罪",
+      "definition": "違反・影響・責任を認め、遺憾と再発防止等を伝える行為。"
+    },
+    {
+      "id": "acknowledgment",
+      "term": "承認",
+      "definition": "起きたことや影響を認めること。"
+    },
+    {
+      "id": "accountability",
+      "term": "説明責任・責任履行",
+      "definition": "行為の説明、結果の引受け、是正を行うこと。"
+    },
+    {
+      "id": "reparation",
+      "term": "償い・補償",
+      "definition": "損害や侵害に対する金銭・原状回復・象徴的措置等。"
+    },
+    {
+      "id": "forgiveness",
+      "term": "赦し",
+      "definition": "被害後の否定的動機を変化させる個人的過程。義務ではない。"
+    },
+    {
+      "id": "reconciliation",
+      "term": "和解",
+      "definition": "関係当事者が対立後の関係を再構成する過程。"
+    },
+    {
+      "id": "trust-repair",
+      "term": "信頼修復",
+      "definition": "損なわれた信頼を説明、行動、構造、時間等で再構築すること。"
+    },
+    {
+      "id": "restorative-justice",
+      "term": "修復的正義",
+      "definition": "危害、責任、必要、関係、修復を重視する正義アプローチ。"
+    },
+    {
+      "id": "retributive-justice",
+      "term": "応報的正義",
+      "definition": "違反に相応する制裁を重視する正義アプローチ。"
+    },
+    {
+      "id": "restorative-dialogue",
+      "term": "修復的対話",
+      "definition": "準備された安全な条件で危害・責任・必要・修復を話す任意の過程。"
+    },
+    {
+      "id": "relationship-repair",
+      "term": "関係修復",
+      "definition": "損なわれた協働・交換・感情・アイデンティティを再構成すること。"
+    },
+    {
+      "id": "separation",
+      "term": "分離",
+      "definition": "接触・役割・所属を分ける安全・終結の選択。"
+    },
+    {
+      "id": "resolution-rate",
+      "term": "解決率",
+      "definition": "定義期間内に所定の終結へ達した件数割合。質を単独で示さない。"
+    },
+    {
+      "id": "recurrence",
+      "term": "再発",
+      "definition": "同種または関連する問題が再び起きること。"
+    },
+    {
+      "id": "time-to-resolution",
+      "term": "解決時間",
+      "definition": "申立てから終結までの時間。短さだけを成功にしない。"
+    },
+    {
+      "id": "case-mix",
+      "term": "事案構成",
+      "definition": "重大性、種類、経路、対象等の事案件数の内訳。"
+    },
+    {
+      "id": "process-evaluation",
+      "term": "プロセス評価",
+      "definition": "到達、利用、実装、逸脱、文脈、経験を調べる評価。"
+    },
+    {
+      "id": "small-cell-protection",
+      "term": "少人数セル保護",
+      "definition": "小さな集団から個人が再特定されないための措置。"
+    },
+    {
+      "id": "purpose-limitation",
+      "term": "目的限定",
+      "definition": "収集した相談・調査データを示した目的以外へ使わない原則。"
+    },
+    {
+      "id": "secondary-trauma",
+      "term": "二次受傷",
+      "definition": "他者の被害経験に接することで支援者等に生じる心理的影響。"
+    },
+    {
+      "id": "ombuds",
+      "term": "オンブズ",
+      "definition": "独立・中立的に相談、選択肢整理、組織的問題の把握等を行う役割。制度ごとに権限が異なる。"
+    }
+  ]
+}

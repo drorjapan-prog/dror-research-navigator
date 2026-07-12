@@ -1,0 +1,19 @@
+{
+  "version": "0.1",
+  "cadence": "少なくとも年1回、および主要統合研究・公的統計更新・訂正・制度変更時に臨時更新する。",
+  "immediate_update_triggers": [
+    "主要メタ分析・系統的レビュー",
+    "厚生労働省雇用動向調査の更新・訂正",
+    "離職尺度・定義の重要変更",
+    "雇用AI・個人情報・退職権に関する制度変更",
+    "再現可能な誤り報告"
+  ],
+  "change_log_fields": [
+    "date",
+    "before",
+    "after",
+    "reason",
+    "source",
+    "affected_claim_ids"
+  ]
+}

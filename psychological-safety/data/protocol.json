@@ -1,0 +1,68 @@
+{
+  "version": "0.4",
+  "title": "心理的安全性 迅速エビデンス更新プロトコル",
+  "review_type": "rapid evidence update with scoping elements",
+  "notice": "システマティックレビューではない。単独レビュアーによる公開情報源ベースの迅速更新である。",
+  "research_questions": [
+    {
+      "id": "RQ1",
+      "question": "心理的安全性は、学習・発言・情報共有・成果・ウェルビーイングとどのように関連するか"
+    },
+    {
+      "id": "RQ2",
+      "question": "心理的安全性と関連するリーダー・チーム・仕事設計・対人要因は何か"
+    },
+    {
+      "id": "RQ3",
+      "question": "心理的安全性を高める介入の因果的効果は確認されているか"
+    },
+    {
+      "id": "RQ4",
+      "question": "心理的安全性はどのように測定され、日本語尺度にはどのような根拠と限界があるか"
+    },
+    {
+      "id": "RQ5",
+      "question": "高すぎる心理的安全性、文化・人種・民族・職務などの境界条件は何か"
+    },
+    {
+      "id": "RQ6",
+      "question": "信頼・発言・包摂・心理社会的安全風土との境界、および測定の倫理的な禁止用途は何か"
+    }
+  ],
+  "sources_searched": [
+    "Web search index",
+    "PubMed/PubMed Central indexed records",
+    "Publisher and DOI landing pages",
+    "Institutional repositories"
+  ],
+  "search_date": "2026-07-11",
+  "coverage_end": "2026-07-11",
+  "query_families": [
+    "\"psychological safety\" AND (systematic review OR meta-analysis OR umbrella review)",
+    "\"psychological safety\" AND (intervention OR randomized OR trial) AND workplace",
+    "\"psychological safety\" AND (measure OR scale OR validation OR psychometric)",
+    "\"psychological safety\" AND (Japan OR Japanese)",
+    "\"psychological safety\" AND (boundary condition OR nonlinear OR culture OR race OR ethnicity)",
+    "\"psychological safety\" AND (trust OR voice OR inclusion OR psychosocial safety climate OR ethics OR power OR retaliation)"
+  ],
+  "inclusion": [
+    "職場・チームの心理的安全性を主要概念として扱う",
+    "レビュー、メタ分析、縦断・統制・ランダム化研究、尺度検証、重要な境界条件研究",
+    "書誌情報と原文または十分な抄録を確認できる",
+    "研究方法・対象・結果・限界の少なくとも主要部分を確認できる"
+  ],
+  "exclusion": [
+    "出典のない一般解説・商業ホワイトペーパー",
+    "心理的安全性を定義・測定していない",
+    "主張と研究方法が対応しない",
+    "同一研究のプレプリントが査読版に置き換わっている",
+    "今回の5研究質問に直接対応しない"
+  ],
+  "process_limitations": [
+    "購読データベースの完全な検索結果をエクスポートしていない",
+    "二者独立スクリーニングを行っていない",
+    "正式なPRISMA準拠レビューではない",
+    "英語・日本語を中心とし、他言語研究を網羅していない",
+    "検索エンジンの順位と索引範囲に依存する"
+  ]
+}

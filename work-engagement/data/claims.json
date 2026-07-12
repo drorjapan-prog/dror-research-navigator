@@ -1,0 +1,392 @@
+{
+  "name": "ワーク・エンゲージメント 主張レジスター",
+  "version": "0.1",
+  "license": "CC BY 4.0",
+  "claims": [
+    {
+      "id": "WE-C01",
+      "claim": "ワーク・エンゲージメントは、活力・熱意・没頭で特徴づけられる肯定的で充実した仕事上の状態である。",
+      "label": "A",
+      "relationship": "定義",
+      "scope": [
+        "UWES型ワーク・エンゲージメント"
+      ],
+      "sources": [
+        "schaufeli-2002"
+      ],
+      "limits": [
+        "employee engagement全般の唯一の定義ではない"
+      ],
+      "last_searched": "2026-07-11",
+      "last_human_verified": "2026-07-11",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "WE-C02",
+      "claim": "会社への忠誠や組織コミットメントとワーク・エンゲージメントは同義ではない。",
+      "label": "A",
+      "relationship": "概念境界",
+      "scope": [
+        "概念整理"
+      ],
+      "sources": [
+        "macey-schneider-2008",
+        "bailey-2017"
+      ],
+      "limits": [
+        "実務指標は複数概念を混ぜる場合がある"
+      ],
+      "last_searched": "2026-07-11",
+      "last_human_verified": "2026-07-11",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "WE-C03",
+      "claim": "仕事満足は仕事への評価、ワーク・エンゲージメントは活性化した状態を中心とし、区別される。",
+      "label": "A",
+      "relationship": "概念境界",
+      "scope": [
+        "概念整理"
+      ],
+      "sources": [
+        "macey-schneider-2008",
+        "bailey-2017"
+      ],
+      "limits": [
+        "相互に関連し得る"
+      ],
+      "last_searched": "2026-07-11",
+      "last_human_verified": "2026-07-11",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "WE-C04",
+      "claim": "employee engagementという語には、特性・状態・行動や独自企業指標が混在する。",
+      "label": "A",
+      "relationship": "測定上の異質性",
+      "scope": [
+        "employee engagement研究"
+      ],
+      "sources": [
+        "macey-schneider-2008",
+        "bailey-2017"
+      ],
+      "limits": [
+        "異なる尺度の得点を直接比較できない"
+      ],
+      "last_searched": "2026-07-11",
+      "last_human_verified": "2026-07-11",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "WE-C05",
+      "claim": "裁量、支援、フィードバック等の仕事資源は、エンゲージメントと平均して正に関連する。",
+      "label": "A",
+      "relationship": "主に関連、一部縦断",
+      "scope": [
+        "複数職種・国"
+      ],
+      "sources": [
+        "schaufeli-bakker-2004",
+        "lesener-2019",
+        "mazzetti-2021"
+      ],
+      "limits": [
+        "観察研究が多い",
+        "資源の効果は文脈で異なる"
+      ],
+      "last_searched": "2026-07-11",
+      "last_human_verified": "2026-07-11",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "WE-C06",
+      "claim": "挑戦的要求と阻害的要求では、エンゲージメントとの関連方向が異なる傾向がある。",
+      "label": "B",
+      "relationship": "関連",
+      "scope": [
+        "仕事要求研究"
+      ],
+      "sources": [
+        "crawford-2010",
+        "mazzetti-2021"
+      ],
+      "limits": [
+        "分類は文脈依存",
+        "過重労働の正当化にはならない"
+      ],
+      "last_searched": "2026-07-11",
+      "last_human_verified": "2026-07-11",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "WE-C07",
+      "claim": "エンゲージメントは職務遂行と平均して正に関連する。",
+      "label": "A",
+      "relationship": "主に関連",
+      "scope": [
+        "タスク・文脈的・適応的業績"
+      ],
+      "sources": [
+        "christian-2011",
+        "neuber-2021"
+      ],
+      "limits": [
+        "自己報告業績で強まり得る",
+        "個人の業績を保証しない"
+      ],
+      "last_searched": "2026-07-11",
+      "last_human_verified": "2026-07-11",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "WE-C08",
+      "claim": "エンゲージメントは欠勤と弱い負の関連を示す。",
+      "label": "B",
+      "relationship": "関連",
+      "scope": [
+        "欠勤研究"
+      ],
+      "sources": [
+        "neuber-2021"
+      ],
+      "limits": [
+        "制度・健康・記録法の影響",
+        "因果確定ではない"
+      ],
+      "last_searched": "2026-07-11",
+      "last_human_verified": "2026-07-11",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "WE-C09",
+      "claim": "成果が後のエンゲージメントを高める逆方向もあり、単純な一方向因果とは限らない。",
+      "label": "B",
+      "relationship": "双方向の可能性",
+      "scope": [
+        "縦断研究"
+      ],
+      "sources": [
+        "inamizu-2018",
+        "lesener-2019"
+      ],
+      "limits": [
+        "標本と測定間隔に制約"
+      ],
+      "last_searched": "2026-07-11",
+      "last_human_verified": "2026-07-11",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "WE-C10",
+      "claim": "エンゲージメントとバーンアウトは関連するが、完全な一本の軸の両端とは限らない。",
+      "label": "A",
+      "relationship": "弁別",
+      "scope": [
+        "測定・JD-R研究"
+      ],
+      "sources": [
+        "schaufeli-2002",
+        "schaufeli-bakker-2004"
+      ],
+      "limits": [
+        "尺度モデルに依存"
+      ],
+      "last_searched": "2026-07-11",
+      "last_human_verified": "2026-07-11",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "WE-C11",
+      "claim": "ワーカホリズムとエンゲージメントは併存し得るが、動機と健康結果から区別する必要がある。",
+      "label": "A",
+      "relationship": "弁別",
+      "scope": [
+        "日本を含む労働者研究"
+      ],
+      "sources": [
+        "shimazu-2009",
+        "toth-kiraly-2020",
+        "lee-2021"
+      ],
+      "limits": [
+        "横断研究が多い"
+      ],
+      "last_searched": "2026-07-11",
+      "last_human_verified": "2026-07-11",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "WE-C12",
+      "claim": "ワーク・エンゲージメント介入は平均して小さい肯定的効果を示す。",
+      "label": "B",
+      "relationship": "介入効果",
+      "scope": [
+        "職場介入研究"
+      ],
+      "sources": [
+        "knight-2017",
+        "virga-2019",
+        "bjork-2021"
+      ],
+      "limits": [
+        "研究数が少ない",
+        "自己報告・短期追跡中心",
+        "介入が異質"
+      ],
+      "last_searched": "2026-07-11",
+      "last_human_verified": "2026-07-11",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "WE-C13",
+      "claim": "ジョブ・クラフティングは後のエンゲージメントと小さい正の縦断関連を示す。",
+      "label": "B",
+      "relationship": "縦断関連",
+      "scope": [
+        "職場研究"
+      ],
+      "sources": [
+        "frederick-2020"
+      ],
+      "limits": [
+        "介入因果とは限らない",
+        "本人に裁量が必要"
+      ],
+      "last_searched": "2026-07-11",
+      "last_human_verified": "2026-07-11",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "WE-C14",
+      "claim": "日本語版UWESには日本の労働者標本での信頼性・妥当性検証がある。",
+      "label": "A",
+      "relationship": "測定妥当性",
+      "scope": [
+        "日本の労働者"
+      ],
+      "sources": [
+        "shimazu-2008"
+      ],
+      "limits": [
+        "診断尺度ではない",
+        "利用条件の確認が必要"
+      ],
+      "last_searched": "2026-07-11",
+      "last_human_verified": "2026-07-11",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "WE-C15",
+      "claim": "国間の生の平均差を、測定不変性の確認なしに国民性へ還元できない。",
+      "label": "A",
+      "relationship": "測定上の注意",
+      "scope": [
+        "文化間比較"
+      ],
+      "sources": [
+        "shimazu-2010",
+        "schaufeli-2019"
+      ],
+      "limits": [
+        "国は文化の単純な代理ではない"
+      ],
+      "last_searched": "2026-07-11",
+      "last_human_verified": "2026-07-11",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "WE-C16",
+      "claim": "エンゲージメント得点による個人ランキング、報酬連動、懲戒判断は研究上支持されない。",
+      "label": "不支持",
+      "relationship": "用途判断",
+      "scope": [
+        "人事利用"
+      ],
+      "sources": [
+        "bailey-2017",
+        "schaufeli-2019"
+      ],
+      "limits": [
+        "集団改善用測定と高重要度個人判断は必要精度が異なる"
+      ],
+      "last_searched": "2026-07-11",
+      "last_human_verified": "2026-07-11",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "WE-C17",
+      "claim": "明るさ、賛同、異論の少なさをエンゲージメントとして評価することは支持されない。",
+      "label": "不支持",
+      "relationship": "概念境界・倫理",
+      "scope": [
+        "観察評価"
+      ],
+      "sources": [
+        "macey-schneider-2008"
+      ],
+      "limits": [
+        "感情表出には個人・文化差がある"
+      ],
+      "last_searched": "2026-07-11",
+      "last_human_verified": "2026-07-11",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "WE-C18",
+      "claim": "高いエンゲージメントを長時間労働や休息侵害の正当化に使うことはできない。",
+      "label": "不支持",
+      "relationship": "倫理・健康",
+      "scope": [
+        "労働時間・境界"
+      ],
+      "sources": [
+        "shimazu-2009",
+        "lee-2021"
+      ],
+      "limits": [
+        "仕事への高投資と強迫性を区別する"
+      ],
+      "last_searched": "2026-07-11",
+      "last_human_verified": "2026-07-11",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "WE-C19",
+      "claim": "改善能力、任意性、プライバシー保護のない調査は、回答者へリスクを負わせる。",
+      "label": "実務原則",
+      "relationship": "倫理",
+      "scope": [
+        "組織サーベイ"
+      ],
+      "sources": [
+        "bailey-2017"
+      ],
+      "limits": [
+        "法的助言ではない"
+      ],
+      "last_searched": "2026-07-11",
+      "last_human_verified": "2026-07-11",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "WE-C20",
+      "claim": "低エンゲージメント得点だけで抑うつ、怠慢、離職意向を診断できない。",
+      "label": "不支持",
+      "relationship": "診断・推論",
+      "scope": [
+        "個人判断"
+      ],
+      "sources": [
+        "macey-schneider-2008",
+        "bailey-2017"
+      ],
+      "limits": [
+        "必要なら別の適切な評価と支援を行う"
+      ],
+      "last_searched": "2026-07-11",
+      "last_human_verified": "2026-07-11",
+      "license": "CC BY 4.0"
+    }
+  ]
+}

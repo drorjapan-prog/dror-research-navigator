@@ -1,0 +1,77 @@
+{
+  "version": "0.1",
+  "release_decision": "完成条件を満たす（次分野へ移行可）",
+  "dimensions": [
+    {
+      "id": "work-definition",
+      "status": "complete",
+      "evidence": "仕事分析、要件、基準、変化、相互依存"
+    },
+    {
+      "id": "selection-validity",
+      "status": "complete",
+      "evidence": "面接、SJT、職務サンプル、性格、誠実性、経歴情報"
+    },
+    {
+      "id": "decision-integration",
+      "status": "complete",
+      "evidence": "構造化、機械的統合、人の再審査、範囲制限"
+    },
+    {
+      "id": "applicant-fairness",
+      "status": "complete",
+      "evidence": "職務関連性、説明、発言、尊重、訂正、辞退者"
+    },
+    {
+      "id": "discrimination",
+      "status": "complete",
+      "evidence": "フィールド実験、群別影響、代理変数、交差性"
+    },
+    {
+      "id": "accommodation",
+      "status": "complete",
+      "evidence": "合理的配慮、代替評価、配慮情報の分離"
+    },
+    {
+      "id": "recruitment",
+      "status": "complete",
+      "evidence": "募集到達、RJP、ブランド、紹介、求人条件"
+    },
+    {
+      "id": "privacy-screening",
+      "status": "complete",
+      "evidence": "SNS、背景確認、照会、選考課題、保存・二次利用"
+    },
+    {
+      "id": "algorithmic-hiring",
+      "status": "complete",
+      "evidence": "データ、ラベル、代理変数、群別誤差、説明、停止・救済"
+    },
+    {
+      "id": "offers-probation",
+      "status": "complete",
+      "evidence": "条件明示、変更、試用基準、支援、異議"
+    },
+    {
+      "id": "onboarding",
+      "status": "complete",
+      "evidence": "役割明確性、習熟、受容、支援、プロアクティビティ"
+    },
+    {
+      "id": "socialization-rights",
+      "status": "complete",
+      "evidence": "同化・忠誠強制の禁止、心理的契約、退出の自由"
+    },
+    {
+      "id": "openness",
+      "status": "complete",
+      "evidence": "主張・研究・用語・採否・質・更新を公開"
+    }
+  ],
+  "remaining_non_blocking": [
+    "日本の採用手法別妥当性・群別影響を公開する研究は追加可能",
+    "生成AIによる求人作成・候補者検索・面接支援の独立監査は発展途上",
+    "非正規・委託・移民・小規模事業所のオンボーディング研究は更新優先",
+    "試用期間・内定取消・条件変更の比較実証研究は限定的"
+  ]
+}

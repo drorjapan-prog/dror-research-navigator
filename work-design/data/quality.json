@@ -1,0 +1,418 @@
+{
+  "name": "仕事の設計・裁量・役割 研究の質と限界",
+  "version": "0.1",
+  "notice": "簡易評価であり正式なRoB評価ではない。",
+  "assessments": [
+    {
+      "study_id": "rizzo-1970",
+      "design": "construct development and field study",
+      "strength": "理論・測定研究",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "古典的尺度研究",
+        "尺度項目は再配布しない",
+        "現在の多様な働き方への適合を確認"
+      ]
+    },
+    {
+      "study_id": "hackman-oldham-1976",
+      "design": "theory test and field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "自己報告・相関を含む",
+        "個人差・文脈差",
+        "五特性だけで仕事全体を表さない"
+      ]
+    },
+    {
+      "study_id": "karasek-1979",
+      "design": "theory and observational study",
+      "strength": "理論・測定研究",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "観察研究",
+        "交互作用の再現性は後続研究で限定",
+        "職務・国差"
+      ]
+    },
+    {
+      "study_id": "jackson-schuler-1985",
+      "design": "meta-analysis and conceptual critique",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "古典的統合",
+        "研究間異質性",
+        "因果方向"
+      ]
+    },
+    {
+      "study_id": "fried-ferris-1987",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "研究時代・測定の制約",
+        "全ての理論経路が同程度に支持されたわけでない"
+      ]
+    },
+    {
+      "study_id": "tubre-collins-2000",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "関連であり因果確定ではない",
+        "仕事・尺度の異質性"
+      ]
+    },
+    {
+      "study_id": "demerouti-2001",
+      "design": "multisample field study",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "観察研究",
+        "要求・資源を無制限に拡張しない",
+        "職種差"
+      ]
+    },
+    {
+      "study_id": "wrzesniewski-dutton-2001",
+      "design": "conceptual theory",
+      "strength": "理論・測定研究",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "概念論文",
+        "介入効果の証明ではない",
+        "組織の設計責任を代替しない"
+      ]
+    },
+    {
+      "study_id": "gagne-deci-2005",
+      "design": "integrative theory review",
+      "strength": "理論・測定研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "概念・統合論文",
+        "自律性を放任と同一視しない"
+      ]
+    },
+    {
+      "study_id": "morgeson-humphrey-2006",
+      "design": "measurement and field study",
+      "strength": "理論・測定研究",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "自己報告を含む",
+        "尺度項目・採点権利を確認",
+        "診断だけで改善を保証しない"
+      ]
+    },
+    {
+      "study_id": "humphrey-2007",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "相関研究を多く含む",
+        "平均関連を個別職務へ直結しない"
+      ]
+    },
+    {
+      "study_id": "bakker-demerouti-2007",
+      "design": "integrative review",
+      "strength": "理論・測定研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "モデルの広さが反証可能性を弱め得る",
+        "因果・測定を個別確認"
+      ]
+    },
+    {
+      "study_id": "gajendran-harrison-2007",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "パンデミック前の任意テレワーク中心",
+        "職種・頻度・選択可能性の差"
+      ]
+    },
+    {
+      "study_id": "grant-2007",
+      "design": "conceptual theory",
+      "strength": "理論・測定研究",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "概念論文",
+        "感情労働・境界・負担も確認"
+      ]
+    },
+    {
+      "study_id": "grant-2008",
+      "design": "field experiments",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "特定職務・介入",
+        "意味づけの強制や感情負担に注意"
+      ]
+    },
+    {
+      "study_id": "sonnentag-fritz-2007",
+      "design": "measurement and field study",
+      "strength": "理論・測定研究",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "自己報告",
+        "回復を過重要求の代替にしない",
+        "尺度利用条件を確認"
+      ]
+    },
+    {
+      "study_id": "tims-bakker-2010",
+      "design": "conceptual theory",
+      "strength": "理論・測定研究",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "概念論文",
+        "組織的再設計の代替ではない"
+      ]
+    },
+    {
+      "study_id": "joyce-2010",
+      "design": "systematic review",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "研究数・質の制約",
+        "柔軟性の種類が異質",
+        "使用者都合の柔軟化と区別"
+      ]
+    },
+    {
+      "study_id": "eatough-2012",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "自己報告・観察研究を含む",
+        "身体的曝露・個人差と併せて評価",
+        "因果方向"
+      ]
+    },
+    {
+      "study_id": "kelly-2014",
+      "design": "group-randomized workplace intervention",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "特定企業・職種",
+        "複合介入で成分効果を分離困難"
+      ]
+    },
+    {
+      "study_id": "kubicek-2015",
+      "design": "measurement and field study",
+      "strength": "理論・測定研究",
+      "directness": "基礎理論・測定",
+      "key_limits": [
+        "自己報告",
+        "因果確定ではない",
+        "尺度利用条件を確認"
+      ]
+    },
+    {
+      "study_id": "bowling-2015",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "主観的仕事量を多く含む",
+        "仕事量の定義・測定が異質",
+        "因果方向"
+      ]
+    },
+    {
+      "study_id": "moen-2016",
+      "design": "group-randomized workplace intervention",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "特定企業・職種",
+        "複合介入",
+        "実装条件"
+      ]
+    },
+    {
+      "study_id": "vandenbroeck-2016",
+      "design": "meta-analytic review",
+      "strength": "理論・測定研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "自己報告・横断研究を含む",
+        "裁量制度と自律性欲求充足を区別"
+      ]
+    },
+    {
+      "study_id": "kecklund-axelsson-2016",
+      "design": "clinical and occupational review",
+      "strength": "理論・測定研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "勤務表・個人差の異質性",
+        "個人診断ではない",
+        "職種別設計が必要"
+      ]
+    },
+    {
+      "study_id": "parker-2017",
+      "design": "centennial review",
+      "strength": "理論・測定研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "ナラティブレビュー",
+        "介入効果の再計算ではない"
+      ]
+    },
+    {
+      "study_id": "bakker-demerouti-2017",
+      "design": "integrative review",
+      "strength": "理論・測定研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "広い枠組み",
+        "全変数を事後的に分類しない",
+        "因果を個別確認"
+      ]
+    },
+    {
+      "study_id": "rudolph-2017",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "相関研究中心",
+        "逆因果・共通方法",
+        "個人努力で組織問題を解決しない"
+      ]
+    },
+    {
+      "study_id": "bruning-campion-2018",
+      "design": "multimethod field research",
+      "strength": "介入・実証研究",
+      "directness": "介入・実証研究",
+      "key_limits": [
+        "観察研究を含む",
+        "回避行動の文脈・必要性を確認"
+      ]
+    },
+    {
+      "study_id": "lichtenthaler-2019",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "相関研究を多く含む",
+        "尺度・定義の異質性"
+      ]
+    },
+    {
+      "study_id": "puranik-2019",
+      "design": "integrative review",
+      "strength": "理論・測定研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "レビュー",
+        "通知オフだけで構造的割込みを解決しない"
+      ]
+    },
+    {
+      "study_id": "oprea-2019",
+      "design": "meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "研究数・標本の制約",
+        "追跡期間",
+        "個人介入中心"
+      ]
+    },
+    {
+      "study_id": "kellogg-2020",
+      "design": "integrative review",
+      "strength": "理論・測定研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "統合レビュー",
+        "産業・技術の急速な変化",
+        "効果量統合ではない"
+      ]
+    },
+    {
+      "study_id": "pega-2021",
+      "design": "systematic risk assessment",
+      "strength": "理論・測定研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "モデル推計",
+        "個人の因果診断ではない",
+        "労働時間の質・選択等を分離しない"
+      ]
+    },
+    {
+      "study_id": "parent-parker-2022",
+      "design": "integrative conceptual review",
+      "strength": "理論・測定研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "概念・統合研究",
+        "急速に変化する技術",
+        "長期介入効果は未確立"
+      ]
+    },
+    {
+      "study_id": "huth-2023",
+      "design": "Bayesian meta-analysis",
+      "strength": "統合研究",
+      "directness": "統合研究",
+      "key_limits": [
+        "主効果や他の条件を否定しない",
+        "測定・研究設計の制約"
+      ]
+    },
+    {
+      "study_id": "ilo-1997",
+      "design": "official code of practice",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "拘束的条約ではない",
+        "国内法を別途確認"
+      ]
+    },
+    {
+      "study_id": "who-2022",
+      "design": "official evidence-based guideline",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "仕事設計専用ではない",
+        "国内制度・個別状況を確認"
+      ]
+    },
+    {
+      "study_id": "eu-platform-2024",
+      "design": "official legal instrument",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "EUプラットフォーム労働に関する法令",
+        "日本へ直接適用されない",
+        "国内実装状況を確認"
+      ]
+    }
+  ]
+}

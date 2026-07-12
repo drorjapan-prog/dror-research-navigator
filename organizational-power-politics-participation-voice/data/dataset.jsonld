@@ -1,0 +1,25 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "働く人の心理学・組織研究ナビ：組織の権力・組織政治・従業員参加・発言権",
+  "description": "権力・地位・組織政治・発言・沈黙・従業員参加・代表・エンパワメントの主張、研究、用語、検索、質評価、完成監査。",
+  "url": "https://research.dror.co.jp/organizational-power-politics-participation-voice/pages/evidence-map.html",
+  "creator": {
+    "@type": "Organization",
+    "@id": "https://dror.co.jp/#organization",
+    "name": "株式会社DroR",
+    "alternateName": "DroR Corporation",
+    "url": "https://dror.co.jp"
+  },
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "version": "0.1",
+  "dateModified": "2026-07-12",
+  "inLanguage": "ja",
+  "publisher": {
+    "@type": "Organization",
+    "@id": "https://dror.co.jp/#organization",
+    "name": "株式会社DroR",
+    "alternateName": "DroR Corporation",
+    "url": "https://dror.co.jp"
+  }
+}

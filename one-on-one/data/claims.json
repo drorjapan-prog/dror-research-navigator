@@ -1,0 +1,411 @@
+{
+  "name": "1on1・上司部下面談 主張レジスター",
+  "version": "0.1",
+  "license": "CC BY 4.0",
+  "claims": [
+    {
+      "id": "OO-C01",
+      "claim": "マネジャーと直属部下の1on1を焦点にした直接実証研究は限られ、効果の断定はできない。",
+      "label": "A",
+      "relationship": "研究基盤の評価",
+      "scope": [
+        "定期1on1"
+      ],
+      "sources": [
+        "flinchum-2022"
+      ],
+      "limits": [
+        "隣接研究は設計根拠になるが1on1効果の証明ではない"
+      ],
+      "directness": "1on1直接（概念レビュー）",
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OO-C02",
+      "claim": "1on1は査定、業務進捗、育成、コーチング、相談、関係構築等の目的を分けて設計する必要がある。",
+      "label": "実務原則",
+      "relationship": "概念整理",
+      "scope": [
+        "上司部下面談"
+      ],
+      "sources": [
+        "flinchum-2022",
+        "pulakos-2011"
+      ],
+      "limits": [
+        "目的を増やしすぎると安全性と時間が損なわれる"
+      ],
+      "directness": "混合（1on1直接概念＋隣接研究）",
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OO-C03",
+      "claim": "フィードバック介入は平均で業績を改善するが、3分の1超で業績低下が報告された。",
+      "label": "A",
+      "relationship": "介入効果",
+      "scope": [
+        "フィードバック一般"
+      ],
+      "sources": [
+        "kluger-denisi-1996"
+      ],
+      "limits": [
+        "1on1固有でない",
+        "自己への注意、曖昧さ、脅威等で逆効果"
+      ],
+      "directness": "隣接研究",
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OO-C04",
+      "claim": "具体的で挑戦的な目標は、能力・コミットメント・フィードバック等の条件下で業績に寄与する。",
+      "label": "A",
+      "relationship": "理論・介入知見",
+      "scope": [
+        "目標設定一般"
+      ],
+      "sources": [
+        "locke-latham-2002"
+      ],
+      "limits": [
+        "複雑課題、学習、倫理、目標葛藤に注意",
+        "1on1固有でない"
+      ],
+      "directness": "隣接研究",
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OO-C05",
+      "claim": "人事評価への参加は評価反応と関連するが、育成1on1の効果とは同義でない。",
+      "label": "A",
+      "relationship": "関連",
+      "scope": [
+        "評価面談"
+      ],
+      "sources": [
+        "cawley-1998",
+        "keeping-levy-2000",
+        "pichler-2012"
+      ],
+      "limits": [
+        "反応と業績を区別",
+        "評価権力がある"
+      ],
+      "directness": "隣接研究",
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OO-C06",
+      "claim": "上司部下関係の質は態度・業績・離職等と関連するが、1on1頻度の因果効果ではない。",
+      "label": "A",
+      "relationship": "関連",
+      "scope": [
+        "LMX研究"
+      ],
+      "sources": [
+        "gerstner-day-1997",
+        "martin-2016"
+      ],
+      "limits": [
+        "関係の質と面談回数を混同しない",
+        "内集団・外集団格差"
+      ],
+      "directness": "隣接研究",
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OO-C07",
+      "claim": "管理職の開放性と心理的安全性は、発言・学習と関連する。",
+      "label": "A",
+      "relationship": "関連",
+      "scope": [
+        "職場・チーム"
+      ],
+      "sources": [
+        "detert-burris-2007",
+        "edmondson-1999",
+        "frazier-2017"
+      ],
+      "limits": [
+        "「何でも話して」と言うだけでは形成されない",
+        "1on1固有でない"
+      ],
+      "directness": "隣接研究",
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OO-C08",
+      "claim": "良質な傾聴は話者の感情・認知・関係へ影響し得るが、聞くことは同意や解決を保証しない。",
+      "label": "B",
+      "relationship": "統合知見",
+      "scope": [
+        "職場の傾聴"
+      ],
+      "sources": [
+        "kluger-itzchakov-2022"
+      ],
+      "limits": [
+        "測定・文脈の異質性",
+        "傾聴の演技にしない"
+      ],
+      "directness": "隣接研究",
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OO-C09",
+      "claim": "職場コーチングは肯定的平均効果を示すが、専門コーチ研究を管理職1on1へ直接外挿できない。",
+      "label": "B",
+      "relationship": "介入効果と外的妥当性",
+      "scope": [
+        "職場コーチング"
+      ],
+      "sources": [
+        "theeboom-2014",
+        "jones-2016",
+        "cannon-bowers-2023"
+      ],
+      "limits": [
+        "Jonesらは管理職—部下コーチングを除外",
+        "研究品質・異質性"
+      ],
+      "directness": "隣接研究",
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OO-C10",
+      "claim": "多面フィードバック後の業績改善は平均して小さく、受容・目標・行動・支援等に左右される。",
+      "label": "B",
+      "relationship": "介入後変化",
+      "scope": [
+        "多面評価"
+      ],
+      "sources": [
+        "smither-2005"
+      ],
+      "limits": [
+        "1on1固有でない",
+        "評価情報の量が改善を保証しない"
+      ],
+      "directness": "隣接研究",
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OO-C11",
+      "claim": "フィードバックを求める行動は個人動機と文脈に左右されるため、質問がないことを問題なしと解釈できない。",
+      "label": "A",
+      "relationship": "関連",
+      "scope": [
+        "フィードバック探索"
+      ],
+      "sources": [
+        "anseel-2015",
+        "morrison-2014"
+      ],
+      "limits": [
+        "沈黙には恐れ・無力感・関係維持がある"
+      ],
+      "directness": "隣接研究",
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OO-C12",
+      "claim": "1on1の頻度に万能な正解はなく、目的、変化速度、経験、負荷、希望に応じて設計・再評価する。",
+      "label": "実務原則",
+      "relationship": "直接証拠不足下の設計",
+      "scope": [
+        "定期1on1"
+      ],
+      "sources": [
+        "flinchum-2022"
+      ],
+      "limits": [
+        "週次・隔週等の優越を示す直接比較試験は不足"
+      ],
+      "directness": "1on1直接（概念レビュー）",
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OO-C13",
+      "claim": "発言機会を設けても、管理職が応答・是正せず不利益を与えるならvoiceの場として機能しない。",
+      "label": "A",
+      "relationship": "発言と応答",
+      "scope": [
+        "面談・職場"
+      ],
+      "sources": [
+        "detert-burris-2007",
+        "morrison-2014"
+      ],
+      "limits": [
+        "全提案を採用する義務とは異なり、検討・理由・保護が必要"
+      ],
+      "directness": "隣接研究",
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OO-C14",
+      "claim": "1on1メモは労働者個人データであり、目的・閲覧者・保存期間・訂正権を明示する必要がある。",
+      "label": "実務原則",
+      "relationship": "データガバナンス",
+      "scope": [
+        "面談記録"
+      ],
+      "sources": [
+        "ilo-1997"
+      ],
+      "limits": [
+        "国内法・就業規則を別途確認"
+      ],
+      "directness": "公式指針・データガバナンス",
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OO-C15",
+      "claim": "本人への説明なしに録音・自動文字起こし・感情推定を行うことを本ナビは支持しない。",
+      "label": "不支持",
+      "relationship": "監視・同意",
+      "scope": [
+        "1on1記録"
+      ],
+      "sources": [
+        "ilo-1997"
+      ],
+      "limits": [
+        "法的要件は地域で異なる",
+        "同意があっても必要性・最小化を確認"
+      ],
+      "directness": "公式指針・データガバナンス",
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OO-C16",
+      "claim": "私生活、健康、家族、診断等の自己開示を1on1で強制してはならない。",
+      "label": "不支持",
+      "relationship": "権力・プライバシー",
+      "scope": [
+        "上司部下面談"
+      ],
+      "sources": [
+        "ilo-1997",
+        "who-2022"
+      ],
+      "limits": [
+        "安全・配慮に必要な情報も本人の選択と適切な専門経路を優先"
+      ],
+      "directness": "公式指針・データガバナンス",
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OO-C17",
+      "claim": "育成1on1の内容を本人への予告なく査定・懲戒・退職勧奨へ転用してはならない。",
+      "label": "不支持",
+      "relationship": "目的外利用・権力",
+      "scope": [
+        "面談記録・発言"
+      ],
+      "sources": [
+        "ilo-1997",
+        "cawley-1998"
+      ],
+      "limits": [
+        "評価面談は目的・証拠・異議申立てを別途明示"
+      ],
+      "directness": "混合（隣接研究＋公式指針）",
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OO-C18",
+      "claim": "管理職は医療・心理支援の専門家ではなく、1on1を診断・治療の代替にできない。",
+      "label": "A",
+      "relationship": "役割境界",
+      "scope": [
+        "健康相談"
+      ],
+      "sources": [
+        "who-2022"
+      ],
+      "limits": [
+        "緊急性確認と適切な支援への接続は必要"
+      ],
+      "directness": "公式指針・データガバナンス",
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OO-C19",
+      "claim": "1on1評価は実施率や満足度だけでなく、行動・仕事条件・発言への応答・公平性・副作用を追う必要がある。",
+      "label": "実務原則",
+      "relationship": "評価設計",
+      "scope": [
+        "組織施策"
+      ],
+      "sources": [
+        "flinchum-2022",
+        "kluger-denisi-1996",
+        "pichler-2012"
+      ],
+      "limits": [
+        "直接の標準アウトカムセットは未確立"
+      ],
+      "directness": "混合（1on1直接概念＋隣接研究）",
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "OO-C20",
+      "claim": "管理職ごとの1on1満足度ランキングや報酬直結は、報復懸念・迎合・小標本誤差を生み得るため支持しない。",
+      "label": "不支持",
+      "relationship": "高重要度利用",
+      "scope": [
+        "1on1サーベイ"
+      ],
+      "sources": [
+        "frazier-2017",
+        "ilo-1997"
+      ],
+      "limits": [
+        "集団改善と個人査定を分ける"
+      ],
+      "directness": "予防原則に基づく推論",
+      "last_searched": "2026-07-12",
+      "last_human_verified": "2026-07-12",
+      "license": "CC BY 4.0"
+    }
+  ]
+}

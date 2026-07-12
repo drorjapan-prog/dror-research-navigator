@@ -1,0 +1,55 @@
+{
+  "version": "0.1",
+  "release_decision": "完成条件を満たす（次分野へ移行可）",
+  "dimensions": [
+    {
+      "id": "definition",
+      "status": "complete",
+      "evidence": "Kahn系、UWES型、employee engagementの多義性を区別"
+    },
+    {
+      "id": "measurement",
+      "status": "complete",
+      "evidence": "UWES、日本語版、超短縮版、文化間不変性、権利を収録"
+    },
+    {
+      "id": "antecedents",
+      "status": "complete",
+      "evidence": "JD-R、資源、挑戦・阻害要求、縦断統合を収録"
+    },
+    {
+      "id": "outcomes",
+      "status": "complete",
+      "evidence": "業績・欠勤と逆因果、限界を収録"
+    },
+    {
+      "id": "interventions",
+      "status": "complete",
+      "evidence": "3系統の統合研究と実装・評価限界を収録"
+    },
+    {
+      "id": "boundaries",
+      "status": "complete",
+      "evidence": "満足、コミットメント、バーンアウト、ワーカホリズムを分離"
+    },
+    {
+      "id": "japan",
+      "status": "complete",
+      "evidence": "日本語尺度、文化比較、日本の縦断研究を収録"
+    },
+    {
+      "id": "ethics",
+      "status": "complete",
+      "evidence": "熱意強制、人事利用、長時間労働、プライバシーを明示"
+    },
+    {
+      "id": "openness",
+      "status": "complete",
+      "evidence": "主張・研究・用語・採否・質評価・引用を機械可読化"
+    }
+  ],
+  "remaining_non_blocking": [
+    "正式な多人数システマティックレビューではない",
+    "新規研究は更新規則に従い追加する"
+  ]
+}

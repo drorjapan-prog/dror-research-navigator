@@ -1,0 +1,127 @@
+{
+  "name": "心理的安全性 用語集",
+  "version": "0.4",
+  "license": "CC BY 4.0",
+  "terms": [
+    {
+      "term": "心理的安全性",
+      "en": "psychological safety",
+      "definition": "質問・相談・異論・失敗報告などの対人リスクを伴う行動をとっても、不利益を受けにくいという認識。"
+    },
+    {
+      "term": "対人リスク",
+      "en": "interpersonal risk",
+      "definition": "無知、無能、否定的、邪魔だと思われる可能性を伴う対人的な行動。"
+    },
+    {
+      "term": "発言行動",
+      "en": "voice behavior",
+      "definition": "仕事や組織の改善を目的に、提案・懸念・異論などを自発的に表明する行動。"
+    },
+    {
+      "term": "学習行動",
+      "en": "learning behavior",
+      "definition": "質問、フィードバック探索、実験、振り返り、失敗からの検討など、学習を生む行動。"
+    },
+    {
+      "term": "相関",
+      "en": "correlation",
+      "definition": "二つの変数が一緒に変化する傾向。片方がもう片方の原因であるとは限らない。"
+    },
+    {
+      "term": "因果関係",
+      "en": "causality",
+      "definition": "ある要因の変化が別の結果の変化を生む関係。研究設計による検証が必要。"
+    },
+    {
+      "term": "メタ分析",
+      "en": "meta-analysis",
+      "definition": "複数研究の統計結果を一定の方法で統合する研究手法。"
+    },
+    {
+      "term": "システマティックレビュー",
+      "en": "systematic review",
+      "definition": "事前に定めた方法で研究を検索・選定・評価・統合するレビュー。"
+    },
+    {
+      "term": "横断研究",
+      "en": "cross-sectional study",
+      "definition": "ある時点で変数を測定する研究。関連は調べられるが、時間順序と因果の判断に限界がある。"
+    },
+    {
+      "term": "尺度",
+      "en": "scale",
+      "definition": "直接観察しにくい概念を複数の質問項目などで測定する道具。"
+    },
+    {
+      "term": "共通方法バイアス",
+      "en": "common method bias",
+      "definition": "同じ回答者・同じ時点・同じ方法で測ることで関連が過大になる可能性。"
+    },
+    {
+      "term": "境界条件",
+      "en": "boundary condition",
+      "definition": "ある関係が成り立つ範囲や、強さ・方向が変わる条件。"
+    },
+    {
+      "term": "集団的説明責任",
+      "en": "collective accountability",
+      "definition": "チームが意思決定や行動について説明し、結果を引き受ける共有された状態。"
+    },
+    {
+      "term": "査読",
+      "en": "peer review",
+      "definition": "論文掲載前に同分野の研究者が方法や論理を検討する過程。正しさの最終保証ではない。"
+    },
+    {
+      "term": "信頼",
+      "en": "trust",
+      "definition": "他者が自分にとって重要な行為を適切に行うという期待。二者関係を扱うことが多く、チーム内の対人リスク認識とは同一ではない。"
+    },
+    {
+      "term": "包摂",
+      "en": "inclusion",
+      "definition": "所属感を保ちながら固有性が認められ、参加できる状態。心理的安全性と重なるが、同一概念ではない。"
+    },
+    {
+      "term": "心理社会的安全風土",
+      "en": "psychosocial safety climate",
+      "definition": "働く人の心理的健康と安全を守るための経営の優先順位、方針、手続、参加に関する共有認識。"
+    },
+    {
+      "term": "発言風土",
+      "en": "voice climate",
+      "definition": "提案や懸念を表明することが期待・支持されるという集団の共有認識。実際の発言行動とも心理的安全性とも区別する。"
+    },
+    {
+      "term": "組織的公正",
+      "en": "organizational justice",
+      "definition": "意思決定、資源配分、対人対応、説明が公正であるという認識。"
+    },
+    {
+      "term": "報復",
+      "en": "retaliation",
+      "definition": "相談、異論、申告、研究参加などを理由に、評価・配置・関係・契約等で不利益を与えること。"
+    },
+    {
+      "term": "秘密保持",
+      "en": "confidentiality",
+      "definition": "回答者や相談者を特定し得る情報へのアクセスと利用目的を制限すること。匿名性とは異なる。"
+    },
+    {
+      "term": "交差性",
+      "en": "intersectionality",
+      "definition": "人種、性別、障害、雇用形態、職位など複数の社会的位置が重なって経験を形づくるという視点。"
+    },
+    {
+      "term": "測定不変性",
+      "en": "measurement invariance",
+      "definition": "集団や時点が違っても、尺度が同じ構成概念を同じように測っているかという性質。"
+    },
+    {
+      "term": "監視利用",
+      "en": "surveillance use",
+      "definition": "改善ではなく個人特定、査定、懲戒、管理職ランキング等を目的に回答や行動データを利用すること。"
+    }
+  ]
+}

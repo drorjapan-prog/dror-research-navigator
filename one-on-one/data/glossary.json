@@ -1,0 +1,162 @@
+{
+  "name": "1on1・上司部下面談 用語集",
+  "version": "0.1",
+  "license": "CC BY 4.0",
+  "terms": [
+    {
+      "id": "one-on-one",
+      "term": "1on1",
+      "definition": "マネジャーと直属部下が定期的に行う二者面談。"
+    },
+    {
+      "id": "dyad",
+      "term": "ダイアド",
+      "definition": "二者からなる関係・相互作用単位。"
+    },
+    {
+      "id": "direct-report",
+      "term": "直属部下",
+      "definition": "当該管理職へ直接報告する従業員。"
+    },
+    {
+      "id": "developmental-conversation",
+      "term": "育成対話",
+      "definition": "学習、成長、キャリア、仕事改善を目的とする対話。"
+    },
+    {
+      "id": "performance-appraisal",
+      "term": "人事評価面談",
+      "definition": "評価結果・根拠・処遇等を扱う公式面談。"
+    },
+    {
+      "id": "check-in",
+      "term": "チェックイン",
+      "definition": "短い定期確認。状態、優先順位、障害等を扱う。"
+    },
+    {
+      "id": "coaching",
+      "term": "コーチング",
+      "definition": "問いと振り返り等を通じ目標達成・学習を支援する介入。"
+    },
+    {
+      "id": "managerial-coaching",
+      "term": "管理職コーチング",
+      "definition": "管理職が部下の学習・遂行を支援する行動。"
+    },
+    {
+      "id": "active-listening",
+      "term": "積極的傾聴",
+      "definition": "注意、理解確認、応答を伴う聞き方。"
+    },
+    {
+      "id": "voice",
+      "term": "従業員の声",
+      "definition": "改善・懸念・異論を任意に伝える行動。"
+    },
+    {
+      "id": "silence",
+      "term": "沈黙",
+      "definition": "関連情報を意図的に伝えないこと。理由は多様。"
+    },
+    {
+      "id": "psychological-safety",
+      "term": "心理的安全性",
+      "definition": "対人リスクを取っても安全だという共有認知。"
+    },
+    {
+      "id": "feedback",
+      "term": "フィードバック",
+      "definition": "行動・結果・進捗に関する情報。"
+    },
+    {
+      "id": "feedback-intervention",
+      "term": "フィードバック介入",
+      "definition": "基準との比較情報を与え行動を変えようとする働きかけ。"
+    },
+    {
+      "id": "feedback-seeking",
+      "term": "フィードバック探索",
+      "definition": "本人が評価・改善情報を求める行動。"
+    },
+    {
+      "id": "feedforward",
+      "term": "フィードフォワード",
+      "definition": "未来の行動・選択肢へ焦点を置く対話。"
+    },
+    {
+      "id": "goal-setting",
+      "term": "目標設定",
+      "definition": "達成対象・水準・期限等を定めること。"
+    },
+    {
+      "id": "learning-goal",
+      "term": "学習目標",
+      "definition": "能力・戦略の獲得を重視する目標。"
+    },
+    {
+      "id": "performance-goal",
+      "term": "遂行目標",
+      "definition": "特定成果・評価水準の達成を重視する目標。"
+    },
+    {
+      "id": "goal-commitment",
+      "term": "目標コミットメント",
+      "definition": "目標を達成しようとする決意。"
+    },
+    {
+      "id": "action-item",
+      "term": "アクション項目",
+      "definition": "面談後に誰がいつ何をするかという約束。"
+    },
+    {
+      "id": "follow-up",
+      "term": "フォローアップ",
+      "definition": "約束・状況・支援を次回までに確認すること。"
+    },
+    {
+      "id": "lmx",
+      "term": "LMX",
+      "definition": "上司と部下の二者関係の質を扱う理論。"
+    },
+    {
+      "id": "appraisal-reaction",
+      "term": "評価反応",
+      "definition": "評価の公正・正確性・有用性・満足等の受け止め。"
+    },
+    {
+      "id": "multisource-feedback",
+      "term": "多面フィードバック",
+      "definition": "上司、同僚、部下等の複数情報源による評価。"
+    },
+    {
+      "id": "agenda",
+      "term": "アジェンダ",
+      "definition": "面談で扱う項目と目的。"
+    },
+    {
+      "id": "meeting-quality",
+      "term": "面談の質",
+      "definition": "目的適合、参加、傾聴、明確性、実行等の複合評価。"
+    },
+    {
+      "id": "confidentiality",
+      "term": "秘密保持",
+      "definition": "情報の共有範囲を限定し保護すること。"
+    },
+    {
+      "id": "purpose-limitation",
+      "term": "目的限定",
+      "definition": "収集時に示した目的を越えてデータを使わない原則。"
+    },
+    {
+      "id": "data-minimization",
+      "term": "データ最小化",
+      "definition": "目的に必要な最小限の情報だけを扱う原則。"
+    },
+    {
+      "id": "referral",
+      "term": "専門支援への接続",
+      "definition": "医療、産業保健、人事、相談窓口等へ適切につなぐこと。"
+    }
+  ]
+}

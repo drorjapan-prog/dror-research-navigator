@@ -1,0 +1,127 @@
+{
+  "name": "バーンアウト 用語集",
+  "version": "0.1",
+  "license": "CC BY 4.0",
+  "terms": [
+    {
+      "term": "バーンアウト",
+      "en": "burnout",
+      "definition": "慢性的な職場ストレスがうまく管理されなかった結果として概念化される職業上の現象。"
+    },
+    {
+      "term": "消耗",
+      "en": "exhaustion",
+      "definition": "エネルギーが使い果たされた感覚。代表的モデルの中核次元。"
+    },
+    {
+      "term": "冷笑",
+      "en": "cynicism",
+      "definition": "仕事への否定的・距離を置く態度。"
+    },
+    {
+      "term": "脱人格化",
+      "en": "depersonalization",
+      "definition": "対人援助職で、相手を非人間的・距離化して扱う反応。解離症状の用語とは別。"
+    },
+    {
+      "term": "職業的効力感",
+      "en": "professional efficacy",
+      "definition": "仕事を有能に遂行できているという感覚。"
+    },
+    {
+      "term": "仕事要求度",
+      "en": "job demands",
+      "definition": "持続的な努力を要し、負担と結びつき得る仕事の側面。"
+    },
+    {
+      "term": "仕事資源",
+      "en": "job resources",
+      "definition": "目標達成、要求への対処、成長を助ける仕事の側面。"
+    },
+    {
+      "term": "JD-Rモデル",
+      "en": "job demands–resources model",
+      "definition": "要求による消耗過程と、資源による動機づけ過程を扱う枠組み。"
+    },
+    {
+      "term": "ワーク・エンゲージメント",
+      "en": "work engagement",
+      "definition": "活力、熱意、没頭を特徴とする肯定的な仕事関連状態。"
+    },
+    {
+      "term": "抑うつ",
+      "en": "depression",
+      "definition": "気分、興味、認知、身体機能等に関わる臨床概念。バーンアウトと重なるが同一ではない。"
+    },
+    {
+      "term": "ストレス",
+      "en": "stress",
+      "definition": "要求と対処をめぐる心身の反応。短期のストレス経験だけでバーンアウトとは言えない。"
+    },
+    {
+      "term": "有病率",
+      "en": "prevalence",
+      "definition": "ある時点・期間に条件を満たす人の割合。定義と測定法で値が変わる。"
+    },
+    {
+      "term": "カットオフ",
+      "en": "cut-off",
+      "definition": "得点を区分する境界値。診断妥当性が保証されるとは限らない。"
+    },
+    {
+      "term": "MBI",
+      "en": "Maslach Burnout Inventory",
+      "definition": "代表的な商用バーンアウト尺度群。版・下位尺度・利用条件に注意。"
+    },
+    {
+      "term": "BAT",
+      "en": "Burnout Assessment Tool",
+      "definition": "消耗、精神的距離、認知・情緒的機能低下等を扱う比較的新しい尺度。"
+    },
+    {
+      "term": "OLBI",
+      "en": "Oldenburg Burnout Inventory",
+      "definition": "消耗と離脱を扱うバーンアウト尺度。"
+    },
+    {
+      "term": "測定不変性",
+      "en": "measurement invariance",
+      "definition": "集団や時点をまたいで同じ概念を同様に測れているかという性質。"
+    },
+    {
+      "term": "縦断研究",
+      "en": "longitudinal study",
+      "definition": "同じ対象を時間を隔てて追う研究。"
+    },
+    {
+      "term": "前向き研究",
+      "en": "prospective study",
+      "definition": "要因を測った後に結果の発生を追う研究。"
+    },
+    {
+      "term": "組織介入",
+      "en": "organizational intervention",
+      "definition": "仕事量、勤務、裁量、役割、資源、手続など職場側を変える介入。"
+    },
+    {
+      "term": "個人介入",
+      "en": "individual-directed intervention",
+      "definition": "対処、回復、認知、リラクゼーション等を個人へ提供する介入。"
+    },
+    {
+      "term": "復職",
+      "en": "return to work",
+      "definition": "休職者が仕事へ戻ること。症状改善とは別に評価する。"
+    },
+    {
+      "term": "再特定",
+      "en": "re-identification",
+      "definition": "匿名化された集計から個人を推測できる状態。"
+    },
+    {
+      "term": "心理社会的リスク",
+      "en": "psychosocial risk",
+      "definition": "仕事設計、管理、社会関係等から生じ得る心身の健康リスク。"
+    }
+  ]
+}
