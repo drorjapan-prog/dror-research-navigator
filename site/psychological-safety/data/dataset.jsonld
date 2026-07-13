@@ -3,7 +3,7 @@
   "@type": "Dataset",
   "name": "心理的安全性エビデンスデータ",
   "description": "心理的安全性に関する主張、研究、用語、検索プロトコル、採否記録、質評価、完成監査、更新規則。",
-  "url": "https://research.dror.co.jp/psychological-safety/pages/evidence-map.html",
+  "url": "https://research.dror.co.jp/psychological-safety/pages/evidence-map",
   "creator": {
     "@type": "Organization",
     "@id": "https://dror.co.jp/#organization",

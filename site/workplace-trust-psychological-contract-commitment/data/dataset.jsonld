@@ -3,7 +3,7 @@
   "@type": "Dataset",
   "name": "働く人の心理学・組織研究ナビ：職場の信頼・心理的契約・組織コミットメント",
   "description": "主張、研究、用語、検索、採否、質、完成監査。",
-  "url": "https://research.dror.co.jp/workplace-trust-psychological-contract-commitment/pages/evidence-map.html",
+  "url": "https://research.dror.co.jp/workplace-trust-psychological-contract-commitment/pages/evidence-map",
   "creator": {
     "@type": "Organization",
     "@id": "https://dror.co.jp/#organization",

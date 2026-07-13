@@ -3,7 +3,7 @@
   "@type": "Dataset",
   "name": "働く人の心理学・組織研究ナビ：バーンアウト",
   "description": "職業性バーンアウトの主張、研究、用語、検索、質評価、完成監査。",
-  "url": "https://research.dror.co.jp/burnout/pages/evidence-map.html",
+  "url": "https://research.dror.co.jp/burnout/pages/evidence-map",
   "creator": {
     "@type": "Organization",
     "@id": "https://dror.co.jp/#organization",

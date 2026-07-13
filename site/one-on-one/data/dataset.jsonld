@@ -3,7 +3,7 @@
   "@type": "Dataset",
   "name": "働く人の心理学・組織研究ナビ：1on1・上司部下面談",
   "description": "1on1・上司部下面談の主張、研究、用語、検索、質評価、完成監査。",
-  "url": "https://research.dror.co.jp/one-on-one/pages/evidence-map.html",
+  "url": "https://research.dror.co.jp/one-on-one/pages/evidence-map",
   "creator": {
     "@type": "Organization",
     "@id": "https://dror.co.jp/#organization",

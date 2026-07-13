@@ -3,7 +3,7 @@
   "@type": "Dataset",
   "name": "働く人の心理学・組織研究ナビ：採用・選抜・オンボーディング・組織社会化",
   "description": "仕事分析・募集・選抜・応募者公正・差別・AI採用・試用・オンボーディング・社会化の主張、研究、用語、検索、質評価、完成監査。",
-  "url": "https://research.dror.co.jp/recruitment-selection-onboarding-socialization/pages/evidence-map.html",
+  "url": "https://research.dror.co.jp/recruitment-selection-onboarding-socialization/pages/evidence-map",
   "creator": {
     "@type": "Organization",
     "@id": "https://dror.co.jp/#organization",
