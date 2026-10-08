@@ -1,5 +1,5 @@
 {
-  "version": "0.1",
+  "version": "0.1.1",
   "cadence": "四半期ごとの軽量検索、年1回の全主張再点検",
   "immediate_update_triggers": [
     "WHO・ICDの定義変更",

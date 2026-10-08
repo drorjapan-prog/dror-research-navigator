@@ -1,6 +1,6 @@
 {
   "name": "離職・定着 採用・除外記録",
-  "version": "0.1",
+  "version": "0.1.1",
   "screening": [
     {
       "id": "S01",

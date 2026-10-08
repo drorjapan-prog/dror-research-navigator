@@ -1,7 +1,7 @@
 {
   "name": "働く人の心理学・組織研究ナビ 更新履歴",
   "license": "CC BY 4.0",
-  "notice": "迅速エビデンスマップの更新記録であり、システマティックレビューではない。2026-10-08の更新は日本の公式資料の追加で、学術文献の再検索は行っていない。",
+  "notice": "迅速エビデンスマップの更新記録であり、システマティックレビューではない。2026-10-09の更新（7分野を v0.1.1 に）は日本の公式資料の追加で、学術文献の再検索は行っていない。追加資料の原文確認は2026-10-08〜09。主張の last_searched は、その主張の出典を探索した日で、公式資料の追加で新設・更新した主張では分野の文献最終確認日（学術文献の検索日）と異なる。原文の確認日は last_human_verified に記録する。",
   "fields": [
     "date",
     "field",
@@ -16,7 +16,7 @@
   ],
   "entries": [
     {
-      "date": "2026-10-08",
+      "date": "2026-10-09",
       "field": "第2分野 バーンアウト",
       "field_slug": "burnout",
       "change_type": "add_official_source",
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "date": "2026-10-08",
+      "date": "2026-10-09",
       "field": "第2分野 バーンアウト",
       "field_slug": "burnout",
       "change_type": "add_official_source",
@@ -46,12 +46,12 @@
       ]
     },
     {
-      "date": "2026-10-08",
+      "date": "2026-10-09",
       "field": "第2分野 バーンアウト",
       "field_slug": "burnout",
       "change_type": "add_claim",
       "before": null,
-      "after": "過労死等の労災請求・支給決定件数（2025年度は請求6,212件、支給決定1,310件）は、労災保険の請求・認定を集計した行政記録で、バーンアウトや精神障害の発生率そのものではない",
+      "after": "過労死等の労災請求・支給決定件数（2025年度は請求6,212件、支給決定1,310件）は、労災保険の請求・認定を集計した行政記録で、バーンアウトや、脳・心臓疾患、精神障害の発生率そのものではない",
       "reason": "追加した公式資料にもとづく主張",
       "source": "https://www.mhlw.go.jp/stf/newpage_74476.html",
       "affected_claim_ids": [
@@ -62,7 +62,7 @@
       ]
     },
     {
-      "date": "2026-10-08",
+      "date": "2026-10-09",
       "field": "第4分野 組織的公正",
       "field_slug": "organizational-justice",
       "change_type": "add_official_source",
@@ -78,7 +78,7 @@
       ]
     },
     {
-      "date": "2026-10-08",
+      "date": "2026-10-09",
       "field": "第4分野 組織的公正",
       "field_slug": "organizational-justice",
       "change_type": "add_claim",
@@ -94,7 +94,7 @@
       ]
     },
     {
-      "date": "2026-10-08",
+      "date": "2026-10-09",
       "field": "第5分野 離職・定着",
       "field_slug": "turnover-retention",
       "change_type": "add_official_source",
@@ -110,7 +110,7 @@
       ]
     },
     {
-      "date": "2026-10-08",
+      "date": "2026-10-09",
       "field": "第5分野 離職・定着",
       "field_slug": "turnover-retention",
       "change_type": "add_official_source",
@@ -126,7 +126,7 @@
       ]
     },
     {
-      "date": "2026-10-08",
+      "date": "2026-10-09",
       "field": "第5分野 離職・定着",
       "field_slug": "turnover-retention",
       "change_type": "add_claim",
@@ -142,7 +142,7 @@
       ]
     },
     {
-      "date": "2026-10-08",
+      "date": "2026-10-09",
       "field": "第5分野 離職・定着",
       "field_slug": "turnover-retention",
       "change_type": "update_claim",
@@ -159,7 +159,7 @@
       ]
     },
     {
-      "date": "2026-10-08",
+      "date": "2026-10-09",
       "field": "第13分野 キャリア形成・能力開発・職場学習・リスキリング",
       "field_slug": "career-learning-reskilling",
       "change_type": "add_official_source",
@@ -173,7 +173,7 @@
       ]
     },
     {
-      "date": "2026-10-08",
+      "date": "2026-10-09",
       "field": "第13分野 キャリア形成・能力開発・職場学習・リスキリング",
       "field_slug": "career-learning-reskilling",
       "change_type": "add_official_source",
@@ -189,7 +189,7 @@
       ]
     },
     {
-      "date": "2026-10-08",
+      "date": "2026-10-09",
       "field": "第13分野 キャリア形成・能力開発・職場学習・リスキリング",
       "field_slug": "career-learning-reskilling",
       "change_type": "add_official_source",
@@ -205,12 +205,12 @@
       ]
     },
     {
-      "date": "2026-10-08",
+      "date": "2026-10-09",
       "field": "第13分野 キャリア形成・能力開発・職場学習・リスキリング",
       "field_slug": "career-learning-reskilling",
       "change_type": "add_claim",
       "before": null,
-      "after": "能力開発基本調査（令和7年度）では、OFF-JTを受講した労働者は37.3%で、正社員44.5%・正社員以外19.4%、男性43.5%・女性29.8%と、雇用形態と性別で受講に差がある。",
+      "after": "能力開発基本調査（令和7年度）では、2024年度にOFF-JTを受講した労働者は37.3%で、正社員44.5%・正社員以外19.4%、男性43.5%・女性29.8%と、雇用形態と性別で受講に差がある。",
       "reason": "追加した公式資料にもとづく主張",
       "source": "https://www.mhlw.go.jp/stf/houdou/newpage_00233.html",
       "affected_claim_ids": [
@@ -221,7 +221,7 @@
       ]
     },
     {
-      "date": "2026-10-08",
+      "date": "2026-10-09",
       "field": "第13分野 キャリア形成・能力開発・職場学習・リスキリング",
       "field_slug": "career-learning-reskilling",
       "change_type": "add_claim",
@@ -237,7 +237,7 @@
       ]
     },
     {
-      "date": "2026-10-08",
+      "date": "2026-10-09",
       "field": "第15分野 柔軟勤務・リモートワーク・働く時間と境界管理",
       "field_slug": "flexible-remote-working-time",
       "change_type": "add_official_source",
@@ -253,7 +253,7 @@
       ]
     },
     {
-      "date": "2026-10-08",
+      "date": "2026-10-09",
       "field": "第15分野 柔軟勤務・リモートワーク・働く時間と境界管理",
       "field_slug": "flexible-remote-working-time",
       "change_type": "add_official_source",
@@ -269,7 +269,7 @@
       ]
     },
     {
-      "date": "2026-10-08",
+      "date": "2026-10-09",
       "field": "第15分野 柔軟勤務・リモートワーク・働く時間と境界管理",
       "field_slug": "flexible-remote-working-time",
       "change_type": "add_claim",
@@ -286,7 +286,7 @@
       ]
     },
     {
-      "date": "2026-10-08",
+      "date": "2026-10-09",
       "field": "第17分野 職場の対立・交渉・調停・関係修復",
       "field_slug": "workplace-conflict-negotiation-repair",
       "change_type": "add_official_source",
@@ -302,12 +302,12 @@
       ]
     },
     {
-      "date": "2026-10-08",
+      "date": "2026-10-09",
       "field": "第17分野 職場の対立・交渉・調停・関係修復",
       "field_slug": "workplace-conflict-negotiation-repair",
       "change_type": "add_claim",
       "before": null,
-      "after": "民事上の個別労働紛争の相談で「いじめ・嫌がらせ」が最多（2025年度55,614件）でも、2022年4月以降は職場のパワーハラスメントの相談がこの件数に計上されないため、2022年度をまたぐ年次比較やハラスメントの規模の推計に単独で使わない。",
+      "after": "民事上の個別労働紛争の相談で「いじめ・嫌がらせ」が最多（2025年度55,614件）でも、職場のパワーハラスメントの相談は、2022年4月の改正労働施策総合推進法の全面施行以降はすべてこの件数に計上されない。このため、この件数だけでは2021年度以前と2022年度以降を比べる年次比較や、ハラスメントの規模の推計はできない。",
       "reason": "追加した公式資料にもとづく主張",
       "source": "https://www.mhlw.go.jp/stf/houdou/newpage_00235.html",
       "affected_claim_ids": [
@@ -318,7 +318,7 @@
       ]
     },
     {
-      "date": "2026-10-08",
+      "date": "2026-10-09",
       "field": "第24分野 仕事と家庭・ケア・ワークライフ境界",
       "field_slug": "work-family-care-work-life-boundary",
       "change_type": "add_official_source",
@@ -334,7 +334,7 @@
       ]
     },
     {
-      "date": "2026-10-08",
+      "date": "2026-10-09",
       "field": "第24分野 仕事と家庭・ケア・ワークライフ境界",
       "field_slug": "work-family-care-work-life-boundary",
       "change_type": "add_claim",
@@ -350,12 +350,12 @@
       ]
     },
     {
-      "date": "2026-10-08",
+      "date": "2026-10-09",
       "field": "サイト全体",
       "field_slug": null,
       "change_type": "site",
       "before": null,
-      "after": "サイト全体の更新履歴（/changes と changes.json）を新設。変更した分野に「最終更新日」を表示。公開検査コード validate-public-data.mjs を現在のフォルダ構成で動くよう修正",
+      "after": "サイト全体の更新履歴（/changes と changes.json）を新設。変更した7分野の版を v0.1 から v0.1.1 に更新（ZIPのファイル名は据え置き）し、「最終更新日」を表示。公開検査コード validate-public-data.mjs を現在のフォルダ構成で動くよう修正",
       "reason": "更新の追跡可能性と第三者による再検査のため",
       "source": "https://research.dror.co.jp/changes",
       "affected_claim_ids": [],

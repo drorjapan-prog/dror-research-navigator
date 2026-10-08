@@ -17,4 +17,4 @@
 "recovery-time","休暇を取れば、仕事の条件を変えなくてもバーンアウトは必ず再発しない","不支持","practice-guardrail","individual|organization","perski-2017|maslach-leiter-2016","回復と復職は別の結果|元の要求・資源の不均衡が残れば再発し得る","2026-07-11"
 "manager-duty","管理職の役割は、疲弊した本人にセルフケアを勧めることだけである","不支持","organizational-duty","manager|organization","who-2022|de-simone-2019","業務量、裁量、役割、支援、公正、休息、医療アクセスを点検する必要","2026-07-11"
 "monitoring-ai","メール・チャット・表情等から本人に知らせずバーンアウトを推定してよい","不支持","ethical-guardrail","individual|organization","who-2022|rotenstein-2018","妥当性・同意・目的外利用・誤分類・差別の問題|研究尺度ですら定義が統一されない","2026-07-11"
-"workers-comp-counts","過労死等の労災請求・支給決定件数（2025年度は請求6,212件、支給決定1,310件）は、労災保険の請求・認定を集計した行政記録で、バーンアウトや精神障害の発生率そのものではない","A","statistical-definition","population|organization","mhlw-karoshi-rousai-2025","請求行動や認定基準の影響を受けうる|支給決定には前年度以前の請求を含む|職場の状態は、自組織の調査・記録で、プライバシーに配慮して確認する","2026-10-08"
+"workers-comp-counts","過労死等の労災請求・支給決定件数（2025年度は請求6,212件、支給決定1,310件）は、労災保険の請求・認定を集計した行政記録で、バーンアウトや、脳・心臓疾患、精神障害の発生率そのものではない","A","statistical-definition","population|organization","mhlw-karoshi-rousai-2025","請求行動や認定基準の影響を受けうる|支給決定には前年度以前の請求を含む|職場の状態は、自組織の調査・記録で、プライバシーに配慮して確認する","2026-10-09"
