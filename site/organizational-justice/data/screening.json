@@ -73,6 +73,12 @@
       "decision": "exclude",
       "reason": "公正感を法令順守の証拠とする資料",
       "source": "compliance-by-perception"
+    },
+    {
+      "id": "S13",
+      "decision": "include",
+      "reason": "日本の公式指針（待遇差の説明と不合理性）",
+      "source": "mhlw-equal-pay-guideline-2026"
     }
   ]
 }

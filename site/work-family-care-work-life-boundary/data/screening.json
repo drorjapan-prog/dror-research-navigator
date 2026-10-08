@@ -597,6 +597,13 @@
       "decision": "exclude",
       "source": "stale-law-summary",
       "reason": "現行性を確認できない二次法制度説明"
+    },
+    {
+      "id": "S087",
+      "decision": "include",
+      "reason": "日本の公的統計（育児休業取得者割合）",
+      "source": "mhlw-kintou-2025",
+      "evidence_role": "公式指針・制度"
     }
   ]
 }

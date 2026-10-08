@@ -1,0 +1,365 @@
+{
+  "name": "働く人の心理学・組織研究ナビ 更新履歴",
+  "license": "CC BY 4.0",
+  "notice": "迅速エビデンスマップの更新記録であり、システマティックレビューではない。2026-10-08の更新は日本の公式資料の追加で、学術文献の再検索は行っていない。",
+  "fields": [
+    "date",
+    "field",
+    "field_slug",
+    "change_type",
+    "before",
+    "after",
+    "reason",
+    "source",
+    "affected_claim_ids",
+    "affected_study_ids"
+  ],
+  "entries": [
+    {
+      "date": "2026-10-08",
+      "field": "第2分野 バーンアウト",
+      "field_slug": "burnout",
+      "change_type": "add_official_source",
+      "before": null,
+      "after": "令和7年度「過労死等の労災補償状況」（mhlw-karoshi-rousai-2025）を追加",
+      "reason": "2026年に公表・適用された日本の公式資料の追加",
+      "source": "https://www.mhlw.go.jp/stf/newpage_74476.html",
+      "affected_claim_ids": [
+        "workers-comp-counts"
+      ],
+      "affected_study_ids": [
+        "mhlw-karoshi-rousai-2025"
+      ]
+    },
+    {
+      "date": "2026-10-08",
+      "field": "第2分野 バーンアウト",
+      "field_slug": "burnout",
+      "change_type": "add_official_source",
+      "before": null,
+      "after": "令和7年 労働安全衛生調査（実態調査）結果の概況（mhlw-anei-2025）を追加",
+      "reason": "2026年に公表・適用された日本の公式資料の追加",
+      "source": "https://www.mhlw.go.jp/toukei/list/r07-46-50b.html",
+      "affected_claim_ids": [],
+      "affected_study_ids": [
+        "mhlw-anei-2025"
+      ]
+    },
+    {
+      "date": "2026-10-08",
+      "field": "第2分野 バーンアウト",
+      "field_slug": "burnout",
+      "change_type": "add_claim",
+      "before": null,
+      "after": "過労死等の労災請求・支給決定件数（2025年度は請求6,212件、支給決定1,310件）は、労災保険の請求・認定を集計した行政記録で、バーンアウトや精神障害の発生率そのものではない",
+      "reason": "追加した公式資料にもとづく主張",
+      "source": "https://www.mhlw.go.jp/stf/newpage_74476.html",
+      "affected_claim_ids": [
+        "workers-comp-counts"
+      ],
+      "affected_study_ids": [
+        "mhlw-karoshi-rousai-2025"
+      ]
+    },
+    {
+      "date": "2026-10-08",
+      "field": "第4分野 組織的公正",
+      "field_slug": "organizational-justice",
+      "change_type": "add_official_source",
+      "before": null,
+      "after": "短時間・有期雇用労働者及び派遣労働者に対する不合理な待遇の禁止等に関する指針の一部を改正する件（令和8年厚生労働省告示第203号）（mhlw-equal-pay-guideline-2026）を追加",
+      "reason": "2026年に公表・適用された日本の公式資料の追加",
+      "source": "https://www.mhlw.go.jp/content/001695910.pdf",
+      "affected_claim_ids": [
+        "OJ-C21"
+      ],
+      "affected_study_ids": [
+        "mhlw-equal-pay-guideline-2026"
+      ]
+    },
+    {
+      "date": "2026-10-08",
+      "field": "第4分野 組織的公正",
+      "field_slug": "organizational-justice",
+      "change_type": "add_claim",
+      "before": null,
+      "after": "改正された同一労働同一賃金ガイドライン（2026-10-01適用）は、待遇差の内容・理由の説明が十分でなかった事実や、労働者の意向を十分に考慮せず一方的に待遇を決めた事実を、待遇差の不合理性を基礎付ける事情として考慮されうるとした。公正感の研究とは別に、権利・制度として確認する。",
+      "reason": "追加した公式資料にもとづく主張",
+      "source": "https://www.mhlw.go.jp/content/001695910.pdf",
+      "affected_claim_ids": [
+        "OJ-C21"
+      ],
+      "affected_study_ids": [
+        "mhlw-equal-pay-guideline-2026"
+      ]
+    },
+    {
+      "date": "2026-10-08",
+      "field": "第5分野 離職・定着",
+      "field_slug": "turnover-retention",
+      "change_type": "add_official_source",
+      "before": null,
+      "after": "令和7年 雇用動向調査結果の概要（mhlw-2025）を追加",
+      "reason": "2026年に公表・適用された日本の公式資料の追加",
+      "source": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-2/index.html",
+      "affected_claim_ids": [
+        "TR-C12"
+      ],
+      "affected_study_ids": [
+        "mhlw-2025"
+      ]
+    },
+    {
+      "date": "2026-10-08",
+      "field": "第5分野 離職・定着",
+      "field_slug": "turnover-retention",
+      "change_type": "add_official_source",
+      "before": null,
+      "after": "令和7年転職者実態調査の概況（mhlw-tenshoku-2025）を追加",
+      "reason": "2026年に公表・適用された日本の公式資料の追加",
+      "source": "https://www.mhlw.go.jp/toukei/list/6-18c-r07.html",
+      "affected_claim_ids": [
+        "TR-C22"
+      ],
+      "affected_study_ids": [
+        "mhlw-tenshoku-2025"
+      ]
+    },
+    {
+      "date": "2026-10-08",
+      "field": "第5分野 離職・定着",
+      "field_slug": "turnover-retention",
+      "change_type": "add_claim",
+      "before": null,
+      "after": "転職者実態調査（2025年）では、転職者が直前の勤め先を離職した主な理由は「自己都合」が81.3%で、自己都合の理由（3つまでの複数回答）は「賃金が低かったから」25.5%、「会社の将来に不安を感じたから」25.2%、「満足のいく仕事内容でなかったから」24.7%が上位である。",
+      "reason": "追加した公式資料にもとづく主張",
+      "source": "https://www.mhlw.go.jp/toukei/list/6-18c-r07.html",
+      "affected_claim_ids": [
+        "TR-C22"
+      ],
+      "affected_study_ids": [
+        "mhlw-tenshoku-2025"
+      ]
+    },
+    {
+      "date": "2026-10-08",
+      "field": "第5分野 離職・定着",
+      "field_slug": "turnover-retention",
+      "change_type": "update_claim",
+      "before": "日本の2024年離職率14.2%は常用労働者全体の公的推計（一般11.5%、パート21.4%）。出典 mhlw-2024",
+      "after": "日本の2025年離職率13.7%は、主要産業の5人以上の事業所に雇用される常用労働者についての公的推計（一般11.4%、パート19.9%）。出典 mhlw-2025（前年版 mhlw-2024 も併記）",
+      "reason": "公的統計の年次更新（令和7年雇用動向調査の公表）。あわせて対象範囲の表記を調査の定義に合わせて限定",
+      "source": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-2/index.html",
+      "affected_claim_ids": [
+        "TR-C12"
+      ],
+      "affected_study_ids": [
+        "mhlw-2025",
+        "mhlw-2024"
+      ]
+    },
+    {
+      "date": "2026-10-08",
+      "field": "第13分野 キャリア形成・能力開発・職場学習・リスキリング",
+      "field_slug": "career-learning-reskilling",
+      "change_type": "add_official_source",
+      "before": null,
+      "after": "令和8年版 労働経済の分析（mhlw-hakusho-2026）を追加",
+      "reason": "2026年に公表・適用された日本の公式資料の追加",
+      "source": "https://www.mhlw.go.jp/stf/newpage_75700.html",
+      "affected_claim_ids": [],
+      "affected_study_ids": [
+        "mhlw-hakusho-2026"
+      ]
+    },
+    {
+      "date": "2026-10-08",
+      "field": "第13分野 キャリア形成・能力開発・職場学習・リスキリング",
+      "field_slug": "career-learning-reskilling",
+      "change_type": "add_official_source",
+      "before": null,
+      "after": "令和7年度「能力開発基本調査」の結果（mhlw-nouryoku-2025）を追加",
+      "reason": "2026年に公表・適用された日本の公式資料の追加",
+      "source": "https://www.mhlw.go.jp/stf/houdou/newpage_00233.html",
+      "affected_claim_ids": [
+        "CD-C66"
+      ],
+      "affected_study_ids": [
+        "mhlw-nouryoku-2025"
+      ]
+    },
+    {
+      "date": "2026-10-08",
+      "field": "第13分野 キャリア形成・能力開発・職場学習・リスキリング",
+      "field_slug": "career-learning-reskilling",
+      "change_type": "add_official_source",
+      "before": null,
+      "after": "労働者の働き方の現状と意識の変化に関する調査（企業調査・労働者調査）（jilpt-reskilling-2026）を追加",
+      "reason": "2026年に公表・適用された日本の公式資料の追加",
+      "source": "https://www.jil.go.jp/press/documents/20260918.pdf",
+      "affected_claim_ids": [
+        "CD-C67"
+      ],
+      "affected_study_ids": [
+        "jilpt-reskilling-2026"
+      ]
+    },
+    {
+      "date": "2026-10-08",
+      "field": "第13分野 キャリア形成・能力開発・職場学習・リスキリング",
+      "field_slug": "career-learning-reskilling",
+      "change_type": "add_claim",
+      "before": null,
+      "after": "能力開発基本調査（令和7年度）では、OFF-JTを受講した労働者は37.3%で、正社員44.5%・正社員以外19.4%、男性43.5%・女性29.8%と、雇用形態と性別で受講に差がある。",
+      "reason": "追加した公式資料にもとづく主張",
+      "source": "https://www.mhlw.go.jp/stf/houdou/newpage_00233.html",
+      "affected_claim_ids": [
+        "CD-C66"
+      ],
+      "affected_study_ids": [
+        "mhlw-nouryoku-2025"
+      ]
+    },
+    {
+      "date": "2026-10-08",
+      "field": "第13分野 キャリア形成・能力開発・職場学習・リスキリング",
+      "field_slug": "career-learning-reskilling",
+      "change_type": "add_claim",
+      "before": null,
+      "after": "リスキリングをした・したいと思った正社員のうち、会社から必要なスキルの明示があった者の方が、明示がなかった者より「スキルを得ることができた」と答える割合が高い（88.2%、明示なし70.8%）。ただし横断の自己報告で、スキルの明示がスキル獲得を高めるという因果は示さない。",
+      "reason": "追加した公式資料にもとづく主張",
+      "source": "https://www.jil.go.jp/press/documents/20260918.pdf",
+      "affected_claim_ids": [
+        "CD-C67"
+      ],
+      "affected_study_ids": [
+        "jilpt-reskilling-2026"
+      ]
+    },
+    {
+      "date": "2026-10-08",
+      "field": "第15分野 柔軟勤務・リモートワーク・働く時間と境界管理",
+      "field_slug": "flexible-remote-working-time",
+      "change_type": "add_official_source",
+      "before": null,
+      "after": "長時間労働が疑われる事業場に対する令和7年度の監督指導結果（mhlw-kantoku-2025）を追加",
+      "reason": "2026年に公表・適用された日本の公式資料の追加",
+      "source": "https://www.mhlw.go.jp/stf/newpage_76158.html",
+      "affected_claim_ids": [
+        "FW-C76"
+      ],
+      "affected_study_ids": [
+        "mhlw-kantoku-2025"
+      ]
+    },
+    {
+      "date": "2026-10-08",
+      "field": "第15分野 柔軟勤務・リモートワーク・働く時間と境界管理",
+      "field_slug": "flexible-remote-working-time",
+      "change_type": "add_official_source",
+      "before": null,
+      "after": "時間外労働等に係る相談・支援及び監督指導を見直します（mhlw-overtime-review-2026）を追加",
+      "reason": "2026年に公表・適用された日本の公式資料の追加",
+      "source": "https://www.mhlw.go.jp/stf/newpage_75454.html",
+      "affected_claim_ids": [
+        "FW-C76"
+      ],
+      "affected_study_ids": [
+        "mhlw-overtime-review-2026"
+      ]
+    },
+    {
+      "date": "2026-10-08",
+      "field": "第15分野 柔軟勤務・リモートワーク・働く時間と境界管理",
+      "field_slug": "flexible-remote-working-time",
+      "change_type": "add_claim",
+      "before": null,
+      "after": "長時間労働が疑われる事業場への監督指導（2025年度）で違法な時間外労働を確認した割合38.5%（29,150事業場中11,228）は、疑いのある事業場を対象とした結果で、全国の事業場の違反率ではない。",
+      "reason": "追加した公式資料にもとづく主張",
+      "source": "https://www.mhlw.go.jp/stf/newpage_76158.html",
+      "affected_claim_ids": [
+        "FW-C76"
+      ],
+      "affected_study_ids": [
+        "mhlw-kantoku-2025",
+        "mhlw-overtime-review-2026"
+      ]
+    },
+    {
+      "date": "2026-10-08",
+      "field": "第17分野 職場の対立・交渉・調停・関係修復",
+      "field_slug": "workplace-conflict-negotiation-repair",
+      "change_type": "add_official_source",
+      "before": null,
+      "after": "令和7年度個別労働紛争解決制度の施行状況（mhlw-funsou-2025）を追加",
+      "reason": "2026年に公表・適用された日本の公式資料の追加",
+      "source": "https://www.mhlw.go.jp/stf/houdou/newpage_00235.html",
+      "affected_claim_ids": [
+        "CF-C83"
+      ],
+      "affected_study_ids": [
+        "mhlw-funsou-2025"
+      ]
+    },
+    {
+      "date": "2026-10-08",
+      "field": "第17分野 職場の対立・交渉・調停・関係修復",
+      "field_slug": "workplace-conflict-negotiation-repair",
+      "change_type": "add_claim",
+      "before": null,
+      "after": "民事上の個別労働紛争の相談で「いじめ・嫌がらせ」が最多（2025年度55,614件）でも、2022年4月以降は職場のパワーハラスメントの相談がこの件数に計上されないため、2022年度をまたぐ年次比較やハラスメントの規模の推計に単独で使わない。",
+      "reason": "追加した公式資料にもとづく主張",
+      "source": "https://www.mhlw.go.jp/stf/houdou/newpage_00235.html",
+      "affected_claim_ids": [
+        "CF-C83"
+      ],
+      "affected_study_ids": [
+        "mhlw-funsou-2025"
+      ]
+    },
+    {
+      "date": "2026-10-08",
+      "field": "第24分野 仕事と家庭・ケア・ワークライフ境界",
+      "field_slug": "work-family-care-work-life-boundary",
+      "change_type": "add_official_source",
+      "before": null,
+      "after": "令和7年度雇用均等基本調査（mhlw-kintou-2025）を追加",
+      "reason": "2026年に公表・適用された日本の公式資料の追加",
+      "source": "https://www.mhlw.go.jp/toukei/list/71-r07.html",
+      "affected_claim_ids": [
+        "C071"
+      ],
+      "affected_study_ids": [
+        "mhlw-kintou-2025"
+      ]
+    },
+    {
+      "date": "2026-10-08",
+      "field": "第24分野 仕事と家庭・ケア・ワークライフ境界",
+      "field_slug": "work-family-care-work-life-boundary",
+      "change_type": "add_claim",
+      "before": null,
+      "after": "雇用均等基本調査（令和7年度）の男性の育児休業取得者割合50.9%は、育児休業を開始した者（申出を含む）の割合で、取得日数や家事・育児の分担の変化を示さない。",
+      "reason": "追加した公式資料にもとづく主張",
+      "source": "https://www.mhlw.go.jp/toukei/list/71-r07.html",
+      "affected_claim_ids": [
+        "C071"
+      ],
+      "affected_study_ids": [
+        "mhlw-kintou-2025"
+      ]
+    },
+    {
+      "date": "2026-10-08",
+      "field": "サイト全体",
+      "field_slug": null,
+      "change_type": "site",
+      "before": null,
+      "after": "サイト全体の更新履歴（/changes と changes.json）を新設。変更した分野に「最終更新日」を表示。公開検査コード validate-public-data.mjs を現在のフォルダ構成で動くよう修正",
+      "reason": "更新の追跡可能性と第三者による再検査のため",
+      "source": "https://research.dror.co.jp/changes",
+      "affected_claim_ids": [],
+      "affected_study_ids": []
+    }
+  ]
+}

@@ -647,6 +647,27 @@
       ],
       "source_url": "https://www.who.int/publications/i/item/9789240053052",
       "last_human_verified": "2026-07-12"
+    },
+    {
+      "id": "mhlw-equal-pay-guideline-2026",
+      "authors": "厚生労働省",
+      "year": 2026,
+      "title": "短時間・有期雇用労働者及び派遣労働者に対する不合理な待遇の禁止等に関する指針の一部を改正する件（令和8年厚生労働省告示第203号）",
+      "journal": "厚生労働省告示",
+      "url": "https://www.mhlw.go.jp/content/001695910.pdf",
+      "type": "binding ministerial guideline",
+      "status": "official",
+      "population": "日本の短時間・有期雇用労働者、派遣労働者と事業主",
+      "sample": "公式原典",
+      "method": "改正告示と新旧対照表（解説付き）の原文確認",
+      "finding": "待遇の相違の内容・理由について十分な説明を行わなかったと認められる場合や、待遇の体系の議論で労働者の意向を十分に考慮せず一方的に待遇を決定した場合、その事実は「その他の事情」に含まれ、待遇の相違が不合理と認められることを基礎付ける事情として考慮されうると追記",
+      "limitations": [
+        "2026-04-28公布／2026-10-01適用",
+        "個別事案の法的判断ではない",
+        "パートタイム・有期雇用労働法、労働者派遣法の条文と施行通達をあわせて確認"
+      ],
+      "source_url": "https://www.mhlw.go.jp/content/001695910.pdf",
+      "last_human_verified": "2026-10-08"
     }
   ]
 }

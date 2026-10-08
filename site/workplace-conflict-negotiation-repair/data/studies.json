@@ -1344,6 +1344,28 @@
       ],
       "source_url": "https://www.acas.org.uk/acas-code-of-practice-on-disciplinary-and-grievance-procedures",
       "last_human_verified": "2026-07-12"
+    },
+    {
+      "id": "mhlw-funsou-2025",
+      "authors": "厚生労働省",
+      "year": 2026,
+      "title": "令和7年度個別労働紛争解決制度の施行状況",
+      "journal": "厚生労働省 報道発表",
+      "url": "https://www.mhlw.go.jp/stf/houdou/newpage_00235.html",
+      "type": "official administrative statistics",
+      "evidence_role": "公式指針・制度",
+      "status": "official statistics",
+      "population": "都道府県労働局等の総合労働相談コーナー（378か所）への相談と、助言・指導、あっせんの利用",
+      "sample": "2025年度の総合労働相談119万8,010件ほか（行政記録）",
+      "method": "個別労働紛争解決制度の利用件数の年次集計",
+      "finding": "総合労働相談は119万8,010件で18年連続100万件超。民事上の個別労働紛争の相談では「いじめ・嫌がらせ」55,614件が14年連続最多。助言・指導の申出は「労働条件の引き下げ」1,220件、あっせんの申請は「解雇」892件が最多",
+      "limitations": [
+        "2022年4月以降、職場のパワーハラスメントの相談は労働施策総合推進法に基づき対応され、「いじめ・嫌がらせ」の件数に計上されない",
+        "相談件数は紛争の発生件数ではない",
+        "制度を利用しなかった紛争は含まれない"
+      ],
+      "source_url": "https://www.mhlw.go.jp/stf/houdou/newpage_00235.html",
+      "last_human_verified": "2026-10-08"
     }
   ]
 }

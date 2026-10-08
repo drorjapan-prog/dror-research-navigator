@@ -609,3 +609,30 @@ JO  - NIST AI 100-1
 DO  - 10.6028/NIST.AI.100-1
 N1  - Study type: official risk management framework; status: official technical report
 ER  - 
+
+TY  - RPRT
+AU  - 厚生労働省
+PY  - 2026
+TI  - 令和8年版 労働経済の分析
+JO  - 厚生労働省（労働経済白書）
+UR  - https://www.mhlw.go.jp/stf/newpage_75700.html
+N1  - Study type: official policy report; status: official
+ER  - 
+
+TY  - RPRT
+AU  - 厚生労働省
+PY  - 2026
+TI  - 令和7年度「能力開発基本調査」の結果
+JO  - 厚生労働省 報道発表
+UR  - https://www.mhlw.go.jp/stf/houdou/newpage_00233.html
+N1  - Study type: official national statistics; status: official statistics
+ER  - 
+
+TY  - RPRT
+AU  - 労働政策研究・研修機構
+PY  - 2026
+TI  - 労働者の働き方の現状と意識の変化に関する調査（企業調査・労働者調査）
+JO  - 労働政策研究・研修機構 記者発表
+UR  - https://www.jil.go.jp/press/documents/20260918.pdf
+N1  - Study type: public research institute survey; status: official
+ER  - 

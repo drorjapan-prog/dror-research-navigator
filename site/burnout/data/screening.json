@@ -133,6 +133,16 @@
       "reason": "BATの公式研究プログラム。"
     },
     {
+      "id": "mhlw-karoshi-rousai-2025",
+      "decision": "include-context",
+      "reason": "日本の公的統計（過労死等の労災補償）。RQ5。"
+    },
+    {
+      "id": "mhlw-anei-2025",
+      "decision": "include-context",
+      "reason": "日本の公的統計（メンタルヘルス対策と長時間労働）。RQ4・RQ5。"
+    },
+    {
       "id": "Commercial prevalence rankings",
       "decision": "exclude",
       "reason": "尺度・次元・カットオフが不明な単一順位は比較不能。"

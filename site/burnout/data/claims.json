@@ -377,6 +377,27 @@
       "last_searched": "2026-07-11",
       "last_human_verified": "2026-07-11",
       "license": "CC BY 4.0"
+    },
+    {
+      "id": "workers-comp-counts",
+      "claim": "過労死等の労災請求・支給決定件数（2025年度は請求6,212件、支給決定1,310件）は、労災保険の請求・認定を集計した行政記録で、バーンアウトや精神障害の発生率そのものではない",
+      "label": "A",
+      "relationship": "statistical-definition",
+      "scope": [
+        "population",
+        "organization"
+      ],
+      "sources": [
+        "mhlw-karoshi-rousai-2025"
+      ],
+      "limits": [
+        "請求行動や認定基準の影響を受けうる",
+        "支給決定には前年度以前の請求を含む",
+        "職場の状態は、自組織の調査・記録で、プライバシーに配慮して確認する"
+      ],
+      "last_searched": "2026-10-08",
+      "last_human_verified": "2026-10-08",
+      "license": "CC BY 4.0"
     }
   ]
 }

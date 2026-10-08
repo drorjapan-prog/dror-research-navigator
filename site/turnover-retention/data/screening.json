@@ -73,6 +73,18 @@
       "decision": "exclude",
       "reason": "検証不能な退職コスト倍率",
       "source": "cost-multiplier"
+    },
+    {
+      "id": "S13",
+      "decision": "include",
+      "reason": "日本の公的統計（年次更新）",
+      "source": "mhlw-2025"
+    },
+    {
+      "id": "S14",
+      "decision": "include",
+      "reason": "日本の公的統計（転職者の離職理由）",
+      "source": "mhlw-tenshoku-2025"
     }
   ]
 }

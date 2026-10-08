@@ -429,6 +429,20 @@
       "decision": "exclude",
       "source": "rights-only-if-productive",
       "reason": "休息権を生産性効果に条件づけ"
+    },
+    {
+      "id": "S63",
+      "decision": "include",
+      "reason": "日本の公式資料（長時間労働の監督指導結果）",
+      "source": "mhlw-kantoku-2025",
+      "evidence_role": "公式指針・制度"
+    },
+    {
+      "id": "S64",
+      "decision": "include",
+      "reason": "日本の公式資料（監督指導の運用の見直し）",
+      "source": "mhlw-overtime-review-2026",
+      "evidence_role": "公式指針・制度"
     }
   ]
 }

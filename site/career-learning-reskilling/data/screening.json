@@ -436,6 +436,27 @@
       "decision": "exclude",
       "source": "unprotected-trainee-work",
       "reason": "権利・報酬・指導のない通常労働の学習名目化"
+    },
+    {
+      "id": "S64",
+      "decision": "include",
+      "reason": "日本の公式資料（政府の年次分析報告）",
+      "source": "mhlw-hakusho-2026",
+      "evidence_role": "公式指針・制度"
+    },
+    {
+      "id": "S65",
+      "decision": "include",
+      "reason": "日本の公的統計（能力開発の機会）",
+      "source": "mhlw-nouryoku-2025",
+      "evidence_role": "公式指針・制度"
+    },
+    {
+      "id": "S66",
+      "decision": "include",
+      "reason": "日本の公的研究機関の調査（スキルの明示とリスキリング）",
+      "source": "jilpt-reskilling-2026",
+      "evidence_role": "公式指針・制度"
     }
   ]
 }

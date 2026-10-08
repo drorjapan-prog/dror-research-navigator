@@ -538,6 +538,50 @@
       ],
       "source_url": "https://doi.org/10.1016/j.amjmed.2023.10.003",
       "last_human_verified": "2026-07-11"
+    },
+    {
+      "id": "mhlw-karoshi-rousai-2025",
+      "authors": "厚生労働省",
+      "year": 2026,
+      "title": "令和7年度「過労死等の労災補償状況」",
+      "journal": "厚生労働省 報道発表",
+      "url": "https://www.mhlw.go.jp/stf/newpage_74476.html",
+      "type": "official administrative statistics",
+      "status": "official statistics",
+      "population": "日本の労災保険における過労死等（脳・心臓疾患、精神障害）の請求・決定事案",
+      "sample": "2025年度の請求・決定件数（行政記録）",
+      "method": "労災請求件数・支給決定件数の年次集計",
+      "finding": "過労死等の請求6,212件、決定4,692件、支給決定1,310件（うち死亡・自殺〔未遂を含む〕145件）。精神障害は請求4,958件、支給決定1,082件で、支給決定の出来事別では「上司等から、身体的攻撃、精神的攻撃等のパワーハラスメントを受けた」222件が最多",
+      "limitations": [
+        "発生率ではなく請求・認定の件数",
+        "請求行動・認定基準の影響を受ける",
+        "支給決定には前年度以前の請求を含み、請求件数と年度が一致しない",
+        "バーンアウトを測定した資料ではない"
+      ],
+      "source_url": "https://www.mhlw.go.jp/stf/newpage_74476.html",
+      "last_human_verified": "2026-10-08"
+    },
+    {
+      "id": "mhlw-anei-2025",
+      "authors": "厚生労働省",
+      "year": 2026,
+      "title": "令和7年 労働安全衛生調査（実態調査）結果の概況",
+      "journal": "厚生労働統計",
+      "url": "https://www.mhlw.go.jp/toukei/list/r07-46-50b.html",
+      "type": "official national statistics",
+      "status": "official statistics",
+      "population": "常用労働者10人以上の民営事業所と、その労働者",
+      "sample": "約14,000事業所・約18,000人を無作為抽出し、有効回答8,054事業所・8,393人",
+      "method": "事業所調査・個人調査の横断調査",
+      "finding": "メンタルヘルス対策に取り組む事業所は63.0%（50人以上93.7%、10〜29人54.6%）で、そのうちストレスチェックを実施した事業所は64.0%。1か月の時間外・休日労働が80時間を超えた月があった労働者は1.4%で、そのうち該当する全ての月で医師の面接指導を受けた者は16.2%",
+      "limitations": [
+        "取組の有無で、内容・質・効果を示さない",
+        "横断調査・自己報告",
+        "事業所規模で取組率が大きく異なる",
+        "バーンアウトを測定した資料ではない"
+      ],
+      "source_url": "https://www.mhlw.go.jp/toukei/list/r07-46-50b.html",
+      "last_human_verified": "2026-10-08"
     }
   ]
 }

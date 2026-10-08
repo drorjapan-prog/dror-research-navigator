@@ -605,6 +605,28 @@
         "法的義務そのものではない",
         "用途固有評価が必要"
       ]
+    },
+    {
+      "study_id": "mhlw-kantoku-2025",
+      "design": "official administrative statistics",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "対象は長時間労働が疑われる事業場で、全国の事業場の違反率ではない",
+        "監督指導の対象選定と方針の影響を受ける",
+        "2026-09-01から監督指導の運用が見直された"
+      ]
+    },
+    {
+      "study_id": "mhlw-overtime-review-2026",
+      "design": "official policy announcement",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "2026-08-19公表／2026-09-01実施",
+        "行政の指導運用の見直しで、運用の実際は今後の公表で確認する",
+        "個別事案の法的判断ではない"
+      ]
     }
   ]
 }

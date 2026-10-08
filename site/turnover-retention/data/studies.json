@@ -539,6 +539,49 @@
       ],
       "source_url": "https://eur-lex.europa.eu/eli/reg/2024/1689/oj/eng",
       "last_human_verified": "2026-07-12"
+    },
+    {
+      "id": "mhlw-2025",
+      "authors": "厚生労働省",
+      "year": 2026,
+      "title": "令和7年 雇用動向調査結果の概要",
+      "journal": "厚生労働統計",
+      "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-2/index.html",
+      "type": "official national statistics",
+      "status": "official statistics",
+      "population": "日本の主要産業の常用労働者（5人以上の常用労働者を雇用する事業所）",
+      "sample": "14,840事業所を抽出し、有効回答は上半期9,277・下半期8,807事業所。入職者57,896人・離職者73,332人も集計",
+      "method": "年初常用労働者数に対する入職・離職者数等を推計（上半期・下半期の合算）",
+      "finding": "2025年の離職率は全体13.7%（前年比0.5ポイント低下）、一般11.4%、パート19.9%。入職率は14.7%",
+      "limitations": [
+        "個社の自発離職率と同義でない",
+        "就業形態・産業構成が異なる",
+        "前年版（令和6年）と同じ定義どうしで比較する",
+        "公表訂正を確認"
+      ],
+      "source_url": "https://www.mhlw.go.jp/toukei/itiran/roudou/koyou/doukou/26-2/index.html",
+      "last_human_verified": "2026-10-08"
+    },
+    {
+      "id": "mhlw-tenshoku-2025",
+      "authors": "厚生労働省",
+      "year": 2026,
+      "title": "令和7年転職者実態調査の概況",
+      "journal": "厚生労働統計",
+      "url": "https://www.mhlw.go.jp/toukei/list/6-18c-r07.html",
+      "type": "official national statistics",
+      "status": "official statistics",
+      "population": "5人以上の常用労働者を雇用する事業所と、そこで働く転職者（雇用前1年間に他企業で雇用された経験のある一般労働者）",
+      "sample": "約17,000事業所・転職者約13,000人、2025年10月1日現在。有効回答率は事業所52.7%、個人52.3%（前回は2020年実施）",
+      "method": "事業所調査と個人調査による横断調査",
+      "finding": "直前の勤め先を離職した主な理由は「自己都合」81.3%。自己都合の理由（3つまでの複数回答）は「賃金が低かったから」25.5%、「会社の将来に不安を感じたから」25.2%、「満足のいく仕事内容でなかったから」24.7%",
+      "limitations": [
+        "転職して現在就業している人に限られ、離職者全体ではない",
+        "回顧的な自己報告で、3つまでの複数回答",
+        "前回は2020年実施で、年次の推移は追えない"
+      ],
+      "source_url": "https://www.mhlw.go.jp/toukei/list/6-18c-r07.html",
+      "last_human_verified": "2026-10-08"
     }
   ]
 }

@@ -484,6 +484,13 @@
       "decision": "exclude",
       "source": "silence-equals-harmony",
       "reason": "相談ゼロを調和の証拠とする資料"
+    },
+    {
+      "id": "S71",
+      "decision": "include",
+      "reason": "日本の公式資料（個別労働紛争解決制度の施行状況）",
+      "source": "mhlw-funsou-2025",
+      "evidence_role": "公式指針・制度"
     }
   ]
 }

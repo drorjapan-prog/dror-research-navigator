@@ -609,6 +609,41 @@
         "法的義務そのものではない",
         "用途固有評価が必要"
       ]
+    },
+    {
+      "study_id": "mhlw-hakusho-2026",
+      "design": "official policy report",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "政府の分析報告で査読研究ではない",
+        "図表ごとに元の統計・調査を確認する",
+        "「可能性」と書かれた記述を因果や効果の証明として扱わない"
+      ]
+    },
+    {
+      "study_id": "mhlw-nouryoku-2025",
+      "design": "official national statistics",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "横断調査・自己報告",
+        "30人以上の企業・事業所に限られる",
+        "個人調査の有効回答率は43.9%",
+        "受講の有無は訓練の質や効果を示さない"
+      ]
+    },
+    {
+      "study_id": "jilpt-reskilling-2026",
+      "design": "public research institute survey",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "有効回収率が低い（企業23.5%、正社員14.5%）",
+        "正社員票は企業経由の配付で、回答者の偏りがありうる",
+        "横断・自己報告で、スキル明示の効果を因果的に示さない",
+        "調査結果の概要（29頁、記者発表資料）で確認し、報告書本体は未確認"
+      ]
     }
   ]
 }

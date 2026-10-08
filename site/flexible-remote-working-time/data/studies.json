@@ -1221,6 +1221,50 @@
       ],
       "source_url": "https://doi.org/10.6028/NIST.AI.100-1",
       "last_human_verified": "2026-07-12"
+    },
+    {
+      "id": "mhlw-kantoku-2025",
+      "authors": "厚生労働省",
+      "year": 2026,
+      "title": "長時間労働が疑われる事業場に対する令和7年度の監督指導結果",
+      "journal": "厚生労働省 報道発表",
+      "url": "https://www.mhlw.go.jp/stf/newpage_76158.html",
+      "type": "official administrative statistics",
+      "status": "official statistics",
+      "evidence_role": "公式指針・制度",
+      "population": "長時間労働が疑われる日本の事業場（月80時間超が疑われる事業場、過労死等の労災請求があった事業場等）",
+      "sample": "2025年4月〜2026年3月に監督指導を実施した29,150事業場",
+      "method": "労働基準監督署による監督指導結果の集計",
+      "finding": "違法な時間外労働を確認した事業場は11,228（38.5%）で、うち月80時間超の時間外・休日労働が認められたのは4,991事業場。賃金不払残業1,901事業場、過重労働による健康障害防止措置の未実施5,919事業場、労働時間の把握が不適正で指導4,045事業場",
+      "limitations": [
+        "対象は長時間労働が疑われる事業場で、全国の事業場の違反率ではない",
+        "監督指導の対象選定と方針の影響を受ける",
+        "2026-09-01から監督指導の運用が見直された"
+      ],
+      "source_url": "https://www.mhlw.go.jp/stf/newpage_76158.html",
+      "last_human_verified": "2026-10-08"
+    },
+    {
+      "id": "mhlw-overtime-review-2026",
+      "authors": "厚生労働省",
+      "year": 2026,
+      "title": "時間外労働等に係る相談・支援及び監督指導を見直します",
+      "journal": "厚生労働省 報道発表",
+      "url": "https://www.mhlw.go.jp/stf/newpage_75454.html",
+      "type": "official policy announcement",
+      "status": "official",
+      "evidence_role": "公式指針・制度",
+      "population": "日本の事業場、労働基準監督署、働き方改革推進支援センター",
+      "sample": "公式原典",
+      "method": "報道発表の原文確認",
+      "finding": "2026-09-01から、労働基準監督署は時間外・休日労働時間数のみに着目して1か月45時間以内への削減を求める一律の指導を見直し、36協定で定める健康・福祉確保措置の実施状況を重点的に確認する。過重労働による健康障害が生じるおそれが高い場合は引き続き指導する",
+      "limitations": [
+        "2026-08-19公表／2026-09-01実施",
+        "行政の指導運用の見直しで、運用の実際は今後の公表で確認する",
+        "個別事案の法的判断ではない"
+      ],
+      "source_url": "https://www.mhlw.go.jp/stf/newpage_75454.html",
+      "last_human_verified": "2026-10-08"
     }
   ]
 }
