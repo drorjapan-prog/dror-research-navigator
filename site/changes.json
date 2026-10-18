@@ -17,6 +17,70 @@
   "entries": [
     {
       "date": "2026-10-18",
+      "field": "第25分野 職場の信頼・心理的契約・組織コミットメント",
+      "field_slug": "workplace-trust-psychological-contract-commitment",
+      "change_type": "add_official_source",
+      "before": null,
+      "after": "公益通報者保護法第11条第1項及び第2項の規定に基づき事業者がとるべき措置に関して、その適切かつ有効な実施を図るために必要な指針（令和3年8月20日内閣府告示第118号、令和8年3月31日一部改正内閣府告示第15号）（caa-guideline-2026）を追加",
+      "reason": "2026年に公表された日本の公式資料の追加（改正法と改正指針の施行は2026年12月1日で、公開時点では適用前）",
+      "source": "https://www.caa.go.jp/policies/policy/consumer_partnerships/whisleblower_protection_system/overview/assets/consumer_partnerships_cms205_260331_01.pdf",
+      "affected_claim_ids": [
+        "C067"
+      ],
+      "affected_study_ids": [
+        "caa-guideline-2026"
+      ]
+    },
+    {
+      "date": "2026-10-18",
+      "field": "第25分野 職場の信頼・心理的契約・組織コミットメント",
+      "field_slug": "workplace-trust-psychological-contract-commitment",
+      "change_type": "add_official_source",
+      "before": null,
+      "after": "内部通報制度を活用して信頼度UP!（改正法（令和8年12月施行）準拠版）（caa-pamphlet-2026）を追加",
+      "reason": "2026年に公表された日本の公式資料の追加（改正法と改正指針の施行は2026年12月1日で、公開時点では適用前）",
+      "source": "https://www.caa.go.jp/policies/policy/consumer_partnerships/whisleblower_protection_system/hajimete/assets/consumer_partnerships_cms205_260630_02.pdf",
+      "affected_claim_ids": [
+        "C068"
+      ],
+      "affected_study_ids": [
+        "caa-pamphlet-2026"
+      ]
+    },
+    {
+      "date": "2026-10-18",
+      "field": "第25分野 職場の信頼・心理的契約・組織コミットメント",
+      "field_slug": "workplace-trust-psychological-contract-commitment",
+      "change_type": "add_claim",
+      "before": null,
+      "after": "2026年3月31日に改正された公益通報者保護法の指針（2026年12月1日施行）は、事業者がとる措置に、公益通報をしない旨の合意を求めることや不利益な取扱いを告げることなどによる「通報妨害」を、法の定める正当な理由がある場合を除いて防ぐ措置を新たに加えた。改正前からあった「通報者の探索」を防ぐ措置は、対象を「通報者探索」（公益通報者である旨を明らかにするよう求めることなど）とし、例外を「やむを得ない場合」から法の定める「正当な理由がある場合」に改めた。",
+      "reason": "追加した公式資料にもとづく主張",
+      "source": "https://www.caa.go.jp/policies/policy/consumer_partnerships/whisleblower_protection_system/overview/assets/consumer_partnerships_cms205_260331_01.pdf",
+      "affected_claim_ids": [
+        "C067"
+      ],
+      "affected_study_ids": [
+        "caa-guideline-2026"
+      ]
+    },
+    {
+      "date": "2026-10-18",
+      "field": "第25分野 職場の信頼・心理的契約・組織コミットメント",
+      "field_slug": "workplace-trust-psychological-contract-commitment",
+      "change_type": "add_claim",
+      "before": null,
+      "after": "消費者庁の事業者向けパンフレット（2026年6月、改正法準拠版）は、「通報が１件もないのはよいことですよね？」という問いに、その場合は多くの従業員等が通報に不安を感じている可能性があると答え、トップが通報者の秘密を守り不利益な取扱いをしないことを約束して呼びかけるよう勧め、窓口の存在を知らない可能性にも触れて定期的な周知を重要としている。",
+      "reason": "追加した公式資料にもとづく主張",
+      "source": "https://www.caa.go.jp/policies/policy/consumer_partnerships/whisleblower_protection_system/hajimete/assets/consumer_partnerships_cms205_260630_02.pdf",
+      "affected_claim_ids": [
+        "C068"
+      ],
+      "affected_study_ids": [
+        "caa-pamphlet-2026"
+      ]
+    },
+    {
+      "date": "2026-10-18",
       "field": "第6分野 1on1・上司部下面談",
       "field_slug": "one-on-one",
       "change_type": "add_official_source",

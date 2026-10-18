@@ -1,6 +1,6 @@
 {
   "name": "質と限界",
-  "version": "0.1",
+  "version": "0.1.1",
   "notice": "簡易評価であり正式なRoB評価ではない。",
   "assessments": [
     {
@@ -741,6 +741,27 @@
       "key_limits": [
         "法域・適用・効力・施行日を個別に確認",
         "研究上の信頼概念と法的義務を同一視しない"
+      ]
+    },
+    {
+      "study_id": "caa-guideline-2026",
+      "design": "official source",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "施行は2026年12月1日",
+        "個別の法的判断ではない",
+        "研究上の信頼概念と法的義務を同一視しない"
+      ]
+    },
+    {
+      "study_id": "caa-pamphlet-2026",
+      "design": "official source",
+      "strength": "公式指針・制度",
+      "directness": "公式指針・制度",
+      "key_limits": [
+        "啓発資料で、法令の解釈を示すものではない",
+        "可能性の記述で実証ではない"
       ]
     }
   ]
