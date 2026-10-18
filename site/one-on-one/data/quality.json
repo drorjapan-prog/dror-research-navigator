@@ -1,6 +1,6 @@
 {
   "name": "1on1・上司部下面談 研究の質と限界",
-  "version": "0.1",
+  "version": "0.1.1",
   "notice": "簡易評価であり正式なRoB評価ではない。",
   "assessments": [
     {
@@ -225,6 +225,28 @@
       "key_limits": [
         "1on1専用ではない",
         "管理職面談を治療の代替にしない"
+      ]
+    },
+    {
+      "study_id": "jilpt-careerdock-2026",
+      "design": "public research institute survey",
+      "strength": "公的研究機関の調査（記述）",
+      "directness": "公式指針・ガバナンス",
+      "key_limits": [
+        "回収率13.3%",
+        "企業の回答で、面談の頻度・内容・質や効果は測っていない",
+        "キャリア面談は1on1の実施率ではない"
+      ]
+    },
+    {
+      "study_id": "mhlw-anei-2025",
+      "design": "official national statistics",
+      "strength": "公的統計（記述）",
+      "directness": "公式指針・ガバナンス",
+      "key_limits": [
+        "1on1の有無・頻度は尋ねていない",
+        "横断・自己報告",
+        "個人調査の有効回答率45.2%"
       ]
     }
   ]

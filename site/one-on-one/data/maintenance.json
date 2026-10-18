@@ -1,5 +1,5 @@
 {
-  "version": "0.1",
+  "version": "0.1.1",
   "cadence": "少なくとも年1回、1on1直接実証研究・主要統合研究・制度変更時に臨時更新する。",
   "immediate_update_triggers": [
     "1on1を焦点とする比較・縦断研究",

@@ -1,6 +1,6 @@
 {
   "name": "1on1・上司部下面談 採用・除外記録",
-  "version": "0.1",
+  "version": "0.1.1",
   "screening": [
     {
       "id": "S01",
@@ -178,6 +178,20 @@
       "decision": "exclude",
       "reason": "教育分野の一対一コーチングで、管理職—直属部下の1on1研究ではない",
       "source": "10.3102/1892367"
+    },
+    {
+      "id": "S27",
+      "decision": "include",
+      "reason": "日本の公的研究機関の企業調査（1on1ミーティングの導入状況、上司によるキャリア面談）",
+      "source": "jilpt-careerdock-2026",
+      "evidence_role": "公式指針・ガバナンス"
+    },
+    {
+      "id": "S28",
+      "decision": "include",
+      "reason": "日本の公的統計（ストレスの相談相手としての上司）",
+      "source": "mhlw-anei-2025",
+      "evidence_role": "公式指針・ガバナンス"
     }
   ]
 }
