@@ -1,7 +1,7 @@
 {
   "name": "働く人の心理学・組織研究ナビ 更新履歴",
   "license": "CC BY 4.0",
-  "notice": "迅速エビデンスマップの更新記録であり、システマティックレビューではない。2026-10-09の更新（7分野を v0.1.1 に）は日本の公式資料の追加で、学術文献の再検索は行っていない。追加資料の原文確認は2026-10-08〜09。主張の last_searched は、その主張の出典を探索した日で、公式資料の追加で新設・更新した主張では分野の文献最終確認日（学術文献の検索日）と異なる。原文の確認日は last_human_verified に記録する。",
+  "notice": "迅速エビデンスマップの更新記録であり、システマティックレビューではない。2026年10月の各更新（対象分野を v0.1 から v0.1.1 に）は日本の公式資料の追加で、学術文献の再検索は行っていない。追加資料の原文確認日は、更新履歴ページ（/changes）の各項、分野の更新履歴、studies と claims の last_human_verified に記録する。主張の last_searched は、その主張の出典を探索した日で、公式資料の追加で新設・更新した主張では分野の文献最終確認日（学術文献の検索日）と異なる。",
   "fields": [
     "date",
     "field",
@@ -15,6 +15,151 @@
     "affected_study_ids"
   ],
   "entries": [
+    {
+      "date": "2026-10-18",
+      "field": "第25分野 職場の信頼・心理的契約・組織コミットメント",
+      "field_slug": "workplace-trust-psychological-contract-commitment",
+      "change_type": "add_official_source",
+      "before": null,
+      "after": "公益通報者保護法第11条第1項及び第2項の規定に基づき事業者がとるべき措置に関して、その適切かつ有効な実施を図るために必要な指針（令和3年8月20日内閣府告示第118号、令和8年3月31日一部改正内閣府告示第15号）（caa-guideline-2026）を追加",
+      "reason": "2026年に公表された日本の公式資料の追加（改正法と改正指針の施行は2026年12月1日で、公開時点では適用前）",
+      "source": "https://www.caa.go.jp/policies/policy/consumer_partnerships/whisleblower_protection_system/overview/assets/consumer_partnerships_cms205_260331_01.pdf",
+      "affected_claim_ids": [
+        "C067"
+      ],
+      "affected_study_ids": [
+        "caa-guideline-2026"
+      ]
+    },
+    {
+      "date": "2026-10-18",
+      "field": "第25分野 職場の信頼・心理的契約・組織コミットメント",
+      "field_slug": "workplace-trust-psychological-contract-commitment",
+      "change_type": "add_official_source",
+      "before": null,
+      "after": "内部通報制度を活用して信頼度UP!（改正法（令和8年12月施行）準拠版）（caa-pamphlet-2026）を追加",
+      "reason": "2026年に公表された日本の公式資料の追加（改正法と改正指針の施行は2026年12月1日で、公開時点では適用前）",
+      "source": "https://www.caa.go.jp/policies/policy/consumer_partnerships/whisleblower_protection_system/hajimete/assets/consumer_partnerships_cms205_260630_02.pdf",
+      "affected_claim_ids": [
+        "C068"
+      ],
+      "affected_study_ids": [
+        "caa-pamphlet-2026"
+      ]
+    },
+    {
+      "date": "2026-10-18",
+      "field": "第25分野 職場の信頼・心理的契約・組織コミットメント",
+      "field_slug": "workplace-trust-psychological-contract-commitment",
+      "change_type": "add_claim",
+      "before": null,
+      "after": "2026年3月31日に改正された公益通報者保護法の指針（2026年12月1日施行）は、事業者がとる措置に、公益通報をしない旨の合意を求めることや不利益な取扱いを告げることなどによる「通報妨害」を、法の定める正当な理由がある場合を除いて防ぐ措置を新たに加えた。改正前からあった「通報者の探索」を防ぐ措置は、対象を「通報者探索」（公益通報者である旨を明らかにするよう求めることなど）とし、例外を「やむを得ない場合」から法の定める「正当な理由がある場合」に改めた。",
+      "reason": "追加した公式資料にもとづく主張",
+      "source": "https://www.caa.go.jp/policies/policy/consumer_partnerships/whisleblower_protection_system/overview/assets/consumer_partnerships_cms205_260331_01.pdf",
+      "affected_claim_ids": [
+        "C067"
+      ],
+      "affected_study_ids": [
+        "caa-guideline-2026"
+      ]
+    },
+    {
+      "date": "2026-10-18",
+      "field": "第25分野 職場の信頼・心理的契約・組織コミットメント",
+      "field_slug": "workplace-trust-psychological-contract-commitment",
+      "change_type": "add_claim",
+      "before": null,
+      "after": "消費者庁の事業者向けパンフレット（2026年6月、改正法準拠版）は、「通報が１件もないのはよいことですよね？」という問いに、その場合は多くの従業員等が通報に不安を感じている可能性があると答え、トップが通報者の秘密を守り不利益な取扱いをしないことを約束して呼びかけるよう勧め、窓口の存在を知らない可能性にも触れて定期的な周知を重要としている。",
+      "reason": "追加した公式資料にもとづく主張",
+      "source": "https://www.caa.go.jp/policies/policy/consumer_partnerships/whisleblower_protection_system/hajimete/assets/consumer_partnerships_cms205_260630_02.pdf",
+      "affected_claim_ids": [
+        "C068"
+      ],
+      "affected_study_ids": [
+        "caa-pamphlet-2026"
+      ]
+    },
+    {
+      "date": "2026-10-18",
+      "field": "第6分野 1on1・上司部下面談",
+      "field_slug": "one-on-one",
+      "change_type": "add_official_source",
+      "before": null,
+      "after": "企業におけるキャリア支援の現状と課題―セルフ・キャリアドック導入を中心として―（調査シリーズNo.264）（jilpt-careerdock-2026）を追加",
+      "reason": "2026年に公表された日本の公式資料の追加（研究一覧の「公式指針・ガバナンス」には、公的研究機関の企業調査と公的統計も含む。どちらも1on1の効果を示す資料ではない）",
+      "source": "https://www.jil.go.jp/institute/research/2026/264.html",
+      "affected_claim_ids": [
+        "OO-C21",
+        "OO-C22"
+      ],
+      "affected_study_ids": [
+        "jilpt-careerdock-2026"
+      ]
+    },
+    {
+      "date": "2026-10-18",
+      "field": "第6分野 1on1・上司部下面談",
+      "field_slug": "one-on-one",
+      "change_type": "add_official_source",
+      "before": null,
+      "after": "令和7年 労働安全衛生調査（実態調査）結果の概況（mhlw-anei-2025）を追加",
+      "reason": "2026年に公表された日本の公式資料の追加（研究一覧の「公式指針・ガバナンス」には、公的研究機関の企業調査と公的統計も含む。どちらも1on1の効果を示す資料ではない）",
+      "source": "https://www.mhlw.go.jp/toukei/list/r07-46-50b.html",
+      "affected_claim_ids": [
+        "OO-C23"
+      ],
+      "affected_study_ids": [
+        "mhlw-anei-2025"
+      ]
+    },
+    {
+      "date": "2026-10-18",
+      "field": "第6分野 1on1・上司部下面談",
+      "field_slug": "one-on-one",
+      "change_type": "add_claim",
+      "before": null,
+      "after": "従業員300人以上の企業への調査（労働政策研究・研修機構、2025年8〜9月、1,936社が回答）では、1on1ミーティングの導入・実施状況は「導入済みで十分に実施・利用」16.0%、「導入済みでまあまあ実施・利用」33.8%、「導入済みだが不十分な実施・利用」27.4%、「未導入」22.8%だった。",
+      "reason": "追加した公式資料にもとづく主張",
+      "source": "https://www.jil.go.jp/institute/research/2026/264.html",
+      "affected_claim_ids": [
+        "OO-C21"
+      ],
+      "affected_study_ids": [
+        "jilpt-careerdock-2026"
+      ]
+    },
+    {
+      "date": "2026-10-18",
+      "field": "第6分野 1on1・上司部下面談",
+      "field_slug": "one-on-one",
+      "change_type": "add_claim",
+      "before": null,
+      "after": "同じ調査の別の設問で、上司によるキャリア面談を必須または任意で実施する企業は、若手層（35歳未満）・ミドル層（35〜55歳未満）・シニア層（55歳以上）のいずれでも6割以上で、未実施は34.2〜37.5%だった。",
+      "reason": "追加した公式資料にもとづく主張",
+      "source": "https://www.jil.go.jp/institute/research/2026/264.html",
+      "affected_claim_ids": [
+        "OO-C22"
+      ],
+      "affected_study_ids": [
+        "jilpt-careerdock-2026"
+      ]
+    },
+    {
+      "date": "2026-10-18",
+      "field": "第6分野 1on1・上司部下面談",
+      "field_slug": "one-on-one",
+      "change_type": "add_claim",
+      "before": null,
+      "after": "常用労働者10人以上の民営事業所で働く労働者への調査（厚生労働省、2025年）では、仕事や職業生活のストレスを相談できる人がいる労働者の相談相手（複数回答）は「家族・友人」74.8%が最も多く、次いで「上司」63.8%だった。実際に相談したことがある人の相談相手（複数回答）も「家族・友人」68.3%、「上司」56.6%の順だった。",
+      "reason": "追加した公式資料にもとづく主張",
+      "source": "https://www.mhlw.go.jp/toukei/list/r07-46-50b.html",
+      "affected_claim_ids": [
+        "OO-C23"
+      ],
+      "affected_study_ids": [
+        "mhlw-anei-2025"
+      ]
+    },
     {
       "date": "2026-10-09",
       "field": "第2分野 バーンアウト",

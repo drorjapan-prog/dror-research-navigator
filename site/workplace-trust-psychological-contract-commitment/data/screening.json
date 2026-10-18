@@ -1,6 +1,6 @@
 {
   "name": "採用・除外記録",
-  "version": "0.1",
+  "version": "0.1.1",
   "screening": [
     {
       "id": "S001",
@@ -555,6 +555,20 @@
       "decision": "exclude",
       "source": "covert-trust-inference",
       "reason": "通信・表情から信頼・忠誠を秘密推定"
+    },
+    {
+      "id": "S081",
+      "decision": "include",
+      "reason": "日本の公式指針（2026年3月の改正、2026年12月施行）",
+      "source": "caa-guideline-2026",
+      "evidence_role": "公式指針・制度"
+    },
+    {
+      "id": "S082",
+      "decision": "include",
+      "reason": "日本の行政の事業者向け資料（改正法準拠版、2026年6月）",
+      "source": "caa-pamphlet-2026",
+      "evidence_role": "公式指針・制度"
     }
   ]
 }
